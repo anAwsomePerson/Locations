@@ -54,7 +54,7 @@ public class LocationSet extends IntString{
     public void compareLists() {
     	ArrayList<ArrayList<String>> other = bulbaLocations;
     	
-    	if(Main.compareDb) {
+    	if(Main.mode == 3) {
     		other = dbList;
     	}
     	

@@ -10,7 +10,7 @@ import java.util.Scanner;
 public class Main {
 	public static int right = 0;
 	public static int wrong = 0;
-	public static final boolean compareDb = false;
+	public static final int mode = 2;
 	public static int[] gameErrors = new int[28];
 	public static final int[] entryusum = {1, 0};
 	public static final int[] entry7 = {3, 2};
@@ -29,6 +29,22 @@ public class Main {
 	public static ArrayList<IntString> locationErrors = new ArrayList<IntString>();
 	
 	public static void main(String[] args) throws Exception{
+		switch (mode){
+		case 0:
+			downloadBulba();
+			break;
+		case 1:
+			downloadDb();
+			break;
+		case 2:
+			downloadBulbaLocations();
+			break;
+		default:
+			System.out.println("mode's value is out of bounds!");
+		}
+	}
+	
+	public static void downloadBulba() throws Exception{
 		// TODO Auto-generated method stub
 		Scanner input = new Scanner(new File("pokemonList.txt"));
 		int number = 0;
@@ -44,87 +60,93 @@ public class Main {
             URLConnection bulbaConnection = bulbaUrl.openConnection();
             bulbaConnection.setRequestProperty( "User-Agent", "Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0; H010818)" );
 
-            while(true) {
-            	try {
-            		bulbaConnection.getContentLength();
-                    bulbaConnection.getContent();
-                    bulbaConnection.getContentType();
-                    InputStream bulbaStream = bulbaConnection.getInputStream();
-                    int bulbaInt;
-                
-                    while( (bulbaInt=bulbaStream.read()) != -1 ) {
-                	    //System.out.print((char)c);
-                        bulbaLocations = bulbaLocations + (char)bulbaInt;
-                        
-                        //if(bulbaLocations.length() > 63) {
-                        if((bulbaLocations.indexOf("G") < bulbaLocations.length() - 14) && !bulbaLocations.contains("Game locations")){
-                       	    bulbaLocations = "";
-                        }
-                        //}
-                    		
-                    	if(bulbaLocations.contains("In side games")) {
-                    		//System.out.println(bulbaLocations);
-                    		bulbaLocations = LocationSet.cutTo(bulbaLocations, "Game locations");
-                    		//System.out.println("begin debug\n" + print);
-                    		break;
-                    	}
-                    }
-                    
-            		break;
-            	}catch(java.io.IOException exception) {
-            		System.out.print(line);
-            	}
-            }
-        
-            String dbLocations = "";
+            try {
+        		bulbaConnection.getContentLength();
+                bulbaConnection.getContent();
+                bulbaConnection.getContentType();
+                InputStream bulbaStream = bulbaConnection.getInputStream();
+                int bulbaInt;
             
-            if(compareDb) {
-                URL dbUrl = new URL(toDb(line));
-                URLConnection dbConnection = dbUrl.openConnection();
-                dbConnection.setRequestProperty( "User-Agent", "Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0; H010818)" );
-
-                while(true) {
-                	try {
-                		dbConnection.getContentLength();
-                        dbConnection.getContent();
-                        dbConnection.getContentType();
-                        InputStream dbStream = dbConnection.getInputStream();
-                        int dbInt;
-                    //String dbPreLocations = "";
-                    //seeingLocations = false;
-                
-                        while( (dbInt=dbStream.read()) != -1 ) {
-                            dbLocations = dbLocations + (char)dbInt;
-                    	
-                    	//if(dbLocations.length() > 63) {
-                            if((dbLocations.indexOf("W") < dbLocations.length() - 14) && !dbLocations.contains("Where to find ")){
-                                dbLocations = "";
-                            }
-                    	//}
+                while( (bulbaInt=bulbaStream.read()) != -1 ) {
+            	    //System.out.print((char)c);
+                    bulbaLocations = bulbaLocations + (char)bulbaInt;
+                    
+                    //if(bulbaLocations.length() > 63) {
+                    if((bulbaLocations.indexOf("G") < bulbaLocations.length() - 14) && !bulbaLocations.contains("Game locations")){
+                   	    bulbaLocations = "";
+                    }
+                    //}
                 		
-                            if(dbLocations.contains("Answers to ")) {
-                                dbLocations = LocationSet.cutTo(dbLocations, "Where to find ");
-                    		//System.out.println("begin debug\n" + print);
-                                break;
-                            }
-                        }
-                        
+                	if(bulbaLocations.contains("In side games")) {
+                		//System.out.println(bulbaLocations);
+                		bulbaLocations = LocationSet.cutTo(bulbaLocations, "Game locations");
+                		//System.out.println("begin debug\n" + print);
+                		break;
+                	}
+                }
+            }catch(java.io.IOException exception) {
+            	System.out.println("504 from " + toBulba(line));
+            }
+            
+            System.out.println('~' + line + '~' + bulbaLocations);
+            
+            /*if(number % 16 == 0) {
+            	System.out.println("found " + number);
+            }*/
+		}
+	}
+	
+	public static void downloadDb() throws Exception{
+		Scanner input = new Scanner(new File("pokemonList.txt"));
+		int number = 0;
+		
+		while(input.hasNext()) {
+            String dbLocations = "";
+            String line = input.nextLine();
+            
+            URL dbUrl = new URL(toDb(line));
+            URLConnection dbConnection = dbUrl.openConnection();
+            dbConnection.setRequestProperty( "User-Agent", "Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0; H010818)" );
+
+            try {
+        		dbConnection.getContentLength();
+                dbConnection.getContent();
+                dbConnection.getContentType();
+                InputStream dbStream = dbConnection.getInputStream();
+                int dbInt;
+            //String dbPreLocations = "";
+            //seeingLocations = false;
+        
+                while( (dbInt=dbStream.read()) != -1 ) {
+                    dbLocations = dbLocations + (char)dbInt;
+            	
+            	//if(dbLocations.length() > 63) {
+                    if((dbLocations.indexOf("W") < dbLocations.length() - 14) && !dbLocations.contains("Where to find ")){
+                        dbLocations = "";
+                    }
+            	//}
+        		
+                    if(dbLocations.contains("Answers to ")) {
+                        dbLocations = LocationSet.cutTo(dbLocations, "Where to find ");
+            		//System.out.println("begin debug\n" + print);
                         break;
-                    }catch(java.io.IOException exception) {
-                    	System.out.print(line);
                     }
                 }
+            }catch(java.io.IOException exception) {
+            	System.out.print("504 from " + toDb(line));
             }
             
-            if(number % 16 == 0) {
+            System.out.println('~' + line + '~' + dbLocations);
+            
+            /*if(number % 16 == 0) {
             	System.out.println("found " + number);
             }
         
-            //System.out.println("reached0");
+            System.out.println("reached0");
             LocationSet set = new LocationSet(line, number);
             pokemonErrors.add(set);
             
-            if(compareDb) {
+            if(mode == 3) {
                 set.fillLists(bulbaLocations, dbLocations);
             }else {
             	set.fillBulbaList(bulbaLocations);
@@ -132,7 +154,7 @@ public class Main {
             
             if("Ninetales".equals(line)) {
             	break;
-            }/*else if("Poliwag".equals(line)) {
+            }else if("Poliwag".equals(line)) {
             	//System.out.println(bulbaLocations);
             	break;
             }*/
@@ -140,61 +162,61 @@ public class Main {
 		
 		/*System.out.println(pokemonErrors.get(20) + " " + pokemonErrors.get(20).bulbaLocations);
 		System.out.println(pokemonErrors.get(22) + " " + pokemonErrors.get(22).bulbaLocations);*/
+	}
+	
+	public static void downloadBulbaLocations() throws Exception{
+		//int number = 0;
 		
-		if(!compareDb){
-			//System.out.println("reached1");
-			Scanner locationIn = new Scanner(new File("locations.txt"));
-			//ArrayList<IntString> pageSizes = new ArrayList<IntString>();
-			int progress = 0;
-			
-			while(locationIn.hasNext()) {
-				String line = locationIn.nextLine();
-				//System.out.println(progress + " " + line);
-	            URL bulbaUrl = new URL(toBulbaLocation(line));
-	            URLConnection bulbaConnection = bulbaUrl.openConnection();
-	            bulbaConnection.setRequestProperty( "User-Agent", "Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0; H010818)" );
-	            String catches = "";
-	            progress ++;
-	            boolean willContinue = false;
+		Scanner locationIn = new Scanner(new File("locations.txt"));
+		//ArrayList<IntString> pageSizes = new ArrayList<IntString>();
+		int progress = 0;
+		
+		while(locationIn.hasNext()) {
+			String line = locationIn.nextLine();
+			//System.out.println(progress + " " + line);
+            URL bulbaUrl = new URL(toBulbaLocation(line));
+            URLConnection bulbaConnection = bulbaUrl.openConnection();
+            bulbaConnection.setRequestProperty( "User-Agent", "Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0; H010818)" );
+            String catches = "";
+            progress ++;
+            boolean willContinue = false;
 
-	            while(true) {
-		            try {
-		                bulbaConnection.getContentLength();
-		                bulbaConnection.getContent();
-		                bulbaConnection.getContentType();
-		                InputStream bulbaStream = bulbaConnection.getInputStream();
-		                int bulbaInt;
-		                //int pageSize = 0;
-		        
-		                while( (bulbaInt=bulbaStream.read()) != -1 ) {
-		                	catches = catches + (char)bulbaInt;
-	                        
-	                        if((catches.indexOf("{") < catches.length() - 14) && !catches.toLowerCase().contains("{{catch/header")){
-	                        	catches = "";
-	                        }
-		                }
-		                
-		                catches = catches.toLowerCase();
-		            
-		                if(catches.contains("{{catch/footer")) {
-		                    catches = catches.substring(0, catches.lastIndexOf("{{catch/footer"));
-		                }else {
-		                	willContinue = true;
-		                }
-		                
-		                break;
-		            }catch(java.io.IOException exception) {
-		            	System.out.print(line);
-		            }
-	            }
-	            
-	            if(willContinue) {
-	            	System.out.println(line + " will continue");
-	            	willContinue = false;
-	            	continue;
-	            }
-	            
-	            if(progress % 16 == 0) {
+            try {
+                bulbaConnection.getContentLength();
+                bulbaConnection.getContent();
+                bulbaConnection.getContentType();
+                InputStream bulbaStream = bulbaConnection.getInputStream();
+                int bulbaInt;
+                //int pageSize = 0;
+        
+                while( (bulbaInt=bulbaStream.read()) != -1 ) {
+                	catches = catches + (char)bulbaInt;
+                    
+                    if((catches.indexOf("{") < catches.length() - 14) && !catches.toLowerCase().contains("{{catch/header")){
+                    	catches = "";
+                    }
+                }
+                
+                catches = catches.toLowerCase();
+            
+                if(catches.contains("{{catch/footer")) {
+                    catches = catches.substring(0, catches.lastIndexOf("{{catch/footer"));
+                }else {
+                	willContinue = true;
+                }
+            }catch(java.io.IOException exception) {
+            	System.out.print("504 from " + toBulbaLocation(line));
+            }
+            
+            if(willContinue) {
+            	System.out.println(line + " will continue");
+            	willContinue = false;
+            	continue;
+            }
+            
+            System.out.println('~' + line + '~' + catches);
+			    
+	            /*if(progress % 16 == 0) {
             	    System.out.println("found " + progress);
             	//System.out.println(toBulbaLocation(line));
                 }
@@ -257,9 +279,7 @@ public class Main {
 	            	}
 	            }
 	            
-	            //break;
-			}
-	
+	            //break;*/
 			/*pokemonErrors.get(41).compareLists();
 			pokemonErrors.get(42).compareLists();
 			pokemonErrors.get(54).compareLists();
@@ -271,7 +291,7 @@ public class Main {
 			pokemonErrors.get(340).compareLists();*/
 		}
 		
-		ArrayList<IntString> inheritanceSucks = new ArrayList<IntString>();
+		/*ArrayList<IntString> inheritanceSucks = new ArrayList<IntString>();
 		
 		for(int i = 1; i < pokemonErrors.size(); i ++) {
 			pokemonErrors.get(i).compareLists();
@@ -303,7 +323,7 @@ public class Main {
 	    }
 	
 	    System.out.println("Top 28 most problematic locations: ");
-	    printList(locationErrors, 28);
+	    printList(locationErrors, 28);*/
 	}
 	
 	public static LocationSet getSet(String name) {
