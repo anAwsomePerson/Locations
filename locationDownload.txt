@@ -1,0 +1,1299 @@
+{{catch/entryfl|130|gyarados|yes|yes|fish super|15-25|15%|type1=water|type2=flying}}
+{{catch/footer|sand}}
+
+====[[s.s. anne|harbor]]====
+{{catch/header|water|no}}
+{{catch/div|water|surfing}}
+{{catch/entryfl|072|tentacool|yes|yes|surf|5-40|100%|type1=water|type2=poison}}
+{{catch/div|water|fishing}}
+{{catch/entryfl|129|magikarp|yes|yes|fish old|5|100%|type1=water}}
+{{catch/entryfl|098|krabby|yes|no|fish good|5-15|20%|type1=water}}
+{{catch/entryfl|098|krabby|no|yes|fish good|5-15|60%|type1=water}}
+{{catch/entryfl|116|horsea|yes|no|fish good|5-15|60%|type1=water}}
+{{catch/entryfl|116|horsea|no|yes|fish good|5-15|20%|type1=water}}
+{{catch/entryfl|129|magikarp|yes|yes|fish good|5-15|20%|type1=water}}
+{{catch/entryfl|054|psyduck|yes|no|fish super|25-35|1%|type1=water}}
+{{catch/entryfl|079|slowpoke|no|yes|fish super|25-35|1%|type1=water|type2=psychic}}
+{{catch/entryfl|090|shellder|yes|no|fish super|15-25|40%|type1=water}}
+{{catch/entryfl|098|krabby|no|yes|fish super|15-35|44%|type1=water}}
+{{catch/entryfl|116|horsea|yes|no|fish super|15-35|44%|type1=water}}
+{{catch/entryfl|120|staryu|no|yes|fish super|15-25|40%|type1=water}}
+{{catch/entryfl|130|gyarados|yes|yes|fish super|15-25|15%|type1=water|type2=flying}}
+{{catch/footer|water}}
+
+===generation iv===
+{{catch/header|sand|4}}
+{{catch/entryhs|050|diglett|yes|yes|rock smash|24-37|all=90%|type1=ground}}
+{{catch/entryhs|213|shuckle|yes|yes|rock smash|32-35|all=10%|type1=bug|type2=rock}}
+{{catch/div|land|headbutt}}
+{{catch/entryhs|021|spearow|yes|yes|headbutt|11-16|all=50%|type1=normal|type2=flying|10=k}}
+{{catch/entryhs|214|heracross|yes|yes|headbutt|11-13|all=30%|type1=bug|type2=fighting|10=k}}
+{{catch/entryhs|415|combee|yes|yes|headbutt|11-16|all=20%|type1=bug|type2=flying|10=k}}
+{{catch/div|water|surfing}}
+{{catch/entryhs|072|tentacool|yes|yes|surf|30-35|all=90%|type1=water|type2=poison}}
+{{catch/entryhs|073|tentacruel|yes|yes|surf|35|all=10%|type1=water|type2=poison}}
+{{catch/div|water|fishing}}
+{{catch/entryhs|072|tentacool|yes|yes|fish old|10|all=5%|type1=water|type2=poison}}
+{{catch/entryhs|129|magikarp|yes|yes|fish old|10|all=95%|type1=water}}
+{{catch/entryhs|072|tentacool|yes|yes|fish good|20|all=30%|type1=water|type2=poison}}
+{{catch/entryhs|090|shellder|yes|yes|fish good|20|all=3%|type1=water}}
+{{catch/entryhs|129|magikarp|yes|yes|fish good|20|all=60%|type1=water}}
+{{catch/entryhs|170|chinchou|yes|yes|fish good|20|all=7%|type1=water|type2=electric}}
+{{catch/entryhs|073|tentacruel|yes|yes|fish super|40|all=7%|type1=water|type2=poison}}
+{{catch/entryhs|090|shellder|yes|yes|fish super|40|all=30%|type1=water}}
+{{catch/entryhs|170|chinchou|yes|yes|fish super|40|all=60%|type1=water|type2=electric}}
+{{catch/entryhs|171|lanturn|yes|yes|fish super|40|all=3%|type1=water|type2=electric}}
+{{catch/div|water|swarm}}
+{{catch/entryhs|278|wingull|yes|yes|swarm|35|all={{tt|60%|surfing}}|type1=water|type2=flying}}
+
+~Victory Road (Black and White)~e===
+{{catch/header|cave|4}}
+{{catch/entry5|611|fraxure|yes|yes|no|rough|40|all=5%|type1=dragon}}
+{{catch/entry5|619|mienfoo|yes|yes|no|rough|38, 40|all=15%|type1=fighting}}
+{{catch/entry5|627|rufflet|no|yes|no|rough|37-40|all=35%|type1=normal|type2=flying}}
+{{catch/entry5|629|vullaby|yes|no|no|rough|37-40|all=35%|type1=dark|type2=flying}}
+{{catch/entry5|631|heatmor|yes|yes|no|rough|37-40|all=45%|type1=fire}}
+{{catch/footer|cave}}
+
+===1f (middle and rightmost room)===
+{{catch/header|cave|4}}
+{{catch/entry5|525|boldore|yes|yes|no|cave|39|all=20%|type1=rock}}
+{{catch/entry5|527|woobat|yes|yes|no|cave|37|all=10%|type1=psychic|type2=flying}}
+{{catch/entry5|619|mienfoo|yes|yes|no|cave|39|all=10%|type1=fighting}}
+{{catch/entry5|632|durant|yes|yes|no|cave|37-40|all=40%|type1=bug|type2=steel}}
+{{catch/entry5|633|deino|yes|yes|no|cave|38-40|all=20%|type1=dark|type2=dragon}}
+{{catch/div|cave|dust clouds}}
+{{catch/entry5|530|excadrill|yes|yes|no|dust|37-40|all=100%|type1=ground|type2=steel}}
+{{catch/div|water|surfing}}
+{{catch/entry5|550|basculin|yes|no|no|surf|20-45|all=100%|type1=water}}
+{{catch/entry5|550b|basculin|no|yes|no|surf|20-45|all=100%|type1=water}}
+{{catch/div|water|surfing in rippling water}}
+{{catch/entry5|550|basculin|no|yes|no|rippling|20-50|all=100%|type1=water}}
+{{catch/entry5|550b|basculin|yes|no|no|rippling|20-50|all=100%|type1=water}}
+{{catch/div|water|fishing}}
+{{catch/entry5|060|poliwag|yes|yes|no|fish super|35-55|all=65%|type1=water}}
+{{catch/entry5|061|poliwhirl|yes|yes|no|fish super|35-55|all=5%|type1=water}}
+{{catch/entry5|550|basculin|yes|no|no|fish super|35-55|all=30%|type1=water}}
+{{catch/entry5|550b|basculin|no|yes|no|fish super|35-55|all=30%|type1=water}}
+{{catch/div|water|fishing in rippling water}}
+{{catch/entry5|061|poliwhirl|yes|yes|no|rippling|35-70|all=65%|type1=water}}
+{{catch/entry5|062|poliwrath|yes|yes|no|rippling|45-70|all=5%|type1=water|type2=fighting}}
+{{catch/entry5|550|basculin|no|yes|no|rippling|35-60|all=30%|type1=water}}
+{{catch/entry5|550b|basculin|yes|no|no|rippling|35-60|all=30%|type1=water}}
+{{catch/footer|cave}}
+
+===1f (leftmost room), 2f-3f===
+{{catch/header|cave|4}}
+{{catch/entry5|525|boldore|yes|yes|no|cave|37, 39|all=30%|type1=rock}}
+{{catch/entry5|527|woobat|yes|yes|no|cave|37-40|all=20%|type1=psychic|type2=flying}}
+{{catch/entry5|619|mienfoo|yes|yes|no|cave|39|all=10%|type1=fighting}}
+{{catch/entry5|632|durant|yes|yes|no|cave|37-40|all=40%|type1=bug|type2=steel}}
+{{catch/div|cave|dust clouds}}
+{{catch/entry5|530|excadrill|yes|yes|no|dust|37-40|all=100%|type1=ground|type2=steel}}
+{{catch/footer|cave}}
+
+===4f (middle room)===
+{{catch/header|cave|4}}
+{{catch/entry5|525|boldore|yes|yes|no|cave|39, 41|all=30%|type1=rock}}
+{{catch/entry5|527|woobat|yes|yes|no|cave|39-40, 42|all=20%|type1=psychic|type2=flying}}
+{{catch/entry5|619|mienfoo|yes|yes|no|cave|41|all=10%|type1=fighting}}
+{{catch/entry5|632|durant|yes|yes|no|cave|39-42|all=40%|type1=bug|type2=steel}}
+{{catch/div|cave|dust clouds}}
+{{catch/entry5|530|excadrill|yes|yes|no|dust|39-42|all=100%|type1=ground|type2=steel}}
+{{catch/footer|cave}}
+
+===4f (leftmost and rightmost room), 5f-7f===
+{{catch/header|cave|4}}
+{{catch/entry5|525|boldore|yes|yes|no|cave|39, 41|all=30%|type1=rock}}
+{{catch/entry5|527|woobat|yes|yes|no|cave|39-42|all=20%|type1=psychic|type2=flying}}
+{{catch/entry5|619|mienfoo|yes|yes|no|cave|41|all=10%|type1=fighting}}
+{{catch/entry5|632|durant|yes|yes|no|cave|39-42|all=40%|type1=bug|type2=steel}}
+{{catch/div|cave|dust clouds}}
+{{catch/entry5|530|excadrill|yes|yes|no|dust|39-42|all=100%|type1=ground|type2=steel}}
+{{catch/footer|cave}}
+
+===trial chamber===
+{{catch/header|cave|4}}
+{{catch/entry5|525|boldore|yes|yes|no|cave|39, 41|all=30%|type1=rock}}
+{{catch/entry5|527|woobat|yes|yes|no|cave|39-42|all=20%|type1=psychic|type2=flying}}
+{{catch/entry5|619|mienfoo|yes|yes|no|cave|41|all=10%|type1=fighting}}
+{{catch/entry5|632|durant|yes|yes|no|cave|39-42|all=40%|type1=bug|type2=steel}}
+{{catch/div|cave|dust clouds}}
+{{catch/entry5|530|excadrill|yes|yes|no|dust|39-42|all=100%|type1=ground|type2=steel}}
+{{catch/div|cave|special}}
+{{catch/entry5|639|terrakion|yes|yes|no|special|42|all=one|type1=rock|type2=fighting}}
+
+~Victory Road (Black 2 and White 2)~=
+{{catch/header|cave|4}}
+{{catch/entry5-2|354|banette|yes|yes|cave|47-50|all=70%|type1=ghost}}
+{{catch/entry5-2|623|golurk|yes|yes|cave|48-50|all=30%|type1=ground|type2=ghost}}
+{{catch/div|water|surfing}}
+{{catch/entry5-2|183|marill|yes|yes|surf|35-50|all=30%|type1=water}}
+{{catch/entry5-2|550|basculin|yes|no|surf|35-50|all=70%|type1=water}}
+{{catch/entry5-2|550b|basculin|no|yes|surf|35-50|all=70%|type1=water}}
+{{catch/div|water|surfing in rippling water}}
+{{catch/entry5-2|183|marill|yes|yes|rippling|35-50|all=60%|type1=water}}
+{{catch/entry5-2|184|azumarill|yes|yes|rippling|40-50|all=5%|type1=water}}
+{{catch/entry5-2|550b|basculin|yes|no|rippling|35-50|all=35%|type1=water}}
+{{catch/entry5-2|550|basculin|no|yes|rippling|35-50|all=35%|type1=water}}
+{{catch/div|water|fishing}}
+{{catch/entry5-2|060|poliwag|yes|yes|fish super|40-55|all=70%|type1=water}}
+{{catch/entry5-2|550|basculin|yes|no|fish super|40-55|all=30%|type1=water}}
+{{catch/entry5-2|550b|basculin|no|yes|fish super|40-55|all=30%|type1=water}}
+{{catch/div|water|fishing in rippling water}}
+{{catch/entry5-2|061|poliwhirl|yes|yes|rippling|40-60|all=65%|type1=water}}
+{{catch/entry5-2|062|poliwrath|yes|yes|rippling|50-60|all=5%|type1=water|type2=fighting}}
+{{catch/entry5-2|550b|basculin|yes|no|rippling|40-60|all=30%|type1=water}}
+{{catch/entry5-2|550|basculin|no|yes|rippling|40-60|all=30%|type1=water}}
+{{catch/footer|cave}}
+
+====grove====
+{{catch/header|forest|4}}
+{{catch/entry5-2|315|roselia|yes|yes|grass|48-50|all=30%|type1=grass|type2=poison}}
+{{catch/entry5-2|546|cottonee|yes|no|grass|47-50|all=70%|type1=grass}}
+{{catch/entry5-2|548|petilil|no|yes|grass|47-50|all=70%|type1=grass}}
+{{catch/div|forest|dark grass}}
+{{catch/entry5-2|315|roselia|yes|yes|dark|53-55|all=30%|type1=grass|type2=poison}}
+{{catch/entry5-2|546|cottonee|yes|no|dark|52-55|all=70%|type1=grass}}
+{{catch/entry5-2|548|petilil|no|yes|dark|52-55|all=70%|type1=grass}}
+{{catch/div|forest|rustling grass}}
+{{catch/entry5-2|206|dunsparce|yes|yes|rustling|49|all=10%|type1=normal}}
+{{catch/entry5-2|407|roserade|yes|yes|rustling|50|all=5%|type1=grass|type2=poison}}
+{{catch/entry5-2|531|audino|yes|yes|rustling|47-50|all=80%|type1=normal}}
+{{catch/entry5-2|547|whimsicott|yes|no|rustling|50|all=5%|type1=grass}}
+{{catch/entry5-2|549|lilligant|no|yes|rustling|50|all=5%|type1=grass}}
+{{catch/footer|forest}}
+
+====outside 1====
+{{catch/header|mountain|4}}
+{{catch/entry5-2|334|altaria|yes|yes|grass|49, 50|all=20%|type1=dragon|type2=flying}}
+{{catch/entry5-2|520|tranquill|yes|yes|grass|47-50|all=80%|type1=normal|type2=flying}}
+{{catch/div|mountain|dark grass}}
+{{catch/entry5-2|334|altaria|yes|yes|dark|54, 55|all=20%|type1=dragon|type2=flying}}
+{{catch/entry5-2|520|tranquill|yes|yes|dark|52-55|all=80%|type1=normal|type2=flying}}
+{{catch/div|mountain|rustling grass}}
+{{catch/entry5-2|206|dunsparce|yes|yes|rustling|49|all=10%|type1=normal}}
+{{catch/entry5-2|521|unfezant|yes|yes|rustling|50|all=2.5%|type1=normal|type2=flying}}
+{{catch/entry5-2|521f|unfezant|yes|yes|rustling|50|all=2.5%|type1=normal|type2=flying}}
+{{catch/entry5-2|531|audino|yes|yes|rustling|47-50|all=85%|type1=normal}}
+{{catch/div|mountain|surfing}}
+{{catch/entry5-2|418|buizel|yes|yes|surf|35-50|all=30%|type1=water}}
+{{catch/entry5-2|550|basculin|yes|no|surf|35-50|all=70%|type1=water}}
+{{catch/entry5-2|550b|basculin|no|yes|surf|35-50|all=70%|type1=water}}
+{{catch/div|mountain|surfing in rippling water}}
+{{catch/entry5-2|418|buizel|yes|yes|rippling|35-50|all=60%|type1=water}}
+{{catch/entry5-2|419|floatzel|yes|yes|rippling|40-50|all=10%|type1=water}}
+{{catch/entry5-2|550b|basculin|yes|no|rippling|35-50|all=30%|type1=water}}
+{{catch/entry5-2|550|basculin|no|yes|rippling|35-50|all=30%|type1=water}}
+{{catch/div|mountain|fishing}}
+{{catch/entry5-2|060|poliwag|yes|yes|fish super|40-70|all=70%|type1=water}}
+{{catch/entry5-2|550|basculin|yes|no|fish super|40-60|all=30%|type1=water}}
+{{catch/entry5-2|550b|basculin|no|yes|fish super|40-60|all=30%|type1=water}}
+{{catch/div|mountain|fishing in rippling water}}
+{{catch/entry5-2|061|poliwhirl|yes|yes|rippling|40-70|all=65%|type1=water}}
+{{catch/entry5-2|186|politoed|yes|yes|rippling|50-70|all=5%|type1=water}}
+{{catch/entry5-2|550b|basculin|yes|no|rippling|40-60|all=30%|type1=water}}
+{{catch/entry5-2|550|basculin|no|yes|rippling|40-60|all=30%|type1=water}}
+{{catch/footer|mountain}}
+
+====2f====
+{{catch/header|cave|4}}
+{{catch/entry5-2|095|onix|yes|yes|cave|43-44|all=20%|type1=rock|type2=ground}}
+{{catch/entry5-2|525|boldore|yes|yes|cave|41-44|all=80%|type1=rock}}
+{{catch/div|cave|dust clouds}}
+{{catch/entry5-2|095|onix|yes|yes|dust|41|all=20%|type1=rock|type2=ground}}
+{{catch/entry5-2|530|excadrill|yes|yes|dust|41-44|all=80%|type1=ground|type2=steel}}
+{{catch/footer|cave}}
+
+====2f back====
+{{catch/header|cave|4}}
+{{catch/entry5-2|095|onix|yes|yes|cave|49, 50|all=20%|type1=rock|type2=ground}}
+{{catch/entry5-2|525|boldore|yes|yes|cave|47-50|all=80%|type1=rock}}
+{{catch/div|cave|dust clouds}}
+{{catch/entry5-2|095|onix|yes|yes|dust|47|all=20%|type1=rock|type2=ground}}
+{{catch/entry5-2|530|excadrill|yes|yes|dust|47-50|all=80%|type1=ground|type2=steel}}
+{{catch/div|water|surfing}}
+{{catch/entry5-2|183|marill|yes|yes|surf|35-50|all=30%|type1=water}}
+{{catch/entry5-2|550|basculin|yes|no|surf|35-50|all=70%|type1=water}}
+{{catch/entry5-2|550b|basculin|no|yes|surf|35-50|all=70%|type1=water}}
+{{catch/div|water|surfing in rippling water}}
+{{catch/entry5-2|183|marill|yes|yes|rippling|35-60|all=60%|type1=water}}
+{{catch/entry5-2|184|azumarill|yes|yes|rippling|40-70|all=5%|type1=water}}
+{{catch/entry5-2|550b|basculin|yes|no|rippling|35-70|all=35%|type1=water}}
+{{catch/entry5-2|550|basculin|no|yes|rippling|35-70|all=35%|type1=water}}
+{{catch/div|water|fishing}}
+{{catch/entry5-2|060|poliwag|yes|yes|fish super|40-70|all=70%|type1=water}}
+{{catch/entry5-2|550|basculin|yes|no|fish super|40-60|all=30%|type1=water}}
+{{catch/entry5-2|550b|basculin|no|yes|fish super|40-60|all=30%|type1=water}}
+{{catch/div|water|fishing in rippling water}}
+{{catch/entry5-2|061|poliwhirl|yes|yes|rippling|40-70|all=65%|type1=water}}
+{{catch/entry5-2|062|poliwrath|yes|yes|rippling|50-70|all=5%|type1=water|type2=fighting}}
+{{catch/entry5-2|550b|basculin|yes|no|rippling|40-60|all=30%|type1=water}}
+{{catch/entry5-2|550|basculin|no|yes|rippling|40-60|all=30%|type1=water}}
+{{catch/footer|cave}}
+
+====3f====
+{{catch/header|cave|4}}
+{{catch/entry5-2|621|druddigon|yes|yes|cave|47-50|all=80%|type1=dragon}}
+{{catch/entry5-2|634|zweilous|yes|yes|cave|49, 50|all=20%|type1=dark|type2=dragon}}
+{{catch/div|cave|dust clouds}}
+{{catch/entry5-2|095|onix|yes|yes|dust|47|all=20%|type1=rock|type2=ground}}
+{{catch/entry5-2|530|excadrill|yes|yes|dust|47-50|all=80%|type1=ground|type2=steel}}
+{{catch/footer|cave}}
+
+====outside 2====
+{{catch/header|mountain|4}}
+{{catch/entry5-2|533|gurdurr|yes|yes|grass|47-50|all=70%|type1=fighting}}
+{{catch/entry5-2|538|throh|yes|yes|grass|48-50|all=30%|type1=fighting}}
+{{catch/div|mountain|dark grass}}
+{{catch/entry5-2|533|gurdurr|yes|yes|dark|52-55|all=70%|type1=fighting}}
+{{catch/entry5-2|538|throh|yes|yes|dark|53-55|all=30%|type1=fighting}}
+{{catch/div|mountain|rustling grass}}
+{{catch/entry5-2|531|audino|yes|yes|rustling|47-50|all=95%|type1=normal}}
+{{catch/entry5-2|539|sawk|yes|yes|rustling|50|all=5%|type1=fighting}}
+{{catch/footer|mountain}}
+
+====4f====
+{{catch/header|cave|4}}
+{{catch/entry5-2|095|onix|yes|yes|cave|49, 50|all=20%|type1=rock|type2=ground}}
+{{catch/entry5-2|525|boldore|yes|yes|cave|47-50|all=80%|type1=rock}}
+{{catch/div|cave|dust clouds}}
+{{catch/entry5-2|095|onix|yes|yes|dust|47|all=20%|type1=rock|type2=ground}}
+{{catch/entry5-2|530|excadrill|yes|yes|dust|47-50|all=80%|type1=ground|type2=steel}}
+{{catch/footer|cave}}
+
+====3f back====
+{{catch/header|cave|4}}
+{{catch/entry5-2|621|druddigon|yes|yes|cave|47-50|all=80%|type1=dragon}}
+{{catch/entry5-2|634|zweilous|yes|yes|cave|49, 50|all=20%|type1=dark|type2=dragon}}
+{{catch/div|cave|dust clouds}}
+{{catch/entry5-2|095|onix|yes|yes|dust|47|all=20%|type1=rock|type2=ground}}
+{{catch/entry5-2|530|excadrill|yes|yes|dust|47-50|all=80%|type1=ground|type2=steel}}
+
+~Victory Road (Hoenn)~==1f====
+{{catch/header|cave|no}}
+{{catch/entry3|041|zubat|yes|yes|yes|cave|36|10%|type1=poison|type2=flying}}
+{{catch/entry3|042|golbat|yes|yes|yes|cave|38, 40|25%|type1=poison|type2=flying}}
+{{catch/entry3|293|whismur|yes|yes|yes|cave|36|5%}}
+{{catch/entry3|294|loudred|yes|yes|yes|cave|40|10%}}
+{{catch/entry3|296|makuhita|yes|yes|yes|cave|36|10%|type1=fighting}}
+{{catch/entry3|297|hariyama|yes|yes|yes|cave|38, 40|25%|type1=fighting}}
+{{catch/entry3|304|aron|yes|yes|yes|cave|36|5%|type1=steel|type2=rock}}
+{{catch/entry3|305|lairon|yes|yes|yes|cave|40|10%|type1=steel|type2=rock}}
+{{catch/footer|cave}}
+
+====b1f====
+{{catch/header|cave|no}}
+{{catch/entry3|042|golbat|yes|yes|yes|cave|38, 40, 42|35%|type1=poison|type2=flying}}
+{{catch/entry3|297|hariyama|yes|yes|yes|cave|38, 40, 42|35%|type1=fighting}}
+{{catch/entry3|303|mawile|no|no|yes|cave|38|5%|type1=steel}}
+{{catch/entry3|305|lairon|yes|yes|no|cave|40, 42|15%|type1=steel|type2=rock}}
+{{catch/entry3|305|lairon|no|no|yes|cave|40, 42|25%|type1=steel|type2=rock}}
+{{catch/entry3|307|meditite|yes|yes|no|cave|38|5%|type1=fighting|type2=psychic}}
+{{catch/entry3|308|medicham|yes|yes|no|cave|40|10%|type1=fighting|type2=psychic}}
+{{catch/div|cave|rock smash}}
+{{catch/entry3|074|geodude|yes|yes|yes|rock smash|30-40|30%|type1=rock|type2=ground}}
+{{catch/entry3|075|graveler|yes|yes|yes|rock smash|30-40|70%|type1=rock|type2=ground}}
+{{catch/footer|cave}}
+
+====b2f====
+{{catch/header|cave|no}}
+{{catch/entry3|042|golbat|yes|yes|yes|cave|40, 42, 44|35%|type1=poison|type2=flying}}
+{{catch/entry3|302|sableye|no|yes|yes|cave|40, 42, 44|35%|type1=dark|type2=ghost}}
+{{catch/entry3|303|mawile|yes|no|no|cave|40, 42, 44|35%|type1=steel}}
+{{catch/entry3|303|mawile|no|no|yes|cave|42, 44|5%|type1=steel}}
+{{catch/entry3|305|lairon|yes|yes|no|cave|40, 42, 44|15%|type1=steel|type2=rock}}
+{{catch/entry3|305|lairon|no|no|yes|cave|40, 42, 44|25%|type1=steel|type2=rock}}
+{{catch/entry3|308|medicham|yes|yes|no|cave|40, 42, 44|15%|type1=fighting|type2=psychic}}
+{{catch/div|water|surfing}}
+{{catch/entry3|042|golbat|yes|yes|yes|surf|25-40|100%|type1=poison|type2=flying}}
+{{catch/div|water|fishing}}
+{{catch/entry3|118|goldeen|yes|yes|yes|fish old|5-10|30%|type1=water}}
+{{catch/entry3|129|magikarp|yes|yes|yes|fish old|5-10|70%|type1=water}}
+{{catch/entry3|118|goldeen|yes|yes|yes|fish good|10-30|20%|type1=water}}
+{{catch/entry3|129|magikarp|yes|yes|yes|fish good|10-30|60%|type1=water}}
+{{catch/entry3|339|barboach|yes|yes|yes|fish good|10-30|20%|type1=water|type2=ground}}
+{{catch/entry3|339|barboach|yes|yes|yes|fish super|25-35|80%|type1=water|type2=ground}}
+{{catch/entry3|340|whiscash|yes|yes|yes|fish super|30-45|20%|type1=water|type2=ground}}
+{{catch/footer|cave}}
+
+===generation vi===
+====entrance, 1f, and b1f====
+{{catch/header|cave|no}}
+{{catch/entryoras|042|golbat|yes|yes|cave|37, 39|20%|type1=poison|type2=flying}}
+{{catch/entryoras|294|loudred|yes|yes|cave|37, 39|20%|type1=normal}}
+{{catch/entryoras|297|hariyama|yes|yes|cave|38, 40|15%|type1=fighting}}
+{{catch/entryoras|302|sableye|no|yes|cave|40|10%|type1=dark|type2=ghost}}
+{{catch/entryoras|303|mawile|yes|no|cave|40|10%|type1=steel|type2=fairy}}
+{{catch/entryoras|305|lairon|yes|yes|cave|37, 39|20%|type1=steel|type2=rock}}
+{{catch/entryoras|308|medicham|yes|yes|cave|38, 40|15%|type1=fighting|type2=psychic}}
+{{catch/div|cave|{{color2|000|horde encounter}}}}
+{{catch/entryoras|041|zubat|yes|yes|horde encounter|20|60%|type1=poison|type2=flying}}
+{{catch/entryoras|294|loudred|yes|yes|horde encounter|20|5%|type1=normal}}
+{{catch/entryoras|304|aron|yes|yes|horde encounter|20|35%|type1=steel|type2=rock}}
+{{catch/div|water|surfing}}
+{{catch/entryoras|042|golbat|yes|yes|surf|30, 40|35%|type1=poison|type2=flying}}
+{{catch/entryoras|072|tentacool|yes|yes|surf|25|50%|type1=water|type2=poison}}
+{{catch/entryoras|073|tentacruel|yes|yes|surf|35|15%|type1=water|type2=poison}}
+{{catch/div|water|fishing}}
+{{catch/entryoras|072|tentacool|yes|yes|fish old|5|35%|type1=water|type2=poison}}
+{{catch/entryoras|129|magikarp|yes|yes|fish old|10, 15|65%|type1=water}}
+{{catch/entryoras|129|magikarp|yes|yes|fish good|25|60%|type1=water}}
+{{catch/entryoras|320|wailmer|yes|yes|fish good|25|5%|type1=water}}
+{{catch/entryoras|370|luvdisc|yes|yes|fish good|25|35%|type1=water}}
+{{catch/entryoras|320|wailmer|yes|yes|fish super|30, 40|40%|type1=water}}
+{{catch/entryoras|370|luvdisc|yes|yes|fish super|35|60%|type1=water}}
+{{catch/footer|cave}}
+
+====2f====
+{{catch/header|cave|no}}
+{{catch/div|water|surfing}}
+{{catch/entryoras|042|golbat|yes|yes|surf|25, 30, 35, 40|100%|type1=poison|type2=flying}}
+{{catch/div|water|fishing}}
+{{catch/entryoras|118|goldeen|yes|yes|fish old|5|35%|type1=water}}
+{{catch/entryoras|129|magikarp|yes|yes|fish old|10, 15|65%|type1=water}}
+{{catch/entryoras|118|goldeen|yes|yes|fish good|25|35%|type1=water}}
+{{catch/entryoras|129|magikarp|yes|yes|fish good|25|60%|type1=water}}
+{{catch/entryoras|339|barboach|yes|yes|fish good|25|5%|type1=water|type2=ground}}
+{{catch/entryoras|339|barboach|yes|yes|fish super|30, 35, 40|100%|type1=water|type2=ground}}
+
+~Victory Road (Kalos)~on==
+{{catch/header|cave|2}}
+{{catch/entry6|075|graveler|yes|yes|cave|57-58|all=20%|type1=rock|type2=ground}}
+{{catch/entry6|093|haunter|yes|yes|cave|58|all=10%|type1=ghost|type2=poison}}
+{{catch/entry6|108|lickitung|yes|yes|cave|58-59|all=15%|type1=normal}}
+{{catch/entry6|533|gurdurr|yes|yes|cave|57-59|all=30%|type1=fighting}}
+{{catch/entry6|621|druddigon|yes|yes|cave|58-59|all=20%|type1=dragon}}
+{{catch/entry6|634|zweilous|yes|yes|cave|59|all=5%|type1=dark|type2=dragon}}
+{{catch/div|cave|{{color2|000|horde encounter}} (inside 1 and 4)}}
+{{catch/entry6|074|geodude|yes|yes|horde encounter|28|all=60%|type1=rock|type2=ground}}
+{{catch/entry6|108|lickitung|yes|yes|horde encounter|30|all=5%|type1=normal}}
+{{catch/entry6|419|floatzel|yes|yes|horde encounter|29|all=35%|type1=water}}
+{{catch/div|cave|{{color2|000|horde encounter}} (inside 2 and 3)}}
+{{catch/entry6|074|geodude|yes|yes|horde encounter|28|all=60%|type1=rock|type2=ground}}
+{{catch/entry6|075|graveler|yes|yes|horde encounter|29|all=35%|type1=rock|type2=ground}}
+{{catch/entry6|108|lickitung|yes|yes|horde encounter|30|all=5%|type1=normal}}
+{{catch/div|cave|{{mcolor|rock smash|000}}}}
+{{catch/entry6|075|graveler|yes|yes|rock smash|57-59|all=95%|type1=rock|type2=ground}}
+{{catch/entry6|213|shuckle|yes|yes|rock smash|57, 59|all=5%|type1=bug|type2=rock}}
+{{catch/div|cave|drops from the ceiling}}
+{{catch/entry6|075|graveler|yes|yes|ceiling|57|all=~45%|type1=rock|type2=ground}}
+{{catch/entry6|168|ariados|yes|yes|ceiling|58-59|all=~33%|type1=bug|type2=poison}}
+{{catch/entry6|714|noibat|yes|yes|ceiling|57-59|all=~22%|type1=flying|type2=dragon}}
+{{catch/div|land|swoops down from above}}
+{{catch/entry6|022|fearow|yes|yes|sky|57-59|all=~77%|type1=normal|type2=flying}}
+{{catch/entry6|227|skarmory|yes|yes|sky|57-59|all=~18%|type1=steel|type2=flying}}
+{{catch/entry6|635|hydreigon|yes|yes|sky|59|all=~5%|type1=dark|type2=dragon}}
+{{catch/div|water|surfing (outside)}}
+{{catch/entry6|271|lombre|yes|yes|surf|57-59|all=66%|type1=water|type2=grass}}
+{{catch/entry6|419|floatzel|yes|yes|surf|57, 59|all=34%|type1=water}}
+{{catch/div|water|surfing (inside)}}
+{{catch/entry6|061|poliwhirl|yes|yes|surf|57-59|all=66%|type1=water}}
+{{catch/entry6|419|floatzel|yes|yes|surf|57, 59|all=34%|type1=water}}
+{{catch/div|water|fishing (outside and inside 1-3)}}
+{{catch/entry6|060|poliwag|yes|yes|fish old|35|all=100%|type1=water}}
+{{catch/entry6|061|poliwhirl|yes|yes|fish good|45|all=35%|type1=water}}
+{{catch/entry6|550|basculin|no|yes|fish good|45|all=65%|type1=water}}
+{{catch/entry6|550b|basculin|yes|no|fish good|45|all=65%|type1=water}}
+{{catch/entry6|061|poliwhirl|yes|yes|fish super|55|all=65%|type1=water}}
+{{catch/entry6|550|basculin|yes|no|fish super|55|all=35%|type1=water}}
+{{catch/entry6|550b|basculin|no|yes|fish super|55|all=35%|type1=water}}
+{{catch/div|water|fishing (inside 4)}}
+{{catch/entry6|060|poliwag|yes|yes|fish old|35|all=100%|type1=water}}
+{{catch/entry6|061|poliwhirl|yes|yes|fish good|45|all=35%|type1=water}}
+{{catch/entry6|550|basculin|no|yes|fish good|45|all=65%|type1=water}}
+{{catch/entry6|550b|basculin|yes|no|fish good|45|all=65%|type1=water}}
+{{catch/entry6|061|poliwhirl|yes|yes|fish super|55|all=60%|type1=water}}
+{{catch/entry6|062|poliwrath|yes|yes|fish super|60|all=5%|type1=water|type2=fighting}}
+{{catch/entry6|550|basculin|yes|no|fish super|55|all=35%|type1=water}}
+{{catch/entry6|550b|basculin|no|yes|fish super|55|all=35%|type1=water}}
+
+~Victory Road (Kanto)~=====1f=====
+{{catch/header|cave|no}}
+{{catch/entry1|041|zubat|yes|yes|no|cave|22|15%|type1=poison|type2=flying}}
+{{catch/entry1|041|zubat|no|no|yes|cave|39, 44|20%|type1=poison|type2=flying}}
+{{catch/entry1|042|golbat|yes|yes|no|cave|41|5%|type1=poison|type2=flying}}
+{{catch/entry1|066|machop|yes|yes|no|cave|24|25%|type1=fighting}}
+{{catch/entry1|067|machoke|yes|yes|no|cave|42|4%|type1=fighting}}
+{{catch/entry1|074|geodude|yes|yes|no|cave|26|15%|type1=rock|type2=ground}}
+{{catch/entry1|074|geodude|no|no|yes|cave|26, 31, 36, 41|65%|type1=rock|type2=ground}}
+{{catch/entry1|075|graveler|yes|yes|no|cave|41|5%|type1=rock|type2=ground}}
+{{catch/entry1|075|graveler|no|no|yes|cave|41, 47|5%|type1=rock|type2=ground}}
+{{catch/entry1|095|onix|yes|yes|no|cave|36, 39, 42|30%|type1=rock|type2=ground}}
+{{catch/entry1|095|onix|no|no|yes|cave|43, 45|10%|type1=rock|type2=ground}}
+{{catch/entry1|105|marowak|yes|yes|no|cave|43|1%|type1=ground}}
+{{catch/footer|cave}}
+
+=====2f=====
+{{catch/header|cave|no}}
+{{catch/entry1|041|zubat|yes|yes|no|cave|26|15%|type1=poison|type2=flying}}
+{{catch/entry1|041|zubat|no|no|yes|cave|44|10%|type1=poison|type2=flying}}
+{{catch/entry1|042|golbat|yes|yes|no|cave|40|5%|type1=poison|type2=flying}}
+{{catch/entry1|042|golbat|no|no|yes|cave|39|10%|type1=poison|type2=flying}}
+{{catch/entry1|066|machop|yes|yes|no|cave|22|25%|type1=fighting}}
+{{catch/entry1|067|machoke|yes|yes|no|cave|41|5%|type1=fighting}}
+{{catch/entry1|067|machoke|no|no|yes|cave|39, 42|5%|type1=fighting}}
+{{catch/entry1|074|geodude|yes|yes|no|cave|24|15%|type1=rock|type2=ground}}
+{{catch/entry1|074|geodude|no|no|yes|cave|31, 36, 41|55%|type1=rock|type2=ground}}
+{{catch/entry1|075|graveler|yes|yes|no|cave|43|1%|type1=rock|type2=ground}}
+{{catch/entry1|075|graveler|no|no|yes|cave|44|10%|type1=rock|type2=ground}}
+{{catch/entry1|095|onix|yes|yes|no|cave|36, 39, 42|30%|type1=rock|type2=ground}}
+{{catch/entry1|095|onix|no|no|yes|cave|45, 47|10%|type1=rock|type2=ground}}
+{{catch/entry1|105|marowak|yes|yes|no|cave|40|4%|type1=ground}}
+{{catch/div|cave|special}}
+{{catch/entry1|146|moltres|yes|yes|yes|special|50|one|type1=fire|type2=flying}}
+{{catch/footer|cave}}
+
+=====3f=====
+{{catch/header|cave|no}}
+{{catch/entry1|041|zubat|yes|yes|no|cave|22|15%|type1=poison|type2=flying}}
+{{catch/entry1|042|golbat|yes|yes|no|cave|41|5%|type1=poison|type2=flying}}
+{{catch/entry1|042|golbat|no|no|yes|cave|44|15%|type1=poison|type2=flying}}
+{{catch/entry1|049|venomoth|yes|yes|no|cave|40|10%|type1=bug|type2=poison}}
+{{catch/entry1|066|machop|yes|yes|no|cave|24|25%|type1=fighting}}
+{{catch/entry1|067|machoke|yes|yes|no|cave|42, 45|5%|type1=fighting}}
+{{catch/entry1|067|machoke|no|no|yes|cave|42, 45|10%|type1=fighting}}
+{{catch/entry1|074|geodude|yes|yes|no|cave|26|15%|type1=rock|type2=ground}}
+{{catch/entry1|074|geodude|no|no|yes|cave|36, 41, 46|50%|type1=rock|type2=ground}}
+{{catch/entry1|075|graveler|yes|yes|no|cave|43|5%|type1=rock|type2=ground}}
+{{catch/entry1|075|graveler|no|no|yes|cave|41, 47|15%|type1=rock|type2=ground}}
+{{catch/entry1|095|onix|yes|yes|no|cave|42, 45|20%|type1=rock|type2=ground}}
+{{catch/entry1|095|onix|no|no|yes|cave|49|10%|type1=rock|type2=ground}}
+{{catch/footer|cave}}
+
+====generation ii====
+''in the japanese and korean games, {{p|ursaring}} appears only in silver, while {{p|donphan}} appears only in gold.''
+{{catch/header|cave|yes}}
+{{catch/entry2|042|golbat|yes|yes|no|cave|32|all=30%|type1=poison|type2=flying}}
+{{catch/entry2|042|golbat|no|no|yes|cave|34|10%|10%|30%|type1=poison|type2=flying}}
+{{catch/entry2|075|graveler|yes|yes|no|cave|32|all=30%|type1=rock|type2=ground}}
+{{catch/entry2|075|graveler|no|no|yes|cave|34|30%|30%|0%|type1=rock|type2=ground}}
+{{catch/entry2|075|graveler|no|no|yes|cave|34-40|0%|0%|50%|type1=rock|type2=ground}}
+{{catch/entry2|217|ursaring|yes|no|no|cave|33|all=20%|type1=normal}}
+{{catch/entry2|232|donphan|no|yes|no|cave|33|all=20%|type1=ground}}
+{{catch/entry2|095|onix|yes|yes|no|cave|34-36|all=15%|type1=rock|type2=ground}}
+{{catch/entry2|095|onix|no|no|yes|cave|33|20%|20%|0%|type1=rock|type2=ground}}
+{{catch/entry2|095|onix|no|no|yes|cave|32|0%|0%|20%|type1=rock|type2=ground}}
+{{catch/entry2|111|rhyhorn|yes|yes|no|cave|35|all=5%|type1=ground|type2=rock}}
+{{catch/entry2|111|rhyhorn|no|no|yes|cave|32|30%|30%|0%|type1=ground|type2=rock}}
+{{catch/entry2|028|sandslash|no|no|yes|cave|35|5%|5%|0%|type1=ground}}
+{{catch/entry2|112|rhydon|no|no|yes|cave|35|5%|5%|0%|type1=ground|type2=rock}}
+{{catch/footer|cave}}
+
+====generation iii====
+=====1f and 3f=====
+{{catch/header|cave|no}}
+{{catch/entryfl|024|arbok|yes|no|cave|44|5%|type1=poison}}
+{{catch/entryfl|028|sandslash|no|yes|cave|44|5%|type1=ground}}
+{{catch/entryfl|041|zubat|yes|yes|cave|32|10%|type1=poison|type2=flying}}
+{{catch/entryfl|042|golbat|yes|yes|cave|44|5%|type1=poison|type2=flying}}
+{{catch/entryfl|066|machop|yes|yes|cave|32|20%|type1=fighting}}
+{{catch/entryfl|067|machoke|yes|yes|cave|44, 46|5%|type1=fighting}}
+{{catch/entryfl|074|geodude|yes|yes|cave|32|20%|type1=rock|type2=ground}}
+{{catch/entryfl|095|onix|yes|yes|cave|40, 43, 46|30%|type1=rock|type2=ground}}
+{{catch/entryfl|105|marowak|yes|yes|cave|44, 46|5%|type1=ground}}
+{{catch/footer|cave}}
+
+=====2f=====
+{{catch/header|cave|no}}
+{{catch/entryfl|024|arbok|yes|no|cave|46|5%|type1=poison}}
+{{catch/entryfl|028|sandslash|no|yes|cave|46|5%|type1=ground}}
+{{catch/entryfl|041|zubat|yes|yes|cave|34|10%|type1=poison|type2=flying}}
+{{catch/entryfl|042|golbat|yes|yes|cave|46|5%|type1=poison|type2=flying}}
+{{catch/entryfl|057|primeape|yes|yes|cave|42|10%|type1=fighting}}
+{{catch/entryfl|066|machop|yes|yes|cave|34|20%|type1=fighting}}
+{{catch/entryfl|067|machoke|yes|yes|cave|46, 48|5%|type1=fighting}}
+{{catch/entryfl|074|geodude|yes|yes|cave|34|20%|type1=rock|type2=ground}}
+{{catch/entryfl|095|onix|yes|yes|cave|45, 48|20%|type1=rock|type2=ground}}
+{{catch/entryfl|105|marowak|yes|yes|cave|46, 48|5%|type1=ground}}
+{{catch/footer|cave}}
+
+====generation iv====
+{{catch/header|cave|4}}
+{{catch/entryhs|042|golbat|yes|yes|cave|32|all=30%|type1=poison|type2=flying}}
+{{catch/entryhs|075|graveler|yes|yes|cave|32|all=30%|type1=rock|type2=ground}}
+{{catch/entryhs|232|donphan|yes|no|cave|33|all=20%|type1=ground}}
+{{catch/entryhs|217|ursaring|no|yes|cave|33|all=20%|type1=normal}}
+{{catch/entryhs|095|onix|yes|yes|cave|34-36|all=15%|type1=rock|type2=ground}}
+{{catch/entryhs|111|rhyhorn|yes|yes|cave|35|all=5%|type1=ground|type2=rock}}
+{{catch/div|cave|rock smash}}
+{{catch/entryhs|074|geodude|yes|yes|rock smash|24-32|all=90%|type1=rock|type2=ground}}
+{{catch/entryhs|075|graveler|yes|yes|rock smash|30-33|all=10%|type1=rock|type2=ground}}
+{{catch/div|cave|special}}
+{{catch/entryhs|296|makuhita|yes|yes|hoenn|33|all=20%|type1=fighting}}
+{{catch/entryhs|359|absol|yes|yes|hoenn|32|all=20%|type1=dark}}
+{{catch/entryhs|433|chingling|yes|yes|sinnoh|33|all=20%|type1=psychic}}
+{{catch/entryhs|436|bronzor|yes|yes|sinnoh|32|all=20%|type1=steel|type2=psychic}}
+
+~Victory Road (Sinnoh)~{{catch/header|cave|4}}
+{{catch/entry4|042|golbat|yes|yes|no|cave|44-46|all=20%|type1=poison|type2=flying}}
+{{catch/entry4|042|golbat|no|no|yes|cave|43|all=5%|type1=poison|type2=flying}}
+{{catch/entry4|067|machoke|yes|yes|no|cave|44-46|all=25%|type1=fighting}}
+{{catch/entry4|075|graveler|yes|yes|no|cave|45|all=20%|type1=rock|type2=ground}}
+{{catch/entry4|075|graveler|no|no|yes|cave|40-42|all=30%|type1=rock|type2=ground}}
+{{catch/entry4|095|onix|yes|yes|no|cave|44|all=10%|type1=rock|type2=ground}}
+{{catch/entry4|095|onix|no|no|yes|cave|41-42|all=20%|type1=rock|type2=ground}}
+{{catch/entry4|111|rhyhorn|no|no|yes|cave|41|all=20%|type1=ground|type2=rock}}
+{{catch/entry4|112|rhydon|no|no|yes|cave|41-43|all=15%|type1=ground|type2=rock}}
+{{catch/entry4|208|steelix|yes|yes|no|cave|46|all=10%|type1=steel|type2=ground}}
+{{catch/entry4|208|steelix|no|no|yes|cave|42|all=5%|type1=steel|type2=ground}}
+{{catch/entry4|308|medicham|yes|yes|no|cave|44-46|all=15%|type1=fighting|type2=psychic}}
+{{catch/entry4|444|gabite|no|no|yes|cave|41|all=5%|type1=dragon|type2=ground}}
+{{catch/footer|cave}}
+
+===2f===
+{{catch/header|cave|4}}
+{{catch/entry4|042|golbat|yes|yes|no|cave|45-47|all=20%|type1=poison|type2=flying}}
+{{catch/entry4|042|golbat|no|no|yes|cave|44|all=5%|type1=poison|type2=flying}}
+{{catch/entry4|064|kadabra|yes|yes|no|cave|45-47|all=25%|type1=psychic}}
+{{catch/entry4|075|graveler|yes|yes|no|cave|46|all=20%|type1=rock|type2=ground}}
+{{catch/entry4|075|graveler|no|no|yes|cave|41-43|all=15%|type1=rock|type2=ground}}
+{{catch/entry4|082|magneton|no|no|yes|cave|41-43|all=30%|type1=electric|type2=steel}}
+{{catch/entry4|095|onix|yes|yes|no|cave|45|all=10%|type1=rock|type2=ground}}
+{{catch/entry4|095|onix|no|no|yes|cave|42|all=5%|type1=rock|type2=ground}}
+{{catch/entry4|208|steelix|yes|yes|no|cave|47|all=10%|type1=steel|type2=ground}}
+{{catch/entry4|208|steelix|no|no|yes|cave|42-44|all=40%|type1=steel|type2=ground}}
+{{catch/entry4|308|medicham|yes|yes|no|cave|45-47|all=15%|type1=fighting|type2=psychic}}
+{{catch/entry4|444|gabite|no|no|yes|cave|43|all=5%|type1=dragon|type2=ground}}
+{{catch/footer|cave}}
+
+===b1f===
+{{catch/header|cave|4}}
+{{catch/entry4|042|golbat|yes|yes|no|cave|44-46|all=20%|type1=poison|type2=flying}}
+{{catch/entry4|042|golbat|no|no|yes|cave|44|all=5%|type1=poison|type2=flying}}
+{{catch/entry4|067|machoke|yes|yes|no|cave|44-46|all=25%|type1=fighting}}
+{{catch/entry4|095|onix|no|no|yes|cave|42|all=10%|type1=rock|type2=ground}}
+{{catch/entry4|184|azumarill|no|no|yes|cave|41-43|all=30%|type1=water}}
+{{catch/entry4|208|steelix|yes|yes|no|cave|46|all=10%|type1=steel|type2=ground}}
+{{catch/entry4|208|steelix|no|no|yes|cave|44|all=5%|type1=steel|type2=ground}}
+{{catch/entry4|308|medicham|yes|yes|no|cave|44-46|all=15%|type1=fighting|type2=psychic}}
+{{catch/entry4|419|floatzel|yes|yes|yes|cave|42-45|all=30%|type1=water}}
+{{catch/entry4|444|gabite|no|no|yes|cave|43|all=5%|type1=dragon|type2=ground}}
+{{catch/div|water|surfing}}
+{{catch/entry4|042|golbat|yes|yes|no|surf|35-50|all=100%|type1=poison|type2=flying}}
+{{catch/entry4|042|golbat|no|no|yes|surf|30-50|all=10%|type1=poison|type2=flying}}
+{{catch/entry4|419|floatzel|no|no|yes|surf|30-50|all=90%|type1=water}}
+{{catch/div|water|fishing}}
+{{catch/entry4|129|magikarp|yes|yes|no|fish old|3-10|all=100%|type1=water}}
+{{catch/entry4|129|magikarp|no|no|yes|fish old|3-15|all=100%|type1=water}}
+{{catch/entry4|129|magikarp|yes|yes|no|fish good|10-25|all=65%|type1=water}}
+{{catch/entry4|129|magikarp|no|no|yes|fish good|10-25|all=100%|type1=water}}
+{{catch/entry4|223|remoraid|yes|yes|no|fish good|10-25|all=35%|type1=water}}
+{{catch/entry4|130|gyarados|yes|yes|no|fish super|20-55|all=100%|type1=water|type2=flying}}
+{{catch/entry4|130|gyarados|no|no|yes|fish super|30-55|all=100%|type1=water|type2=flying}}
+{{catch/footer|cave}}
+
+===1f back 2 (after national pokã©dex)===
+these pokã©mon (excluding swarm, pokã© radar, and dual-slot pokã©mon) will be faced in double battles if the player is with marley. 
+
+{{catch/header|cave}}
+{{catch/entry4|042|golbat|yes|yes|no|cave|50-52|all=20%|type1=poison|type2=flying}}
+{{catch/entry4|042|golbat|no|no|yes|cave|50|5%|5%|15%|type1=poison|type2=flying}}
+{{catch/entry4|067|machoke|yes|yes|no|cave|50-52|all=25%|type1=fighting}}
+{{catch/entry4|075|graveler|no|no|yes|cave|47-49|15%|15%|5%|type1=rock|type2=ground}}
+{{catch/entry4|087|dewgong|no|no|yes|cave|48-50|all=15%|type1=water|type2=ice}}
+{{catch/entry4|184|azumarill|no|no|yes|cave|47-49|all=30%|type1=water}}
+{{catch/entry4|208|steelix|yes|yes|no|cave|52|all=10%|type1=steel|type2=ground}}
+{{catch/entry4|308|medicham|yes|yes|no|cave|50-52|all=15%|type1=fighting|type2=psychic}}
+{{catch/entry4|419|floatzel|yes|yes|no|cave|50-51|all=30%|type1=water}}
+{{catch/entry4|419|floatzel|no|no|yes|cave|48-50|all=30%|type1=water}}
+{{catch/entry4|444|gabite|no|no|yes|cave|49|all=5%|type1=dragon|type2=ground}}
+{{catch/div|water|surfing}}
+{{catch/entry4|042|golbat|yes|yes|no|surf|40-55|all=90%|type1=poison|type2=flying}}
+{{catch/entry4|087|dewgong|no|no|yes|surf|35-55|all=30%|type1=water|type2=ice}}
+{{catch/entry4|131|lapras|yes|yes|no|surf|40-60|all=10%|type1=water|type2=ice}}
+{{catch/entry4|131|lapras|no|no|yes|surf|35-55|all=10%|type1=water|type2=ice}}
+{{catch/entry4|419|floatzel|no|no|yes|surf|35-55|all=60%|type1=water}}
+{{catch/div|water|fishing}}
+{{catch/entry4|129|magikarp|yes|yes|yes|fish old|3-10|all=100%|type1=water}}
+{{catch/entry4|129|magikarp|yes|yes|no|fish good|10-25|all=65%|type1=water}}
+{{catch/entry4|129|magikarp|no|no|yes|fish good|10-25|all=100%|type1=water}}
+{{catch/entry4|223|remoraid|yes|yes|no|fish good|10-25|all=35%|type1=water}}
+{{catch/entry4|130|gyarados|yes|yes|yes|fish super|20-55|all=100%|type1=water|type2=flying}}
+{{catch/footer|cave}}
+
+===1f back 1 and 3 (after national pokã©dex)===
+{{catch/header|cave}}
+{{catch/entry4|042|golbat|yes|yes|no|cave|50-52|all=20%|type1=poison|type2=flying}}
+{{catch/entry4|042|golbat|no|no|yes|cave|50|5%|5%|15%|type1=poison|type2=flying}}
+{{catch/entry4|067|machoke|yes|yes|no|cave|50-52|all=25%|type1=fighting}}
+{{catch/entry4|075|graveler|yes|yes|no|cave|51|all=20%|type1=rock|type2=ground}}
+{{catch/entry4|075|graveler|no|no|yes|cave|47-49|30%|30%|20%|type1=rock|type2=ground}}
+{{catch/entry4|095|onix|yes|yes|no|cave|50|all=10%|type1=rock|type2=ground}}
+{{catch/entry4|095|onix|no|no|yes|cave|48-50|all=20%|type1=rock|type2=ground}}
+{{catch/entry4|208|steelix|yes|yes|no|cave|52|all=10%|type1=steel|type2=ground}}
+{{catch/entry4|208|steelix|no|no|yes|cave|50|all=10%|type1=steel|type2=ground}}
+{{catch/entry4|308|medicham|yes|yes|no|cave|50-52|all=15%|type1=fighting|type2=psychic}}
+{{catch/entry4|419|floatzel|no|no|yes|cave|47-49|all=35%|type1=water}}
+{{catch/entry4|444|gabite|no|no|yes|cave|50|all=5%|type1=dragon|type2=ground}}
+
+~Village Bridge~hite===
+{{catch/header|road|4}}
+{{catch/entry5|055|golduck|yes|yes|no|grass|47-49|all=25%|type1=water}}
+{{catch/entry5|400|bibarel|yes|yes|no|grass|47-49|all=25%|type1=normal|type2=water}}
+{{catch/entry5|629|vullaby|yes|no|no|grass|48-50|all=20%|type1=dark|type2=flying}}
+{{catch/entry5|627|rufflet|no|yes|no|grass|48-50|all=20%|type1=normal|type2=flying}}
+{{catch/entry5|335|zangoose|yes|yes|no|grass|48-50|all=15%|type1=normal}}
+{{catch/entry5|336|seviper|yes|yes|no|grass|48-50|all=15%|type1=poison}}
+{{catch/div|road|dark grass}}
+{{catch/entry5|055|golduck|yes|yes|no|dark|57-59|all=25%|type1=water}}
+{{catch/entry5|400|bibarel|yes|yes|no|dark|57-59|all=25%|type1=normal|type2=water}}
+{{catch/entry5|630|mandibuzz|yes|no|no|dark|58-60|all=20%|type1=dark|type2=flying}}
+{{catch/entry5|628|braviary|no|yes|no|dark|58-60|all=20%|type1=normal|type2=flying}}
+{{catch/entry5|335|zangoose|yes|yes|no|dark|58-60|all=15%|type1=normal}}
+{{catch/entry5|336|seviper|yes|yes|no|dark|58-60|all=15%|type1=poison}}
+{{catch/div|road|rustling grass}}
+{{catch/entry5|531|audino|yes|yes|no|rustling|47-50|all=90%|type1=normal}}
+{{catch/entry5|587|emolga|yes|yes|no|rustling|48|all=10%|type1=electric|type2=flying}}
+{{catch/div|water|surfing}}
+{{catch/entry5|550|basculin|yes|no|no|surf|25-55|all=100%|type1=water}}
+{{catch/entry5|550b|basculin|no|yes|no|surf|25-55|all=100%|type1=water}}
+{{catch/div|water|rippling water}}
+{{catch/entry5|550b|basculin|yes|no|no|rippling|25-70|all=95%|type1=water}}
+{{catch/entry5|550|basculin|no|yes|no|rippling|25-70|all=95%|type1=water}}
+{{catch/entry5|131|lapras|yes|yes|no|rippling|35-70|all=5%|type1=water|type2=ice}}
+{{catch/div|water|fishing}}
+{{catch/entry5|318|carvanha|yes|yes|no|fish super|35-55|all=70%|type1=water|type2=dark}}
+{{catch/entry5|550|basculin|yes|no|no|fish super|35-55|all=30%|type1=water}}
+{{catch/entry5|550b|basculin|no|yes|no|fish super|35-55|all=30%|type1=water}}
+{{catch/div|water|rippling water}}
+{{catch/entry5|318|carvanha|yes|yes|no|rippling|35-60|all=60%|type1=water|type2=dark}}
+{{catch/entry5|550b|basculin|yes|no|no|rippling|35-60|all=30%|type1=water}}
+{{catch/entry5|550|basculin|no|yes|no|rippling|35-60|all=30%|type1=water}}
+{{catch/entry5|319|sharpedo|yes|yes|no|rippling|35-70|all=10%|type1=water|type2=dark}}
+{{catch/footer|road}}
+
+===pokã©mon black 2 and white 2===
+{{catch/header|road|4}}
+{{catch/entry5-2|055|golduck|yes|yes|grass|36-38|all=35%|type1=water}}
+{{catch/entry5-2|183|marill|yes|yes|grass|36-38|all=35%|type1=water}}
+{{catch/entry5-2|335|zangoose|yes|yes|grass|37-39|all=15%|type1=normal}}
+{{catch/entry5-2|336|seviper|yes|yes|grass|37-39|all=15%|type1=poison}}
+{{catch/div|road|dark grass}}
+{{catch/entry5-2|055|golduck|yes|yes|dark|40-42|all=35%|type1=water}}
+{{catch/entry5-2|183|marill|yes|yes|dark|40-42|all=35%|type1=water}}
+{{catch/entry5-2|335|zangoose|yes|yes|dark|41-43|all=15%|type1=normal}}
+{{catch/entry5-2|336|seviper|yes|yes|dark|41-43|all=15%|type1=poison}}
+{{catch/div|road|rustling grass}}
+{{catch/entry5-2|184|azumarill|yes|yes|rustling|39|all=5%|type1=water}}
+{{catch/entry5-2|206|dunsparce|yes|yes|rustling|37|all=10%|type1=normal}}
+{{catch/entry5-2|531|audino|yes|yes|rustling|36-39|all=75%|type1=normal}}
+{{catch/entry5-2|587|emolga|yes|yes|rustling|37|all=10%|type1=electric|type2=flying}}
+{{catch/div|water|surfing}}
+{{catch/entry5-2|183|marill|yes|yes|surf|25-40|all=30%|type1=water}}
+{{catch/entry5-2|550|basculin|yes|no|surf|25-40|all=70%|type1=water}}
+{{catch/entry5-2|550b|basculin|no|yes|surf|25-40|all=70%|type1=water}}
+{{catch/div|water|rippling water}}
+{{catch/entry5-2|131|lapras|yes|yes|rippling|30-40|all=5%|type1=water|type2=ice}}
+{{catch/entry5-2|183|marill|yes|yes|rippling|25-40|all=60%|type1=water}}
+{{catch/entry5-2|184|azumarill|yes|yes|rippling|30-40|all=5%|type1=water}}
+{{catch/entry5-2|550b|basculin|yes|no|rippling|25-40|all=30%|type1=water}}
+{{catch/entry5-2|550|basculin|no|yes|rippling|25-40|all=30%|type1=water}}
+{{catch/div|water|fishing}}
+{{catch/entry5-2|318|carvanha|yes|yes|fish super|40-70|all=70%|type1=water|type2=dark}}
+{{catch/entry5-2|550|basculin|yes|no|fish super|40-60|all=30%|type1=water}}
+{{catch/entry5-2|550b|basculin|no|yes|fish super|40-60|all=30%|type1=water}}
+{{catch/div|water|rippling water}}
+{{catch/entry5-2|318|carvanha|yes|yes|rippling|40-60|all=60%|type1=water|type2=dark}}
+{{catch/entry5-2|319|sharpedo|yes|yes|rippling|50-70|all=10%|type1=water|type2=dark}}
+{{catch/entry5-2|550b|basculin|yes|no|rippling|40-60|all=30%|type1=water}}
+{{catch/entry5-2|550|basculin|no|yes|rippling|40-60|all=30%|type1=water}}
+
+~Violet City~tion ii===
+{{catch/header|road|4}}
+{{catch/div|water|surfing}}
+{{catch/entry2|060|poliwag|yes|yes|yes|surf|20-24|all=60%|type1=water}}
+{{catch/entry2|060|poliwag|yes|yes|yes|surf|15-19|all=30%|type1=water}}
+{{catch/entry2|061|poliwhirl|yes|yes|yes|surf|20-24|all=10%|type1=water}}
+{{catch/div|water|fishing}}
+{{catch/entry2|060|poliwag|yes|yes|yes|fish old|10|all=15%|type1=water}}
+{{catch/entry2|129|magikarp|yes|yes|yes|fish old|10|all=85%|type1=water}}
+{{catch/entry2|060|poliwag|yes|yes|yes|fish good|20|all=65%|type1=water}}
+{{catch/entry2|129|magikarp|yes|yes|yes|fish good|20|all=35%|type1=water}}
+{{catch/entry2|060|poliwag|yes|yes|yes|fish super|40|all=80%|type1=water}}
+{{catch/entry2|129|magikarp|yes|yes|yes|fish super|40|all=20%|type1=water}}
+{{catch/div|road|gift pokã©mon}}
+{{catch/entry2|175|togepi|yes|yes|yes|egg|5|all=one|type1=normal}}
+{{catch/div|road|special}}
+{{catch/entry2|095|onix|yes|yes|yes|trade|the same as the traded pokã©mon|all=one|tradenum=069|tradename=bellsprout|type1=rock|type2=ground}}
+{{catch/footer|road}}
+
+===generation iv===
+{{catch/header|road|4}}
+{{catch/div|water|surfing}}
+{{catch/entryhs|060|poliwag|yes|yes|surf|10-25|all=90%|type1=water}}
+{{catch/entryhs|061|poliwhirl|yes|yes|surf|15-32|all=10%|type1=water}}
+{{catch/div|water|fishing}}
+{{catch/entryhs|060|poliwag|yes|yes|fish old|10|all=15%|type1=water}}
+{{catch/entryhs|129|magikarp|yes|yes|fish old|10|all=85%|type1=water}}
+{{catch/entryhs|060|poliwag|yes|yes|fish good|20|all=60%|type1=water}}
+{{catch/entryhs|129|magikarp|yes|yes|fish good|20|all=40%|type1=water}}
+{{catch/entryhs|060|poliwag|yes|yes|fish super|40|all=80%|type1=water}}
+{{catch/entryhs|129|magikarp|yes|yes|fish super|40|all=20%|type1=water}}
+{{catch/div|road|headbutt}}
+{{catch/entryhs|102|exeggcute|yes|yes|headbutt|10|all=20%|type1=grass|type2=psychic|10=j}}
+{{catch/entryhs|163|hoothoot|yes|yes|headbutt|2-3|all=50%|type1=normal|type2=flying|10=j}}
+{{catch/entryhs|204|pineco|yes|yes|headbutt|10|all=30%|type1=bug|10=j}}
+{{catch/div|road|headbutt}}
+{{catch/entryhs|102|exeggcute|yes|yes|headbutt|10|all=20%|type1=grass|type2=psychic|10=j}}
+{{catch/entryhs|163|hoothoot|yes|yes|headbutt|4-10|all=80%|type1=normal|type2=flying|10=j}}
+{{catch/div|road|swarm}}
+{{catch/entryhs|340|whiscash|yes|yes|swarm|10|all={{tt|15%|with old rod}}|type1=water|type2=ground}}
+{{catch/entryhs|340|whiscash|yes|yes|swarm|20|all={{tt|65%|with good rod}}|type1=water|type2=ground}}
+{{catch/entryhs|340|whiscash|yes|yes|swarm|40|all={{tt|100%|with super rod}}|type1=water|type2=ground}}
+{{catch/div|road|gift pokã©mon}}
+{{catch/entryhs|175|togepi|yes|yes|egg|1|all=one|type1=normal}}
+{{catch/entryhs|179|mareep|yes|yes|egg|1|all={{tt|one|egg received from primo, requires individual code}}|type1=electric}}
+{{catch/entryhs|194|wooper|yes|yes|egg|1|all={{tt|one|egg received from primo, requires individual code}}|type1=water|type2=ground}}
+{{catch/entryhs|218|slugma|yes|yes|egg|1|all={{tt|one|egg received from primo, requires individual code}}|type1=fire}}
+{{catch/div|road|special}}
+{{catch/entryhs|095|onix|yes|yes|trade|the same as the traded pokã©mon|all=one|tradenum=069|tradename=bellsprout|type1=rock|type2=ground}}
+
+~Virbank City~on==
+{{catch/header|town|4}}
+{{catch/div|water|surfing}}
+{{catch/entry5-2|592|frillish|yes|yes|surf|5-15|all=50%|type1=water|type2=ghost}}
+{{catch/entry5-2|592f|frillish|yes|yes|surf|5-15|all=50%|type1=water|type2=ghost}}
+{{catch/div|water|surfing in rippling water}}
+{{catch/entry5-2|593|jellicent|yes|yes|rippling|5-15|all=2.5%|type1=water|type2=ghost}}
+{{catch/entry5-2|593f|jellicent|yes|yes|rippling|5-15|all=2.5%|type1=water|type2=ghost}}
+{{catch/entry5-2|594|alomomola|yes|yes|rippling|5-15|all=95%|type1=water}}
+{{catch/div|water|fishing}}
+{{catch/entry5-2|098|krabby|yes|yes|fish super|40-60|all=30%|type1=water}}
+{{catch/entry5-2|211|qwilfish|yes|yes|fish super|50-70|all=5%|type1=water|type2=poison}}
+{{catch/entry5-2|456|finneon|yes|yes|fish super|40-70|all=65%|type1=water}}
+{{catch/div|water|fishing in rippling water}}
+{{catch/entry5-2|098|krabby|yes|yes|rippling|40-60|all=60%|type1=water}}
+{{catch/entry5-2|099|kingler|yes|yes|rippling|50-70|all=10%|type1=water}}
+{{catch/entry5-2|457|lumineon|yes|yes|rippling|40-60|all=30%|type1=water}}
+
+~Virbank Complex~ce===
+{{catch/header|road|2}}
+{{catch/entry5-2|081|magnemite|yes|yes|grass|10-11|all=15%|type1=electric|type2=steel}}
+{{catch/entry5-2|239|elekid|no|yes|grass|10-12|all=15%|type1=electric}}
+{{catch/entry5-2|240|magby|yes|no|grass|10-12|all=15%|type1=fire}}
+{{catch/entry5-2|504|patrat|yes|yes|grass|10-13|all=35%|type1=normal}}
+{{catch/entry5-2|519|pidove|yes|yes|grass|10-13|all=35%|type1=normal|type2=flying}}
+{{catch/div|road|rustling grass}}
+{{catch/entry5-2|531|audino|yes|yes|rustling|10-13|all=100%|type1=normal}}
+{{catch/div|water|surfing}}
+{{catch/entry5-2|592|frillish|yes|yes|surf|5-15|all=50%|type1=water|type2=ghost}}
+{{catch/entry5-2|592f|frillish|yes|yes|surf|5-15|all=50%|type1=water|type2=ghost}}
+{{catch/div|water|surfing in rippling water}}
+{{catch/entry5-2|594|alomomola|yes|yes|rippling|5-15|all=95%|type1=water}}
+{{catch/entry5-2|593|jellicent|yes|yes|rippling|5-15|all=2.5%|type1=water|type2=ghost}}
+{{catch/entry5-2|593f|jellicent|yes|yes|rippling|5-15|all=2.5%|type1=water|type2=ghost}}
+{{catch/div|water|fishing}}
+{{catch/entry5-2|098|krabby|yes|yes|fish super|40-60|all=30%|type1=water}}
+{{catch/entry5-2|456|finneon|yes|yes|fish super|40-70|all=65%|type1=water}}
+{{catch/entry5-2|211|qwilfish|yes|yes|fish super|50-70|all=5%|type1=water|type2=poison}}
+{{catch/div|water|fishing in rippling water}}
+{{catch/entry5-2|098|krabby|yes|yes|rippling|40-60|all=60%|type1=water}}
+{{catch/entry5-2|099|kingler|yes|yes|rippling|50-70|all=10%|type1=water}}
+{{catch/entry5-2|457|lumineon|yes|yes|rippling|40-60|all=30%|type1=water}}
+{{catch/footer|road}}
+
+===inside===
+{{catch/header|road|2}}
+{{catch/entry5-2|058|growlithe|yes|yes|grass|11-13|all=20%|type1=fire}}
+{{catch/entry5-2|081|magnemite|yes|yes|grass|10-12|all=25%|type1=electric|type2=steel}}
+{{catch/entry5-2|109|koffing|yes|yes|grass|10-13|all=15%|type1=poison}}
+{{catch/entry5-2|239|elekid|no|yes|grass|10-12|all=25%|type1=electric}}
+{{catch/entry5-2|240|magby|yes|no|grass|10-12|all=25%|type1=fire}}
+{{catch/entry5-2|504|patrat|yes|yes|grass|10-13|all=15%|type1=normal}}
+{{catch/div|road|dark grass}}
+{{catch/entry5-2|058|growlithe|yes|yes|dark|12-14|all=20%|type1=fire}}
+{{catch/entry5-2|081|magnemite|yes|yes|dark|11-13|all=25%|type1=electric|type2=steel}}
+{{catch/entry5-2|109|koffing|yes|yes|dark|11-14|all=15%|type1=poison}}
+{{catch/entry5-2|239|elekid|no|yes|dark|11-13|all=25%|type1=electric}}
+{{catch/entry5-2|240|magby|yes|no|dark|11-13|all=25%|type1=fire}}
+{{catch/entry5-2|504|patrat|yes|yes|dark|11-14|all=15%|type1=normal}}
+{{catch/div|road|rustling grass}}
+{{catch/entry5-2|531|audino|yes|yes|rustling|10-13|all=100%|type1=normal}}
+
+~Viridian City~tion i===
+{{catch/header|road|no}}
+{{catch/div|water|fishing}}
+{{catch/entry1|129|magikarp|yes|yes|yes|fish old|5|100%|type1=water}}
+{{catch/entry1|060|poliwag|yes|yes|yes|fish good|10|50%|type1=water}}
+{{catch/entry1|118|goldeen|yes|yes|yes|fish good|10|50%|type1=water}}
+{{catch/entry1|060|poliwag|yes|yes|no|fish super|15|50%|type1=water}}
+{{catch/entry1|060|poliwag|no|no|yes|fish super|5, 10, 15|100%|type1=water}}
+{{catch/entry1|072|tentacool|yes|yes|no|fish super|15|50%|type1=water|type2=poison}}
+{{catch/footer|road}}
+
+===generation ii===
+{{catch/header|road|4}}
+{{catch/div|water|surfing}}
+{{catch/entry2|060|poliwag|yes|yes|yes|surf|5-14|all=90%|type1=water}}
+{{catch/entry2|061|poliwhirl|yes|yes|yes|surf|10-14|all=10%|type1=water}}
+{{catch/div|water|fishing}}
+{{catch/entry2|060|poliwag|yes|yes|yes|fish old|10|all=15%|type1=water}}
+{{catch/entry2|129|magikarp|yes|yes|yes|fish old|10|all=85%|type1=water}}
+{{catch/entry2|060|poliwag|yes|yes|yes|fish good|20|all=65%|type1=water}}
+{{catch/entry2|129|magikarp|yes|yes|yes|fish good|20|all=35%|type1=water}}
+{{catch/entry2|060|poliwag|yes|yes|yes|fish super|40|all=70%|type1=water}}
+{{catch/entry2|061|poliwhirl|yes|yes|yes|fish super|40|all=10%|type1=water}}
+{{catch/entry2|129|magikarp|yes|yes|yes|fish super|40|all=20%|type1=water}}
+{{catch/footer|road}}
+
+===generation iii===
+{{catch/header|road|no}}
+{{catch/div|water|surfing}}
+{{catch/entryfl|054|psyduck|yes|no|surf|20-40|100%|type1=water}}
+{{catch/entryfl|079|slowpoke|no|yes|surf|20-40|100%|type1=water|type2=psychic}}
+{{catch/div|water|fishing}}
+{{catch/entryfl|129|magikarp|yes|yes|fish old|5|100%|type1=water}}
+{{catch/entryfl|060|poliwag|yes|yes|fish good|5-15|60%|type1=water}}
+{{catch/entryfl|118|goldeen|yes|yes|fish good|5-15|20%|type1=water}}
+{{catch/entryfl|129|magikarp|yes|yes|fish good|5-15|20%|type1=water}}
+{{catch/entryfl|054|psyduck|yes|no|fish super|15-35|5%|type1=water}}
+{{catch/entryfl|060|poliwag|yes|yes|fish super|15-25|40%|type1=water}}
+{{catch/entryfl|061|poliwhirl|yes|yes|fish super|20-30|40%|type1=water}}
+{{catch/entryfl|079|slowpoke|no|yes|fish super|15-35|5%|type1=water|type2=psychic}}
+{{catch/entryfl|130|gyarados|yes|yes|fish super|15-25|15%|type1=water|type2=flying}}
+{{catch/footer|road}}
+
+===generation iv===
+{{catch/header|road|4}}
+{{catch/div|water|surfing}}
+{{catch/entryhs|060|poliwag|yes|yes|surf|5-10|all=90%|type1=water}}
+{{catch/entryhs|061|poliwhirl|yes|yes|surf|10|all=10%|type1=water}}
+{{catch/div|water|fishing}}
+{{catch/entryhs|060|poliwag|yes|yes|fish old|10|all=5%|type1=water}}
+{{catch/entryhs|129|magikarp|yes|yes|fish old|10|all=95%|type1=water}}
+{{catch/entryhs|060|poliwag|yes|yes|fish good|20|all=60%|type1=water}}
+{{catch/entryhs|129|magikarp|yes|yes|fish good|20|all=40%|type1=water}}
+{{catch/entryhs|060|poliwag|yes|yes|fish super|40|all=93%|type1=water}}
+{{catch/entryhs|129|magikarp|yes|yes|fish super|40|all=7%|type1=water}}
+{{catch/div|road|headbutt}}
+{{catch/entryhs|163|hoothoot|yes|yes|headbutt|3-7|all=50%|type1=normal|type2=flying|10=k}}
+{{catch/entryhs|165|ledyba|no|yes|headbutt|5-7|all=30%|type1=bug|type2=flying|10=k}}
+{{catch/entryhs|167|spinarak|yes|no|headbutt|5-7|all=30%|type1=bug|type2=poison|10=k}}
+{{catch/entryhs|204|pineco|yes|yes|headbutt|3-4|all=30%|type1=bug|10=k}}
+{{catch/entryhs|265|wurmple|yes|yes|headbutt|3-7|all=20%|type1=bug|10=k}}
+
+~Viridian Forest~ration i===
+{{catch/header|forest|no}}
+{{catch/entry1|010|caterpie|yes|no|no|grass|3|5%|type1=bug}}
+{{catch/entry1|010|caterpie|no|yes|no|grass|3-5|50%|type1=bug}}
+{{catch/entry1|010|caterpie|no|no|yes|grass|3-6|55%|type1=bug}}
+{{catch/entry1|011|metapod|yes|no|no|grass|4|5%|type1=bug}}
+{{catch/entry1|011|metapod|no|yes|no|grass|4-6|35%|type1=bug}}
+{{catch/entry1|011|metapod|no|no|yes|grass|4, 6|20%|type1=bug}}
+{{catch/entry1|013|weedle|yes|no|no|grass|3-5|50%|type1=bug|type2=poison}}
+{{catch/entry1|013|weedle|no|yes|no|grass|3|5%|type1=bug|type2=poison}}
+{{catch/entry1|014|kakuna|yes|no|no|grass|4-6|35%|type1=bug|type2=poison}}
+{{catch/entry1|014|kakuna|no|yes|no|grass|4|5%|type1=bug|type2=poison}}
+{{catch/entry1|016|pidgey|no|no|yes|grass|4, 6, 8|24%|type1=normal|type2=flying}}
+{{catch/entry1|017|pidgeotto|no|no|yes|grass|9|1%|type1=normal|type2=flying}}
+{{catch/entry1|025|pikachu|yes|yes|no|grass|3, 5|5%|type1=electric}}
+{{catch/footer|forest}}
+
+===generation iii===
+{{catch/header|forest|no}}
+{{catch/entryfl|010|caterpie|yes|yes|grass|3-5|40%|type1=bug}}
+{{catch/entryfl|011|metapod|yes|no|grass|5|5%|type1=bug}}
+{{catch/entryfl|011|metapod|no|yes|grass|4-6|10%|type1=bug}}
+{{catch/entryfl|013|weedle|yes|yes|grass|3-5|40%|type1=bug|type2=poison}}
+{{catch/entryfl|014|kakuna|yes|no|grass|4-6|10%|type1=bug|type2=poison}}
+{{catch/entryfl|014|kakuna|no|yes|grass|5|5%|type1=bug|type2=poison}}
+{{catch/entryfl|025|pikachu|yes|yes|grass|3, 5|5%|type1=electric}}
+{{catch/footer|forest}}
+
+===generation iv===
+{{catch/header|forest|yes}}
+{{catch/entryhs|010|caterpie|yes|no|grass|3|40%|40%|0%|type1=bug}}
+{{catch/entryhs|013|weedle|no|yes|grass|3|40%|40%|0%|type1=bug|type2=poison}}
+{{catch/entryhs|011|metapod|yes|no|grass|3-5|30%|30%|0%|type1=bug}}
+{{catch/entryhs|014|kakuna|no|yes|grass|3-5|30%|30%|0%|type1=bug|type2=poison}}
+{{catch/entryhs|016|pidgey|yes|yes|grass|3|10%|0%|0%|type1=normal|type2=flying}}
+{{catch/entryhs|016|pidgey|yes|yes|grass|3-7|0%|15%|0%|type1=normal|type2=flying}}
+{{catch/entryhs|012|butterfree|yes|no|grass|7|10%|0%|0%|type1=bug|type2=flying}}
+{{catch/entryhs|015|beedrill|no|yes|grass|7|10%|0%|0%|type1=bug|type2=poison}}
+{{catch/entryhs|025|pikachu|yes|yes|grass|4-7|6%|6%|0%|type1=electric}}
+{{catch/entryhs|025|pikachu|yes|yes|grass|4|0%|0%|5%|type1=electric}}
+{{catch/entryhs|017|pidgeotto|yes|yes|grass|7|4%|9%|0%|type1=normal|type2=flying}}
+{{catch/entryhs|163|hoothoot|yes|yes|grass|3-5|0%|0%|80%|type1=normal|type2=flying}}
+{{catch/entryhs|164|noctowl|yes|yes|grass|7|0%|0%|15%|type1=normal|type2=flying}}
+{{catch/div|forest|headbutt}}
+{{catch/entryhs|163|hoothoot|yes|yes|headbutt|3-7|all=50%|type1=normal|type2=flying|10=k}}
+{{catch/entryhs|273|seedot|yes|no|headbutt|3-6|all=30%|type1=grass|10=k}}
+{{catch/entryhs|273|seedot|no|yes|headbutt|3-6|all=5%|type1=grass|10=k}}
+{{catch/entryhs|167|spinarak|yes|no|headbutt|4|all=10%|type1=bug|type2=poison|10=k}}
+{{catch/entryhs|168|ariados|yes|no|headbutt|5-6|all=10%|type1=bug|type2=poison|10=k}}
+{{catch/entryhs|165|ledyba|no|yes|headbutt|4|all=10%|type1=bug|type2=flying|10=k}}
+{{catch/entryhs|166|ledian|no|yes|headbutt|5-6|all=10%|type1=bug|type2=flying|10=k}}
+{{catch/entryhs|164|noctowl|yes|yes|headbutt|5-7|all=5%|type1=normal|type2=flying|10=k}}
+{{catch/entryhs|285|shroomish|yes|no|headbutt|5-6|all=5%|type1=grass|10=k}}
+{{catch/entryhs|285|shroomish|no|yes|headbutt|5-6|all=30%|type1=grass|10=k}}
+{{catch/div|forest|swarm}}
+{{catch/entryhs|401|kricketot|yes|yes|swarm|3-5|all=40%|type1=bug}}
+{{catch/div|forest|special}}
+{{catch/entryhs|322|numel|yes|yes|hoenn|5|all=20%|type1=fire|type2=ground}}
+{{catch/entryhs|325|spoink|yes|yes|hoenn|3|all=20%|type1=psychic}}
+{{catch/entryhs|406|budew|yes|yes|sinnoh|3|all=20%|type1=grass|type2=poison}}
+{{catch/entryhs|455|carnivine|yes|yes|sinnoh|5|all=20%|type1=grass}}
+
+Vista Lighthouse will continue
+~Water Labyrinth~n==
+{{catch/header|ocean|no}}
+{{catch/div|ocean|surfing}}
+{{catch/entryfl|072|tentacool|yes|yes|surf|5-40|65%|type1=water|type2=poison}}
+{{catch/entryfl|187|hoppip|yes|yes|surf|5-15|30%|type1=grass|type2=flying}}
+{{catch/entryfl|073|tentacruel|yes|yes|surf|35-40|5%|type1=water|type2=poison}}
+{{catch/div|ocean|fishing}}
+{{catch/entryfl|129|magikarp|yes|yes|fish old|5|100%|type1=water}}
+{{catch/entryfl|116|horsea|yes|no|fish good|5-15|80%|type1=water}}
+{{catch/entryfl|098|krabby|no|yes|fish good|5-15|80%|type1=water}}
+{{catch/entryfl|129|magikarp|yes|yes|fish good|5-15|20%|type1=water}}
+{{catch/entryfl|116|horsea|yes|no|fish super|15-25|40%|type1=water}}
+{{catch/entryfl|211|qwilfish|yes|no|fish super|15-25|40%|type1=water|type2=poison}}
+{{catch/entryfl|098|krabby|no|yes|fish super|15-25|40%|type1=water}}
+{{catch/entryfl|223|remoraid|no|yes|fish super|15-25|40%|type1=water}}
+{{catch/entryfl|130|gyarados|yes|yes|fish super|15-25|15%|type1=water|type2=flying}}
+{{catch/entryfl|117|seadra|yes|no|fish super|25-35|4%|type1=water}}
+{{catch/entryfl|099|kingler|no|yes|fish super|25-35|4%|type1=water}}
+{{catch/entryfl|054|psyduck|yes|no|fish super|25-35|1%|type1=water}}
+{{catch/entryfl|079|slowpoke|no|yes|fish super|25-35|1%|type1=water|type2=psychic}}
+{{catch/div|ocean|gift pokã©mon}}
+{{catch/entryfl|175|togepi|yes|yes|egg|5|one}}
+
+~Water Path~mon==
+{{catch/header|land|no}}
+{{catch/entryfl|021|spearow|yes|yes|grass|44|20%|type1=normal|type2=flying}}
+{{catch/entryfl|022|fearow|yes|yes|grass|48, 50|15%|type1=normal|type2=flying}}
+{{catch/entryfl|043|oddish|yes|no|grass|44|10%|type1=grass|type2=poison}}
+{{catch/entryfl|044|gloom|yes|no|grass|48|5%|type1=grass|type2=poison}}
+{{catch/entryfl|052|meowth|yes|yes|grass|41|10%|type1=normal}}
+{{catch/entryfl|053|persian|yes|yes|grass|47, 50|5%|type1=normal}}
+{{catch/entryfl|054|psyduck|yes|no|grass|41|5%|type1=water}}
+{{catch/entryfl|069|bellsprout|no|yes|grass|44|10%|type1=grass|type2=poison}}
+{{catch/entryfl|070|weepinbell|no|yes|grass|48|5%|type1=grass|type2=poison}}
+{{catch/entryfl|079|slowpoke|no|yes|grass|41|5%|type1=water|type2=psychic}}
+{{catch/entryfl|161|sentret|yes|yes|grass|10, 15|30%|type1=normal}}
+{{catch/div|water|surfing}}
+{{catch/entryfl|072|tentacool|yes|yes|surf|5-40|95%|type1=water|type2=poison}}
+{{catch/entryfl|073|tentacruel|yes|yes|surf|35-40|5%|type1=water|type2=poison}}
+{{catch/div|water|fishing}}
+{{catch/entryfl|129|magikarp|yes|yes|fish old|5|100%|type1=water}}
+{{catch/entryfl|098|krabby|no|yes|fish good|5-15|80%|type1=water}}
+{{catch/entryfl|116|horsea|yes|no|fish good|5-15|80%|type1=water}}
+{{catch/entryfl|129|magikarp|yes|yes|fish good|5-15|20%|type1=water}}
+{{catch/entryfl|054|psyduck|yes|no|fish super|25-35|1%|type1=water}}
+{{catch/entryfl|079|slowpoke|no|yes|fish super|25-35|1%|type1=water|type2=psychic}}
+{{catch/entryfl|098|krabby|no|yes|fish super|15-25|40%|type1=water}}
+{{catch/entryfl|099|kingler|no|yes|fish super|25-35|4%|type1=water}}
+{{catch/entryfl|116|horsea|yes|no|fish super|15-25|40%|type1=water}}
+{{catch/entryfl|117|seadra|yes|no|fish super|25-35|4%|type1=water}}
+{{catch/entryfl|130|gyarados|yes|yes|fish super|15-25|15%|type1=water|type2=flying}}
+{{catch/entryfl|211|qwilfish|yes|no|fish super|15-25|40%|type1=water|type2=poison}}
+{{catch/entryfl|223|remoraid|no|yes|fish super|15-25|40%|type1=water}}
+
+~Wayward Cave~a.
+{{catch/header|cave|4}}
+{{catch/div|cave|main entrance}}
+{{catch/entry4|041|zubat|yes|yes|no|cave|14-16|all=45%|type1=poison|type2=flying}}
+{{catch/entry4|041|zubat|no|no|yes|cave|17-19|all=15%|type1=poison|type2=flying}}
+{{catch/entry4|074|geodude|yes|yes|no|cave|14-16|all=15%|type1=rock|type2=ground}}
+{{catch/entry4|074|geodude|no|no|yes|cave|17-20|all=40%|type1=rock|type2=ground}}
+{{catch/entry4|095|onix|no|no|yes|cave|18-20|all=15%|type1=rock|type2=ground}}
+{{catch/entry4|436|bronzor|yes|yes|no|cave|14-16|all=40%|type1=steel|type2=psychic}}
+{{catch/entry4|436|bronzor|no|no|yes|cave|18-20|all=30%|type1=steel|type2=psychic}}
+{{catch/div|cave|secret entrance}}
+{{catch/entry4|041|zubat|yes|yes|no|cave|15-17|all=35%|type1=poison|type2=flying}}
+{{catch/entry4|041|zubat|no|no|yes|cave|17-19|all=10%|type1=poison|type2=flying}}
+{{catch/entry4|074|geodude|yes|yes|no|cave|16|all=10%|type1=rock|type2=ground}}
+{{catch/entry4|074|geodude|no|no|yes|cave|18-20|all=25%|type1=rock|type2=ground}}
+{{catch/entry4|095|onix|no|no|yes|cave|18-20|all=15%|type1=rock|type2=ground}}
+{{catch/entry4|436|bronzor|yes|yes|no|cave|15-17|all=40%|type1=steel|type2=psychic}}
+{{catch/entry4|436|bronzor|no|no|yes|cave|18-20|all=30%|type1=steel|type2=psychic}}
+{{catch/entry4|443|gible|yes|yes|no|cave|15-17|all=15%|type1=dragon|type2=ground}}
+{{catch/entry4|443|gible|no|no|yes|cave|17-20|all=20%|type1=dragon|type2=ground}}
+{{catch/div|cave|special}}
+{{catch/entry4|027|sandshrew|yes|yes|no|lg|16-17|all=8%|type1=ground}}
+{{catch/entry4|027|sandshrew|no|no|yes|lg|18-20|all=8%|type1=ground}}
+
+~Weather Institute~=
+{{catch/header|building|no}}
+{{catch/div|building|gift pokã©mon}}
+{{catch/entry3|351|castform|yes|yes|yes|gift|25|one|type1=normal}}
+{{catch/footer|building}}
+
+===generation vi===
+{{catch/header|building|no}}
+{{catch/div|building|gift pokã©mon}}
+{{catch/entryoras|351|castform|yes|yes|gift|30|one|type1=normal}}
+
+~Wela Volcano Park~es.
+{{catch/header/dn|volcano}}
+{{catch/entry7|104|cubone|yes|yes|brown grass|16-19|all=24%|type1=ground|allies={{ms|104}} {{pcolor|cubone|000}}&lt;br>{{ms|115}} {{pcolor|kangaskhan|000}}}}
+{{catch/entry7|115|kangaskhan|yes|yes|brown grass|16-19|all=1%|type1=normal}}
+{{catch/entry7|240|magby|yes|yes|brown grass|16-19|all=15%|type1=fire|allies={{ms|240}} {{pcolor|magby|000}}&lt;br>{{ms|126}} {{pcolor|magmar|000}}}}
+{{catch/entry7|661|fletchling|yes|yes|brown grass|16-19|all=30%|type1=normal|type2=flying}}
+{{catch/entry7|757|salandit|yes|yes|brown grass|16-19|all=30%|type1=poison|type2=fire}}
+{{catch/div|volcano|special pokã©mon}}
+{{catch/entry7|793|nihilego|yes|yes|brown grass|55|all=one|type1=rock|type2=poison|alliesna=n/a}}
+{{catch/footer|volcano}}
+
+===pokã©mon ultra sun and ultra moon===
+{{catch/header/dn|volcano}}
+{{catch/entryusum|104|cubone|yes|yes|brown grass|16-19|all=24%|type1=ground|allies={{ms|104}} {{pcolor|cubone|000}}&lt;br>{{ms|115}} {{pcolor|kangaskhan|000}}}}
+{{catch/entryusum|115|kangaskhan|yes|yes|brown grass|16-19|all=1%|type1=normal}}
+{{catch/entryusum|240|magby|yes|yes|brown grass|16-19|all=15%|type1=fire|allies={{ms|240}} {{pcolor|magby|000}}&lt;br>{{ms|126}} {{pcolor|magmar|000}}&lt;br>{{ms|440}} {{pcolor|happiny|000}}}}
+{{catch/entryusum|661|fletchling|yes|yes|brown grass|16-19|all=30%|type1=normal|type2=flying|allies={{ms|661}} {{pcolor|fletchling|000}}&lt;br>{{ms|662}} {{pcolor|fletchinder|000}}}}
+{{catch/entryusum|757|salandit|yes|yes|brown grass|16-19|all=30%|type1=poison|type2=fire|allies={{ms|757}} {{pcolor|salandit|000}}&lt;br>{{ms|758}} {{pcolor|salazzle|000}}}}
+
+~Wellspring Cave~hite===
+{{catch/header|cave|4}}
+{{catch/div|cave|1f, b1f}}
+{{catch/entry5|524|roggenrola|yes|yes|n/a|cave|10-13|all=50%|type1=rock}}
+{{catch/entry5|527|woobat|yes|yes|n/a|cave|10-13|all=50%|type1=psychic|type2=flying}}
+{{catch/div|cave|dust clouds}}
+{{catch/entry5|529|drilbur|yes|yes|n/a|dust|10-13|all=100%|type1=ground}}
+{{catch/div|water|surfing}}
+{{catch/entry5|550|basculin|yes|no|no|surf|5-15|all=100%|type1=water}}
+{{catch/entry5|550b|basculin|no|yes|no|surf|5-15|all=100%|type1=water}}
+{{catch/div|water|surfing in rippling water}}
+{{catch/entry5|550|basculin|no|yes|no|rippling|5-20|all=100%|type1=water}}
+{{catch/entry5|550b|basculin|yes|no|no|rippling|5-20|all=100%|type1=water}}
+{{catch/div|water|fishing}}
+{{catch/entry5|060|poliwag|yes|yes|no|fish super|35-55|all=60%|type1=water}}
+{{catch/entry5|061|poliwhirl|yes|yes|no|fish super|35-55|all=10%|type1=water}}
+{{catch/entry5|550|basculin|yes|no|no|fish super|35-55|all=30%|type1=water}}
+{{catch/entry5|550b|basculin|no|yes|no|fish super|35-55|all=30%|type1=water}}
+{{catch/div|water|fishing in rippling water}}
+{{catch/entry5|061|poliwhirl|yes|yes|no|rippling|35-60|all=65%|type1=water}}
+{{catch/entry5|062|poliwrath|yes|yes|no|rippling|35-60|all=5%|type1=water|type2=fighting}}
+{{catch/entry5|550|basculin|no|yes|no|rippling|35-60|all=30%|type1=water}}
+{{catch/entry5|550b|basculin|yes|no|no|rippling|35-60|all=30%|type1=water}}
+{{catch/footer|cave}}
+
+===pokã©mon black 2 and white 2===
+{{catch/header|cave|4}}
+{{catch/div|cave|1f, b1f}}
+{{catch/entry5-2|525|boldore|yes|yes|cave|55-58|all=50%|type1=rock}}
+{{catch/entry5-2|527|woobat|yes|yes|cave|55-58|all=50%|type1=psychic|type2=flying}}
+{{catch/div|cave|dust clouds}}
+{{catch/entry5-2|530|excadrill|yes|yes|dust|55-58|all=100%|type1=ground|type2=steel}}
+{{catch/div|water|surfing}}
+{{catch/entry5-2|550|basculin|yes|no|surf|45-60|all=100%|type1=water}}
+{{catch/entry5-2|550b|basculin|no|yes|surf|45-60|all=100%|type1=water}}
+{{catch/div|water|surfing in rippling water}}
+{{catch/entry5-2|550b|basculin|yes|no|surf|45-60|all=100%|type1=water}}
+{{catch/entry5-2|550|basculin|no|yes|surf|45-60|all=100%|type1=water}}
+{{catch/div|water|fishing}}
+{{catch/entry5-2|060|poliwag|yes|yes|fish super|50-70|all=70%|type1=water}}
+{{catch/entry5-2|550|basculin|yes|no|fish super|50-60|all=30%|type1=water}}
+{{catch/entry5-2|550b|basculin|no|yes|fish super|50-60|all=30%|type1=water}}
+{{catch/div|water|fishing in rippling water}}
+{{catch/entry5-2|061|poliwhirl|yes|yes|rippling|50-60|all=65%|type1=water}}
+{{catch/entry5-2|062|poliwrath|yes|yes|rippling|60|all=5%|type1=water|type2=fighting}}
+{{catch/entry5-2|550b|basculin|yes|no|rippling|50-60|all=30%|type1=water}}
+{{catch/entry5-2|550|basculin|no|yes|rippling|50-60|all=30%|type1=water}}
+{{catch/div|cave|n's pokã©mon}}
+{{catch/entry5-2|527|woobat|yes|yes|special|55|all={{tt|one|after using memory link to link to a black or white version}}|type1=psychic|type2=flying}}
+
+~Whirl Islands~==1f====
+{{catch/header|water}}
+{{catch/entry2|041|zubat|yes|yes|yes|cave|23|all=30%|type1=poison|type2=flying}}
+{{catch/entry2|042|golbat|yes|yes|no|cave|23|all=5%|type1=poison|type2=flying}}
+{{catch/entry2|042|golbat|no|no|yes|cave|25|5%|5%|0%|type1=poison|type2=flying}}
+{{catch/entry2|042|golbat|no|no|yes|cave|24-25|0%|0%|10%|type1=poison|type2=flying}}
+{{catch/entry2|086|seel|yes|yes|no|cave|22-24|all=15%|type1=water}}
+{{catch/entry2|086|seel|no|no|yes|cave|22-24|25%|25%|0%|type1=water}}
+{{catch/entry2|098|krabby|yes|yes|no|cave|22-24|all=50%|type1=water}}
+{{catch/entry2|098|krabby|no|no|yes|cave|22-24|40%|40%|60%|type1=water}}
+{{catch/div|water|surfing}}
+{{catch/entry2|072|tentacool|yes|yes|yes|surf|20-24|all=60%|type1=water|type2=poison}}
+{{catch/entry2|073|tentacruel|yes|yes|yes|surf|20-24|all=10%|type1=water|type2=poison}}
+{{catch/entry2|116|horsea|yes|yes|yes|surf|15-19|all=30%|type1=water}}
+{{catch/div|water|fishing}}
+{{catch/entry2|098|krabby|yes|yes|yes|fish old|10|all=15%|type1=water}}
+{{catch/entry2|129|magikarp|yes|yes|yes|fish old|10|all=85%|type1=water}}
+{{catch/entry2|098|krabby|yes|yes|yes|fish good|20|all=55%|type1=water}}
+{{catch/entry2|116|horsea|yes|yes|yes|fish good|20|all=10%|type1=water}}
+{{catch/entry2|129|magikarp|yes|yes|yes|fish good|20|all=35%|type1=water}}
+{{catch/entry2|098|krabby|yes|yes|yes|fish super|40|all=40%|type1=water}}
+{{catch/entry2|099|kingler|yes|yes|yes|fish super|40|all=20%|type1=water}}
+{{catch/entry2|116|horsea|yes|yes|yes|fish super|40|all=30%|type1=water}}
+{{catch/entry2|117|seadra|yes|yes|yes|fish super|40|all=10%|type1=water}}
+{{catch/footer|water}}
+
+====b1f====
+{{catch/header|water}}
+{{catch/entry2|041|zubat|yes|yes|yes|cave|24|all=30%|type1=poison|type2=flying}}
+{{catch/entry2|042|golbat|yes|yes|no|cave|24|all=5%|type1=poison|type2=flying}}
+{{catch/entry2|042|golbat|no|no|yes|cave|26|5%|5%|0%|type1=poison|type2=flying}}
+{{catch/entry2|042|golbat|no|no|yes|cave|25-26|0%|0%|10%|type1=poison|type2=flying}}
+{{catch/entry2|086|seel|yes|yes|no|cave|23-25|all=15%|type1=water}}
+{{catch/entry2|086|seel|no|no|yes|cave|23-25|25%|25%|0%|type1=water}}
+{{catch/entry2|098|krabby|yes|yes|no|cave|23-25|all=50%|type1=water}}
+{{catch/entry2|098|krabby|no|no|yes|cave|23-25|40%|40%|60%|type1=water}}
+{{catch/footer|water}}
+
+====b2f====
+{{catch/header|water}}
+{{catch/entry2|041|zubat|yes|yes|no|cave|24|all=30%|type1=poison|type2=flying}}
+{{catch/entry2|041|zubat|no|no|yes|cave|25|all=30%|type1=poison|type2=flying}}
+{{catch/entry2|042|golbat|yes|yes|no|cave|24|all=5%|type1=poison|type2=flying}}
+{{catch/entry2|042|golbat|no|no|yes|cave|27|5%|5%|0%|type1=poison|type2=flying}}
+{{catch/entry2|042|golbat|no|no|yes|cave|26-27|0%|0%|10%|type1=poison|type2=flying}}
+{{catch/entry2|086|seel|yes|yes|no|cave|23-25|all=15%|type1=water}}
+{{catch/entry2|086|seel|no|no|yes|cave|24-26|25%|25%|0%|type1=water}}
+{{catch/entry2|098|krabby|yes|yes|no|cave|23-25|all=50%|type1=water}}
+{{catch/entry2|098|krabby|no|no|yes|cave|24-26|40%|40%|60%|type1=water}}
+{{catch/div|water|surfing}}
+{{catch/entry2|072|tentacool|yes|yes|yes|surf|20-24|all=10%|type1=water|type2=poison}}
+{{catch/entry2|116|horsea|yes|yes|yes|surf|15-24|all=90%|type1=water}}
+{{catch/div|water|fishing}}
+{{catch/entry2|098|krabby|yes|yes|yes|fish old|10|all=15%|type1=water}}
+{{catch/entry2|129|magikarp|yes|yes|yes|fish old|10|all=85%|type1=water}}
+{{catch/entry2|098|krabby|yes|yes|yes|fish good|20|all=55%|type1=water}}
+{{catch/entry2|116|horsea|yes|yes|yes|fish good|20|all=10%|type1=water}}
+{{catch/entry2|129|magikarp|yes|yes|yes|fish good|20|all=35%|type1=water}}
+{{catch/entry2|098|krabby|yes|yes|yes|fish super|40|all=40%|type1=water}}
+{{catch/entry2|099|kingler|yes|yes|yes|fish super|40|all=20%|type1=water}}
+{{catch/entry2|116|horsea|yes|yes|yes|fish super|40|all=30%|type1=water}}
+{{catch/entry2|117|seadra|yes|yes|yes|fish super|40|all=10%|type1=water}}
+{{catch/footer|water}}
+
+====b2f (inner cave)====
+{{catch/header|water}}
+{{catch/entry2|041|zubat|yes|yes|no|cave|25|all=30%|type1=poison|type2=flying}}
+{{catch/entry2|041|zubat|no|no|yes|cave|26|all=30%|type1=poison|type2=flying}}
+{{catch/entry2|042|golbat|yes|yes|no|cave|25|all=5%|type1=poison|type2=flying}}
+{{catch/entry2|042|golbat|no|no|yes|cave|28|5%|5%|0%|type1=poison|type2=flying}}
+{{catch/entry2|042|golbat|no|no|yes|cave|27-28|0%|0%|10%|type1=poison|type2=flying}}
+{{catch/entry2|086|seel|yes|yes|no|cave|24-26|all=15%|type1=water}}
+{{catch/entry2|086|seel|no|no|yes|cave|25-27|25%|25%|0%|type1=water}}
+{{catch/entry2|098|krabby|yes|yes|no|cave|24-26|all=50%|type1=water}}
+{{catch/entry2|098|krabby|no|no|yes|cave|25-27|40%|40%|60%|type1=water}}
+{{catch/div|water|surfing}}
+{{catch/entry2|073|tentacruel|yes|yes|yes|surf|20-28|all=30%|type1=water|type2=poison}}
+{{catch/entry2|116|horsea|yes|yes|yes|surf|15-24|all=60%|type1=water}}
+{{catch/entry2|117|seadra|yes|yes|yes|surf|20-24|all=10%|type1=water}}
+{{catch/div|water|fishing}}
+{{catch/entry2|098|krabby|yes|yes|yes|fish old|10|all=15%|type1=water}}
+{{catch/entry2|129|magikarp|yes|yes|yes|fish old|10|all=85%|type1=water}}
+{{catch/entry2|098|krabby|yes|yes|yes|fish good|20|all=55%|type1=water}}
+{{catch/entry2|116|horsea|yes|yes|yes|fish good|20|all=10%|type1=water}}
+{{catch/entry2|129|magikarp|yes|yes|yes|fish good|20|all=35%|type1=water}}
+{{catch/entry2|098|krabby|yes|yes|yes|fish super|40|all=40%|type1=water}}
+{{catch/entry2|099|kingler|yes|yes|yes|fish super|40|all=20%|type1=water}}
+{{catch/entry2|116|horsea|yes|yes|yes|fish super|40|all=30%|type1=water}}
+{{catch/entry2|117|seadra|yes|yes|yes|fish super|40|all=10%|type1=water}}
+{{catch/div|water|special}}
+{{catch/entry2|249|lugia|yes|no|no|special|70|all=one|type1=psychic|type2=flying}}{{catch/entry2|249|lugia|no|yes|no|special|40|all=one|type1=psychic|type2=flying}}{{catch/entry2|249|lugia|no|no|yes|special|60|all=one|type1=psychic|type2=flying}}
+{{catch/footer|water}}
+
+===generation iv===
+[[file:summoning lugia.png|thumb|right|200px|kimono girls summoning lugia inside the whirl islands in soulsilver]]
+====1f-b1f====
+{{catch/header|water|4}}
+{{catch/entryhs|041|zubat|yes|yes|cave|23|all=30%|type1=poison|type2=flying}}
+{{catch/entryhs|042|golbat|yes|yes|cave|23|all=5%|type1=poison|type2=flying}}
+{{catch/entryhs|086|seel|yes|yes|cave|22-24|all=15%|type1=water}}
+{{catch/entryhs|098|krabby|yes|yes|cave|22-24|all=50%|type1=water}}
+{{catch/div|water|surfing}}
+{{catch/entryhs|072|tentacool|yes|yes|surf|15-25|all=60%|type1=water|type2=poison}}
+{{catch/entryhs|073|tentacruel|yes|yes|surf|15-25|all=10%|type1=water|type2=poison}}
+{{catch/entryhs|116|horsea|yes|yes|surf|10-20|all=30%|type1=water}}
+{{catch/div|water|fishing}}
+{{catch/entryhs|098|krabby|yes|yes|fish old|10|all=5%|type1=water}}
+{{catch/entryhs|129|magikarp|yes|yes|fish old|10|all=95%|type1=water}}
+{{catch/entryhs|098|krabby|yes|yes|fish good|20|all=37%|type1=water}}
+{{catch/entryhs|116|horsea|yes|yes|fish good|20|all=3%|type1=water}}
+{{catch/entryhs|129|magikarp|yes|yes|fish good|20|all=60%|type1=water}}
+{{catch/entryhs|098|krabby|yes|yes|fish super|40|all=60%|type1=water}}
+{{catch/entryhs|099|kingler|yes|yes|fish super|40|all=7%|type1=water}}
+{{catch/entryhs|116|horsea|yes|yes|fish super|40|all=30%|type1=water}}
+{{catch/entryhs|117|seadra|yes|yes|fish super|40|all=3%|type1=water}}
+{{catch/div|water|special}}
+{{catch/entryhs|296|makuhita|yes|yes|hoenn|24|all=20%|type1=fighting}}
+{{catch/entryhs|359|absol|yes|yes|hoenn|22-23|all=20%|type1=dark}}
+{{catch/entryhs|433|chingling|yes|yes|sinnoh|24|all=20%|type1=psychic}}
+{{catch/entryhs|436|bronzor|yes|yes|sinnoh|22-23|all=20%|type1=steel|type2=psychic}}
+{{catch/footer|water}}
+
+====b2f====
+{{catch/header|water|4}}
+{{catch/entryhs|041|zubat|yes|yes|cave|23|all=30%|type1=poison|type2=flying}}
+{{catch/entryhs|042|golbat|yes|yes|cave|23|all=5%|type1=poison|type2=flying}}
+{{catch/entryhs|086|seel|yes|yes|cave|22-24|all=15%|type1=water}}
+{{catch/entryhs|098|krabby|yes|yes|cave|22-24|all=50%|type1=water}}
+{{catch/div|water|surfing}}
+{{catch/entryhs|073|tentacruel|yes|yes|surf|15-25|all=30%|type1=water|type2=poison}}
+{{catch/entryhs|116|horsea|yes|yes|surf|15-25|all=60%|type1=water}}
+{{catch/entryhs|117|seadra|yes|yes|surf|10-30|all=10%|type1=water}}
+{{catch/div|water|fishing}}
+{{catch/entryhs|098|krabby|yes|yes|fish old|10|all=5%|type1=water}}
+{{catch/entryhs|129|magikarp|yes|yes|fish old|10|all=95%|type1=water}}
+{{catch/entryhs|098|krabby|yes|yes|fish good|20|all=37%|type1=water}}
+{{catch/entryhs|116|horsea|yes|yes|fish good|20|all=3%|type1=water}}
+{{catch/entryhs|129|magikarp|yes|yes|fish good|20|all=60%|type1=water}}
+{{catch/entryhs|098|krabby|yes|yes|fish super|40|all=60%|type1=water}}
+{{catch/entryhs|099|kingler|yes|yes|fish super|40|all=7%|type1=water}}
+{{catch/entryhs|116|horsea|yes|yes|fish super|40|all=30%|type1=water}}
+{{catch/entryhs|117|seadra|yes|yes|fish super|40|all=3%|type1=water}}
+{{catch/div|water|special}}
+{{catch/entryhs|296|makuhita|yes|yes|hoenn|24|all=20%|type1=fighting}}
+{{catch/entryhs|359|absol|yes|yes|hoenn|22-23|all=20%|type1=dark}}
+{{catch/entryhs|433|chingling|yes|yes|sinnoh|24|all=20%|type1=psychic}}
+{{catch/entryhs|436|bronzor|yes|yes|sinnoh|22-23|all=20%|type1=steel|type2=psychic}}
+{{catch/footer|water}}
+
+====b3f====
+[[file:lugia whirl hgss.png|thumb|right|200px|lugia in the whirl islands in generation iv]]
+{{catch/header|water|4}}
+{{catch/entryhs|041|zubat|yes|yes|cave|24|all=30%|type1=poison|type2=flying}}
+{{catch/entryhs|042|golbat|yes|yes|cave|24|all=5%|type1=poison|type2=flying}}
+{{catch/entryhs|086|seel|yes|yes|cave|23-25|all=15%|type1=water}}
+{{catch/entryhs|098|krabby|yes|yes|cave|23-25|all=50%|type1=water}}
+{{catch/div|water|special}}
+{{catch/entryhs|249|lugia|yes|no|special|70|all=one|type1=psychic|type2=flying}}
+{{catch/entryhs|249|lugia|no|yes|special|45|all=one|type1=psychic|type2=flying}}
+{{catch/entryhs|296|makuhita|yes|yes|hoenn|25|all=20%|type1=fighting}}
+{{catch/entryhs|359|absol|yes|yes|hoenn|23-24|all=20%|type1=dark}}
+{{catch/entryhs|433|chingling|yes|yes|sinnoh|25|all=20%|type1=psychic}}
+{{catch/entryhs|436|bronzor|yes|yes|sinnoh|23-24|all=20%|type1=steel|type2=psychic}}
+
+~White Forest~ds.
+{{catch/header|white|seasons=yes}}
+{{catch/entry5|016|pidgey|no|yes|yes|grass|5|all=leo[[file:school kid m od.png]]|type1=normal|type2=flying}}
+{{catch/entry5|029|nidoranâ|no|yes|yes|grass|5|all=jacques[[file:scientist m od.png]]|type1=poison}}
+{{catch/entry5|032|nidoranâ|no|yes|yes|grass|5|all=ken[[file:veteran m od.png]]|type1=poison}}
+{{catch/entry5|043|oddish|no|yes|yes|grass|5|all=lynette[[file:lady od.png]]|type1=grass|type2=poison}}
+{{catch/entry5|063|abra|no|yes|yes|grass|5|all=collin[[file:clerk m od.png]]|type1=psychic}}
+{{catch/entry5|066|machop|no|yes|yes|grass|5|all=ryder[[file:black belt od.png]]|type1=fighting}}
+{{catch/entry5|069|bellsprout|no|yes|yes|grass|5|all=piper[[file:clerk f od.png]]|type1=grass|type2=poison}}
+{{catch/entry5|081|magnemite|no|yes|yes|grass|5|all=marie[[file:scientist f od.png]]|type1=electric|type2=steel}}
+{{catch/entry5|092|gastly|no|yes|yes|grass|5|all=dave[[file:roughneck od.png]]|type1=ghost|type2=poison}}
+{{catch/entry5|111|rhyhorn|no|yes|yes|grass|5|all=shane[[file:school kid m od.png]]|type1=ground|type2=rock}}
+{{catch/entry5|137|porygon|no|yes|yes|grass|5|all=herman[[file:backpacker m od.png]]|type1=normal}}
+{{catch/entry5|175|togepi|no|yes|yes|grass|5|all=miki[[file:lass od.png]]|type1=normal}}
+{{catch/entry5|179|mareep|no|yes|yes|grass|5|all=pierce[[file:rich boy v od.png]]|type1=electric}}
+{{catch/entry5|187|hoppip|no|yes|yes|grass|5|all=britney[[file:clerk f od.png]]|type1=grass|type2=flying}}
+{{catch/entry5|239|elekid|no|yes|yes|grass|5|all=robbie[[file:youngster od.png]]|type1=electric}}
+{{catch/entry5|240|magby|no|yes|yes|grass|5|all=vincent[[file:ace trainer m v od.png]]|type1=fire}}
+{{catch/entry5|265|wurmple|no|yes|yes|grass|5|all=silvia[[file:school kid f od.png]]|type1=bug}}
+{{catch/entry5|270|lotad|no|yes|yes|grass|5|all=ralph[[file:pokemon ranger m od.png]]|type1=water|type2=grass}}
+{{catch/entry5|273|seedot|no|yes|yes|grass|5|all=miho[[file:nursery aide od.png]]|type1=grass}}
+{{catch/entry5|280|ralts|no|yes|yes|grass|5|all=lena[[file:ace trainer f v od.png]]|type1=psychic}}
+{{catch/entry5|287|slakoth|no|yes|yes|grass|5|all=karenna[[file:battle girl od.png]]|type1=normal}}
+{{catch/entry5|293|whismur|no|yes|yes|grass|5|all=rosa[[file:veteran f od.png]]|type1=normal}}
+{{catch/entry5|298|azurill|no|yes|yes|grass|5|all=molly[[file:backpacker f od.png]]|type1=normal}}
+{{catch/entry5|304|aron|no|yes|yes|grass|5|all=gene[[file:hiker od.png]]|type1=steel|type2=rock}}
+{{catch/entry5|328|trapinch|no|yes|yes|grass|5|all=eliza[[file:pokemon ranger f od.png]]|type1=ground}}
+{{catch/entry5|371|bagon|no|yes|yes|grass|5|all=grace[[file:socialite od.png]]|type1=dragon}}
+{{catch/entry5|396|starly|no|yes|yes|grass|5|all=carlos[[file:backpacker m od.png]]|type1=normal|type2=flying}}
+{{catch/entry5|403|shinx|no|yes|yes|grass|5|all=doug[[file:clerk m od.png]]|type1=electric}}
+{{catch/entry5|406|budew|no|yes|yes|grass|5|all=frederic[[file:gentleman od.png]]|type1=grass|type2=poison}}
+{{catch/entry5|440|happiny|no|yes|yes|grass|5|all=emi[[file:backpacker f od.png]]|type1=normal}}
+{{catch/div|water|surfing}}
+{{catch/entry5|194|wooper|no|yes|yes|surf|5|all=lena, frederic, herman, grace|type1=water|type2=ground}}
+{{catch/entry5|270|lotad|no|yes|yes|surf|5|all=ryder, karenna, doug, marie, molly, eliza, collin, jacques, rosa|type1=water|type2=grass}}
+{{catch/entry5|283|surskit|no|yes|yes|surf|5|all=leo, silvia, dave, britney, robbie, miki, lynette, pierce, gene, piper, miho, shane, ralph|type1=bug|type2=water}}
+{{catch/entry5|341|corphish|no|yes|yes|surf|5|all=vincent, carlos, ken, emi|type1=water}}
+
+White Treehollow will continue
