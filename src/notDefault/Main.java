@@ -180,6 +180,10 @@ public class Main {
             String catches = "";
             progress ++;
             boolean willContinue = false;
+            
+            if("Ruins of Conflict".equals(line)) {
+            	break;
+            }
 
             try {
                 bulbaConnection.getContentLength();
