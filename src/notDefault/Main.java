@@ -2,6 +2,7 @@ package notDefault;
 
 import java.io.File;
 import java.io.InputStream;
+import java.io.PrintWriter;
 import java.net.URL;
 import java.net.URLConnection;
 import java.util.ArrayList;
@@ -10,7 +11,7 @@ import java.util.Scanner;
 public class Main {
 	public static int right = 0;
 	public static int wrong = 0;
-	public static final int mode = 2;
+	public static final int mode = 0;
 	public static int[] gameErrors = new int[28];
 	public static final int[] entryusum = {1, 0};
 	public static final int[] entry7 = {3, 2};
@@ -32,11 +33,16 @@ public class Main {
 		switch (mode){
 		case 0:
 			downloadBulba();
+			downloadDb();
+			downloadBulbaLocations();
 			break;
 		case 1:
-			downloadDb();
+			downloadBulba();
 			break;
 		case 2:
+			downloadDb();
+			break;
+		case 3:
 			downloadBulbaLocations();
 			break;
 		default:
@@ -49,7 +55,7 @@ public class Main {
 		Scanner input = new Scanner(new File("pokemonList.txt"));
 		int number = 0;
 		pokemonErrors.add(new LocationSet("filler for index 0", 0));
-		//while(input.hasNext() && !input.nextLine().equals("Golduck")) {}
+		PrintWriter output = new PrintWriter(new File("bulbaDownload.txt"));
 		
 		while(input.hasNext()) {
 			String bulbaLocations = "";
@@ -88,7 +94,7 @@ public class Main {
             	System.out.println("504 from " + toBulba(line));
             }
             
-            System.out.println('~' + line + '~' + bulbaLocations);
+            output.println('~' + line + '!' + bulbaLocations);
             
             /*if(number % 16 == 0) {
             	System.out.println("found " + number);
@@ -99,6 +105,7 @@ public class Main {
 	public static void downloadDb() throws Exception{
 		Scanner input = new Scanner(new File("pokemonList.txt"));
 		int number = 0;
+		PrintWriter output = new PrintWriter(new File("dbDownload.txt"));
 		
 		while(input.hasNext()) {
             String dbLocations = "";
@@ -136,7 +143,7 @@ public class Main {
             	System.out.print("504 from " + toDb(line));
             }
             
-            System.out.println('~' + line + '~' + dbLocations);
+            output.println('~' + line + '!' + dbLocations);
             
             /*if(number % 16 == 0) {
             	System.out.println("found " + number);
@@ -166,7 +173,7 @@ public class Main {
 	
 	public static void downloadBulbaLocations() throws Exception{
 		//int number = 0;
-		
+		PrintWriter output = new PrintWriter(new File("locationDownload.txt"));
 		Scanner locationIn = new Scanner(new File("locations.txt"));
 		//ArrayList<IntString> pageSizes = new ArrayList<IntString>();
 		int progress = 0;
@@ -181,9 +188,9 @@ public class Main {
             progress ++;
             boolean willContinue = false;
             
-            if("Ruins of Conflict".equals(line)) {
+            /*if("Ruins of Conflict".equals(line)) {
             	break;
-            }
+            }*/
 
             try {
                 bulbaConnection.getContentLength();
@@ -218,8 +225,8 @@ public class Main {
             	continue;
             }
             
-            System.out.println('~' + line + '~' + catches);
-			    
+            output.println('~' + line + '!' + catches);
+            
 	            /*if(progress % 16 == 0) {
             	    System.out.println("found " + progress);
             	//System.out.println(toBulbaLocation(line));
