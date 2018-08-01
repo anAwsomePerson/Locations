@@ -54,7 +54,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		Scanner input = new Scanner(new File("pokemonList.txt"));
 		int number = 0;
-		pokemonErrors.add(new LocationSet("filler for index 0", 0));
+		//pokemonErrors.add(new LocationSet("filler for index 0", 0));
 		PrintWriter output = new PrintWriter(new File("bulbaDownload.txt"));
 		
 		while(input.hasNext()) {
