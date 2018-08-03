@@ -11,7 +11,7 @@ import java.util.Scanner;
 public class Main {
 	public static int right = 0;
 	public static int wrong = 0;
-	public static final int mode = 0;
+	public static final int mode = 3;
 	public static int[] gameErrors = new int[28];
 	public static final int[] entryusum = {1, 0};
 	public static final int[] entry7 = {3, 2};
@@ -26,6 +26,7 @@ public class Main {
 	public static final int[] entry3 = {21, 20, 17};
 	public static final int[] entry2 = {24, 23, 22};
 	public static final int[] entry1 = {27, 26, 25};
+	public static ArrayList<String> list504 = new ArrayList<String>();
 	public static ArrayList<LocationSet> pokemonErrors = new ArrayList<LocationSet>();
 	public static ArrayList<IntString> locationErrors = new ArrayList<IntString>();
 	
@@ -48,6 +49,10 @@ public class Main {
 		default:
 			System.out.println("mode's value is out of bounds!");
 		}
+		
+		for(int i = 0; i < list504.size(); i ++) {
+			System.out.print(list504.get(i) + " ");
+		}
 	}
 	
 	public static void downloadBulba() throws Exception{
@@ -55,7 +60,7 @@ public class Main {
 		Scanner input = new Scanner(new File("pokemonList.txt"));
 		int number = 0;
 		//pokemonErrors.add(new LocationSet("filler for index 0", 0));
-		PrintWriter output = new PrintWriter(new File("bulbaDownload.txt"));
+		PrintWriter output = new PrintWriter(new File("bulbaDownload0.txt"));
 		
 		while(input.hasNext()) {
 			String bulbaLocations = "";
@@ -92,20 +97,18 @@ public class Main {
                 }
             }catch(java.io.IOException exception) {
             	System.out.println("504 from " + toBulba(line));
+            	list504.add(line);
             }
             
             output.println('~' + line + '!' + bulbaLocations);
-            
-            /*if(number % 16 == 0) {
-            	System.out.println("found " + number);
-            }*/
+            System.out.println('~' + line + '!' + bulbaLocations);
 		}
 	}
 	
 	public static void downloadDb() throws Exception{
 		Scanner input = new Scanner(new File("pokemonList.txt"));
 		int number = 0;
-		PrintWriter output = new PrintWriter(new File("dbDownload.txt"));
+		PrintWriter output = new PrintWriter(new File("dbDownload0.txt"));
 		
 		while(input.hasNext()) {
             String dbLocations = "";
@@ -141,15 +144,13 @@ public class Main {
                 }
             }catch(java.io.IOException exception) {
             	System.out.print("504 from " + toDb(line));
+            	list504.add(line);
             }
             
             output.println('~' + line + '!' + dbLocations);
-            
-            /*if(number % 16 == 0) {
-            	System.out.println("found " + number);
-            }
+            System.out.println('~' + line + '!' + dbLocations);
         
-            System.out.println("reached0");
+            /*System.out.println("reached0");
             LocationSet set = new LocationSet(line, number);
             pokemonErrors.add(set);
             
@@ -173,7 +174,7 @@ public class Main {
 	
 	public static void downloadBulbaLocations() throws Exception{
 		//int number = 0;
-		PrintWriter output = new PrintWriter(new File("locationDownload.txt"));
+		PrintWriter output = new PrintWriter(new File("locationDownload0.txt"));
 		Scanner locationIn = new Scanner(new File("locations.txt"));
 		//ArrayList<IntString> pageSizes = new ArrayList<IntString>();
 		int progress = 0;
@@ -217,6 +218,7 @@ public class Main {
                 }
             }catch(java.io.IOException exception) {
             	System.out.print("504 from " + toBulbaLocation(line));
+            	list504.add(line);
             }
             
             if(willContinue) {
@@ -226,13 +228,9 @@ public class Main {
             }
             
             output.println('~' + line + '!' + catches);
-            
-	            /*if(progress % 16 == 0) {
-            	    System.out.println("found " + progress);
-            	//System.out.println(toBulbaLocation(line));
-                }
+            System.out.println('~' + line + '!' + catches);
 	            
-	            catches = catches.replace(" ", "").replace("\n", "").replace("[[route]]s", "").replace("Ã©", "e").trim();
+	            /*catches = catches.replace(" ", "").replace("\n", "").replace("[[route]]s", "").replace("Ã©", "e").trim();
 	            line = LocationSet.removeBraces(line, "(", ")");
         		
         		while(line.startsWith("Kanto ") || line.startsWith("Johto ") || line.startsWith("Hoenn ") || line.startsWith("Sinnoh") || line.startsWith("Unova ") 

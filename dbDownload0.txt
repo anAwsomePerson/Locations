@@ -59,7 +59,7 @@
 </div>
 </div>
 <div class="grid-col span-md-12 span-lg-4">
-<h2>Answers to 
+ <h2>Answers to 
 ~Ivysaur!Where to find Ivysaur</h2>
 <div class="resp-scroll">
 <table class="vitals-table">
@@ -103,7 +103,7 @@
 <tr>
 <th><span class="igame omega-ruby">Omega Ruby</span><br><span class="igame alpha-sapphire">Alpha Sapphire</span></th>
 <td><small>Trade/migrate from another game</small></td>
-</tr>
+ </tr>
 <tr>
 <th><span class="igame sun">Sun</span><br><span class="igame moon">Moon</span></th>
 <td><small>Trade/migrate from another game</small></td>
@@ -142,7 +142,7 @@
 <th><span class="igame emerald">Emerald</span></th>
 <td><small>Trade/migrate from another game</small></td>
 </tr>
-<tr>
+ <tr>
 <th><span class="igame diamond">Diamond</span><br><span class="igame pearl">Pearl</span><br><span class="igame platinum">Platinum</span></th>
 <td><small>Trade/migrate from another game</small></td>
 </tr>
@@ -2420,7 +2420,7 @@
 <td><a href="/location/kanto-route-3">Route 3</a>, <a href="/location/kanto-route-4">4</a>, <a href="/location/kanto-mt-moon">Mt. Moon</a></td>
 </tr>
 <tr>
- <th><span class="igame ruby">Ruby</span><br><span class="igame sapphire">Sapphire</span></th>
+<th><span class="igame ruby">Ruby</span><br><span class="igame sapphire">Sapphire</span></th>
 <td><small>Trade/migrate from another game</small></td>
 </tr>
 <tr>
@@ -2520,7 +2520,7 @@
 <td><small>Trade/migrate from another game</small></td>
 </tr>
 <tr>
- <th><span class="igame blue">Blue</span></th>
+<th><span class="igame blue">Blue</span></th>
 <td><a href="/location/kanto-route-7">Route 7</a>, <a href="/location/kanto-route-8">8</a>, <a href="/location/kanto-pokemon-mansion">PokÃ©mon Mansion</a></td>
 </tr>
 <tr>
@@ -2567,7 +2567,7 @@
 <th><span class="igame soulsilver">SoulSilver</span></th>
 <td><a href="/location/kanto-route-7">Route 7</a>, <a href="/location/kanto-route-8">8</a>, <a href="/location/johto-route-36">36</a>, <a href="/location/johto-route-37">37</a>, <a href="/location/johto-route-48">48</a></td>
 </tr>
-<tr>
+ <tr>
 <th><span class="igame black">Black</span><br><span class="igame white">White</span><br><span class="igame black-2">Black 2</span><br><span class="igame white-2">White 2</span></th>
 <td><a href="/location/unova-abundant-shrine">Abundant Shrine</a></td>
 </tr>
@@ -2634,7 +2634,7 @@
 <td><small>Trade/migrate from another game</small></td>
 </tr>
 <tr>
-<th><span class="igame leafgreen">LeafGreen</span><br><span class="igame emerald">Emerald</span></th>
+ <th><span class="igame leafgreen">LeafGreen</span><br><span class="igame emerald">Emerald</span></th>
 <td><small>Evolve <a href="/pokedex/vulpix">Vulpix</a></small></td>
 </tr>
 <tr>
@@ -2853,7 +2853,7 @@
 </tr>
 <tr>
 <th><span class="igame sun">Sun</span><br><span class="igame moon">Moon</span></th>
-<td><a href="/location/alola-ten-carat-hill">Ten Carat Hill</a>, <a href="/location/alola-hauoli-cemetery">Hau'oli Cemetery</a>, <a href="/location/alola-seaward-cave">Seaward Cave</a>, <a href="/location/alola-verdant-cavern">Verdant Cavern</a>, <a href="/location/alola-memorial-hill">Memorial Hill</a>, <a href="/location/alola-digletts-tunnel">Diglett's Tunnel</a>, <a href="/location/alola-lush-jungle">Lush Jungle</a>, <a href="/location/alola-poke-pelago">PokÃ© Pelago</a></td>
+ <td><a href="/location/alola-ten-carat-hill">Ten Carat Hill</a>, <a href="/location/alola-hauoli-cemetery">Hau'oli Cemetery</a>, <a href="/location/alola-seaward-cave">Seaward Cave</a>, <a href="/location/alola-verdant-cavern">Verdant Cavern</a>, <a href="/location/alola-memorial-hill">Memorial Hill</a>, <a href="/location/alola-digletts-tunnel">Diglett's Tunnel</a>, <a href="/location/alola-lush-jungle">Lush Jungle</a>, <a href="/location/alola-poke-pelago">PokÃ© Pelago</a></td>
 </tr>
 <tr>
 <th><span class="igame ultra-sun">Ultra Sun</span><br><span class="igame ultra-moon">Ultra Moon</span></th>
@@ -3941,7 +3941,7 @@
 </tr>
 <tr>
 <th><span class="igame silver">Silver</span><br><span class="igame crystal">Crystal</span></th>
- <td><small>Trade/migrate from another game</small></td>
+<td><small>Trade/migrate from another game</small></td>
 </tr>
 <tr>
 <th><span class="igame ruby">Ruby</span><br><span class="igame sapphire">Sapphire</span></th>
@@ -4967,7 +4967,7 @@
 </tr>
 <tr>
 <th><span class="igame ruby">Ruby</span><br><span class="igame sapphire">Sapphire</span></th>
-<td><a href="/location/hoenn-route-103">Route 103</a>, <a href="/location/hoenn-route-105">105</a>, <a href="/location/hoenn-route-106">106</a>, <a href="/location/hoenn-route-107">107</a>, <a href="/location/hoenn-route-108">108</a>, <a href="/location/hoenn-route-109">109</a>, <a href="/location/hoenn-route-110">110</a>, <a href="/location/hoenn-route-115">115</a>, <a href="/location/hoenn-route-118">118</a>, <a href="/location/hoenn-route-119">119</a>, <a href="/location/hoenn-route-121">121</a>, <a href="/location/hoenn-route-122">122</a>, <a href="/location/hoenn-route-123">123</a>, <a href="/location/hoenn-route-124">124</a>, <a href="/location/hoenn-route-125">125</a>, <a href="/location/hoenn-route-126">126</a>, <a href="/location/hoenn-route-127">127</a>, <a href="/location/hoenn-route-128">128</a>, <a href="/location/hoenn-route-129">129</a>, <a href="/location/hoenn-route-130">130</a>, <a href="/location/hoenn-route-131">131</a>, <a href="/location/hoenn-route-132">132</a>, <a href="/location/hoenn-route-133">133</a>, <a href="/location/hoenn-route-134">134</a>, <a href="/location/hoenn-abandoned-ship">Abandoned Ship</a>, <a href="/location/hoenn-dewford-town">Dewford Town</a>, <a href="/location/hoenn-evergrande-city">Ever Grande City</a>, <a href="/location/hoenn-mossdeep-city">Mossdeep City</a>, <a href="/location/hoenn-pacifidlog-town">Pacifidlog Town</a>, <a href="/location/hoenn-seafloor-cavern">Seafloor Cavern</a>, <a href="/location/hoenn-shoal-cave">Shoal Cave</a>, <a href="/location/hoenn-slateport-city">Slateport City</a>, <a href="/location/hoenn-sootopolis-city">Sootopolis City</a>, <a href="/location/hoenn-lilycove-city">Lilycove City</a></td>
+ <td><a href="/location/hoenn-route-103">Route 103</a>, <a href="/location/hoenn-route-105">105</a>, <a href="/location/hoenn-route-106">106</a>, <a href="/location/hoenn-route-107">107</a>, <a href="/location/hoenn-route-108">108</a>, <a href="/location/hoenn-route-109">109</a>, <a href="/location/hoenn-route-110">110</a>, <a href="/location/hoenn-route-115">115</a>, <a href="/location/hoenn-route-118">118</a>, <a href="/location/hoenn-route-119">119</a>, <a href="/location/hoenn-route-121">121</a>, <a href="/location/hoenn-route-122">122</a>, <a href="/location/hoenn-route-123">123</a>, <a href="/location/hoenn-route-124">124</a>, <a href="/location/hoenn-route-125">125</a>, <a href="/location/hoenn-route-126">126</a>, <a href="/location/hoenn-route-127">127</a>, <a href="/location/hoenn-route-128">128</a>, <a href="/location/hoenn-route-129">129</a>, <a href="/location/hoenn-route-130">130</a>, <a href="/location/hoenn-route-131">131</a>, <a href="/location/hoenn-route-132">132</a>, <a href="/location/hoenn-route-133">133</a>, <a href="/location/hoenn-route-134">134</a>, <a href="/location/hoenn-abandoned-ship">Abandoned Ship</a>, <a href="/location/hoenn-dewford-town">Dewford Town</a>, <a href="/location/hoenn-evergrande-city">Ever Grande City</a>, <a href="/location/hoenn-mossdeep-city">Mossdeep City</a>, <a href="/location/hoenn-pacifidlog-town">Pacifidlog Town</a>, <a href="/location/hoenn-seafloor-cavern">Seafloor Cavern</a>, <a href="/location/hoenn-shoal-cave">Shoal Cave</a>, <a href="/location/hoenn-slateport-city">Slateport City</a>, <a href="/location/hoenn-sootopolis-city">Sootopolis City</a>, <a href="/location/hoenn-lilycove-city">Lilycove City</a></td>
 </tr>
 <tr>
 <th><span class="igame firered">FireRed</span><br><span class="igame leafgreen">LeafGreen</span></th>
@@ -5660,7 +5660,7 @@
 <tr>
 <th><span class="igame x">X</span><br><span class="igame y">Y</span></th>
 <td><a href="/location/kalos-lost-hotel">Lost Hotel</a></td>
-</tr>
+ </tr>
 <tr>
 <th><span class="igame omega-ruby">Omega Ruby</span><br><span class="igame alpha-sapphire">Alpha Sapphire</span></th>
 <td><small>Evolve <a href="/pokedex/magnemite">Magnemite</a></small></td>
@@ -5767,7 +5767,7 @@
 </tr>
 <tr>
 <th><span class="igame emerald">Emerald</span></th>
-<td><a href="/location/hoenn-safari-zone">Safari Zone</a></td>
+ <td><a href="/location/hoenn-safari-zone">Safari Zone</a></td>
 </tr>
 <tr>
 <th><span class="igame diamond">Diamond</span><br><span class="igame pearl">Pearl</span><br><span class="igame platinum">Platinum</span></th>
@@ -6667,7 +6667,7 @@
 <th><span class="igame ultra-sun">Ultra Sun</span><br><span class="igame ultra-moon">Ultra Moon</span></th>
 <td><a href="/location/alola-hauoli-city">Hau'oli City</a>, <a href="/location/alola-poni-plains">Poni Plains</a></td>
 </tr>
- </tbody>
+</tbody>
 </table>
 </div>
 </div>
@@ -6811,7 +6811,7 @@
 <th><span class="igame x">X</span><br><span class="igame y">Y</span></th>
 <td><small>Trade/migrate from another game</small></td>
 </tr>
-<tr>
+ <tr>
 <th><span class="igame omega-ruby">Omega Ruby</span><br><span class="igame alpha-sapphire">Alpha Sapphire</span></th>
 <td><small>Evolve <a href="/pokedex/krabby">Krabby</a></small></td>
 </tr>
@@ -7053,7 +7053,7 @@
 </tr>
 <tr>
 <th><span class="igame x">X</span><br><span class="igame y">Y</span></th>
-<td><small>Evolve <a href="/pokedex/exeggcute">Exeggcute</a></small></td>
+ <td><small>Evolve <a href="/pokedex/exeggcute">Exeggcute</a></small></td>
 </tr>
 <tr>
 <th><span class="igame omega-ruby">Omega Ruby</span><br><span class="igame alpha-sapphire">Alpha Sapphire</span></th>
@@ -7473,7 +7473,7 @@
 <th><span class="igame crystal">Crystal</span></th>
 <td><a href="/location/johto-burned-tower">Burned Tower</a></td>
 </tr>
- <tr>
+<tr>
 <th><span class="igame ruby">Ruby</span><br><span class="igame sapphire">Sapphire</span></th>
 <td><small>Evolve <a href="/pokedex/koffing">Koffing</a></small></td>
 </tr>
@@ -9515,7 +9515,7 @@
 <h2>Answers to 
 ~Aerodactyl!Where to find Aerodactyl</h2>
 <div class="resp-scroll">
-<table class="vitals-table">
+ <table class="vitals-table">
 <tbody>
 <tr>
 <th><span class="igame red">Red</span><br><span class="igame blue">Blue</span><br><span class="igame yellow">Yellow</span></th>
@@ -9818,7 +9818,7 @@
 <tr>
 <th><span class="igame gold">Gold</span><br><span class="igame silver">Silver</span></th>
 <td><a href="/location/johto-route-45">Route 45</a>, <a href="/location/johto-dragons-den">Dragon's Den</a>, <a href="/location/johto-goldenrod-city">Goldenrod City</a></td>
- </tr>
+</tr>
 <tr>
 <th><span class="igame crystal">Crystal</span></th>
 <td><a href="/location/johto-route-45">Route 45</a>, <a href="/location/johto-dragons-den">Dragon's Den</a></td>
@@ -10155,7 +10155,7 @@
 <th><span class="igame heartgold">HeartGold</span><br><span class="igame soulsilver">SoulSilver</span></th>
 <td><small>Evolve <a href="/pokedex/chikorita">Chikorita</a></small></td>
 </tr>
- <tr>
+<tr>
 <th><span class="igame black">Black</span><br><span class="igame white">White</span><br><span class="igame black-2">Black 2</span><br><span class="igame white-2">White 2</span></th>
 <td><small>Trade/migrate from another game</small></td>
 </tr>
@@ -12413,7 +12413,7 @@
 </tr>
 <tr>
 <th><span class="igame ultra-sun">Ultra Sun</span><br><span class="igame ultra-moon">Ultra Moon</span></th>
- <td><small>Breed <a href="/pokedex/yanmega">Yanmega</a></small></td>
+<td><small>Breed <a href="/pokedex/yanmega">Yanmega</a></small></td>
 </tr>
 </tbody>
 </table>
@@ -12735,7 +12735,7 @@
 <th><span class="igame leafgreen">LeafGreen</span></th>
 <td><small>Evolve <a href="/pokedex/slowpoke">Slowpoke</a></small></td>
 </tr>
-<tr>
+ <tr>
 <th><span class="igame emerald">Emerald</span></th>
 <td><small>Trade/migrate from another game</small></td>
 </tr>
@@ -13153,7 +13153,7 @@
 <th><span class="igame heartgold">HeartGold</span><br><span class="igame soulsilver">SoulSilver</span></th>
 <td><a href="/location/johto-dark-cave">Dark Cave</a></td>
 </tr>
-<tr>
+ <tr>
 <th><span class="igame black">Black</span><br><span class="igame white">White</span></th>
 <td><a href="/location/unova-route-12">Route 12</a></td>
 </tr>
@@ -13551,7 +13551,7 @@
 <th><span class="igame heartgold">HeartGold</span><br><span class="igame soulsilver">SoulSilver</span></th>
 <td><a href="/location/johto-cianwood-city">Cianwood City</a>, <a href="/location/kanto-vermilion-city">Vermilion City</a></td>
 </tr>
-<tr>
+ <tr>
 <th><span class="igame black">Black</span><br><span class="igame white">White</span></th>
 <td><a href="/location/unova-route-14">Route 14</a></td>
 </tr>
@@ -14128,7 +14128,7 @@
 <td><a href="/location/hoenn-safari-zone">Safari Zone</a></td>
 </tr>
 <tr>
- <th><span class="igame diamond">Diamond</span><br><span class="igame pearl">Pearl</span></th>
+<th><span class="igame diamond">Diamond</span><br><span class="igame pearl">Pearl</span></th>
 <td><a href="/location/sinnoh-route-213">Route 213</a>, <a href="/location/sinnoh-route-222">222</a>, <a href="/location/sinnoh-route-223">223</a>, <a href="/location/sinnoh-route-224">224</a>, <a href="/location/sinnoh-route-230">230</a>, <a href="/location/sinnoh-pastoria-city">Pastoria City</a>, <a href="/location/sinnoh-pokemon-league">PokÃ©mon League</a>, <a href="/location/sinnoh-sunyshore-city">Sunyshore City</a>, <a href="/location/sinnoh-victory-road">Victory Road</a></td>
 </tr>
 <tr>
@@ -14463,7 +14463,7 @@
 </tr>
 <tr>
 <th><span class="igame diamond">Diamond</span></th>
- <td><small>Trade/migrate from another game</small></td>
+<td><small>Trade/migrate from another game</small></td>
 </tr>
 <tr>
 <th><span class="igame pearl">Pearl</span></th>
@@ -16325,7 +16325,7 @@
 <th><span class="igame diamond">Diamond</span></th>
 <td><a href="/location/sinnoh-route-214">Route 214</a>, <a href="/location/sinnoh-route-215">215</a></td>
 </tr>
- <tr>
+<tr>
 <th><span class="igame pearl">Pearl</span></th>
 <td><small>Trade/migrate from another game</small></td>
 </tr>
@@ -17139,7 +17139,7 @@
 <th><span class="igame ultra-sun">Ultra Sun</span><br><span class="igame ultra-moon">Ultra Moon</span></th>
 <td><small>Evolve <a href="/pokedex/seedot">Seedot</a>/<a href="/pokedex/nuzleaf">Nuzleaf</a></small></td>
 </tr>
-</tbody>
+ </tbody>
 </table>
 </div>
 </div>
@@ -17347,7 +17347,7 @@
 <th><span class="igame omega-ruby">Omega Ruby</span><br><span class="igame alpha-sapphire">Alpha Sapphire</span></th>
 <td><a href="/location/hoenn-route-103">Route 103</a>, <a href="/location/hoenn-route-104">104</a>, <a href="/location/hoenn-route-105">105</a>, <a href="/location/hoenn-route-106">106</a>, <a href="/location/hoenn-route-107">107</a>, <a href="/location/hoenn-route-108">108</a>, <a href="/location/hoenn-route-109">109</a>, <a href="/location/hoenn-route-110">110</a>, <a href="/location/hoenn-route-115">115</a>, <a href="/location/hoenn-route-118">118</a>, <a href="/location/hoenn-route-119">119</a>, <a href="/location/hoenn-route-121">121</a>, <a href="/location/hoenn-route-122">122</a>, <a href="/location/hoenn-route-123">123</a>, <a href="/location/hoenn-route-124">124</a>, <a href="/location/hoenn-route-125">125</a>, <a href="/location/hoenn-route-126">126</a>, <a href="/location/hoenn-route-127">127</a>, <a href="/location/hoenn-route-128">128</a>, <a href="/location/hoenn-route-129">129</a>, <a href="/location/hoenn-route-130">130</a>, <a href="/location/hoenn-route-131">131</a>, <a href="/location/hoenn-route-132">132</a>, <a href="/location/hoenn-route-133">133</a>, <a href="/location/hoenn-route-134">134</a>, <a href="/location/hoenn-dewford-town">Dewford Town</a>, <a href="/location/hoenn-evergrande-city">Ever Grande City</a>, <a href="/location/hoenn-mossdeep-city">Mossdeep City</a>, <a href="/location/hoenn-pacifidlog-town">Pacifidlog Town</a>, <a href="/location/hoenn-slateport-city">Slateport City</a>, <a href="/location/hoenn-lilycove-city">Lilycove City</a>, <a href="/location/hoenn-battle-resort">Battle Resort</a>, <a href="/location/hoenn-sea-mauville">Sea Mauville</a></td>
 </tr>
- <tr>
+<tr>
 <th><span class="igame sun">Sun</span><br><span class="igame moon">Moon</span></th>
 <td><a href="/location/alola-route-14">Route 14</a>, <a href="/location/alola-route-15">15</a>, <a href="/location/alola-route-16">16</a>, <a href="/location/alola-secluded-shore">Secluded Shore</a>, <a href="/location/alola-tapu-village">Tapu Village</a>, <a href="/location/alola-poni-wilds">Poni Wilds</a>, <a href="/location/alola-ancient-poni-path">Ancient Poni Path</a>, <a href="/location/alola-poni-plains">Poni Plains</a>, <a href="/location/alola-poni-gauntlet">Poni Gauntlet</a>, <a href="/location/alola-exeggutor-island">Exeggutor Island</a></td>
 </tr>
@@ -17640,7 +17640,7 @@
 <div class="grid-col span-md-12 span-lg-4">
 <h2>Answers to 
 ~Shroomish!Where to find Shroomish</h2>
-<div class="resp-scroll">
+ <div class="resp-scroll">
 <table class="vitals-table">
 <tbody>
 <tr>
@@ -18827,13 +18827,13 @@
 <th><span class="igame black">Black</span><br><span class="igame white">White</span><br><span class="igame black-2">Black 2</span><br><span class="igame white-2">White 2</span></th>
 <td><small>Trade/migrate from another game</small></td>
 </tr>
-<tr>
+ <tr>
 <th><span class="igame x">X</span><br><span class="igame y">Y</span></th>
 <td><a href="/location/kalos-connecting-cave">Connecting Cave</a></td>
 </tr>
 <tr>
 <th><span class="igame omega-ruby">Omega Ruby</span><br><span class="igame alpha-sapphire">Alpha Sapphire</span></th>
- <td><a href="/location/hoenn-mt-pyre">Mt. Pyre</a></td>
+<td><a href="/location/hoenn-mt-pyre">Mt. Pyre</a></td>
 </tr>
 <tr>
 <th><span class="igame sun">Sun</span><br><span class="igame moon">Moon</span></th>
@@ -19748,7 +19748,7 @@
 <td><a href="/location/sinnoh-route-214">Route 214</a></td>
 </tr>
 <tr>
- <th><span class="igame heartgold">HeartGold</span><br><span class="igame soulsilver">SoulSilver</span></th>
+<th><span class="igame heartgold">HeartGold</span><br><span class="igame soulsilver">SoulSilver</span></th>
 <td><a href="/location/johto-ilex-forest">Ilex Forest</a>, <a href="/location/kanto-viridian-forest">Viridian Forest</a></td>
 </tr>
 <tr>
@@ -21150,7 +21150,7 @@
 <td><a href="/location/kalos-route-6">Route 6</a></td>
 </tr>
 <tr>
- <th><span class="igame omega-ruby">Omega Ruby</span><br><span class="igame alpha-sapphire">Alpha Sapphire</span></th>
+<th><span class="igame omega-ruby">Omega Ruby</span><br><span class="igame alpha-sapphire">Alpha Sapphire</span></th>
 <td><a href="/location/hoenn-route-118">Route 118</a>, <a href="/location/hoenn-route-119">119</a>, <a href="/location/hoenn-route-120">120</a>, <a href="/location/hoenn-route-121">121</a>, <a href="/location/hoenn-route-123">123</a>, <a href="/location/hoenn-mossdeep-city">Mossdeep City</a></td>
 </tr>
 <tr>
@@ -23385,7 +23385,7 @@
 </tr>
 <tr>
 <th><span class="igame x">X</span><br><span class="igame y">Y</span></th>
-<td><a href="/location/kalos-route-11">Route 11</a></td>
+ <td><a href="/location/kalos-route-11">Route 11</a></td>
 </tr>
 <tr>
 <th><span class="igame omega-ruby">Omega Ruby</span><br><span class="igame alpha-sapphire">Alpha Sapphire</span></th>
@@ -23929,7 +23929,7 @@
 <th><span class="igame omega-ruby">Omega Ruby</span><br><span class="igame alpha-sapphire">Alpha Sapphire</span></th>
 <td><a href="/location/hoenn-rustboro-city">Rustboro City</a></td>
 </tr>
-<tr>
+ <tr>
 <th><span class="igame sun">Sun</span><br><span class="igame moon">Moon</span><br><span class="igame ultra-sun">Ultra Sun</span><br><span class="igame ultra-moon">Ultra Moon</span></th>
 <td><a href="/location/alola-route-8">Route 8</a></td>
 </tr>
@@ -24082,7 +24082,7 @@
 <tr>
 <th><span class="igame x">X</span><br><span class="igame y">Y</span></th>
 <td><a href="/location/kalos-route-4">Route 4</a>, <a href="/location/kalos-route-7">7</a></td>
-</tr>
+ </tr>
 <tr>
 <th><span class="igame omega-ruby">Omega Ruby</span><br><span class="igame alpha-sapphire">Alpha Sapphire</span></th>
 <td><small>Trade/migrate from another game</small></td>
@@ -24954,7 +24954,7 @@
 ~Bronzong!Where to find Bronzong</h2>
 <div class="resp-scroll">
 <table class="vitals-table">
- <tbody>
+<tbody>
 <tr>
 <th><span class="igame diamond">Diamond</span><br><span class="igame pearl">Pearl</span><br><span class="igame platinum">Platinum</span></th>
 <td><a href="/location/sinnoh-mt-coronet">Mt. Coronet</a>, <a href="/location/sinnoh-turnback-cave">Turnback Cave</a></td>
@@ -25895,7 +25895,7 @@
 </tr>
 <tr>
 <th><span class="igame ultra-sun">Ultra Sun</span><br><span class="igame ultra-moon">Ultra Moon</span></th>
- <td><a href="/location/alola-ultra-space-wilds">Ultra Space Wilds</a></td>
+<td><a href="/location/alola-ultra-space-wilds">Ultra Space Wilds</a></td>
 </tr>
 </tbody>
 </table>
@@ -27534,7 +27534,7 @@
 <td><small>Evolve <a href="/pokedex/lillipup">Lillipup</a></small></td>
 </tr>
 <tr>
- <th><span class="igame sun">Sun</span><br><span class="igame moon">Moon</span><br><span class="igame ultra-sun">Ultra Sun</span><br><span class="igame ultra-moon">Ultra Moon</span></th>
+<th><span class="igame sun">Sun</span><br><span class="igame moon">Moon</span><br><span class="igame ultra-sun">Ultra Sun</span><br><span class="igame ultra-moon">Ultra Moon</span></th>
 <td><small>Evolve <a href="/pokedex/lillipup">Lillipup</a></small></td>
 </tr>
 </tbody>
@@ -28298,7 +28298,7 @@
 <td><small>Evolve <a href="/pokedex/timburr">Timburr</a>/<a href="/pokedex/gurdurr">Gurdurr</a></small></td>
 </tr>
 <tr>
-<th><span class="igame sun">Sun</span><br><span class="igame moon">Moon</span></th>
+ <th><span class="igame sun">Sun</span><br><span class="igame moon">Moon</span></th>
 <td><a href="/location/alola-poni-plains">Poni Plains</a></td>
 </tr>
 <tr>
@@ -29247,7 +29247,7 @@
 <th><span class="igame black">Black</span><br><span class="igame white">White</span></th>
 <td><a href="/location/unova-relic-castle">Relic Castle</a></td>
 </tr>
- <tr>
+<tr>
 <th><span class="igame black-2">Black 2</span><br><span class="igame white-2">White 2</span></th>
 <td><small>Evolve <a href="/pokedex/yamask">Yamask</a></small></td>
 </tr>
@@ -29767,7 +29767,7 @@
 </tr>
 <tr>
 <th><span class="igame ultra-sun">Ultra Sun</span><br><span class="igame ultra-moon">Ultra Moon</span></th>
-<td><small>Trade/migrate from another game</small></td>
+ <td><small>Trade/migrate from another game</small></td>
 </tr>
 </tbody>
 </table>
@@ -29956,7 +29956,7 @@
 <tr>
 <th><span class="igame x">X</span><br><span class="igame y">Y</span></th>
 <td><small>Evolve <a href="/pokedex/vanillite">Vanillite</a>/<a href="/pokedex/vanillish">Vanillish</a></small></td>
- </tr>
+</tr>
 <tr>
 <th><span class="igame omega-ruby">Omega Ruby</span><br><span class="igame alpha-sapphire">Alpha Sapphire</span></th>
 <td><small>Trade/migrate from another game</small></td>
@@ -30152,7 +30152,7 @@
 <div class="grid-col span-md-12 span-lg-4">
 <h2>Answers to 
 ~Amoonguss!Where to find Amoonguss</h2>
- <div class="resp-scroll">
+<div class="resp-scroll">
 <table class="vitals-table">
 <tbody>
 <tr>
@@ -30847,7 +30847,7 @@
 </tr>
 <tr>
 <th><span class="igame sun">Sun</span><br><span class="igame moon">Moon</span><br><span class="igame ultra-sun">Ultra Sun</span><br><span class="igame ultra-moon">Ultra Moon</span></th>
-<td><small>Trade/migrate from another game</small></td>
+ <td><small>Trade/migrate from another game</small></td>
 </tr>
 </tbody>
 </table>
@@ -30867,7 +30867,7 @@
 <th><span class="igame x">X</span><br><span class="igame y">Y</span></th>
 <td><a href="/location/kalos-frost-cavern">Frost Cavern</a></td>
 </tr>
-<tr>
+ <tr>
 <th><span class="igame omega-ruby">Omega Ruby</span><br><span class="igame alpha-sapphire">Alpha Sapphire</span></th>
 <td><small>Trade/migrate from another game</small></td>
 </tr>
@@ -31078,7 +31078,7 @@
 <td><a href="/location/unova-dragonspiral-tower">Dragonspiral Tower</a></td>
 </tr>
 <tr>
- <th><span class="igame black-2">Black 2</span><br><span class="igame white-2">White 2</span></th>
+<th><span class="igame black-2">Black 2</span><br><span class="igame white-2">White 2</span></th>
 <td><small>Breed <a href="/pokedex/golurk">Golurk</a></small></td>
 </tr>
 <tr>
@@ -31088,7 +31088,7 @@
 <tr>
 <th><span class="igame omega-ruby">Omega Ruby</span><br><span class="igame alpha-sapphire">Alpha Sapphire</span></th>
 <td><small>Trade/migrate from another game</small></td>
- </tr>
+</tr>
 <tr>
 <th><span class="igame sun">Sun</span><br><span class="igame moon">Moon</span></th>
 <td><small>Trade/migrate from another game</small></td>
@@ -34058,7 +34058,7 @@
 <table class="vitals-table">
 <tbody>
 <tr>
- <th><span class="igame sun">Sun</span><br><span class="igame moon">Moon</span></th>
+<th><span class="igame sun">Sun</span><br><span class="igame moon">Moon</span></th>
 <td><a href="/location/alola-route-1">Route 1</a>, <a href="/location/alola-route-4">4</a>, <a href="/location/alola-route-5">5</a>, <a href="/location/alola-route-6">6</a></td>
 </tr>
 <tr>
@@ -34132,7 +34132,7 @@
 <tr>
 <th><span class="igame sun">Sun</span><br><span class="igame moon">Moon</span><br><span class="igame ultra-sun">Ultra Sun</span><br><span class="igame ultra-moon">Ultra Moon</span></th>
 <td><small>Evolve <a href="/pokedex/crabrawler">Crabrawler</a></small></td>
-</tr>
+ </tr>
 </tbody>
 </table>
 </div>
@@ -34448,7 +34448,7 @@
 <div class="grid-col span-md-12 span-lg-4">
 <h2>Answers to 
 ~Stufful!Where to find Stufful</h2>
-<div class="resp-scroll">
+ <div class="resp-scroll">
 <table class="vitals-table">
 <tbody>
 <tr>
@@ -34639,7 +34639,7 @@
 <th><span class="igame sun">Sun</span><br><span class="igame moon">Moon</span><br><span class="igame ultra-sun">Ultra Sun</span></th>
 <td><a href="/location/alola-hano-beach">Hano Beach</a></td>
 </tr>
- <tr>
+<tr>
 <th><span class="igame ultra-moon">Ultra Moon</span></th>
 <td><a href="/location/alola-route-15">Route 15</a>, <a href="/location/alola-hano-beach">Hano Beach</a></td>
 </tr>
@@ -35050,4 +35050,286 @@
 </div>
 </div>
 <div class="grid-col span-md-12 span-lg-4">
-<h2>Answers t
+<h2>Answers to 
+~Nihilego!Where to find Nihilego</h2>
+<div class="resp-scroll">
+<table class="vitals-table">
+<tbody>
+<tr>
+<th><span class="igame sun">Sun</span><br><span class="igame moon">Moon</span></th>
+<td><a href="/location/alola-digletts-tunnel">Diglett's Tunnel</a>, <a href="/location/alola-wela-volcano-park">Wela Volcano Park</a></td>
+</tr>
+<tr>
+<th><span class="igame ultra-sun">Ultra Sun</span><br><span class="igame ultra-moon">Ultra Moon</span></th>
+<td><a href="/location/alola-ultra-space">Ultra Space</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="grid-col span-md-12 span-lg-4">
+<h2>Answers to 
+~Buzzwole!Where to find Buzzwole</h2>
+<div class="resp-scroll">
+<table class="vitals-table">
+<tbody>
+<tr>
+<th><span class="igame sun">Sun</span></th>
+<td><a href="/location/alola-melemele-meadow">Melemele Meadow</a></td>
+</tr>
+<tr>
+<th><span class="igame moon">Moon</span></th>
+<td><small>Trade/migrate from another game</small></td>
+</tr>
+<tr>
+<th><span class="igame ultra-sun">Ultra Sun</span></th>
+<td><a href="/location/alola-ultra-space">Ultra Space</a></td>
+</tr>
+<tr>
+<th><span class="igame ultra-moon">Ultra Moon</span></th>
+<td><small>Trade/migrate from another game</small></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="grid-col span-md-12 span-lg-4">
+<h2>Answers to 
+~Pheromosa!Where to find Pheromosa</h2>
+<div class="resp-scroll">
+<table class="vitals-table">
+<tbody>
+<tr>
+<th><span class="igame sun">Sun</span></th>
+<td><small>Trade/migrate from another game</small></td>
+</tr>
+<tr>
+<th><span class="igame moon">Moon</span></th>
+<td><a href="/location/alola-verdant-cavern">Verdant Cavern</a></td>
+</tr>
+<tr>
+<th><span class="igame ultra-sun">Ultra Sun</span></th>
+<td><small>Trade/migrate from another game</small></td>
+</tr>
+<tr>
+<th><span class="igame ultra-moon">Ultra Moon</span></th>
+<td><a href="/location/alola-ultra-space">Ultra Space</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="grid-col span-md-12 span-lg-4">
+<h2>Answers to 
+~Xurkitree!Where to find Xurkitree</h2>
+<div class="resp-scroll">
+<table class="vitals-table">
+<tbody>
+<tr>
+<th><span class="igame sun">Sun</span><br><span class="igame moon">Moon</span></th>
+<td><a href="/location/alola-memorial-hill">Memorial Hill</a>, <a href="/location/alola-lush-jungle">Lush Jungle</a></td>
+</tr>
+<tr>
+<th><span class="igame ultra-sun">Ultra Sun</span><br><span class="igame ultra-moon">Ultra Moon</span></th>
+<td><a href="/location/alola-ultra-space">Ultra Space</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="grid-col span-md-12 span-lg-4">
+<h2>Answers to 
+~Celesteela!Where to find Celesteela</h2>
+<div class="resp-scroll">
+<table class="vitals-table">
+<tbody>
+<tr>
+<th><span class="igame sun">Sun</span></th>
+<td><small>Trade/migrate from another game</small></td>
+</tr>
+<tr>
+<th><span class="igame moon">Moon</span></th>
+<td><a href="/location/alola-haina-desert">Haina Desert</a>, <a href="/location/alola-malie-garden">Malie Garden</a></td>
+</tr>
+<tr>
+<th><span class="igame ultra-sun">Ultra Sun</span></th>
+<td><small>Trade/migrate from another game</small></td>
+</tr>
+<tr>
+<th><span class="igame ultra-moon">Ultra Moon</span></th>
+<td><a href="/location/alola-ultra-space">Ultra Space</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="grid-col span-md-12 span-lg-4">
+<h2>Answers to 
+~Kartana!Where to find Kartana</h2>
+<div class="resp-scroll">
+<table class="vitals-table">
+<tbody>
+<tr>
+<th><span class="igame sun">Sun</span></th>
+<td><a href="/location/alola-route-17">Route 17</a>, <a href="/location/alola-malie-garden">Malie Garden</a></td>
+</tr>
+<tr>
+<th><span class="igame moon">Moon</span></th>
+<td><small>Trade/migrate from another game</small></td>
+</tr>
+<tr>
+<th><span class="igame ultra-sun">Ultra Sun</span></th>
+<td><a href="/location/alola-ultra-space">Ultra Space</a></td>
+</tr>
+<tr>
+<th><span class="igame ultra-moon">Ultra Moon</span></th>
+<td><small>Trade/migrate from another game</small></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="grid-col span-md-12 span-lg-4">
+<h2>Answers to 
+~Guzzlord!Where to find Guzzlord</h2>
+<div class="resp-scroll">
+<table class="vitals-table">
+<tbody>
+<tr>
+<th><span class="igame sun">Sun</span><br><span class="igame moon">Moon</span></th>
+<td><a href="/location/alola-resolution-cave">Resolution Cave</a></td>
+</tr>
+<tr>
+<th><span class="igame ultra-sun">Ultra Sun</span><br><span class="igame ultra-moon">Ultra Moon</span></th>
+<td><a href="/location/alola-ultra-space">Ultra Space</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="grid-col span-md-12 span-lg-4">
+<h2>Answers to 
+~Necrozma!Where to find Necrozma</h2>
+<div class="resp-scroll">
+<table class="vitals-table">
+<tbody>
+<tr>
+<th><span class="igame sun">Sun</span><br><span class="igame moon">Moon</span></th>
+<td><a href="/location/alola-ten-carat-hill">Ten Carat Hill</a></td>
+</tr>
+<tr>
+<th><span class="igame ultra-sun">Ultra Sun</span><br><span class="igame ultra-moon">Ultra Moon</span></th>
+<td><a href="/location/alola-mount-lanakila">Mount Lanakila</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="grid-col span-md-12 span-lg-4">
+<h2>Answers to 
+~Magearna!Where to find Magearna</h2>
+<div class="resp-scroll">
+<table class="vitals-table">
+<tbody>
+<tr>
+<th><span class="igame sun">Sun</span><br><span class="igame moon">Moon</span><br><span class="igame ultra-sun">Ultra Sun</span><br><span class="igame ultra-moon">Ultra Moon</span></th>
+<td><small>Trade/migrate from another game</small></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="grid-col span-md-12 span-lg-4">
+<h2>Answers to 
+~Marshadow!Where to find Marshadow</h2>
+<div class="resp-scroll">
+<table class="vitals-table">
+<tbody>
+<tr>
+<th><span class="igame sun">Sun</span><br><span class="igame moon">Moon</span><br><span class="igame ultra-sun">Ultra Sun</span><br><span class="igame ultra-moon">Ultra Moon</span></th>
+<td><small>Trade/migrate from another game</small></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="grid-col span-md-12 span-lg-4">
+<h2>Answers to 
+~Poipole!Where to find Poipole</h2>
+<div class="resp-scroll">
+<table class="vitals-table">
+<tbody>
+<tr>
+<th><span class="igame ultra-sun">Ultra Sun</span><br><span class="igame ultra-moon">Ultra Moon</span></th>
+<td><a href="/location/alola-ultra-megalopolis">Ultra Megalopolis</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="grid-col span-md-12 span-lg-4">
+<h2>Answers to 
+~Naganadel!Where to find Naganadel</h2>
+<div class="resp-scroll">
+<table class="vitals-table">
+<tbody>
+<tr>
+<th><span class="igame ultra-sun">Ultra Sun</span><br><span class="igame ultra-moon">Ultra Moon</span></th>
+<td><small>Evolve <a href="/pokedex/poipole">Poipole</a></small></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="grid-col span-md-12 span-lg-4">
+<h2>Answers to 
+~Stakataka!Where to find Stakataka</h2>
+<div class="resp-scroll">
+<table class="vitals-table">
+<tbody>
+<tr>
+<th><span class="igame ultra-sun">Ultra Sun</span></th>
+<td><small>Trade/migrate from another game</small></td>
+</tr>
+<tr>
+<th><span class="igame ultra-moon">Ultra Moon</span></th>
+<td><a href="/location/alola-poni-grove">Poni Grove</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="grid-col span-md-12 span-lg-4">
+<h2>Answers to 
+~Blacephalon!Where to find Blacephalon</h2>
+<div class="resp-scroll">
+<table class="vitals-table">
+<tbody>
+<tr>
+<th><span class="igame ultra-sun">Ultra Sun</span></th>
+<td><a href="/location/alola-poni-grove">Poni Grove</a></td>
+</tr>
+<tr>
+<th><span class="igame ultra-moon">Ultra Moon</span></th>
+<td><small>Trade/migrate from another game</small></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="grid-col span-md-12 span-lg-4">
+<h2>Answers to 
+~Zeraora!Where to find Zeraora</h2>
+<div class="resp-scroll">
+<table class="vitals-table">
+<tbody>
+<tr>
+<th><span class="igame ultra-sun">Ultra Sun</span><br><span class="igame ultra-moon">Ultra Moon</span></th>
+<td><small>Trade/migrate from another game</small></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="grid-col span-md-12 span-lg-4">
+<h2>Answers to 

@@ -24355,4 +24355,47 @@ these pokã©mon (excluding swarm, pokã© radar, and dual-slot pokã©mon) will
 {{catch/entryhs|086|seel|yes|yes|cave|23-25|all=15%|type1=water}}
 {{catch/entryhs|098|krabby|yes|yes|cave|23-25|all=50%|type1=water}}
 {{catch/div|water|special}}
-{{cat
+{{catch/entryhs|249|lugia|yes|no|special|70|all=one|type1=psychic|type2=flying}}
+{{catch/entryhs|249|lugia|no|yes|special|45|all=one|type1=psychic|type2=flying}}
+{{catch/entryhs|296|makuhita|yes|yes|hoenn|25|all=20%|type1=fighting}}
+{{catch/entryhs|359|absol|yes|yes|hoenn|23-24|all=20%|type1=dark}}
+{{catch/entryhs|433|chingling|yes|yes|sinnoh|25|all=20%|type1=psychic}}
+{{catch/entryhs|436|bronzor|yes|yes|sinnoh|23-24|all=20%|type1=steel|type2=psychic}}
+
+~White Forest!ds.
+{{catch/header|white|seasons=yes}}
+{{catch/entry5|016|pidgey|no|yes|yes|grass|5|all=leo[[file:school kid m od.png]]|type1=normal|type2=flying}}
+{{catch/entry5|029|nidoranâ|no|yes|yes|grass|5|all=jacques[[file:scientist m od.png]]|type1=poison}}
+{{catch/entry5|032|nidoranâ|no|yes|yes|grass|5|all=ken[[file:veteran m od.png]]|type1=poison}}
+{{catch/entry5|043|oddish|no|yes|yes|grass|5|all=lynette[[file:lady od.png]]|type1=grass|type2=poison}}
+{{catch/entry5|063|abra|no|yes|yes|grass|5|all=collin[[file:clerk m od.png]]|type1=psychic}}
+{{catch/entry5|066|machop|no|yes|yes|grass|5|all=ryder[[file:black belt od.png]]|type1=fighting}}
+{{catch/entry5|069|bellsprout|no|yes|yes|grass|5|all=piper[[file:clerk f od.png]]|type1=grass|type2=poison}}
+{{catch/entry5|081|magnemite|no|yes|yes|grass|5|all=marie[[file:scientist f od.png]]|type1=electric|type2=steel}}
+{{catch/entry5|092|gastly|no|yes|yes|grass|5|all=dave[[file:roughneck od.png]]|type1=ghost|type2=poison}}
+{{catch/entry5|111|rhyhorn|no|yes|yes|grass|5|all=shane[[file:school kid m od.png]]|type1=ground|type2=rock}}
+{{catch/entry5|137|porygon|no|yes|yes|grass|5|all=herman[[file:backpacker m od.png]]|type1=normal}}
+{{catch/entry5|175|togepi|no|yes|yes|grass|5|all=miki[[file:lass od.png]]|type1=normal}}
+{{catch/entry5|179|mareep|no|yes|yes|grass|5|all=pierce[[file:rich boy v od.png]]|type1=electric}}
+{{catch/entry5|187|hoppip|no|yes|yes|grass|5|all=britney[[file:clerk f od.png]]|type1=grass|type2=flying}}
+{{catch/entry5|239|elekid|no|yes|yes|grass|5|all=robbie[[file:youngster od.png]]|type1=electric}}
+{{catch/entry5|240|magby|no|yes|yes|grass|5|all=vincent[[file:ace trainer m v od.png]]|type1=fire}}
+{{catch/entry5|265|wurmple|no|yes|yes|grass|5|all=silvia[[file:school kid f od.png]]|type1=bug}}
+{{catch/entry5|270|lotad|no|yes|yes|grass|5|all=ralph[[file:pokemon ranger m od.png]]|type1=water|type2=grass}}
+{{catch/entry5|273|seedot|no|yes|yes|grass|5|all=miho[[file:nursery aide od.png]]|type1=grass}}
+{{catch/entry5|280|ralts|no|yes|yes|grass|5|all=lena[[file:ace trainer f v od.png]]|type1=psychic}}
+{{catch/entry5|287|slakoth|no|yes|yes|grass|5|all=karenna[[file:battle girl od.png]]|type1=normal}}
+{{catch/entry5|293|whismur|no|yes|yes|grass|5|all=rosa[[file:veteran f od.png]]|type1=normal}}
+{{catch/entry5|298|azurill|no|yes|yes|grass|5|all=molly[[file:backpacker f od.png]]|type1=normal}}
+{{catch/entry5|304|aron|no|yes|yes|grass|5|all=gene[[file:hiker od.png]]|type1=steel|type2=rock}}
+{{catch/entry5|328|trapinch|no|yes|yes|grass|5|all=eliza[[file:pokemon ranger f od.png]]|type1=ground}}
+{{catch/entry5|371|bagon|no|yes|yes|grass|5|all=grace[[file:socialite od.png]]|type1=dragon}}
+{{catch/entry5|396|starly|no|yes|yes|grass|5|all=carlos[[file:backpacker m od.png]]|type1=normal|type2=flying}}
+{{catch/entry5|403|shinx|no|yes|yes|grass|5|all=doug[[file:clerk m od.png]]|type1=electric}}
+{{catch/entry5|406|budew|no|yes|yes|grass|5|all=frederic[[file:gentleman od.png]]|type1=grass|type2=poison}}
+{{catch/entry5|440|happiny|no|yes|yes|grass|5|all=emi[[file:backpacker f od.png]]|type1=normal}}
+{{catch/div|water|surfing}}
+{{catch/entry5|194|wooper|no|yes|yes|surf|5|all=lena, frederic, herman, grace|type1=water|type2=ground}}
+{{catch/entry5|270|lotad|no|yes|yes|surf|5|all=ryder, karenna, doug, marie, molly, eliza, collin, jacques, rosa|type1=water|type2=grass}}
+{{catch/entry5|283|surskit|no|yes|yes|surf|5|all=leo, silvia, dave, britney, robbie, miki, lynette, pierce, gene, piper, miho, shane, ralph|type1=bug|type2=water}}
+{{catch/entry5|341|corphish|no|yes|yes|surf|5|all=vincent, carlos, ken, emi|type1=water}}

@@ -6256,7 +6256,7 @@
 |}
 {{Availability/Gen|gen=IV}}
 {{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Great Marsh]] ({{DL|Fishing|Good Rod}} or {{DL|Fishing|Super Rod}})&lt;br>[[Route]]s {{rtn|203|Sinnoh}}, {{rtn|204|Sinnoh}}, {{rtn|205|Sinnoh}}, {{rtn|208|Sinnoh}}, {{rtn|209|Sinnoh}}, {{rtn|210|Sinnoh}}, {{rtn|212|Sinnoh}}, {{rtn|213|Sinnoh}}, {{rtn|214|Sinnoh}}, {{rtn|218|Sinnoh}}, {{rtn|219|Sinnoh}}, {{rtn|220|Sinnoh}}, {{rtn|221|Sinnoh}}, {{rtn|222|Sinnoh}}, {{rtn|223|Sinnoh}}, {{rtn|224|Sinnoh}}, {{rtn|225|Sinnoh}}, {{rtn|226|Sinnoh}}, {{rtn|227|Sinnoh}}, {{rtn|228|Sinnoh}}, {{rtn|229|Sinnoh}}, and {{rtn|230|Sinnoh}}, [[Twinleaf Town]], [[Eterna City]], [[Canalave City]], [[Celestic Town]], [[Pastoria City]], [[Sunyshore City]], [[Lake Verity]], [[Lake Acuity]], [[Lake Valor]], [[Ravaged Path]], [[Valley Windworks]], [[Mt. Coronet]], [[Iron Island]], [[Sendoff Spring]], {{si|PokÃ©mon League}}, {{si|Victory Road}}, [[Fuego Ironworks]], [[Oreburgh Gate]], [[Resort Area]] ({{DL|Fishing|Super Rod}})}}
-{{Availability/Entry1|v=Platinum|area=[[Great Marsh]] ({{DL|Fishing|Good Rod}} or {{DL|Fishing|Super Rod}})&lt;br>[[Route]]s {{rtn|203|Sinnoh}}, {{rtn|204|Sinnoh}}, {{rtn|205|Sinnoh}}, {{rtn|208|Sinnoh}}, {{rtn|209|Sinnoh}}, {{rtn|210|Sinnoh}}, {{rtn|212|Sinnoh}}, {{rtn|213|Sinnoh}}, {{rtn|214|Sinnoh}}, {{rtn|218|Sinnoh}}, {{rtn|219|Sinnoh}}, {{rtn|220|Sinnoh}}, {{rtn|221|Sinnoh}}, {{rtn|222|Sinnoh}}, {{rtn|223|Sinnoh}}, {{rtn|224|Sinnoh}}, {{rtn|225|Sinnoh}}, {{rtn|226|Sinnoh}}, {{rtn|227|Sinnoh}}, {{rtn|228|Sinnoh}}, {{rtn|229|Sinnoh}}, and {{rtn|230|Sinnoh}}, [[Twinleaf Town]], [[Eterna City]], [[Canalave City]], [[Celestic Town]], [[Pastoria City]], [[Sunyshore City]], [[Lake Verity]], [[Lake Acuity]], [[Lake Valor]], [[Ravaged Path]], [[Valley Windworks]], [[Mt. Coronet]], [[Iron Island]], [[Sendoff Spring]], {{si|PokÃ©mon League}}, {{si|Victory Road}}, [[Fuego Ironworks]], [[Oreburgh Gate]] ({{DL|Fishing|Super Rod}})}}
+{{Availability/Entry1|v=Platinum|area=[[Route]]s {{rtn|203|Sinnoh}}, {{rtn|204|Sinnoh}}, {{rtn|205|Sinnoh}}, {{rtn|208|Sinnoh}}, {{rtn|209|Sinnoh}}, {{rtn|210|Sinnoh}}, {{rtn|212|Sinnoh}}, {{rtn|213|Sinnoh}}, {{rtn|214|Sinnoh}}, {{rtn|218|Sinnoh}}, {{rtn|219|Sinnoh}}, {{rtn|220|Sinnoh}}, {{rtn|221|Sinnoh}}, {{rtn|222|Sinnoh}}, {{rtn|223|Sinnoh}}, {{rtn|224|Sinnoh}}, {{rtn|225|Sinnoh}}, {{rtn|226|Sinnoh}}, {{rtn|227|Sinnoh}}, {{rtn|228|Sinnoh}}, {{rtn|229|Sinnoh}}, and {{rtn|230|Sinnoh}}, [[Twinleaf Town]], [[Eterna City]], [[Canalave City]], [[Celestic Town]], [[Pastoria City]], [[Great Marsh]], [[Sunyshore City]], [[Lake Verity]], [[Lake Acuity]], [[Lake Valor]], [[Ravaged Path]], [[Valley Windworks]], [[Mt. Coronet]], [[Iron Island]], [[Sendoff Spring]], {{si|PokÃ©mon League}}, {{si|Victory Road}}, [[Fuego Ironworks]], [[Oreburgh Gate]] ({{DL|Fishing|Super Rod}})}}
 {{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Lake of Rage]] ({{m|Surf}}ing, {{DL|Fishing|Good Rod}}, {{DL|Fishing|Super Rod}}, [[Red Gyarados]]{{tt|*|If defeated, it will respawn after the player defeats the Elite Four}})&lt;br>[[Mt. Silver]] 1F, [[Cerulean Cave]], [[Seafoam Islands]] B4F ({{DL|Fishing|Super Rod}})&lt;br>[[Fuchsia City]] ({{DL|Fishing|Good Rod}} or {{DL|Fishing|Super Rod}})}}
 {{Availability/Entry1|v=Pal Park|color={{locationcolor/light|water}}|link=Pal Park|area={{DL|List of PokÃ©mon by Pal Park location|Pond}}}}
 |}
@@ -24929,4 +24929,275 @@ Arceus was originally intended to appear in {{game2|Diamond|Pearl|Platinum}} in 
 {{Availability/Gen|gen=VII}}
 {{Availability/Entry2|v=Sun|v2=Moon|area=[[Vast Poni Canyon]] ([[SOS Battle]])}}
 {{Availability/Entry1|v=Ultra Sun|area=[[Vast Poni Canyon]] ([[SOS Battle]])}}
-{{Availability/Entry1|v=Ultra Moon|area=[[Vast Poni Canyon]] ([[SOS Battle]])&lt;br/>[[List of in-game event PokÃ©mon in Generation VII|Received]] from [[Samson Oak]] at [[Heahea Beach]]{{tt|*|Requires 100 Totem Stickers}} ([[Totem PokÃ©
+{{Availability/Entry1|v=Ultra Moon|area=[[Vast Poni Canyon]] ([[SOS Battle]])&lt;br/>[[List of in-game event PokÃ©mon in Generation VII|Received]] from [[Samson Oak]] at [[Heahea Beach]]{{tt|*|Requires 100 Totem Stickers}} ([[Totem PokÃ©mon|Totem]]-sized)}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games
+~Tapu Koko!Game locations===
+{{Availability/Header|type=Electric|type2=Fairy}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Ruins of Conflict]] (after becoming {{pkmn|Champion}})}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Ruins of Conflict]] (after becoming {{pkmn|Champion}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games
+~Tapu Lele!Game locations===
+{{Availability/Header|type=Psychic|type2=Fairy}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Ruins of Life]] (after becoming {{pkmn|Champion}})}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Ruins of Life]] (after becoming {{pkmn|Champion}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games
+~Tapu Bulu!Game locations===
+{{Availability/Header|type=Grass|type2=Fairy}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Ruins of Abundance]] (after becoming {{pkmn|Champion}})}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Ruins of Abundance]] (after becoming {{pkmn|Champion}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games
+~Tapu Fini!Game locations===
+{{Availability/Header|type=Water|type2=Fairy}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Ruins of Hope]] (after becoming {{pkmn|Champion}})}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Ruins of Hope]] (after becoming {{pkmn|Champion}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games
+~Cosmog!Game locations===
+{{Availability/Header|type=Psychic}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Sun|area=[[Lake of the Sunne]] ([[List of in-game event PokÃ©mon in Generation VII#Cosmog|only one]])}}
+{{Availability/Entry1|1|v=Moon|area=[[Lake of the Moone]] ([[List of in-game event PokÃ©mon in Generation VII#Cosmog|only one]])}}
+{{Availability/Entry1|1|v=Ultra Sun|area=[[Lake of the Sunne]] ([[List of in-game event PokÃ©mon in Generation VII#Cosmog|only one]])}}
+{{Availability/Entry1|1|v=Ultra Moon|area=[[Lake of the Moone]] ([[List of in-game event PokÃ©mon in Generation VII#Cosmog|only one]])}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games
+~Cosmoem!Game locations===
+{{Availability/Header|type=Psychic}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Cosmog}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Evolution|Evolve]] {{p|Cosmog}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games
+~Solgaleo!Game locations===
+{{Availability/Header|type=Psychic|type2=Steel}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Sun|area=[[Altar of the Sunne]] ([[List of in-game event PokÃ©mon in Generation VII#Solgaleo|only one]])&lt;!--Do not add "Evolve Cosmoem"-->}}
+{{Availability/Entry1/None|1|v=Moon}}
+{{Availability/Entry1|1|v=Ultra Sun|area=[[Mahalo Trail]] ([[List of in-game event PokÃ©mon in Generation VII#Solgaleo|only one]])&lt;!--Do not add "Evolve Cosmoem"-->}}
+{{Availability/Entry1/None|1|v=Ultra Moon}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games
+~Lunala!Game locations===
+{{Availability/Header|type=Psychic|type2=Ghost}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1/None|1|v=Sun}}
+{{Availability/Entry1|1|v=Moon|area=[[Altar of the Moone]] ([[List of in-game event PokÃ©mon in Generation VII#Lunala|only one]])&lt;!--Do not add "Evolve Cosmoem"-->}}
+{{Availability/Entry1/None|1|v=Ultra Sun}}
+{{Availability/Entry1|1|v=Ultra Moon|area=[[Mahalo Trail]] ([[List of in-game event PokÃ©mon in Generation VII#Lunala|only one]])&lt;!--Do not add "Evolve Cosmoem"-->}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games
+~Nihilego!Game locations===
+{{Availability/Header|type=Rock|type2=Poison}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Diglett's Tunnel]] or [[Wela Volcano Park]] (only one for either location)}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Ultra Deep Sea]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games
+~Buzzwole!Game locations===
+{{Availability/Header|type=Bug|type2=Fighting}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Sun|area=[[Melemele Meadow]] (only two)}}
+{{Availability/Entry1/None|1|v=Moon}}
+{{Availability/Entry1|1|v=Ultra Sun|area=[[Ultra Jungle]]}}
+{{Availability/Entry1/None|1|v=Ultra Moon}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games
+~Pheromosa!Game locations===
+{{Availability/Header|type=Bug|type2=Fighting}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1/None|1|v=Sun}}
+{{Availability/Entry1|1|v=Moon|area=[[Verdant Cavern]] (only four)}}
+{{Availability/Entry1/None|1|v=Ultra Sun}}
+{{Availability/Entry1|1|v=Ultra Moon|area=[[Ultra Desert]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games
+~Xurkitree!Game locations===
+{{Availability/Header|type=Electric}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Lush Jungle]], [[Memorial Hill]] (only two for either location)}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Ultra Plant]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games
+~Celesteela!Game locations===
+{{Availability/Header|type=Steel|type2=Flying}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1/None|1|v=Sun}}
+{{Availability/Entry1|1|v=Moon|area=[[Haina Desert]], [[Malie Garden]] (only two for either location)}}
+{{Availability/Entry1/None|1|v=Ultra Sun}}
+{{Availability/Entry1|1|v=Ultra Moon|area=[[Ultra Crater]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games
+~Kartana!Game locations===
+{{Availability/Header|type=Grass|type2=Steel}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Sun|area={{rt|17|Alola}}, [[Malie Garden]] (only four for either location)}}
+{{Availability/Entry1/None|1|v=Moon}}
+{{Availability/Entry1|1|v=Ultra Sun|area=[[Ultra Forest]]}}
+{{Availability/Entry1/None|1|v=Ultra Moon}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games
+~Guzzlord!Game locations===
+{{Availability/Header|type=Dark|type2=Dragon}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Resolution Cave]] (only one)}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Ultra Ruin]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games
+~Necrozma!Game locations===
+{{Availability/Header|type=Psychic}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Ten Carat Hill]]}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Mount Lanakila]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games
+~Magearna!Game locations===
+{{Availability/Header|type=Steel|type2=Fairy}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area={{pkmn2|Event}}}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area={{pkmn2|Event}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games
+~Marshadow!Game locations===
+{{Availability/Header|type=Fighting|type2=Ghost}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area={{pkmn2|Event}}}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games
+~Poipole!Game locations===
+{{Availability/Header|type=Poison}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=Unavailable}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Megalo Tower]] or [[Ultra Megalopolis]]{{tt|*|If refused at Megalo Tower}} ({{pkmn2|Gift}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games
+~Naganadel!Game locations===
+{{Availability/Header|type=Poison|type2=Dragon}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=Unavailable}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Evolve]] {{p|Poipole}}}}
+|}
+|}
+{{Availability/Footer}}
+====In side games
+~Stakataka!Game locations===
+{{Availability/Header|type=Rock|type2=Steel}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=Unavailable}}
+{{Availability/Entry1/None|2|v=Ultra Sun}}
+{{Availability/Entry1|2|v=Ultra Moon|area=[[Poni Grove]] (only two)}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games
+~Blacephalon!Game locations===
+{{Availability/Header|type=Fire|type2=Ghost}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=Unavailable}}
+{{Availability/Entry1|2|v=Ultra Sun|area=[[Poni Grove]] (only two)}}
+{{Availability/Entry1/None|2|v=Ultra Moon}}
+|}
+|}
+{{Availability/Footer}}
+====In side games
+~Zeraora!Game locations===
+{{Availability/Header|type=Electric}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=Unavailable}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area={{pkmn2|Event}}}}
+|}
+|}
+{{Availability/Footer}}
+====In side games
