@@ -11,7 +11,7 @@ import java.util.Scanner;
 public class Main {
 	public static int right = 0;
 	public static int wrong = 0;
-	public static final int mode = 3;
+	public static final int mode = 5;
 	public static int[] gameErrors = new int[28];
 	public static final int[] entryusum = {1, 0};
 	public static final int[] entry7 = {3, 2};
@@ -46,12 +46,18 @@ public class Main {
 		case 3:
 			downloadBulbaLocations();
 			break;
+		case 4:
+			comparePokemon();
+			break;
+		case 5:
+			compareBulba();
+			break;
 		default:
 			System.out.println("mode's value is out of bounds!");
 		}
 		
 		for(int i = 0; i < list504.size(); i ++) {
-			System.out.print(list504.get(i) + " ");
+			System.out.println("504 from " + list504.get(i));
 		}
 	}
 	
@@ -59,7 +65,6 @@ public class Main {
 		// TODO Auto-generated method stub
 		Scanner input = new Scanner(new File("pokemonList.txt"));
 		int number = 0;
-		//pokemonErrors.add(new LocationSet("filler for index 0", 0));
 		PrintWriter output = new PrintWriter(new File("bulbaDownload0.txt"));
 		
 		while(input.hasNext()) {
@@ -230,65 +235,7 @@ public class Main {
             output.println('~' + line + '!' + catches);
             System.out.println('~' + line + '!' + catches);
 	            
-	            /*catches = catches.replace(" ", "").replace("\n", "").replace("[[route]]s", "").replace("Ã©", "e").trim();
-	            line = LocationSet.removeBraces(line, "(", ")");
-        		
-        		while(line.startsWith("Kanto ") || line.startsWith("Johto ") || line.startsWith("Hoenn ") || line.startsWith("Sinnoh") || line.startsWith("Unova ") 
-        				|| line.startsWith("Kalos ") || line.startsWith("Alola ")) {
-        			line = line.substring(6);
-        		}
-	            
-	            while(catches.contains("{{catch/entry")) {
-	            	catches = LocationSet.cutTo(catches, "{{catch/").substring(1);
-	            	ArrayList<Integer> lookingAtGames = new ArrayList<Integer>();
-	            	int[] entry = new int[255];
-	            	catches = LocationSet.cutTo(catches, "entry");
-	            	
-	            	if(catches.startsWith("entryusum")) {
-	            		entry = entryusum;
-	            	}else if(catches.startsWith("entry7")) {
-	            		entry = entry7;
-	            	}else if(catches.startsWith("entryoras")) {
-	            		entry = entryoras;
-	            	}else if(catches.startsWith("entry6")) {
-	            		entry = entry6;
-	            	}else if(catches.startsWith("entry5-2")) {
-	            		entry = entry5h2;
-	            	}else if(catches.startsWith("entry5")) {
-	            		entry = entry5;
-	            	}else if(catches.startsWith("entryhs")) {
-	            		entry = entryhs;
-	            	}else if(catches.startsWith("entry4")) {
-	            		entry = entry4;
-	            	}else if(catches.startsWith("entry3a")) {
-	            		entry = entry3a;
-	            	}else if(catches.startsWith("entryfl")) {
-	            		entry = entryfl;
-	            	}else if(catches.startsWith("entry3")) {
-	            		entry = entry3;
-	            	}else if(catches.startsWith("entry2")) {
-	            		entry = entry2;
-	            	}else if(catches.startsWith("entry1")) {
-	            		entry = entry1;
-	            	}else {
-	            		System.out.println(catches.substring(0, 18) + " didn't start with anything!");
-	            	}
-	            	
-	            	for(int i = 0; i < entry.length; i ++) {
-	            		if("yes".equals(LocationSet.betweenPipes(catches, 3 + i).trim())) {
-	            			lookingAtGames.add(entry[i]);
-	            		}
-	            	}
-	            	
-	            	if(LocationSet.betweenPipes(catches, 1).contains("{{")) {
-	            	    System.out.println(line + " " + LocationSet.betweenPipes(catches, 1));
-	            	}else if((Integer.parseInt(LocationSet.betweenPipes(catches, 1).substring(0, 3)) > 0) 
-	            			&& (Integer.parseInt(LocationSet.betweenPipes(catches, 1).substring(0, 3)) <= number)) {
-	            	    pokemonErrors.get(Integer.parseInt(LocationSet.betweenPipes(catches, 1).substring(0, 3))).add(2, lookingAtGames, line.trim());
-	            	}
-	            }
-	            
-	            //break;*/
+	            /*//break;
 			/*pokemonErrors.get(41).compareLists();
 			pokemonErrors.get(42).compareLists();
 			pokemonErrors.get(54).compareLists();
@@ -299,8 +246,220 @@ public class Main {
 			pokemonErrors.get(339).compareLists();
 			pokemonErrors.get(340).compareLists();*/
 		}
+	}
+	
+	public static void comparePokemon() throws Exception{
+		int number = 0;
+		pokemonErrors.add(new LocationSet("filler for index 0", number));
+		Scanner pokemonIn = new Scanner(new File("pokemonList.txt"));
+		Scanner bulbaIn = new Scanner(new File("bulbaDownload0.txt"));
+		Scanner dbIn = new Scanner(new File("dbDownload0.txt"));
+		String pokemonLine;
+		String bulbaLine = bulbaIn.nextLine();
+		String dbLine = dbIn.nextLine();
+		String bulbaLocations = "";
+		String dbLocations = "";
 		
-		/*ArrayList<IntString> inheritanceSucks = new ArrayList<IntString>();
+		while(pokemonIn.hasNext()) {
+			pokemonLine = pokemonIn.nextLine();
+			number ++;
+			LocationSet set = new LocationSet(pokemonLine, number);
+            pokemonErrors.add(set);
+            
+            while(bulbaIn.hasNext()) {
+            	if(bulbaLine.contains("~") && bulbaLine.contains("!")){
+            		if(!bulbaLine.substring(bulbaLine.indexOf('~') + 1, bulbaLine.indexOf('!')).equals(pokemonLine)) {
+            			break;
+            		}
+            	}
+            	
+            	bulbaLocations = bulbaLocations + bulbaLine;
+            	bulbaLine = bulbaIn.nextLine();
+            }
+            
+            while(dbIn.hasNext()) {
+            	if(dbLine.contains("~") && dbLine.contains("!")){
+            		if(!dbLine.substring(dbLine.indexOf('~') + 1, dbLine.indexOf('!')).equals(pokemonLine)) {
+            			break;
+            		}
+            	}
+            	
+            	dbLocations = dbLocations + dbLine;
+            	dbLine = dbIn.nextLine();
+            }
+            
+            if(bulbaLocations.contains('~' + pokemonLine + '!') && dbLocations.contains('~' + pokemonLine + '!')) {
+                set.fillLists(bulbaLocations, dbLocations);
+                set.compareLists();
+                bulbaLocations = "";
+                dbLocations = "";
+            }
+		}
+		
+		ArrayList<IntString> inheritanceSucks = new ArrayList<IntString>();
+		
+		for(int i = 1; i < pokemonErrors.size(); i ++) {
+			//pokemonErrors.get(i).compareLists();
+			inheritanceSucks.add((IntString)pokemonErrors.get(i));
+		}
+		
+	    sort(inheritanceSucks);
+	    sort(locationErrors);
+	    System.out.println("\nStats\nRight: " + right + "\nWrong: " + wrong + "\nAccuracy: " + ((double)right / (double)(right + wrong)) + "\nTop 28 most problematic Pokemon: ");
+	    printList(inheritanceSucks, 28);
+	    System.out.println("Top 28 most problematic games: ");
+	
+	    for(int x = 0; x < 28; x ++) {
+    		int maxIndex = 0;
+	    	String print = "";
+		
+		    for(int y = 0; y < 28; y ++) {
+			    if(gameErrors[y] > gameErrors[maxIndex]) {
+				    maxIndex = y;
+			    }
+		    }
+		
+		    while(LocationSet.games[maxIndex].length() + print.length() < 15) {
+			    print = print + " ";
+		    }
+		
+		    System.out.println(LocationSet.games[maxIndex] + print + gameErrors[maxIndex]);
+		    gameErrors[maxIndex] = -1;
+	    }
+	
+	    System.out.println("Top 28 most problematic locations: ");
+	    printList(locationErrors, 28);
+	}
+	
+	public static void compareBulba() throws Exception{
+		int number = 0;
+		pokemonErrors.add(new LocationSet("filler for index 0", number));
+		Scanner pokemonListIn = new Scanner(new File("pokemonList.txt"));
+		Scanner locationListIn = new Scanner(new File("locations.txt"));
+		Scanner bulbaPokemonIn = new Scanner(new File("bulbaDownload0.txt"));
+		Scanner bulbaLocationIn = new Scanner(new File("locationDownload0.txt"));
+		String listLine;
+		String pokemonLine = bulbaPokemonIn.nextLine();
+		String locationLine = bulbaLocationIn.nextLine();
+		String bulbaPokemon = "";
+		String bulbaLocation = "";
+		
+		while(pokemonListIn.hasNext()) {
+			listLine = pokemonListIn.nextLine();
+			number ++;
+			LocationSet set = new LocationSet(listLine, number);
+            pokemonErrors.add(set);
+            
+            while(bulbaPokemonIn.hasNext()) {
+            	if(pokemonLine.contains("~") && pokemonLine.contains("!")){
+            		if(!pokemonLine.substring(pokemonLine.indexOf('~') + 1, pokemonLine.indexOf('!')).equals(listLine)) {
+            			break;
+            		}
+            	}
+            	
+            	bulbaPokemon = bulbaPokemon + pokemonLine;
+            	pokemonLine = bulbaPokemonIn.nextLine();
+            }
+            
+            if(bulbaPokemon.contains('~' + listLine + '!')) {
+                set.fillBulbaList(bulbaPokemon);
+                bulbaPokemon = "";
+            }
+		}
+		
+		number = 0;
+		
+		while(locationListIn.hasNext()) {
+			listLine = locationListIn.nextLine();
+			number ++;
+			
+			/*if("Kalos Route 16".equals(listLine)) {
+				return;
+			}*/
+			
+			while(bulbaLocationIn.hasNext()) {
+				if(locationLine.contains("~") && locationLine.contains("!")){
+            		//System.out.println(locationLine + " " + listLine);
+            		if(!locationLine.substring(locationLine.indexOf('~') + 1, locationLine.indexOf('!')).equals(listLine)) {
+            			//System.out.println("reached0");
+            			break;
+            		}
+            	}
+				
+				bulbaLocation = bulbaLocation + locationLine + '\n';
+            	locationLine = bulbaLocationIn.nextLine();
+            }
+		
+			if(bulbaLocation.contains('~' + listLine + '!')) {
+				//System.out.println(listLine + " " + bulbaLocation);
+				bulbaLocation = bulbaLocation.replace(" ", "").replace("\n", "").replace("[[route]]s", "").replace("Ã©", "e").trim();
+	            listLine = LocationSet.removeBraces(listLine, "(", ")");
+	    		
+	    		while(listLine.startsWith("Kanto ") || listLine.startsWith("Johto ") || listLine.startsWith("Hoenn ") || listLine.startsWith("Sinnoh") || listLine.startsWith("Unova ") 
+	    				|| listLine.startsWith("Kalos ") || listLine.startsWith("Alola ")) {
+	    			listLine = listLine.substring(6);
+	    		}
+	            
+	            while(bulbaLocation.contains("{{catch/entry")) {
+	            	bulbaLocation = LocationSet.cutTo(bulbaLocation, "{{catch/").substring(1);
+	            	ArrayList<Integer> lookingAtGames = new ArrayList<Integer>();
+	            	int[] entry = new int[255];
+	            	bulbaLocation = LocationSet.cutTo(bulbaLocation, "entry");
+	            	//System.out.println("reached1 " + listLine);
+	            	
+	            	if(bulbaLocation.startsWith("entryusum")) {
+	            		entry = entryusum;
+	            	}else if(bulbaLocation.startsWith("entry7")) {
+	            		entry = entry7;
+	            	}else if(bulbaLocation.startsWith("entryoras")) {
+	            		entry = entryoras;
+	            	}else if(bulbaLocation.startsWith("entry6")) {
+	            		entry = entry6;
+	            	}else if(bulbaLocation.startsWith("entry5-2")) {
+	            		entry = entry5h2;
+	            	}else if(bulbaLocation.startsWith("entry5")) {
+	            		entry = entry5;
+	            	}else if(bulbaLocation.startsWith("entryhs")) {
+	            		entry = entryhs;
+	            	}else if(bulbaLocation.startsWith("entry4")) {
+	            		entry = entry4;
+	            	}else if(bulbaLocation.startsWith("entry3a")) {
+	            		entry = entry3a;
+	            	}else if(bulbaLocation.startsWith("entryfl")) {
+	            		entry = entryfl;
+	            	}else if(bulbaLocation.startsWith("entry3")) {
+	            		entry = entry3;
+	            	}else if(bulbaLocation.startsWith("entry2")) {
+	            		entry = entry2;
+	            	}else if(bulbaLocation.startsWith("entry1")) {
+	            		entry = entry1;
+	            	}else {
+	            		System.out.println(bulbaLocation.substring(0, 18) + " at " + listLine + " didn't start with anything!");
+	            		continue;
+	            	}
+	            	
+	            	for(int i = 0; i < entry.length; i ++) {
+	            		if("yes".equals(LocationSet.betweenPipes(bulbaLocation, 3 + i).trim())) {
+	            			lookingAtGames.add(entry[i]);
+	            		}
+	            	}
+	            	
+	            	if(LocationSet.betweenPipes(bulbaLocation, 1).contains("{{")) {
+	            	    System.out.println(listLine + " " + LocationSet.betweenPipes(bulbaLocation, 1));
+	            	}else if((Integer.parseInt(LocationSet.betweenPipes(bulbaLocation, 1).substring(0, 3)) > 0) 
+	            			/*&& (Integer.parseInt(LocationSet.betweenPipes(bulbaLocation, 1).substring(0, 3)) <= number)*/) {
+	            	    pokemonErrors.get(Integer.parseInt(LocationSet.betweenPipes(bulbaLocation, 1).substring(0, 3))).add(2, lookingAtGames, listLine.trim());
+	            	    //System.out.println(listLine + " " + pokemonErrors.get(Integer.parseInt(LocationSet.betweenPipes(bulbaLocation, 1).substring(0, 3))));
+	            	}
+	            }
+	            
+	            bulbaLocation = "";
+			}
+			
+			//listLine = locationListIn.nextLine();
+		}
+		
+		ArrayList<IntString> inheritanceSucks = new ArrayList<IntString>();
 		
 		for(int i = 1; i < pokemonErrors.size(); i ++) {
 			pokemonErrors.get(i).compareLists();
@@ -332,7 +491,7 @@ public class Main {
 	    }
 	
 	    System.out.println("Top 28 most problematic locations: ");
-	    printList(locationErrors, 28);*/
+	    printList(locationErrors, 28);
 	}
 	
 	public static LocationSet getSet(String name) {

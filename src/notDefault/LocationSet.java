@@ -52,10 +52,18 @@ public class LocationSet extends IntString{
     }
     
     public void compareLists() {
-    	ArrayList<ArrayList<String>> other = bulbaLocations;
+    	ArrayList<ArrayList<String>> other = null;
     	
-    	if(Main.mode == 3) {
+    	switch(Main.mode) {
+    	case 4:
     		other = dbList;
+    		break;
+    	case 5:
+    		other = bulbaLocations;
+    		break;
+    	default:
+    		System.out.println("mode was set wrong!");
+    		return;
     	}
     	
     	for(int x = 0; x < bulbaList.size(); x ++) {
