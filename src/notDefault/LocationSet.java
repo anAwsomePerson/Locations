@@ -267,6 +267,10 @@ public class LocationSet extends IntString{
     				//System.out.println(locations.get(x));
     				locations.set(x, locations.get(x).substring(0, locations.get(x).indexOf("{{color2")));
     			}
+    			
+    			if(locations.get(x).contains("Roaming")) {
+    				locations.set(x, "Roaming Pokemon");
+    			}
     				
     			if(locations.get(x).contains("{{rt")){
     				locations.set(x, "Route " + betweenPipes(cutTo(locations.get(x), "{{rt"), 1));
