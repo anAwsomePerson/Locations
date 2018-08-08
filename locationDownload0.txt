@@ -12279,7 +12279,8 @@ this area can only be accessed from the [[castelia sewers]].
 {{catch/div|{{#switch: {{#time: f}}|april|august|december=snow|forest}}|rustling grass}}
 {{catch/entry5|531|audino|yes|yes|n/a|rustling|30-33|85%|85%|85%|90%|type1=normal}}
 {{catch/entry5|587|emolga|yes|yes|n/a|rustling|31|all=10%|type1=electric|type2=flying}}
-{{catch/entry5|{{#ifexpr: ({{#time: h}} mod 2) = 0|521|521f}}|unfezant|yes|yes|n/a|rustling|33|5%|5%|5%|-|type1=normal|type2=flying}}
+{{catch/entry5|521|unfezant|yes|yes|n/a|rustling|33|2.5%|2.5%|2.5%|-|type1=normal|type2=flying}}
+{{catch/entry5|521f|unfezant|yes|yes|n/a|rustling|33|2.5%|2.5%|2.5%|-|type1=normal|type2=flying}}
 {{catch/footer|{{#switch: {{#time: f}}|april|august|december=snow|forest}}|seasons=yes}}
 &lt;!---note: in other seasons, the ledge with the dark grass is filled with an invisible wall, and as such the dark grass technically does not exist (as it does not display any animations when walked through, nor do any wild pokã©mon appear).--->
 
@@ -12592,7 +12593,7 @@ this area can only be accessed from the [[castelia sewers]].
 {{catch/div|city|special}}
 {{catch/entry4|441|chatot|yes|yes|yes|trade|tradenum=418|tradename=buizel|the same as the traded pokã©mon|all=one|type1=normal|type2=flying}}
 
-~Eterna Forest!ith cheryl.
+~Eterna Forest!with cheryl.
 {{catch/header|forest}}
 {{catch/entry4|092|gastly|no|no|yes|grass|13|all=4%|type1=ghost|type2=poison}}
 {{catch/entry4|163|hoothoot|no|no|yes|grass|12|0%|0%|10%|type1=normal|type2=flying}}
@@ -21711,6 +21712,23 @@ these pokã©mon (excluding swarm, pokã© radar, and dual-slot pokã©mon) will
 {{catch/entryfl|054|psyduck|yes|no|fish super|25-35|1%|type1=water}}
 {{catch/entryfl|079|slowpoke|no|yes|fish super|25-35|1%|type1=water|type2=psychic}}
 
+~Trainers' School (Alola)! moon===
+{{catch/header/7|land}}
+{{catch/entry7|052a|meowth|yes|yes|grass|6-8|all=30%|type1=dark}}
+{{catch/entry7|081|magnemite|yes|yes|grass|6-8|all=50%|type1=electric|type2=steel}}
+{{catch/entry7|088a|grimer|yes|yes|grass|6-8|all=20%|type1=poison|type2=dark}}
+{{catch/footer|land}}
+
+===pokã©mon ultra sun and ultra moon===
+{{catch/header/dn|land}}
+{{catch/entryusum|052a|meowth|yes|yes|grass|5-8|all=50%|type1=dark}}
+{{catch/entryusum|081|magnemite|yes|yes|grass|5-8|all=10%|type1=electric|type2=steel}}
+{{catch/entryusum|088a|grimer|yes|yes|grass|5-8|all=10%|type1=poison|type2=dark}}
+{{catch/entryusum|570|zorua|yes|yes|grass|5-8|all=30%|type1=dark}}
+{{catch/div|building|solving mysteries}}
+{{catch/entryusum|092|gastly|yes|yes|special|19|-|one|type1=ghost|type2=poison}}
+{{catch/entryusum|425|drifloon|yes|yes|special|19|-|one|type1=ghost|type2=flying}}
+
 ~Treasure Beach!on==
 {{catch/header|sand|no}}
 {{catch/entryfl|021|spearow|yes|yes|grass|31-32|30%|type1=normal|type2=flying}}
@@ -22314,6 +22332,19 @@ sometimes, after a pokã©mon from a dirt cloud is defeated or caught, it will d
 {{catch/entry5-2|090|shellder|yes|yes|rippling|40-70|all=65%|type1=water}}
 {{catch/entry5-2|091|cloyster|yes|yes|rippling|50-70|all=5%|type1=water|type2=ice}}
 {{catch/entry5-2|370|luvdisc|yes|yes|rippling|40-60|all=30%|type1=water}}
+
+~Underground Path (Kanto Routes 5-6)!tion i===
+{{catch/header|building|no}}
+{{catch/div|building|gift pokã©mon}}
+{{catch/entry1|029|nidoranâ|yes|yes|no|trade|tradenum=032|tradename=nidoranâ|the same as the traded pokã©mon|one|type1=poison}}
+{{catch/entry1|067|machoke|no|no|yes|trade|tradenum=104|tradename=cubone|the same as the traded pokã©mon|{{tt|one|evolves into machamp immediately upon trade. registers both machoke and machamp into the pokã©dex.}}|type1=fighting}}
+{{catch/footer|building}}
+
+===generation iii===
+{{catch/header|building|no}}
+{{catch/div|building|gift pokã©mon}}
+{{catch/entryfl|029|nidoranâ|yes|no|trade|tradenum=032|tradename=nidoranâ|the same as the traded pokã©mon|one|type1=poison}}
+{{catch/entryfl|032|nidoranâ|no|yes|trade|tradenum=029|tradename=nidoranâ|the same as the traded pokã©mon|one|type1=poison}}
 
 ~Underground Ruins!okã©mon==
 {{catch/header|cave|2}}

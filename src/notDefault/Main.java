@@ -407,6 +407,7 @@ public class Main {
 	            	ArrayList<Integer> lookingAtGames = new ArrayList<Integer>();
 	            	ArrayList<Integer> lookingAtPokemon = new ArrayList<Integer>();
 	            	int[] entry = new int[255];
+	            	int startGames = 0;
 	            	
 	            	if(bulbaLocation.contains("{catch/")) {
 	            		//System.out.println(bulbaLocation);
@@ -445,9 +446,13 @@ public class Main {
 	            		System.out.println(entryLine.substring(0, 18) + " at " + listLine + " didn't start with anything!");
 	            		continue;
 	            	}
+	            
+	            	while(!LocationSet.betweenPipes(entryLine, startGames).trim().equals("yes") && !LocationSet.betweenPipes(entryLine, startGames).trim().equals("no")) {
+	            		startGames ++;
+	            	}
 	            	
 	            	for(int i = 0; i < entry.length; i ++) {
-	            		if("yes".equals(LocationSet.betweenPipes(entryLine, 3 + i).trim())) {
+	            		if(LocationSet.betweenPipes(entryLine, startGames + i).trim().equals("yes")) {
 	            			lookingAtGames.add(entry[i]);
 	            		}
 	            	}
@@ -473,7 +478,7 @@ public class Main {
 	            	}
 	            	
 	            	for(int i = 0; i < lookingAtPokemon.size(); i ++) {
-	            		/*if(10 == lookingAtPokemon.get(i)) {
+	            		/*if(66 == lookingAtPokemon.get(i)) {
 	            			System.out.println(lookingAtGames + " " + listLine.trim());
 	            		}*/
 	            		
@@ -487,6 +492,7 @@ public class Main {
 			//listLine = locationListIn.nextLine();
 		}
 		
+		//System.out.println(pokemonErrors.get(66).bulbaLocations);
 		ArrayList<IntString> inheritanceSucks = new ArrayList<IntString>();
 		
 		for(int i = 1; i < pokemonErrors.size(); i ++) {

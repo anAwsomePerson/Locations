@@ -299,7 +299,7 @@ public class LocationSet extends IntString{
     		//System.out.println(bulbaList.toString());
     	}
     	
-    	/*if(name.equals("Poliwag")){
+    	/*if(super.string.equals("Machop")){
     		System.out.println(bulbaList.toString());
     	}*/
     }
