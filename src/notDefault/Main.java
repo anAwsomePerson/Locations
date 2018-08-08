@@ -473,6 +473,10 @@ public class Main {
 	            	}
 	            	
 	            	for(int i = 0; i < lookingAtPokemon.size(); i ++) {
+	            		/*if(10 == lookingAtPokemon.get(i)) {
+	            			System.out.println(lookingAtGames + " " + listLine.trim());
+	            		}*/
+	            		
 	            		pokemonErrors.get(lookingAtPokemon.get(i)).add(2, lookingAtGames, listLine.trim());
 	            	}
 	            }
@@ -486,6 +490,10 @@ public class Main {
 		ArrayList<IntString> inheritanceSucks = new ArrayList<IntString>();
 		
 		for(int i = 1; i < pokemonErrors.size(); i ++) {
+			/*if(i == 10) {
+				System.out.println(pokemonErrors.get(i).bulbaLocations);
+			}*/
+			
 			pokemonErrors.get(i).compareLists();
 			inheritanceSucks.add((IntString)pokemonErrors.get(i));
 		}

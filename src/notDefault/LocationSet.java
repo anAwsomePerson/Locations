@@ -513,19 +513,34 @@ public class LocationSet extends IntString{
     }
     
     public static void staticAdd(ArrayList<ArrayList<String>> list, ArrayList<Integer> indexList, String string) {
+    	/*if("Caterpie".equals(super.string) && (list == bulbaLocations)) {
+    		System.out.println("\"static\" adding " + string + " to " + indexList);
+    	}*/
+    	
     	for(int x = 0; x < indexList.size(); x ++) {
     		if(list.size() < indexList.get(x)) {
     			System.out.println("out of bounds: " + list + " " + indexList + " " + string);
     			continue;
     		}
     		
+    		boolean repeated = false;
+    		
     	    for(int y = 0; y < list.get(indexList.get(x)).size(); y ++) {
     		    if(list.get(indexList.get(x)).get(y).equals(string)){
-    			    return;
+    			    repeated = true;
+    			    break;
     		    }
+    	    }
+    	    
+    	    if(repeated) {
+    	    	continue;
     	    }
     	
     	    list.get(indexList.get(x)).add(string);
+    	    
+    	    /*if("Caterpie".equals(super.string) && (list == bulbaLocations)) {
+        		System.out.println("\"static\" added " + string + " to " + indexList);
+        	}*/
     	}
     }
     
