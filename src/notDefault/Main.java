@@ -209,12 +209,19 @@ public class Main {
                 while( (bulbaInt=bulbaStream.read()) != -1 ) {
                 	catches = catches + (char)bulbaInt;
                     
-                    if((catches.indexOf("{") < catches.length() - 14) && !catches.toLowerCase().contains("{{catch/header")){
+                    if((catches.indexOf("{") < catches.length() - 28) && !catches.toLowerCase().contains("{{catch/header")){
                     	catches = "";
                     }
                 }
                 
                 catches = catches.toLowerCase();
+                /*System.out.println(catches);
+                
+                if(catches.contains("{{catch/header")) {
+                    catches = LocationSet.cutTo(catches, "{{catch/header");
+                }else {
+                	willContinue = true;
+                }*/
             
                 if(catches.contains("{{catch/footer")) {
                     catches = catches.substring(0, catches.lastIndexOf("{{catch/footer"));

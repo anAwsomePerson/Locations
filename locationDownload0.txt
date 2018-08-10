@@ -1,4 +1,4 @@
-~Kanto Route 1!i===
+~Kanto Route 1!===generation i===
 {{catch/header|land|no}}
 {{catch/entry1|016|pidgey|yes|yes|no|grass|2-5|55%|type1=normal|type2=flying}}
 {{catch/entry1|016|pidgey|no|no|yes|grass|2-7|70%|type1=normal|type2=flying}}
@@ -48,7 +48,8 @@
 {{catch/entryhs|312|minun|yes|yes|hoenn|3|all=20%|type1=electric}}
 {{catch/entryhs|403|shinx|yes|yes|sinnoh|2-3|all=40%|type1=electric}}
 
-~Kanto Route 2!ration i===
+~Kanto Route 2!©mon==
+===generation i===
 {{catch/header|forest|no}}
 {{catch/entry1|010|caterpie|no|yes|no|grass|3-5|15%|type1=bug}}
 {{catch/entry1|013|weedle|yes|no|no|grass|3-5|15%|type1=bug|type2=poison}}
@@ -247,7 +248,7 @@
 {{catch/entryhs|312|minun|yes|yes|hoenn|8|all=20%|type1=electric}}
 {{catch/entryhs|403|shinx|yes|yes|sinnoh|5-8|all=40%|type1=electric}}
 
-~Kanto Route 4! it.
+~Kanto Route 4!rs programmed for it.
 {{catch/header|mountain|no}}
 {{catch/entry1|019|rattata|yes|yes|no|grass|8, 10, 12|45%|type1=normal}}
 {{catch/entry1|019|rattata|no|no|yes|grass|10, 12|15%|type1=normal}}
@@ -353,7 +354,7 @@
 {{catch/entryhs|399|bidoof|yes|yes|sinnoh|8|all=20%|type1=normal}}
 {{catch/entryhs|418|buizel|yes|yes|sinnoh|5|all=20%|type1=water}}
 
-~Kanto Route 5!i===
+~Kanto Route 5!===generation i===
 {{catch/header|land|no}}
 {{catch/entry1|016|pidgey|yes|yes|no|grass|13, 15-16|35%|type1=normal|type2=flying}}
 {{catch/entry1|016|pidgey|no|no|yes|grass|15-17|45%|type1=normal|type2=flying}}
@@ -416,7 +417,7 @@
 {{catch/entryhs|312|minun|yes|yes|hoenn|14|all=20%|type1=electric}}
 {{catch/entryhs|403|shinx|yes|yes|sinnoh|13-14|all=40%|type1=electric}}
 
-~Kanto Route 6!i===
+~Kanto Route 6!eneration i===
 {{catch/header|land|no}}
 {{catch/entry1|016|pidgey|yes|yes|no|grass|13, 15-16|40%|type1=normal|type2=flying}}
 {{catch/entry1|016|pidgey|no|no|yes|grass|15-17|40%|type1=normal|type2=flying}}
@@ -526,7 +527,8 @@
 {{catch/entryhs|399|bidoof|yes|yes|sinnoh|14|all=20%|type1=normal}}
 {{catch/entryhs|418|buizel|yes|yes|sinnoh|13|all=20%|type1=water}}
 
-~Kanto Route 7!tion i===
+~Kanto Route 7!on==
+===generation i===
 {{catch/header|road|no}}
 {{catch/entry1|016|pidgey|yes|yes|no|grass|19, 22|35%|type1=normal|type2=flying}}
 {{catch/entry1|016|pidgey|no|no|yes|grass|20, 22|40%|type1=normal|type2=flying}}
@@ -603,7 +605,7 @@
 {{catch/entryhs|312|minun|yes|yes|hoenn|18|all=20%|type1=electric}}
 {{catch/entryhs|403|shinx|yes|yes|sinnoh|17-18|all=40%|type1=electric}}
 
-~Kanto Route 8!i===
+~Kanto Route 8!ation i===
 {{catch/header|land|no}}
 {{catch/entry1|016|pidgey|yes|yes|no|grass|18, 20|35%|type1=normal|type2=flying}}
 {{catch/entry1|016|pidgey|no|no|yes|grass|20, 22|40%|type1=normal|type2=flying}}
@@ -874,7 +876,7 @@
 {{catch/entryhs|399|bidoof|yes|yes|sinnoh|16|all=20%|type1=normal}}
 {{catch/entryhs|418|buizel|yes|yes|sinnoh|16-17|all=20%|type1=water}}
 
-~Kanto Route 11!i===
+~Kanto Route 11!neration i===
 {{catch/header|land|no}}
 {{catch/entry1|016|pidgey|no|no|yes|grass|16, 18|40%|type1=normal|type2=flying}}
 {{catch/entry1|017|pidgeotto|no|no|yes|grass|18, 20|10%|type1=normal|type2=flying}}
@@ -955,7 +957,8 @@
 {{catch/entryhs|312|minun|yes|yes|hoenn|15|all=20%|type1=electric}}
 {{catch/entryhs|403|shinx|yes|yes|sinnoh|14-15|all=40%|type1=electric}}
 
-~Kanto Route 12!ation i===
+~Kanto Route 12!mon==
+===generation i===
 {{catch/header|water|no}}
 {{catch/entry1|016|pidgey|yes|yes|no|grass|23, 25, 27|35%|type1=normal|type2=flying}}
 {{catch/entry1|016|pidgey|no|no|yes|grass|28|15%|type1=normal|type2=flying}}
@@ -1054,7 +1057,7 @@
 {{catch/div|water|special}}
 {{catch/entryhs|143|snorlax|yes|yes|special|50|all={{tt|one|if knocked out at route 11, snorlax will respawn here once the elite four is defeated again}}|type1=normal}}
 
-~Kanto Route 13!on i===
+~Kanto Route 13!ion i===
 {{catch/header|land|no}}
 {{catch/entry1|016|pidgey|yes|yes|no|grass|25, 27|30%|type1=normal|type2=flying}}
 {{catch/entry1|016|pidgey|no|no|yes|grass|28|10%|type1=normal|type2=flying}}
@@ -1177,7 +1180,7 @@
 {{catch/entryhs|399|bidoof|yes|yes|sinnoh|25|all=20%|type1=normal}}
 {{catch/entryhs|418|buizel|yes|yes|sinnoh|23|all=20%|type1=water}}
 
-~Kanto Route 14!i===
+~Kanto Route 14!===generation i===
 {{catch/header|land|no}}
 {{catch/entry1|016|pidgey|yes|yes|no|grass|26|15%|type1=normal|type2=flying}}
 {{catch/entry1|017|pidgeotto|yes|yes|no|grass|28, 30|5%|type1=normal|type2=flying}}
@@ -1268,7 +1271,7 @@
 {{catch/entryhs|312|minun|yes|yes|hoenn|25|all=20%|type1=electric}}
 {{catch/entryhs|403|shinx|yes|yes|sinnoh|23-25|all=40%|type1=electric}}
 
-~Kanto Route 15!i===
+~Kanto Route 15!===generation i===
 {{catch/header|land|no}}
 {{catch/entry1|016|pidgey|yes|yes|no|grass|23|15%|type1=normal|type2=flying}}
 {{catch/entry1|017|pidgeotto|yes|yes|no|grass|28, 30|5%|type1=normal|type2=flying}}
@@ -1336,7 +1339,8 @@
 {{catch/entryhs|312|minun|yes|yes|hoenn|25|all=20%|type1=electric}}
 {{catch/entryhs|403|shinx|yes|yes|sinnoh|23-25|all=40%|type1=electric}}
 
-~Kanto Route 16!tion i===
+~Kanto Route 16!on==
+===generation i===
 {{catch/header|road|no}}
 {{catch/entry1|019|rattata|yes|yes|no|grass|18, 20, 22|30%|type1=normal}}
 {{catch/entry1|019|rattata|no|no|yes|grass|23-24|25%|type1=normal}}
@@ -1389,7 +1393,8 @@
 {{catch/entryhs|312|minun|yes|yes|hoenn|28|all=20%|type1=electric}}
 {{catch/entryhs|403|shinx|yes|yes|sinnoh|26-28|all=40%|type1=electric}}
 
-~Kanto Route 17!tion i===
+~Kanto Route 17!on==
+===generation i===
 {{catch/header|road|no}}
 {{catch/entry1|020|raticate|yes|yes|no|grass|25, 27, 29|30%|type1=normal}}
 {{catch/entry1|021|spearow|yes|yes|no|grass|20, 22|40%|type1=normal|type2=flying}}
@@ -1446,7 +1451,8 @@
 {{catch/entryhs|312|minun|yes|yes|hoenn|29|all=20%|type1=electric}}
 {{catch/entryhs|403|shinx|yes|yes|sinnoh|27-29|all=40%|type1=electric}}
 
-~Kanto Route 18!on i===
+~Kanto Route 18!==
+===generation i===
 {{catch/header|road|no}}
 {{catch/entry1|019|rattata|no|no|yes|grass|23-24|25%|type1=normal}}
 {{catch/entry1|020|raticate|yes|yes|no|grass|25, 29|20%|type1=normal}}
@@ -1514,7 +1520,8 @@
 {{catch/entryhs|312|minun|yes|yes|hoenn|28|all=20%|type1=electric}}
 {{catch/entryhs|403|shinx|yes|yes|sinnoh|26-28|all=40%|type1=electric}}
 
-~Kanto Route 19!ation i===
+~Kanto Route 19!mon==
+===generation i===
 {{catch/header|ocean|no}}
 {{catch/div|ocean|surfing}}
 {{catch/entry1|072|tentacool|yes|yes|yes|surf|5, 10, 15, 20, 30, 35, 40|100%|type1=water|type2=poison}}
@@ -1591,7 +1598,8 @@
 {{catch/div|ocean|swarm}}
 {{catch/entryhs|366|clamperl|yes|yes|swarm|35|all={{tt|60%|surfing}}|type1=water}}
 
-~Kanto Route 20!ation i===
+~Kanto Route 20!mon==
+===generation i===
 {{catch/header|ocean|no}}
 {{catch/div|ocean|surfing}}
 {{catch/entry1|072|tentacool|yes|yes|yes|surf|5, 10, 15, 20, 30, 35, 40|100%|type1=water|type2=poison}}
@@ -1663,7 +1671,8 @@
 {{catch/entryhs|073|tentacruel|yes|yes|fish super|40|all=7%|type1=water|type2=poison}}
 {{catch/entryhs|171|lanturn|yes|yes|fish super|40|all=3%|type1=water|type2=electric}}
 
-~Kanto Route 21!ation i===
+~Kanto Route 21!mon==
+===generation i===
 {{catch/header|ocean|no}}
 {{catch/entry1|016|pidgey|yes|yes|no|grass|21, 23|25%|type1=normal|type2=flying}}
 {{catch/entry1|016|pidgey|no|no|yes|grass|11, 13, 15, 17|60%|type1=normal|type2=flying}}
@@ -1865,7 +1874,7 @@
 {{catch/entryhs|399|bidoof|yes|yes|sinnoh|5|all=20%|type1=normal}}
 {{catch/entryhs|418|buizel|yes|yes|sinnoh|3|all=20%|type1=water}}
 
-~Kanto Route 23!i===
+~Kanto Route 23!===generation i===
 {{catch/header|land|no}}
 {{catch/entry1|021|spearow|yes|yes|no|grass|26|15%|type1=normal|type2=flying}}
 {{catch/entry1|022|fearow|yes|yes|no|grass|38, 41, 43|25%|type1=normal|type2=flying}}
@@ -1915,7 +1924,7 @@
 {{catch/entryfl|079|slowpoke|no|yes|fish super|15-35|5%|type1=water|type2=psychic}}
 {{catch/entryfl|130|gyarados|yes|yes|fish super|15-25|15%|type1=water|type2=flying}}
 
-~Kanto Route 24!i===
+~Kanto Route 24!===generation i===
 {{catch/header|land|no}}
 {{catch/entry1|010|caterpie|no|yes|no|grass|7|25%|type1=bug}}
 {{catch/entry1|011|metapod|no|yes|no|grass|8|15%|type1=bug}}
@@ -2033,7 +2042,7 @@
 {{catch/entryhs|399|bidoof|yes|yes|sinnoh|9|all=20%|type1=normal}}
 {{catch/entryhs|418|buizel|yes|yes|sinnoh|8-10|all=20%|type1=water}}
 
-~Kanto Route 25!tion i===
+~Kanto Route 25!==generation i===
 {{catch/header|land|no}}
 {{catch/entry1|010|caterpie|yes|no|no|grass|8|1%|type1=bug}}
 {{catch/entry1|010|caterpie|no|yes|no|grass|8|25%|type1=bug}}
@@ -2164,7 +2173,7 @@
 {{catch/entryhs|399|bidoof|yes|yes|sinnoh|8|all=20%|type1=normal}}
 {{catch/entryhs|418|buizel|yes|yes|sinnoh|8-10|all=20%|type1=water}}
 
-~Kanto Route 26!ii===
+~Kanto Route 26!===generation ii===
 {{catch/header|land}}
 {{catch/entry2|020|raticate|yes|yes|no|grass|30|4%|5%|0%|type1=normal}}
 {{catch/entry2|020|raticate|yes|no|yes|grass|28-30|0%|0%|40%|type1=normal}}
@@ -2260,7 +2269,8 @@
 {{catch/entryhs|399|bidoof|yes|yes|sinnoh|32|all=20%|type1=normal}}
 {{catch/entryhs|418|buizel|yes|yes|sinnoh|28|all=20%|type1=water}}
 
-~Kanto Route 27!ation ii===
+~Kanto Route 27!mon==
+===generation ii===
 {{catch/header|water}}
 {{catch/entry2|020|raticate|yes|no|no|grass|28|30%|0%|0%|type1=normal}}
 {{catch/entry2|020|raticate|yes|no|no|grass|28-30|0%|40%|40%|type1=normal}}
@@ -2414,7 +2424,8 @@
 {{catch/entryhs|399|bidoof|yes|yes|sinnoh|40|all=20%|type1=normal}}
 {{catch/entryhs|418|buizel|yes|yes|sinnoh|39-40|all=20%|type1=water}}
 
-~Johto Route 29!tion ii===
+~Johto Route 29!on==
+===generation ii===
 {{catch/header|land|yes}}
 {{catch/entry2|016|pidgey|yes|yes|no|grass|2-4|55%|55%|0%|type1=normal|type2=flying}}
 {{catch/entry2|016|pidgey|no|no|yes|grass|2-3|50%|50%|0%|type1=normal|type2=flying}}
@@ -2459,7 +2470,8 @@
 {{catch/entryhs|312|minun|yes|yes|hoenn|2-3|all=20%|type1=electric}}
 {{catch/entryhs|403|shinx|yes|yes|sinnoh|2-3|all=40%|type1=electric}}
 
-~Johto Route 30!tion ii===
+~Johto Route 30!on==
+===generation ii===
 {{catch/header|land}}
 {{catch/entry2|010|caterpie|yes|no|no|grass|3-4|50%|35%|0%|type1=bug}}
 {{catch/entry2|010|caterpie|no|no|yes|grass|3-4|50%|50%|0%|type1=bug}}
@@ -2547,7 +2559,7 @@
 {{catch/entryhs|399|bidoof|yes|yes|sinnoh|4|all=20%}}
 {{catch/entryhs|418|buizel|yes|yes|sinnoh|2-3|all=20%|type1=water}}
 
-~Johto Route 31!ii===
+~Johto Route 31!===generation ii===
 {{catch/header|land}}
 {{catch/entry2|010|caterpie|yes|no|no|grass|4-5|35%|35%|0%|type1=bug}}
 {{catch/entry2|010|caterpie|no|no|yes|grass|4|30%|30%|0%|type1=bug}}
@@ -2640,7 +2652,7 @@
 {{catch/entryhs|399|bidoof|yes|yes|sinnoh|3|all=20%|type1=normal}}
 {{catch/entryhs|418|buizel|yes|yes|sinnoh|3-4|all=20%|type1=water}}
 
-~Johto Route 32!ii===
+~Johto Route 32!===generation ii===
 {{catch/header|land|yes}}
 {{catch/entry2|016|pidgey|no|no|yes|grass|7|5%|5%|0%|type1=normal|type2=flying}}
 {{catch/entry2|019|rattata|yes|no|no|grass|4-6|35%|0%|0%|type1=normal}}
@@ -2737,7 +2749,8 @@
 {{catch/entryhs|399|bidoof|yes|yes|sinnoh|6|all=20%|type1=normal}}
 {{catch/entryhs|418|buizel|yes|yes|sinnoh|4-6|all=20%|type1=water}}
 
-~Johto Route 33!tion ii===
+~Johto Route 33!on==
+===generation ii===
 {{catch/header|land|yes}}
 {{catch/entry2|019|rattata|yes|no|no|grass|6-7|40%|45%|60%|type1=normal}}
 {{catch/entry2|019|rattata|no|yes|no|grass|6|10%|15%|30%|type1=normal}}
@@ -2784,7 +2797,7 @@
 {{catch/entryhs|312|minun|yes|yes|hoenn|6|all=20%|type1=electric}}
 {{catch/entryhs|403|shinx|yes|yes|sinnoh|6-7|all=40%|type1=electric}}
 
-~Johto Route 34!ii===
+~Johto Route 34!===generation ii===
 {{catch/header|land|yes}}
 {{catch/entry2|016|pidgey|no|no|yes|grass|12|20%|20%|0%|type1=normal|type2=flying}}
 {{catch/entry2|019|rattata|yes|yes|no|grass|11-13|all=35%|type1=normal}}
@@ -2881,7 +2894,7 @@ in international versions of {{game|crystal}}, the [[odd egg]] can be obtained f
 {{catch/entryhs|399|bidoof|yes|yes|sinnoh|12|all=20%|type1=normal}}
 {{catch/entryhs|418|buizel|yes|yes|sinnoh|10-11|all=20%|type1=water}}
 
-~Johto Route 35!ii===
+~Johto Route 35!===generation ii===
 {{catch/header|land|yes}}
 {{catch/entry2|016|pidgey|yes|yes|no|grass|14|5%|5%|0%|type1=normal|type2=flying}}
 {{catch/entry2|016|pidgey|no|no|yes|grass|14|30%|30%|0%|type1=normal|type2=flying}}
@@ -2976,7 +2989,8 @@ in international versions of {{game|crystal}}, the [[odd egg]] can be obtained f
 {{catch/entryhs|399|bidoof|yes|yes|sinnoh|14|all=20%|type1=normal}}
 {{catch/entryhs|418|buizel|yes|yes|sinnoh|12|all=20%|type1=water}}
 
-~Johto Route 36!tion ii===
+~Johto Route 36!on==
+===generation ii===
 {{catch/header|land}}
 {{catch/entry2|016|pidgey|yes|yes|no|grass|13-15|25%|20%|0%|type1=normal|type2=flying}}
 {{catch/entry2|016|pidgey|no|no|yes|grass|4-6|40%|70%|0%|type1=normal|type2=flying}}
@@ -3041,7 +3055,8 @@ in international versions of {{game|crystal}}, the [[odd egg]] can be obtained f
 {{catch/entryhs|312|minun|yes|yes|hoenn|13|all=20%|type1=electric}}
 {{catch/entryhs|403|shinx|yes|yes|sinnoh|12-13|all=40%|type1=electric}}
 
-~Johto Route 37!tion ii===
+~Johto Route 37!on==
+===generation ii===
 {{catch/header|land}}
 {{catch/entry2|016|pidgey|yes|no|no|grass|13-15|60%|50%|0%|type1=normal|type2=flying}}
 {{catch/entry2|016|pidgey|no|yes|no|grass|13-15|20%|50%|0%|type1=normal|type2=flying}}
@@ -3114,7 +3129,8 @@ in international versions of {{game|crystal}}, the [[odd egg]] can be obtained f
 {{catch/entryhs|312|minun|yes|yes|hoenn|15|all=20%|type1=electric}}
 {{catch/entryhs|403|shinx|yes|yes|sinnoh|13-15|all=40%|type1=electric}}
 
-~Johto Route 38!tion ii===
+~Johto Route 38!on==
+===generation ii===
 {{catch/header|road}}
 {{catch/entry2|017|pidgeotto|no|no|yes|grass|16|10%|10%|0%|type1=normal|type2=flying}}
 {{catch/entry2|019|rattata|yes|no|no|grass|16|30%|30%|40%|type1=normal}}
@@ -3185,7 +3201,8 @@ in international versions of {{game|crystal}}, the [[odd egg]] can be obtained f
 {{catch/entryhs|312|minun|yes|yes|hoenn|16|all=20%|type1=electric}}
 {{catch/entryhs|403|shinx|yes|yes|sinnoh|16|all=40%|type1=electric}}
 
-~Johto Route 39!tion ii===
+~Johto Route 39!on==
+===generation ii===
 {{catch/header|road}}
 {{catch/entry2|017|pidgeotto|no|no|yes|grass|16|10%|10%|0%|type1=normal|type2=flying}}
 {{catch/entry2|019|rattata|yes|no|no|grass|16|30%|30%|40%|type1=normal}}
@@ -3244,7 +3261,8 @@ in international versions of {{game|crystal}}, the [[odd egg]] can be obtained f
 {{catch/entryhs|312|minun|yes|yes|hoenn|16|all=20%|type1=electric}}
 {{catch/entryhs|403|shinx|yes|yes|sinnoh|16-17|all=40%|type1=electric}}
 
-~Johto Route 40!ation ii===
+~Johto Route 40!mon==
+===generation ii===
 {{catch/header|ocean}}
 {{catch/div|ocean|surfing}}
 {{catch/entry2|072|tentacool|yes|yes|yes|surf|15-24|all=90%|type1=water|type2=poison}}
@@ -3283,7 +3301,8 @@ in international versions of {{game|crystal}}, the [[odd egg]] can be obtained f
 {{catch/entryhs|120|staryu|yes|yes|fish super|40|0%|0%|30%|type1=water}}
 {{catch/entryhs|222|corsola|yes|yes|fish super|40|30%|30%|0%|type1=water|type2=rock}}
 
-~Johto Route 41!ation ii===
+~Johto Route 41!mon==
+===generation ii===
 {{catch/header|ocean}}
 {{catch/div|ocean|surfing}}
 {{catch/entry2|072|tentacool|yes|no|yes|surf|15-24|all=60%|type1=water|type2=poison}}
@@ -3322,7 +3341,8 @@ in international versions of {{game|crystal}}, the [[odd egg]] can be obtained f
 {{catch/entryhs|170|chinchou|yes|yes|fish super|40|all=60%|type1=water|type2=electric}}
 {{catch/entryhs|171|lanturn|yes|yes|fish super|40|all=3%|type1=water|type2=electric}}
 
-~Johto Route 42!tion ii===
+~Johto Route 42!on==
+===generation ii===
 {{catch/header|lake}}
 {{catch/entry2|019|rattata|no|no|yes|grass|15|20%|20%|0%|type1=normal}}
 {{catch/entry2|019|rattata|no|no|yes|grass|13|0%|0%|30%|type1=normal}}
@@ -3396,7 +3416,8 @@ in international versions of {{game|crystal}}, the [[odd egg]] can be obtained f
 {{catch/entryhs|399|bidoof|yes|yes|sinnoh|14|all=20%|type1=normal}}
 {{catch/entryhs|418|buizel|yes|yes|sinnoh|13-14|all=20%|type1=water}}
 
-~Johto Route 43!tion ii===
+~Johto Route 43!on==
+===generation ii===
 {{catch/header|lake}}
 {{catch/entry2|017|pidgeotto|yes|yes|no|grass|17|25%|20%|0%|type1=normal|type2=flying}}
 {{catch/entry2|017|pidgeotto|no|no|yes|grass|16|30%|30%|0%|type1=normal|type2=flying}}
@@ -3469,7 +3490,8 @@ in international versions of {{game|crystal}}, the [[odd egg]] can be obtained f
 {{catch/entryhs|399|bidoof|yes|yes|sinnoh|17|all=20%|type1=normal}}
 {{catch/entryhs|418|buizel|yes|yes|sinnoh|15|all=20%|type1=water}}
 
-~Johto Route 44!tion ii===
+~Johto Route 44!on==
+===generation ii===
 {{catch/header|lake}}
 {{catch/entry2|060|poliwag|no|no|yes|grass|22|0%|0%|30%|type1=water}}
 {{catch/entry2|061|poliwhirl|no|no|yes|grass|24-26|0%|0%|10%|type1=water}}
@@ -3743,7 +3765,7 @@ in international versions of {{game|crystal}}, the [[odd egg]] can be obtained f
 {{catch/entryoras|390|chimchar|yes|yes|gift|5|one|type1=fire}}
 {{catch/entryoras|393|piplup|yes|yes|gift|5|one|type1=water}}
 
-~Hoenn Route 102!on iii====
+~Hoenn Route 102!ation iii====
 {{catch/header|land|no}}
 {{catch/entry3|261|poochyena|yes|yes|no|grass|3-4|15%|type1=dark}}
 {{catch/entry3|261|poochyena|no|no|yes|grass|3-4|30%|type1=dark}}
@@ -3807,7 +3829,7 @@ in international versions of {{game|crystal}}, the [[odd egg]] can be obtained f
 {{catch/entryoras|341|corphish|yes|yes|fish good|25|5%|type1=water}}
 {{catch/entryoras|341|corphish|yes|yes|fish super|30, 35, 40|100%|type1=water}}
 
-~Hoenn Route 103!iii===
+~Hoenn Route 103!n iii===
 {{catch/header|land|no}}
 {{catch/entry3|261|poochyena|yes|yes|no|grass|2-4|30%|type1=dark}}
 {{catch/entry3|261|poochyena|no|no|yes|grass|2-4|60%|type1=dark}}
@@ -4091,7 +4113,8 @@ in international versions of {{game|crystal}}, the [[odd egg]] can be obtained f
 {{catch/entryoras|320|wailmer|yes|yes|fish good|25|5%|type1=water}}
 {{catch/entryoras|320|wailmer|yes|yes|fish super|30, 35, 40|100%|type1=water}}
 
-~Hoenn Route 110!ation iii===
+~Hoenn Route 110!mon==
+===generation iii===
 {{catch/header|land|no}}
 {{catch/entry3|043|oddish|yes|yes|yes|grass|13|10%|type1=grass|type2=poison}}
 {{catch/entry3|263|zigzagoon|yes|yes|no|grass|12|20%|type1=normal}}
@@ -4239,7 +4262,7 @@ in international versions of {{game|crystal}}, the [[odd egg]] can be obtained f
 {{catch/entryoras|539|sawk|no|yes|grass|17|??%|type1=fighting}}
 {{catch/entryoras|538|throh|yes|no|grass|17|??%|type1=fighting}}
 
-~Hoenn Route 113!iii===
+~Hoenn Route 113!===generation iii===
 {{catch/header|ash|no}}
 {{catch/entry3|027|sandshrew|yes|yes|no|grass|14-16|25%|type1=ground}}
 {{catch/entry3|218|slugma|no|no|yes|grass|14-16|25%|type1=fire}}
@@ -4260,7 +4283,7 @@ in international versions of {{game|crystal}}, the [[odd egg]] can be obtained f
 {{catch/entryoras|626|bouffalant|yes|yes|grass|18|??%|type1=normal}}
 {{catch/entryoras|707|klefki|yes|yes|grass|18|??%|type1=steel|type2=fairy}}
 
-~Hoenn Route 114!iii===
+~Hoenn Route 114!===generation iii===
 {{catch/header|mountain|no}}
 {{catch/entry3|270|lotad|no|yes|yes|grass|15-16|30%|type1=water|type2=grass}}
 {{catch/entry3|271|lombre|no|yes|no|grass|16, 18|10%|type1=water|type2=grass}}
@@ -4323,7 +4346,7 @@ in international versions of {{game|crystal}}, the [[odd egg]] can be obtained f
 {{catch/div|mountain|{{mcolor|rock smash|000}}}}
 {{catch/entryoras|074|geodude|yes|yes|rock smash|5, 10, 15, 20|100%|type1=rock|type2=ground}}
 
-~Hoenn Route 115!=
+~Hoenn Route 115!
 {{catch/header|mountain|no}}
 {{catch/entry3|039|jigglypuff|yes|yes|yes|grass|24-25|10%|type1=normal}}
 {{catch/entry3|276|taillow|yes|yes|yes|grass|23-25|40%|type1=normal|type2=flying}}
@@ -4367,7 +4390,7 @@ in international versions of {{game|crystal}}, the [[odd egg]] can be obtained f
 {{catch/entryoras|320|wailmer|yes|yes|fish good|25|5%|type1=water}}
 {{catch/entryoras|320|wailmer|yes|yes|fish super|30, 35, 40|100%|type1=water}}
 
-~Hoenn Route 116!iii===
+~Hoenn Route 116!n iii===
 {{catch/header|land|no}}
 {{catch/entry3|063|abra|no|no|yes|grass|7|10%|type1=psychic}}
 {{catch/entry3|261|poochyena|no|no|yes|grass|6-8|28%|type1=dark}}
@@ -4398,7 +4421,7 @@ in international versions of {{game|crystal}}, the [[odd egg]] can be obtained f
 {{catch/entryoras|519|pidove|yes|yes|grass|8|??%|type1=normal|type2=flying}}
 {{catch/entryoras|595|joltik|yes|yes|grass|8|??%|type1=bug|type2=electric}}
 
-~Hoenn Route 117!iii===
+~Hoenn Route 117!===generation iii===
 {{catch/header|land|no}}
 {{catch/entry3|043|oddish|yes|yes|no|grass|13|10%|type1=grass|type2=poison}}
 {{catch/entry3|043|oddish|no|no|yes|grass|13-14|40%|type1=grass|type2=poison}}
@@ -4462,7 +4485,8 @@ in international versions of {{game|crystal}}, the [[odd egg]] can be obtained f
 {{catch/entryoras|341|corphish|yes|yes|fish super|30, 35|95%|type1=water}}
 {{catch/entryoras|342|crawdaunt|yes|yes|fish super|40|5%|type1=water|type2=dark}}
 
-~Hoenn Route 118!tion iii===
+~Hoenn Route 118!on==
+===generation iii===
 {{catch/header|land|no}}
 {{catch/entry3|263|zigzagoon|yes|yes|yes|grass|24, 26|30%|type1=normal}}
 {{catch/entry3|264|linoone|yes|yes|yes|grass|26|10%|type1=normal}}
@@ -4522,7 +4546,8 @@ in international versions of {{game|crystal}}, the [[odd egg]] can be obtained f
 {{catch/entryoras|318|carvanha|yes|yes|fish super|30, 35|95%|type1=water|type2=dark}}
 {{catch/entryoras|319|sharpedo|yes|yes|fish super|40|5%|type1=water|type2=dark}}
 
-~Hoenn Route 119!{{catch/header|forest|no}}
+~Hoenn Route 119!eneration iii===
+{{catch/header|forest|no}}
 {{catch/entry3|043|oddish|yes|yes|yes|long grass|24-27|30%|type1=grass|type2=poison}}
 {{catch/entry3|263|zigzagoon|yes|yes|yes|long grass|25, 27|30%|type1=normal}}
 {{catch/entry3|264|linoone|yes|yes|yes|long grass|25, 27|30%|type1=normal}}
@@ -4655,7 +4680,7 @@ the western part consists of the area containing the [[ancient tomb]].
 {{catch/entryoras|339|barboach|yes|yes|fish good|25|5%|type1=water|type2=ground}}
 {{catch/entryoras|339|barboach|yes|yes|fish super|30, 35, 40|100%|type1=water|type2=ground}}
 
-~Hoenn Route 121!tion iii===
+~Hoenn Route 121!=generation iii===
 {{catch/header|land|no}}
 {{catch/entry3|043|oddish|yes|yes|yes|grass|26, 28|15%|type1=grass|type2=poison}}
 {{catch/entry3|044|gloom|yes|yes|yes|grass|28|5%|type1=grass|type2=poison}}
@@ -4739,7 +4764,8 @@ the western part consists of the area containing the [[ancient tomb]].
 {{catch/entryoras|320|wailmer|yes|yes|fish good|25|5%|type1=water}}
 {{catch/entryoras|320|wailmer|yes|yes|fish super|30, 35, 40|100%|type1=water}}
 
-~Hoenn Route 123!tion iii===
+~Hoenn Route 123!on==
+===generation iii===
 {{catch/header|land|no}}
 {{catch/entry3|043|oddish|yes|yes|yes|grass|26, 28|15%|type1=grass|type2=poison}}
 {{catch/entry3|044|gloom|yes|yes|yes|grass|28|5%|type1=grass|type2=poison}}
@@ -4789,7 +4815,7 @@ the western part consists of the area containing the [[ancient tomb]].
 {{catch/entryoras|341|corphish|yes|yes|fish super|30, 35|95%|type1=water}}
 {{catch/entryoras|342|crawdaunt|yes|yes|fish super|40|5%|type1=water|type2=dark}}
 
-~Hoenn Route 124!==
+~Hoenn Route 124!eneration iii===
 {{catch/header|ocean|no}}
 {{catch/div|ocean|surfing}}
 {{catch/entry3|072|tentacool|yes|yes|yes|surf|5-35|60%|type1=water|type2=poison}}
@@ -4838,7 +4864,7 @@ the western part consists of the area containing the [[ancient tomb]].
 {{catch/entryoras|366|clamperl|yes|yes|seaweed|30|30%|type1=water}}
 {{catch/entryoras|369|relicanth|yes|yes|seaweed|30, 35|5%|type1=water|type2=rock}}
 
-~Hoenn Route 125!ation iii===
+~Hoenn Route 125!eration iii===
 {{catch/header|ocean|no}}
 {{catch/div|ocean|surfing}}
 {{catch/entry3|072|tentacool|yes|yes|yes|surf|5-35|60%|type1=water|type2=poison}}
@@ -4872,7 +4898,8 @@ the western part consists of the area containing the [[ancient tomb]].
 {{catch/entryoras|320|wailmer|yes|yes|fish good|25|5%|type1=water}}
 {{catch/entryoras|320|wailmer|yes|yes|fish super|30, 35, 40|100%|type1=water}}
 
-~Hoenn Route 126!ation iii===
+~Hoenn Route 126!mon==
+===generation iii===
 {{catch/header|ocean|no}}
 {{catch/div|ocean|surfing}}
 {{catch/entry3|072|tentacool|yes|yes|yes|surf|5-35|60%|type1=water|type2=poison}}
@@ -4921,7 +4948,8 @@ the western part consists of the area containing the [[ancient tomb]].
 {{catch/entryoras|366|clamperl|yes|yes|seaweed|30|30%|type1=water}}
 {{catch/entryoras|369|relicanth|yes|yes|seaweed|30, 35|5%|type1=water|type2=rock}}
 
-~Hoenn Route 127!ation iii===
+~Hoenn Route 127!mon==
+===generation iii===
 {{catch/header|ocean|no}}
 {{catch/div|ocean|surfing}}
 {{catch/entry3|072|tentacool|yes|yes|yes|surf|5-35|60%|type1=water|type2=poison}}
@@ -4955,7 +4983,7 @@ the western part consists of the area containing the [[ancient tomb]].
 {{catch/entryoras|320|wailmer|yes|yes|fish good|25|5%|type1=water}}
 {{catch/entryoras|320|wailmer|yes|yes|fish super|30, 35, 40|100%|type1=water}}
 
-~Hoenn Route 128!ation iii===
+~Hoenn Route 128!==generation iii===
 {{catch/header|ocean|no}}
 {{catch/div|ocean|surfing}}
 {{catch/entry3|072|tentacool|yes|yes|yes|surf|5-35|60%|type1=water|type2=poison}}
@@ -5001,7 +5029,8 @@ the western part consists of the area containing the [[ancient tomb]].
 {{catch/entryoras|366|clamperl|yes|yes|seaweed|30|30%|type1=water}}
 {{catch/entryoras|369|relicanth|yes|yes|seaweed|35|1%|type1=water|type2=rock}}
 
-~Hoenn Route 129!ation iii===
+~Hoenn Route 129!mon==
+===generation iii===
 {{catch/header|ocean|no}}
 {{catch/div|ocean|surfing}}
 {{catch/entry3|072|tentacool|yes|yes|yes|surf|5-35|60%|type1=water|type2=poison}}
@@ -5045,7 +5074,8 @@ the western part consists of the area containing the [[ancient tomb]].
 {{catch/entryoras|366|clamperl|yes|yes|seaweed|30|30%|type1=water}}
 {{catch/entryoras|369|relicanth|yes|yes|seaweed|30, 35|5%|type1=water|type2=rock}}
 
-~Hoenn Route 130!ation iii===
+~Hoenn Route 130!mon==
+===generation iii===
 {{catch/header|ocean|no}}
 {{catch/entry3|360|wynaut|yes|yes|yes|grass|5, 10, 15, 20, 25, 30, 35, 40, 45, 50|100%|type1=psychic}}
 {{catch/div|ocean|surfing}}
@@ -5090,7 +5120,7 @@ the western part consists of the area containing the [[ancient tomb]].
 {{catch/entryoras|366|clamperl|yes|yes|seaweed|30|30%|type1=water}}
 {{catch/entryoras|369|relicanth|yes|yes|seaweed|30, 35|5%|type1=water|type2=rock}}
 
-~Hoenn Route 131!===
+~Hoenn Route 131!generation iii===
 {{catch/header|ocean|no}}
 {{catch/div|ocean|surfing}}
 {{catch/entry3|072|tentacool|yes|yes|yes|surf|5-35|60%|type1=water|type2=poison}}
@@ -5126,7 +5156,8 @@ the western part consists of the area containing the [[ancient tomb]].
 {{catch/entryoras|117|seadra|yes|yes|fish super|40|5%|type1=water}}
 {{catch/entryoras|320|wailmer|yes|yes|fish super|35|60%|type1=water}}
 
-~Hoenn Route 132!ation iii===
+~Hoenn Route 132!=
+===generation iii===
 {{catch/header|ocean|no}}
 {{catch/div|ocean|surfing}}
 {{catch/entry3|072|tentacool|yes|yes|yes|surf|5-35|60%|type1=water|type2=poison}}
@@ -5163,7 +5194,7 @@ the western part consists of the area containing the [[ancient tomb]].
 {{catch/entryoras|117|seadra|yes|yes|fish super|40|5%|type1=water}}
 {{catch/entryoras|320|wailmer|yes|yes|fish super|35|60%|type1=water}}
 
-~Hoenn Route 133!ation iii===
+~Hoenn Route 133!==generation iii===
 {{catch/header|ocean|no}}
 {{catch/div|ocean|surfing}}
 {{catch/entry3|072|tentacool|yes|yes|yes|surf|5-35|60%|type1=water|type2=poison}}
@@ -5200,7 +5231,8 @@ the western part consists of the area containing the [[ancient tomb]].
 {{catch/entryoras|117|seadra|yes|yes|fish super|40|5%|type1=water}}
 {{catch/entryoras|320|wailmer|yes|yes|fish super|35|60%|type1=water}}
 
-~Hoenn Route 134!ation iii===
+~Hoenn Route 134!
+===generation iii===
 {{catch/header|ocean|no}}
 {{catch/div|ocean|surfing}}
 {{catch/entry3|072|tentacool|yes|yes|yes|surf|5-35|60%|type1=water|type2=poison}}
@@ -5258,7 +5290,10 @@ the western part consists of the area containing the [[ancient tomb]].
 {{catch/entry4|032|nidoranâ|no|no|yes|pokã© radar|2-3|all=6%|type1=poison}}
 {{catch/entry4|058|growlithe|yes|yes|yes|fr|2|all=8%|type1=fire}}
 
-~Sinnoh Route 202!{{catch/header|land|yes}}
+~Sinnoh Route 202!stfoot}}
+
+==pokã©mon==
+{{catch/header|land|yes}}
 {{catch/entry4|396|starly|yes|yes|no|grass|3|30%|0%|30%|type1=normal|type2=flying}}
 {{catch/entry4|396|starly|yes|yes|no|grass|2-4|0%|40%|0%|type1=normal|type2=flying}}
 {{catch/entry4|396|starly|no|no|yes|grass|2-3|20%|0%|0%|type1=normal|type2=flying}}
@@ -5526,7 +5561,8 @@ the western part consists of the area containing the [[ancient tomb]].
 {{catch/entry4|281|kirlia|no|no|yes|pokã© radar|19-20|all=12%|type1=psychic}}
 {{catch/entry4|442|spiritomb|yes|yes|yes|special|25|all={{tt|one|hallowed tower (requires odd keystone)}}|type1=ghost|type2=dark}}
 
-~Sinnoh Route 210!n section===
+~Sinnoh Route 210!n==
+===southern section===
 {{catch/header|land}}
 {{catch/entry4|074|geodude|yes|yes|no|grass|19|30%|30%|10%|type1=rock|type2=ground}}
 {{catch/entry4|074|geodude|no|no|yes|grass|18|all=20%|type1=rock|type2=ground}}
@@ -5692,7 +5728,7 @@ the western part consists of the area containing the [[ancient tomb]].
 {{catch/entry4|271|lombre|yes|yes|no|s|20|all=4%|type1=water|type2=grass}}
 {{catch/entry4|271|lombre|no|no|yes|s|26|all=4%|type1=water|type2=grass}}
 
-~Sinnoh Route 213!on==
+~Sinnoh Route 213!n==
 {{catch/header|sand}}
 {{catch/entry4|278|wingull|yes|yes|no|grass|20|20%|20%|10%|type1=water|type2=flying}}
 {{catch/entry4|278|wingull|no|no|yes|grass|24-26|all=20%|type1=water|type2=flying}}
@@ -5776,7 +5812,9 @@ the western part consists of the area containing the [[ancient tomb]].
 {{catch/entry4|229|houndoom|no|yes|no|pokã© radar|20, 22|all=22%|type1=dark|type2=fire}}
 {{catch/entry4|262|mightyena|yes|no|no|pokã© radar|20, 22|all=25%|type1=dark}}
 
-~Sinnoh Route 216!on==
+~Sinnoh Route 216!foot|snow}}
+
+==pokã©mon==
 {{catch/header|snow}}
 {{catch/entry4|041|zubat|yes|yes|no|grass|33|0%|0%|10%|type1=poison|type2=flying}}
 {{catch/entry4|041|zubat|no|no|yes|grass|32|0%|0%|10%|type1=poison|type2=flying}}
@@ -5995,7 +6033,10 @@ the western part consists of the area containing the [[ancient tomb]].
 {{catch/entry4|320|wailmer|yes|yes|yes|fish super|30-40|all=30%|type1=water}}
 {{catch/entry4|321|wailord|yes|yes|yes|fish super|35-55|all=5%|type1=water}}
 
-~Sinnoh Route 224!{{catch/header|land|yes}}
+~Sinnoh Route 224!t}}
+
+==pokã©mon==
+{{catch/header|land|yes}}
 {{catch/entry4|043|oddish|no|no|yes|grass|49|0%|0%|20%|type1=grass|type2=poison}}
 {{catch/entry4|044|gloom|yes|yes|no|grass|53|all=5%|type1=grass|type2=poison}}
 {{catch/entry4|044|gloom|no|no|yes|grass|51|all=5%|type1=grass|type2=poison}}
@@ -6072,7 +6113,7 @@ the western part consists of the area containing the [[ancient tomb]].
 {{catch/entry4|057|primeape|yes|yes|no|pokã© radar|51-52|all=20%|type1=fighting}}
 {{catch/entry4|057|primeape|no|no|yes|pokã© radar|49-50|all=20%|type1=fighting}}
 
-~Sinnoh Route 226!e levels)}}
+~Sinnoh Route 226!ecially banette levels)}}
 {{catch/header|ocean}}
 {{catch/entry4|019|rattata|yes|yes|no|grass|20-22|all=5%|type1=normal}}
 {{catch/entry4|019|rattata|no|no|yes|grass|47|all=5%|type1=normal}}
@@ -6574,7 +6615,7 @@ the western part consists of the area containing the [[ancient tomb]].
 {{catch/entry5-2|572|minccino|yes|yes|grotto|20-25|all={{tt|1%|has its hidden ability}}|type1=normal}}
 {{catch/entry5-2|590|foongus|yes|yes|grotto|20-25|all={{tt|15%|has its hidden ability}}|type1=grass|type2=poison}}
 
-~Unova Route 6! white===
+~Unova Route 6!=
 {{catch/header|forest|seasons=yes}}
 {{catch/entry5|520|tranquill|yes|yes|yes|grass|23, 25|15%|15%|15%|-|type1=normal|type2=flying}}
 {{catch/entry5|541|swadloon|yes|yes|yes|grass|23|all=10%|type1=bug|type2=grass}}
@@ -6697,7 +6738,7 @@ the western part consists of the area containing the [[ancient tomb]].
 {{catch/div|forest|special}}
 {{catch/entry5-2|590|foongus|yes|yes|fake|29|all=three|type1=grass|type2=poison}}
 
-~Unova Route 7! white===
+~Unova Route 7!=
 {{catch/header|forest|seasons=yes}}
 {{catch/entry5|505|watchog|yes|yes|no|tall grass|27-29|all=20%|type1=normal}}
 {{catch/entry5|523|zebstrika|yes|yes|yes|tall grass|27, 29|all=20%|type1=electric}}
@@ -6774,7 +6815,7 @@ the western part consists of the area containing the [[ancient tomb]].
 {{catch/entry5-2|526|gigalith|yes|yes|trade|35|all=one|type1=rock|tradename=emolga|tradenum=587}}
 {{catch/entry5-2|590|foongus|yes|yes|fake|36|all=two|type1=grass|type2=poison}}
 
-~Unova Route 8!d white===
+~Unova Route 8!on black and white===
 {{catch/header|{{#switch: {{#time: f}}|april|august|december=snow|forest}}|seasons=yes}}
 {{catch/entry5|536|palpitoad|yes|yes|yes|puddle|30-33|40%|40%|40%|-|type1=water|type2=ground}}
 {{catch/entry5|616|shelmet|yes|yes|yes|puddle|30-33|40%|40%|40%|-|type1=bug}}
@@ -6880,7 +6921,7 @@ ability}}|type1=poison}}
 {{catch/entry5-2|626|bouffalant|yes|yes|grotto|35-40|all={{tt|1%|has its hidden 
 ability}}|type1=normal}}
 
-~Unova Route 10!10 proper===
+~Unova Route 10!==route 10 proper===
 {{catch/header|land|4}}
 {{catch/entry5|507|herdier|yes|yes|yes|grass|33-34|all=30%|type1=normal}}
 {{catch/entry5|538|throh|no|yes|yes|grass|33, 36|all=10%|type1=fighting}}
@@ -6936,7 +6977,7 @@ ability}}|type1=normal}}
 {{catch/div|land|swarm}}
 {{catch/entry5|236|tyrogue|yes|yes|yes|grass|15-55|all=40%|type1=fighting}}
 
-~Unova Route 11! white===
+~Unova Route 11!===
 {{catch/header|forest|4}}
 {{catch/entry5|055|golduck|yes|yes|yes|grass|47-48|all=20%|type1=water}}
 {{catch/entry5|207|gligar|yes|yes|yes|grass|47-50|all=15%|type1=ground|type2=flying}}
@@ -7275,7 +7316,7 @@ ability}}|type1=normal}}
 {{catch/entry5-2|550b|basculin|yes|no|rippling|40-60|all=30%|type1=water}}
 {{catch/entry5-2|550|basculin|no|yes|rippling|40-60|all=30%|type1=water}}
 
-~Unova Route 15! white===
+~Unova Route 15!okã©mon black and white===
 {{catch/header|forest|4}}
 {{catch/entry5|022|fearow|yes|yes|yes|grass|48-50|all=30%|type1=normal|type2=flying}}
 {{catch/entry5|105|marowak|yes|yes|yes|grass|47|all=20%|type1=ground}}
@@ -7522,7 +7563,7 @@ ability}}|type1=normal}}
 {{catch/entry5-2|550|basculin|no|yes|rippling|40-60|all=30%|type1=water}}
 {{catch/entry5-2|550b|basculin|yes|no|rippling|40-60|all=30%|type1=water}}
 
-~Unova Route 20!©mon==
+~Unova Route 20!mon==
 {{catch/header|forest|seasons=yes}}
 {{catch/entry5-2|191|sunkern|yes|yes|grass|2-4|5%|25%|5%|5%|type1=grass}}
 {{catch/entry5-2|504|patrat|yes|yes|grass|2-3|all=20%|type1=normal}}
@@ -7581,7 +7622,9 @@ ability}}|type1=normal}}
 {{catch/entry5-2|224|octillery|yes|yes|rippling|50-70|all=5%|type1=water}}
 {{catch/entry5-2|370|luvdisc|yes|yes|rippling|40-60|all=30%|type1=water}}
 
-~Unova Route 22!on==
+~Unova Route 22!tfoot|land}}
+
+==pokã©mon==
 {{catch/header|land|2}}
 {{catch/entry5-2|055|golduck|yes|yes|grass|40|all=10%|type1=water}}
 {{catch/entry5-2|183|marill|yes|yes|grass|40, 42|all=10%|type1=water}}
@@ -7696,7 +7739,7 @@ ability}}|type1=dark}}
 {{catch/entry5-2|482|azelf|yes|yes|special|65|all={{tt|one|encounter it at cave of being}}|type1=psychic}}
 {{catch/entry5-2|591|amoonguss|yes|yes|fake|56|all=three|type1=grass|type2=poison}}
 
-~Kalos Route 2!hem here.
+~Kalos Route 2!own at them here.
 {{catch/header|land|2}}
 {{catch/entry6|010|caterpie|no|yes|grass|3-4|all=11%|type1=bug}}
 {{catch/entry6|013|weedle|yes|no|grass|3-4|all=11%|type1=bug|type2=poison}}
@@ -7706,7 +7749,7 @@ ability}}|type1=dark}}
 {{catch/entry6|659|bunnelby|yes|yes|grass|2-3|all=20%|type1=normal}}
 {{catch/entry6|664|scatterbug|yes|yes|grass|2-3|all=20%|type1=bug}}
 
-~Kalos Route 3!©mon==
+~Kalos Route 3!on==
 {{catch/header|forest|2}}
 {{catch/entry6|016|pidgey|yes|yes|grass|4|all=10%|type1=normal|type2=flying}}
 {{catch/entry6|025|pikachu|yes|yes|grass|4-5|all=5%|type1=electric}}
@@ -7727,7 +7770,9 @@ ability}}|type1=dark}}
 {{catch/entry6|130|gyarados|yes|yes|fish super|35|all=60%|type1=water|type2=flying}}
 {{catch/entry6|342|crawdaunt|yes|yes|fish super|35|all=5%|type1=water|type2=dark}}
 
-~Kalos Route 4!on==
+~Kalos Route 4!ot|land}}
+
+==pokã©mon==
 {{catch/header|land|2}}
 {{catch/div|yellow|yellow flowers}}
 {{catch/entry6|165|ledyba|yes|yes|yellow flowers|8|all=10%|type1=bug|type2=flying}}
@@ -7832,7 +7877,7 @@ ability}}|type1=dark}}
 {{catch/div|land|special}}
 {{catch/entry6|143|snorlax|yes|yes|special|15|all={{tt|one|reappears each time the player enters the hall of fame if not caught}}|type1=normal}}
 
-~Kalos Route 8!}.
+~Kalos Route 8!tural enemies}}.
 
 {{catch/header|land|2}}
 {{catch/entry6|325|spoink|yes|yes|grass|13-14|all=20%|type1=psychic}}
@@ -7976,7 +8021,7 @@ ability}}|type1=dark}}
 {{catch/entry6|075|graveler|yes|yes|rock smash|26-28|all=66%|type1=rock|type2=ground}}
 {{catch/entry6|218|slugma|yes|yes|rock smash|26, 28|all=34%|type1=fire}}
 
-~Kalos Route 14!mon==
+~Kalos Route 14!=
 {{catch/header|marsh|2}}
 {{catch/entry6|070|weepinbell|yes|yes|grass|31-32|all=20%|type1=grass|type2=poison}}
 {{catch/entry6|093|haunter|yes|yes|grass|31|all=5%|type1=ghost|type2=poison}}
@@ -8009,8 +8054,7 @@ ability}}|type1=dark}}
 {{catch/entry6|061|poliwhirl|yes|yes|fish super|35|all=65%|type1=water}}
 {{catch/entry6|340|whiscash|yes|yes|fish super|35|all=35%|type1=water|type2=ground}}
 
-~Kalos Route 15!on==
-{{catch/header|land|2}}
+~Kalos Route 15!{{catch/header|land|2}}
 {{catch/entry6|262|mightyena|yes|no|grass|34-36|all=30%|type1=dark}}
 {{catch/entry6|451|skorupi|yes|yes|grass|34-35|all=20%|type1=poison|type2=bug}}
 {{catch/entry6|505|watchog|yes|yes|grass|36|all=10%|type1=normal}}
@@ -8158,7 +8202,7 @@ ability}}|type1=dark}}
 {{catch/entry6|186|politoed|yes|yes|fish super|50|all=5%|type1=water}}
 {{catch/entry6|340|whiscash|yes|yes|fish super|45|all=35%|type1=water|type2=ground}}
 
-~Kalos Route 20!©mon==
+~Kalos Route 20!==
 {{catch/header|forest|2}}
 {{catch/entry6|039|jigglypuff|yes|yes|grass|48-49|all=20%|type1=normal|type2=fairy}}
 {{catch/entry6|164|noctowl|yes|yes|grass|48-50|all=30%|type1=normal|type2=flying}}
@@ -8239,7 +8283,7 @@ ability}}|type1=dark}}
 {{catch/entry6|130|gyarados|yes|yes|fish super|35|all=60%|type1=water|type2=flying}}
 {{catch/entry6|319|sharpedo|yes|yes|fish super|35|all=5%|type1=water|type2=dark}}
 
-~Alola Route 1!e.
+~Alola Route 1!wn at them here.
 {{catch/header/dn|land}}
 {{catch/div|land|first two fields of grass east of the player's house}}
 {{catch/entry7|010|caterpie|yes|yes|grass|2-3|all=20%|type1=bug}}
@@ -8571,7 +8615,7 @@ the north part of the route can only be accessed from {{rt|8|alola}}, or by [[po
 {{catch/div|land|exclusively from {{color2|000|qr scanner#island scan|island scan}}}}
 {{catch/entryusum|253|grovyle|yes|yes|grass|16|all={{tt|one|knows grassy terrain}}{{dotw|fr}}|type1=grass|alliesna=n/a}}
 
-~Alola Route 6!
+~Alola Route 6!un and moon===
 {{catch/header/dn|land}}
 {{catch/div|land|northern field of grass}}
 {{catch/entry7|019a|rattata|yes|yes|grass|14-17|-|10%|type1=dark|type2=normal}}
@@ -8968,33 +9012,7 @@ a {{tc|backpacker}} in the pokã©mon center offers to trade the player an {{p|a
 {{catch/div|land|exclusively from {{color2|000|qr scanner#island scan|island scan}}}}
 {{catch/entryusum|394|prinplup|yes|yes|grass|35|all={{tt|one|knows power trip}}{{dotw|tu}}|type1=water|alliesna=n/a}}
 
-~Alola Route 17! stages.
-
-{{catch/header/dn|land}}
-{{catch/entry7|020a|raticate|yes|yes|grass|31-34|-|30%|type1=dark|type2=normal}}
-{{catch/entry7|022|fearow|yes|yes|grass|31-34|all=30%|type1=normal|type2=flying}}
-{{catch/entry7|166|ledian|yes|yes|grass|31-34|20%|-|type1=bug|type2=flying|allies={{ms|166}} {{pcolor|ledian|000}}}}
-{{catch/entry7|168|ariados|yes|yes|grass|31-34|-|20%|type1=bug|type2=poison}}
-{{catch/entry7|674|pancham|yes|yes|grass|31-34|all=20%|type1=fighting|allies={{ms|674}} {{pcolor|pancham|000}}&lt;br>{{ms|675}} {{pcolor|pangoro|000}}}}
-{{catch/entry7|735|gumshoos|yes|yes|grass|31-34|30%|-|type1=normal}}
-{{catch/div|mountain|brown grass on the mountain}}
-{{catch/entry7|020a|raticate|yes|yes|brown grass|31-34|-|30%|type1=dark|type2=normal}}
-{{catch/entry7|022|fearow|yes|yes|brown grass|31-34|all=30%|type1=normal|type2=flying}}
-{{catch/entry7|075a|graveler|yes|yes|brown grass|31-34|all=20%|type1=rock|type2=electric}}
-{{catch/entry7|227|skarmory|yes|yes|brown grass|31-34|all=10%|type1=steel|type2=flying}}
-{{catch/entry7|674|pancham|yes|yes|brown grass|31-34|all=10%|type1=fighting|allies={{ms|674}} {{pcolor|pancham|000}}&lt;br>{{ms|675}} {{pcolor|pangoro|000}}}}
-{{catch/entry7|735|gumshoos|yes|yes|brown grass|31-34|30%|-|type1=normal}}
-{{catch/div|land|{{color2|000|sos battle#weather-dependent allies|special allies in weather}}}}
-{{catch/entry7|000|any|yes|yes|grass|31-34|all=10%|allies=&lt;small>in {{color2|000|rain}}:&lt;/small>&lt;br>{{ms|704}} {{pcolor|goomy|000}}|type1=???}}
-{{catch/entry7|000|any|yes|yes|grass|31-34|all=1%|allies=&lt;small>in {{color2|000|rain}}:&lt;/small>&lt;br>{{ms|351}} {{pcolor|castform|000}}|type1=???}}
-{{catch/entry7|000|any|yes|yes|grass|31-34|all=11%|allies=&lt;small>{{color2|000|hail (weather condition)|hail}} or {{color2|000|sandstorm (weather condition)|sandstorm}}:&lt;/small>&lt;br>{{ms|351}} {{pcolor|castform|000}}|type1=???}}
-{{catch/div|land|pile of berries by berry tree}}
-{{catch/entry7|739|crabrawler|yes|yes|berry pile|31-34|all=100%|type1=fighting}}
-{{catch/div|land|special}}
-{{catch/entry7|798|kartana|yes|no|grass|60|all=four|type1=grass|type2=steel|alliesna=n/a}}
-{{catch/footer|land}}
-
-===pokã©mon ultra sun and ultra moon===
+~Alola Route 17!on===
 {{catch/header/dn|land}}
 {{catch/entryusum|020a|raticate|yes|yes|grass|33-36|-|20%|type1=dark|type2=normal}}
 {{catch/entryusum|022|fearow|yes|yes|grass|33-36|all=20%|type1=normal|type2=flying}}
@@ -9143,7 +9161,7 @@ a {{tc|backpacker}} in the pokã©mon center offers to trade the player an {{p|a
 {{catch/entry5-2|424|ambipom|yes|yes|trade|40|all=one|type1=normal|tradename=excadrill|tradenum=530}}
 {{catch/entry5-2|065|alakazam|yes|yes|trade|40|all={{tt|one|after trading excadrill to diana and defeating her in battle}}|type1=psychic|tradename=hippowdon|tradenum=450}}
 
-~Acuity Lakefront!on==
+~Acuity Lakefront!n==
 {{catch/header|snow}}
 {{catch/entry4|041|zubat|yes|yes|no|grass|35|0%|0%|10%|type1=poison|type2=flying}}
 {{catch/entry4|067|machoke|yes|yes|no|grass|35-36|20%|20%|10%|type1=fighting}}
@@ -9160,15 +9178,7 @@ a {{tc|backpacker}} in the pokã©mon center offers to trade the player an {{p|a
 {{catch/entry4|217|ursaring|no|no|yes|e|36|all=8%}}
 {{catch/entry4|361|snorunt|yes|yes|no|pokã© radar|35-36|all=12%|type1=ice}}
 
-~Aether Paradise!n}}===
-{{catch/header/dn|steel}}
-{{catch/div|steel|special pokã©mon&lt;br>&lt;small>cannot be caught&lt;/small>}}
-{{catch/entry7|793|nihilego|yes|yes|special|27|all=one|type1=rock|type2=poison|alliesna=n/a}}
-{{catch/div|steel|gift pokã©mon&lt;br>&lt;small>after becoming {{color2|000|pokã©mon champion|champion}}&lt;/small>}}
-{{catch/entry7|772|type: null|yes|yes|gift|40|all=one|alliesna=n/a}}
-{{catch/footer|steel}}
-
-==={{g|ultra sun and ultra moon}}===
+~Aether Paradise!===
 {{catch/header/dn|steel}}
 {{catch/div|steel|special pokã©mon&lt;br>&lt;small>cannot be caught&lt;/small>}}
 {{catch/entryusum|793|nihilego|yes|yes|special|27|all=one|type1=rock|type2=poison|alliesna=n/a}}
@@ -9211,7 +9221,7 @@ a {{tc|backpacker}} in the pokã©mon center offers to trade the player an {{p|a
 {{catch/div|land|exclusively from {{color2|000|qr scanner#island scan|island scan}}}}
 {{catch/entryusum|679|honedge|yes|yes|grass|24|all={{tt|one|knows wide guard}}{{dotw|we}}|type1=steel|type2=ghost|alliesna=n/a}}
 
-~Altar of the Moone!mon moon===
+~Altar of the Moone!==pokã©mon moon===
 {{catch/header/dn|space}}
 {{catch/div|space|special pokã©mon}}
 {{catch/entry7|792|lunala|no|yes|special|55|all=one|type1=psychic|type2=ghost|alliesna=n/a}}
@@ -9222,7 +9232,7 @@ a {{tc|backpacker}} in the pokã©mon center offers to trade the player an {{p|a
 {{catch/div|space|special pokã©mon&lt;br>&lt;small>cannot be {{color2|fff|caught pokã©mon|caught}}&lt;/small>}}
 {{catch/entryusum|800dw|necrozma|no|yes|special|50|all=one|type1=psychic|type2=ghost|alliesna=n/a}}
 
-~Altar of the Sunne!mon sun===
+~Altar of the Sunne!==pokã©mon sun===
 {{catch/header/dn|space}}
 {{catch/div|space|special}}
 {{catch/entry7|791|solgaleo|yes|no|special|55|all=one|type1=psychic|type2=steel|alliesna=n/a}}
@@ -9247,7 +9257,7 @@ a {{tc|backpacker}} in the pokã©mon center offers to trade the player an {{p|a
 {{catch/entry3a|234|stantler|yes|yes|yes|cave|18-28|100%|type1=normal}}
 {{catch/entry3a|235|smeargle|yes|yes|yes|cave|18-28|100%|type1=normal}}
 
-~Ambrette Town!spectively).
+~Ambrette Town! (respectively).
 {{catch/header|city|2}}
 {{catch/div|sand|rock smash}}
 {{catch/entry6|557|dwebble|yes|no|rock smash|18-20|all=66%|type1=bug|type2=rock}}
@@ -9306,7 +9316,7 @@ a {{tc|backpacker}} in the pokã©mon center offers to trade the player an {{p|a
 {{catch/div|mountain|exclusively from {{color2|000|qr scanner#island scan|island scan}}}}
 {{catch/entryusum|655|delphox|yes|yes|grass|44|all={{tt|one|knows wish}}{{dotw|sat}}|type1=fire|type2=psychic|alliesna=n/a}}
 
-~Ancient Tomb!ion iii===
+~Ancient Tomb!eneration iii===
 {{catch/header|cave|no}}
 {{catch/div|cave|special}}
 {{catch/entry3|379|registeel|yes|yes|yes|special|40|one|type1=steel}}
@@ -9350,7 +9360,8 @@ a {{tc|backpacker}} in the pokã©mon center offers to trade the player an {{p|a
 {{catch/entry5-2|498|tepig|yes|yes|starter|5|all=one|type1=fire}}
 {{catch/entry5-2|501|oshawott|yes|yes|starter|5|all=one|type1=water}}
 
-~Azalea Town!tion ii===
+~Azalea Town!on==
+===generation ii===
 {{catch/header|road|4}}
 {{catch/div|road|{{color2|000|headbutt tree}}&lt;br>&lt;small>(moderate chances of battle)&lt;/small>}}
 {{catch/entry2|010|caterpie|yes|no|no|headbutt|10|all=50%|type1=bug}}
@@ -10622,7 +10633,7 @@ the [[frontier brain]] of the battle pike is [[pike queen lucy]]. she challenges
 {{catch/entryoras|319|sharpedo|yes|yes|gift|40|{{tt|one|adamant nature}}|type1=water|type2=dark}}
 {{catch/entryoras|323|camerupt|yes|yes|gift|40|{{tt|one|quiet nature}}|type1=fire|type2=ground}}
 
-~Bell Tower! tower]]
+~Bell Tower!op of the bell tower]]
 {{catch/header|building}}
 {{catch/div|building|2f-9f}}
 {{catch/entry2|019|rattata|yes|yes|yes|2f-9f|20-24|100%|100%|0%|type1=normal}}
@@ -10697,7 +10708,7 @@ the [[frontier brain]] of the battle pike is [[pike queen lucy]]. she challenges
 {{catch/div|forest|special}}
 {{catch/entryfl|097|hypno|yes|yes|special|30|one|type1=psychic}}
 
-~Birth Island!ed forme.
+~Birth Island!sform into speed forme.
 {{catch/header|land|no}}
 {{catch/div|land|special}}
 {{catch/entry3a|386|deoxys|yes|no|no|aurora|30|one|type1=psychic}}
@@ -10966,7 +10977,7 @@ prior to completing the trial, [[wild pokã©mon]] do not appear in totem's den 
 {{catch/entryhs|307|meditite|yes|yes|sinnoh|16|all=20%|type1=fighting|type2=psychic}}
 {{catch/entryhs|441|chatot|yes|yes|sinnoh|14|all=20%|type1=normal|type2=flying}}
 
-~Camphrier Town!spectively).
+~Camphrier Town! (respectively).
 {{catch/header|road|no}}
 {{catch/div|road|special}}
 {{catch/entry6|129|magikarp|yes|yes|trade|5|all=one|tradenum=130|tradename=gyarados|type1=water}}
@@ -11089,22 +11100,7 @@ this area can only be accessed from the [[castelia sewers]].
 {{catch/entry5-2|088|grimer|yes|yes|rippling|40-60|90%|90%|-|-|type1=poison}}
 {{catch/entry5-2|089|muk|yes|yes|rippling|50-70|10%|10%|-|-|type1=poison}}
 
-~Cave of Origin!m.
-{{catch/header|cave|no}}
-{{catch/div|cave|entrance}}
-{{catch/entry3|041|zubat|yes|yes|yes|cave|28-35|90%|type1=poison|type2=flying}}
-{{catch/entry3|042|golbat|yes|yes|yes|cave|33-36|10%|type1=poison|type2=flying}}
-{{catch/div|cave|1f-b3f}}
-{{catch/entry3|041|zubat|yes|yes|yes|cave|30-34|60%|type1=poison|type2=flying}}
-{{catch/entry3|042|golbat|yes|yes|yes|cave|33-36|10%|type1=poison|type2=flying}}
-{{catch/entry3|302|sableye|no|yes|yes|cave|30, 32, 34|30%|type1=dark|type2=ghost}}
-{{catch/entry3|303|mawile|yes|no|no|cave|30, 32, 34|30%|type1=steel}}
-{{catch/div|cave|special}}
-{{catch/entry3|382|kyogre|no|yes|no|special|45|one|type1=water}}
-{{catch/entry3|383|groudon|yes|no|no|special|45|one|type1=ground}}
-{{catch/footer|cave}}
-
-===generation vi===
+~Cave of Origin!eration vi===
 {{catch/header|cave|no}}
 {{catch/entryoras|042|golbat|yes|yes|cave|33-36|69%|type1=poison|type2=flying}}
 {{catch/entryoras|302|sableye|no|yes|cave|33-36|31%|type1=dark|type2=ghost}}
@@ -11160,7 +11156,9 @@ this area can only be accessed from the [[castelia sewers]].
 {{catch/entryhs|088|grimer|yes|yes|surf|15-20|all=90%|type1=poison}}
 {{catch/entryhs|089|muk|yes|yes|surf|15|all=10%|type1=poison}}
 
-~Celadon Condominiums!{{catch/header|building|no}}
+~Celadon Condominiums!ã©mon==
+===generation i===
+{{catch/header|building|no}}
 {{catch/div|building|gift pokã©mon}}
 {{catch/entry1|133|eevee|yes|yes|yes|gift|25|{{tt|one|roof}}}}
 {{catch/footer|building}}
@@ -11474,7 +11472,9 @@ this area can only be accessed from the [[castelia sewers]].
 {{catch/entryhs|433|chingling|yes|yes|sinnoh|45|all=20%|type1=psychic}}
 {{catch/entryhs|436|bronzor|yes|yes|sinnoh|45-47|all=20%|type1=steel|type2=psychic}}
 
-~Cerulean City!ation i===
+~Cerulean City!}}.
+
+===generation i===
 {{catch/header|road|no}}
 {{catch/div|water|fishing}}
 {{catch/entry1|129|magikarp|yes|yes|yes|fish old|5|100%|type1=water}}
@@ -11632,7 +11632,8 @@ this area can only be accessed from the [[castelia sewers]].
 {{catch/entry5-2|597|ferroseed|yes|yes|special|28|all={{tt|one|after using memory link to link to a black or white version}}|type1=grass|type2=steel}}
 {{catch/entry5-2|599|klink|yes|yes|special|28|all={{tt|one|after using memory link to link to a black or white version}}|type1=steel}}
 
-~Cherrygrove City!tion ii===
+~Cherrygrove City!on==
+===generation ii===
 {{catch/header|road}}
 {{catch/div|water|surfing}}
 {{catch/entry2|072|tentacool|yes|yes|yes|surf|20-24|all=60%|type1=water|type2=poison}}
@@ -11681,7 +11682,8 @@ this area can only be accessed from the [[castelia sewers]].
 {{catch/entryhs|102|exeggcute|yes|yes|headbutt|18-20|all=65%|type1=grass|type2=psychic|10=j}}
 {{catch/entryhs|276|taillow|yes|yes|headbutt|18-25|all=35%|type1=normal|type2=flying|10=j}}
 
-~Cianwood City!tion ii===
+~Cianwood City!on==
+===generation ii===
 {{catch/header|sand|yes}}
 {{catch/div|water|surfing}}
 {{catch/entry2|072|tentacool|yes|yes|yes|surf|15-24|all=90%|type1=water|type2=poison}}
@@ -11726,7 +11728,8 @@ this area can only be accessed from the [[castelia sewers]].
 {{catch/div|sand|gift pokã©mon}}
 {{catch/entryhs|213|shuckle|yes|yes|gift|20|all=one|type1=bug|type2=rock}}
 
-~Cinnabar Island!eration i===
+~Cinnabar Island!ã©mon==
+===generation i===
 {{catch/header|volcano|no}}
 {{catch/div|ocean|fishing}}
 {{catch/entry1|129|magikarp|yes|yes|yes|fish old|5|100%|type1=water}}
@@ -11880,7 +11883,8 @@ this area can only be accessed from the [[castelia sewers]].
 {{catch/entryhs|060|poliwag|yes|yes|fish super|40|all=10%|type1=water}}
 {{catch/entryhs|129|magikarp|yes|yes|fish super|40|all=90%|type1=water}}
 
-~Cold Storage!terior===
+~Cold Storage!n==
+===exterior===
 {{catch/header|ice|4}}
 {{catch/entry5|507|herdier|yes|yes|n/a|grass|21-23|all=35%|type1=normal}}
 {{catch/entry5|532|timburr|yes|yes|n/a|grass|21,22|all=20%|type1=fighting}}
@@ -11907,13 +11911,13 @@ this area can only be accessed from the [[castelia sewers]].
 {{catch/entry6|293|whismur|yes|yes|horde encounter|7|all=60%|type1=normal}}
 {{catch/entry6|610|axew|yes|yes|horde encounter|8|all=5%|type1=dragon}}
 
-~Coumarine City!spectively).
+~Coumarine City! (respectively).
 {{catch/header|city|no}}
 {{catch/div|city|special}}
 {{catch/entry6|129|magikarp|yes|yes|trade|5|all=one|tradenum=130|tradename=gyarados|type1=water}}
 {{catch/entry6|133|eevee|yes|yes|trade|5|all=one|tradenum=000|type1=normal}}
 
-~Couriway Town!spectively).
+~Couriway Town! (respectively).
 {{catch/header|road|2}}
 {{catch/div|water|surfing}}
 {{catch/entry6|271|lombre|yes|yes|surf|44-46|all=66%|type1=water|type2=grass}}
@@ -11935,7 +11939,7 @@ this area can only be accessed from the [[castelia sewers]].
 {{catch/div|land|special}}
 {{catch/entryoras|488|cresselia|yes|yes|special|50|one|type1=psychic}}
 
-~Cyllage City!spectively).
+~Cyllage City! (respectively).
 {{catch/header|road|6}}
 {{catch/div|sand|{{mcolor|rock smash|000}}}}
 {{catch/entry6|095|onix|yes|no|rock smash|15-17|all=35%|type1=rock|type2=ground}}
@@ -11959,7 +11963,7 @@ this area can only be accessed from the [[castelia sewers]].
 {{catch/entry6|129|magikarp|yes|yes|trade|5|all=one|tradenum=130|tradename=gyarados|type1=water}}
 {{catch/entry6|133|eevee|yes|yes|trade|5|all=one|tradenum=000|type1=normal}}
 
-~Dark Cave!ide====
+~Dark Cave!=violet city side====
 {{catch/header|cave|yes}}
 {{catch/entry2|041|zubat|yes|yes|no|cave|2-4|all=39%|type1=poison|type2=flying}}
 {{catch/entry2|041|zubat|no|no|yes|cave|2-4|34%|39%|39%|type1=poison|type2=flying}}
@@ -12098,7 +12102,8 @@ this area can only be accessed from the [[castelia sewers]].
 {{catch/entry5-2|559|scraggy|yes|yes|special|22|all={{tt|one|after using memory link to link to a black or white version}}|type1=dark|type2=fighting}}
 {{catch/entry5-2|561|sigilyph|yes|yes|special|22|all={{tt|one|after using memory link to link to a black or white version}}|type1=psychic|type2=flying}}
 
-~Desert Ruins!on iii===
+~Desert Ruins!==
+===generation iii===
 {{catch/header|ruins|no}}
 {{catch/div|ruins|special}}
 {{catch/entry3|377|regirock|yes|yes|yes|special|40|one|type1=rock}}
@@ -12137,7 +12142,8 @@ this area can only be accessed from the [[castelia sewers]].
 {{catch/entryoras|696|tyrunt|yes|yes|jaw|20|fossil|type1=rock|type2=dragon}}
 {{catch/entryoras|698|amaura|yes|yes|sail|20|fossil|type1=rock|type2=ice}}
 
-~Dewford Town!tion iii===
+~Dewford Town!=
+===generation iii===
 {{catch/header|sand|no}}
 {{catch/div|water|surfing}}
 {{catch/entry3|072|tentacool|yes|yes|yes|surf|5-35|60%|type1=water|type2=poison}}
@@ -12166,7 +12172,8 @@ this area can only be accessed from the [[castelia sewers]].
 {{catch/entryoras|320|wailmer|yes|yes|fish good|25|5%|type1=water}}
 {{catch/entryoras|320|wailmer|yes|yes|fish super|30, 35, 40|100%|type1=water}}
 
-~Diglett's Cave!tion i===
+~Diglett's Cave!on==
+===generation i===
 {{catch/header|cave|no}}
 {{catch/entry1|050|diglett|yes|yes|yes|cave|15-22|95%|type1=ground}}
 {{catch/entry1|051|dugtrio|yes|yes|yes|cave|29, 31|5%|type1=ground}}
@@ -12423,7 +12430,8 @@ this area can only be accessed from the [[castelia sewers]].
 {{catch/entry5-2|643|reshiram|no|yes|special|70|all={{tt|one|appears after obtaining the light stone}}|type1=dragon|type2=fire}}
 {{catch/entry5-2|644|zekrom|yes|no|special|70|all={{tt|one|appears after obtaining the dark stone}}|type1=dragon|type2=electric}}
 
-~Dreamyard!uins====
+~Dreamyard!white===
+====ruins====
 {{catch/header|forest|4}}
 {{catch/entry5|504|patrat|yes|yes|yes|grass|8-11|all=40%|type1=normal}}
 {{catch/entry5|509|purrloin|yes|yes|yes|grass|8-11|all=40%|type1=dark}}
@@ -12534,7 +12542,8 @@ this area can only be accessed from the [[castelia sewers]].
 {{catch/header|road|2}}
 {{catch/entry5-2|580|ducklett|yes|yes|shadow|23-26|all=100%|type1=water|type2=flying}}
 
-~Ecruteak City!tion ii===
+~Ecruteak City!on==
+===generation ii===
 {{catch/header|road|4}}
 {{catch/div|water|surfing}}
 {{catch/entry2|060|poliwag|yes|yes|yes|surf|15-24|all=90%|type1=water}}
@@ -12593,7 +12602,7 @@ this area can only be accessed from the [[castelia sewers]].
 {{catch/div|city|special}}
 {{catch/entry4|441|chatot|yes|yes|yes|trade|tradenum=418|tradename=buizel|the same as the traded pokã©mon|all=one|type1=normal|type2=flying}}
 
-~Eterna Forest!with cheryl.
+~Eterna Forest!cheryl.
 {{catch/header|forest}}
 {{catch/entry4|092|gastly|no|no|yes|grass|13|all=4%|type1=ghost|type2=poison}}
 {{catch/entry4|163|hoothoot|no|no|yes|grass|12|0%|0%|10%|type1=normal|type2=flying}}
@@ -12631,7 +12640,8 @@ this area can only be accessed from the [[castelia sewers]].
 {{catch/entry4|290|nincada|yes|yes|no|pokã© radar|10-12|all=22%|type1=bug|type2=ground}}
 {{catch/entry4|290|nincada|no|no|yes|pokã© radar|11-14|all=22%|type1=bug|type2=ground}}
 
-~Ever Grande City!tion iii===
+~Ever Grande City!on==
+===generation iii===
 {{catch/header|water|no}}
 {{catch/div|water|surfing}}
 {{catch/entry3|072|tentacool|yes|yes|yes|surf|5-35|60%|type1=water||type2=poison}}
@@ -12710,7 +12720,7 @@ this area can only be accessed from the [[castelia sewers]].
 {{catch/entryoras|025ro|form=pikachu rock star|pikachu|yes|yes|gift|20|{{tt|one|after competing in a contest spectacular for the first time, if the player character is male. can be received at any contest hall.}}|type1=electric}}
 {{catch/entryoras|025po|form=pikachu pop star|pikachu|yes|yes|gift|20|{{tt|one|after competing in a contest spectacular for the first time, if the player character is female. can be received at any contest hall.}}|type1=electric}}
 
-~Faraway Island!lly.
+~Faraway Island! battled normally.
 {{catch/header|forest|no}}
 {{catch/div|forest|special}}
 {{catch/entry3|151|mew|no|no|yes|map|30|one|type1=psychic}}
@@ -12747,7 +12757,9 @@ this area can only be accessed from the [[castelia sewers]].
 {{catch/entryoras|236|tyrogue|yes|yes|cave|15|??%|type1=fighting}}
 {{catch/entryoras|524|roggenrola|yes|yes|cave|15|??%|type1=rock}}
 
-~Five Island (town)!=
+~Five Island (town)!.
+
+==pokã©mon==
 {{catch/header|sand|no}}
 {{catch/div|ocean|surfing}}
 {{catch/entryfl|072|tentacool|yes|yes|surf|5-40|65%|type1=water|type2=poison}}
@@ -12768,7 +12780,7 @@ this area can only be accessed from the [[castelia sewers]].
 {{catch/entryfl|054|psyduck|yes|no|fish super|25-35|1%|type1=water}}
 {{catch/entryfl|079|slowpoke|no|yes|fish super|25-35|1%|type1=water|type2=psychic}}
 
-~Five Isle Meadow!on==
+~Five Isle Meadow!n==
 {{catch/header|land|no}}
 {{catch/entryfl|161|sentret|yes|yes|grass|10, 15|30%|type1=normal}}
 {{catch/entryfl|016|pidgey|yes|yes|grass|44|20%|type1=normal|type2=flying}}
@@ -12854,7 +12866,7 @@ this area can only be accessed from the [[castelia sewers]].
 {{catch/div|forest|special}}
 {{catch/entryoras|300|skitty|yes|yes|trade|30|one|tradenum=327|tradename=spinda|type1=normal}}
 
-~Four Island (town)!mon==
+~Four Island (town)!on==
 {{catch/header|water|no}}
 {{catch/div|water|surfing}}
 {{catch/entryfl|194|wooper|yes|no|surf|5-25|70%|type1=water|type2=ground}}
@@ -12905,7 +12917,8 @@ this area can only be accessed from the [[castelia sewers]].
 {{catch/entry6|550|basculin|yes|no|fish super|40|all=35%|type1=water}}
 {{catch/entry6|550b|basculin|no|yes|fish super|40|all=35%|type1=water}}
 
-~Fuchsia City!tion i===
+~Fuchsia City!on==
+===generation i===
 {{catch/header|road|no}}
 {{catch/div|water|fishing}}
 {{catch/entry1|129|magikarp|yes|yes|yes|fish old|5|100%|type1=water}}
@@ -12999,13 +13012,14 @@ this area can only be accessed from the [[castelia sewers]].
 {{catch/entry4|188|skiploom|no|yes|no|pokã© radar|30|all=2%|type1=grass|type2=flying}}
 {{catch/entry4|304|aron|yes|no|yes|pokã© radar|29-30|all=22%|type1=steel|type2=rock}}
 
-~Geosenge Town!spectively).
+~Geosenge Town! (respectively).
 {{catch/header|road|no}}
 {{catch/div|road|special}}
 {{catch/entry6|129|magikarp|yes|yes|trade|5|all=one|tradenum=130|tradename=gyarados|type1=water}}
 {{catch/entry6|133|eevee|yes|yes|trade|5|all=one|tradenum=000|type1=normal}}
 
-~Giant Chasm!trance====
+~Giant Chasm!hite===
+====entrance====
 {{catch/header|forest|4}}
 {{catch/entry5|042|golbat|yes|yes|yes|grass|48-50|all=15%|type1=poison|type2=flying}}
 {{catch/entry5|114|tangela|yes|yes|yes|grass|47-49|all=25%|type1=grass}}
@@ -13396,7 +13410,7 @@ in the japanese version of {{game|crystal}}, if the player has the {{key|ii|egg 
 {{catch/entryoras|074|geodude|yes|yes|rock smash|10-12|84%|type1=rock|type2=ground}}
 {{catch/entryoras|299|nosepass|yes|yes|rock smash|10, 12|16%|type1=rock}}
 
-~Great Marsh!
+~Great Marsh!are possible}}
 {{catch/header|marsh|4}}
 {{catch/div|water|surfing}}
 {{catch/entry4|054|psyduck|yes|yes|no|surf|20-40|all=5%|type1=water}}
@@ -13563,7 +13577,10 @@ the "rates" below are the chances for that pokã©mon to be selected to appear i
 {{catch/entry4|454|toxicroak|yes|yes|no|grass|22,24,26|all=1/32|type1=poison|type2=fighting}}
 {{catch/entry4|454|toxicroak|no|no|yes|grass|27-30|all=1/32|type1=poison|type2=fighting}}
 
-~Green Path!{{catch/header|land|no}}
+~Green Path!}}
+
+==pokã©mon==
+{{catch/header|land|no}}
 {{catch/div|ocean|surfing}}
 {{catch/entryfl|072|tentacool|yes|yes|surf|5-40|95%|type1=water|type2=poison}}
 {{catch/entryfl|073|tentacruel|yes|yes|surf|35-40|5%|type1=water|type2=poison}}
@@ -13582,27 +13599,7 @@ the "rates" below are the chances for that pokã©mon to be selected to appear i
 {{catch/entryfl|054|psyduck|yes|no|fish super|25-35|1%|type1=water}}
 {{catch/entryfl|079|slowpoke|no|yes|fish super|25-35|1%|type1=water|type2=psychic}}
 
-~Haina Desert!} stages.
-
-{{catch/header/7|sand}}
-{{catch/entry7|051a|dugtrio|yes|yes|sand|28-31|all=30%|type1=ground|type2=steel}}
-{{catch/entry7|551|sandile|yes|yes|sand|28-31|all=70%|type1=ground|type2=dark}}
-{{catch/div|sand|ambush encounters}}
-{{catch/entry7|051a|dugtrio|yes|yes|sand cloud|28-31|all=20%|type1=ground|type2=steel}}
-{{catch/entry7|328|trapinch|yes|yes|sand cloud|28-31|all=10%|type1=ground}}
-{{catch/entry7|551|sandile|yes|yes|sand cloud|28-31|all=70%|type1=ground|type2=dark}}
-{{catch/div|sand|{{color2|000|sos battle#weather-dependent allies|special allies in weather}}}}
-{{catch/entry7|000|any|yes|yes|sand|28-31|all=10%|allies=&lt;small>{{color2|000|sandstorm (weather condition)|sandstorm}}:&lt;/small>&lt;br>{{ms|444}} {{pcolor|gabite|000}}|type1=???}}
-{{catch/entry7|000|any|yes|yes|sand|28-31|all=1%|allies=&lt;small>{{color2|000|sandstorm (weather condition)|sandstorm}}:&lt;/small>&lt;br>{{ms|351}} {{pcolor|castform|000}}|type1=???}}
-{{catch/entry7|000|any|yes|yes|sand|28-31|all=11%|allies=&lt;small>{{color2|000|rain}} or {{color2|000|hail (weather condition)|hail}}:&lt;/small>&lt;br>{{ms|351}} {{pcolor|castform|000}}|type1=???}}
-{{catch/entry7|000|any|yes|yes|sand cloud|28-31|all=10%|allies=&lt;small>{{color2|000|sandstorm (weather condition)|sandstorm}}:&lt;/small>&lt;br>{{ms|444}} {{pcolor|gabite|000}}|type1=???}}
-{{catch/entry7|000|any|yes|yes|sand cloud|28-31|all=1%|allies=&lt;small>{{color2|000|sandstorm (weather condition)|sandstorm}}:&lt;/small>&lt;br>{{ms|351}} {{pcolor|castform|000}}|type1=???}}
-{{catch/entry7|000|any|yes|yes|sand cloud|28-31|all=11%|allies=&lt;small>{{color2|000|rain}} or {{color2|000|hail (weather condition)|hail}}:&lt;/small>&lt;br>{{ms|351}} {{pcolor|castform|000}}|type1=???}}
-{{catch/div|sand|special}}
-{{catch/entry7|797|celesteela|no|yes|sand|65|all=two|type1=steel|type2=flying|alliesna=n/a}}
-{{catch/footer|sand}}
-
-===pokã©mon ultra sun and ultra moon===
+~Haina Desert!on===
 {{catch/header/7|sand}}
 {{catch/entryusum|051a|dugtrio|yes|no|sand|32-35|all=30%|type1=ground|type2=steel|allies={{ms|051a}} {{pcolor|dugtrio|000}}&lt;br>{{ms|622}} {{pcolor|golett|000}}}}
 {{catch/entryusum|051a|dugtrio|no|yes|sand|32-35|all=30%|type1=ground|type2=steel|allies={{ms|051a}} {{pcolor|dugtrio|000}}&lt;br>{{ms|343}} {{pcolor|baltoy|000}}}}
@@ -13623,7 +13620,9 @@ the "rates" below are the chances for that pokã©mon to be selected to appear i
 {{catch/entryusum|000|any|yes|yes|sand cloud|32-35|all=1%|allies=&lt;small>{{color2|000|sandstorm (weather condition)|sandstorm}}:&lt;/small>&lt;br>{{ms|351}} {{pcolor|castform|000}}|type1=???}}
 {{catch/entryusum|000|any|yes|yes|sand cloud|32-35|all=11%|allies=&lt;small>{{color2|000|rain}} or {{color2|000|hail (weather condition)|hail}}:&lt;/small>&lt;br>{{ms|351}} {{pcolor|castform|000}}|type1=???}}
 
-~Hall of Origin!on==
+~Hall of Origin!led up]].
+
+==pokã©mon==
 {{catch/header|space|4}}
 {{catch/div|space|special}}
 {{catch/entry4|493|arceus|yes|yes|yes|azure|80|all=one|type1=normal}}
@@ -13675,7 +13674,8 @@ the "rates" below are the chances for that pokã©mon to be selected to appear i
 {{catch/div|land|exclusively from {{color2|000|qr scanner#island scan|island scan}}}}
 {{catch/entryusum|607|litwick|yes|yes|grass|9|all={{tt|one|knows endure}}{{dotw|sat}}|type1=ghost|type2=fire|alliesna=n/a}}
 
-~Hau'oli City!front====
+~Hau'oli City!n===
+====beachfront====
 {{catch/header/7|ocean}}
 {{catch/entry7|072|tentacool|yes|yes|surf|15-18|all=40%|type1=water|type2=poison}}
 {{catch/entry7|278|wingull|yes|yes|surf|15-18|all=20%|type1=water|type2=flying}}
@@ -13762,7 +13762,7 @@ the "rates" below are the chances for that pokã©mon to be selected to appear i
 {{catch/entryusum|743|ribombee|yes|no|gift|50|all=one|type1=bug|type2=fairy|alliesna=n/a}}
 {{catch/entryusum|784|kommo-o|no|yes|gift|50|all=one|type1=dragon|type2=fighting|alliesna=n/a}}
 
-~Heahea City!iation.
+~Heahea City!the surf association.
 {{catch/header/7|city}}
 {{catch/div|city|special pokã©mon}}
 {{catch/entryusum|025|pikachu|yes|yes|gift|40|all=one|type1=electric|alliesna=n/a}}
@@ -14017,7 +14017,7 @@ the "rates" below are the chances for that pokã©mon to be selected to appear i
 {{catch/div|sand|special}}
 {{catch/entry5-2|465|tangrowth|yes|yes|trade|45|all=one|type1=grass|tradename=mantine|tradenum=226}}
 
-~Ice Path!tion ii===
+~Ice Path!==generation ii===
 {{catch/header|snow}}
 {{catch/div|snow|1f}}
 {{catch/entry2|041|zubat|yes|no|no|cave|22|25%|20%|25%|type1=poison|type2=flying}}
@@ -14086,7 +14086,7 @@ the "rates" below are the chances for that pokã©mon to be selected to appear i
 {{catch/entryhs|433|chingling|yes|yes|sinnoh|22|all=20%|type1=psychic}}
 {{catch/entryhs|436|bronzor|yes|yes|sinnoh|21-22|all=20%|type1=steel|type2=psychic}}
 
-~Icefall Cave!rance====
+~Icefall Cave!entrance====
 {{catch/header|snow|no}}
 {{catch/entryfl|086|seel|yes|yes|cave|43, 45, 47|40%|type1=water}}
 {{catch/entryfl|042|golbat|yes|yes|cave|45, 48|25%|type1=poison|type2=flying}}
@@ -14150,7 +14150,7 @@ the "rates" below are the chances for that pokã©mon to be selected to appear i
 {{catch/entryfl|054|psyduck|yes|no|fish super|25-35|1%|type1=water}}
 {{catch/entryfl|079|slowpoke|no|yes|fish super|25-35|1%|type1=water|type2=psychic}}
 
-~Icirrus City!white===
+~Icirrus City!===
 {{catch/header|{{#switch: {{#time: f}}|april|august|december=snow|land}}|seasons=yes}}
 {{catch/div|{{#switch: {{#time: f}}|april|august|december=snow|lake}}|puddles}}
 {{catch/entry5|536|palpitoad|yes|yes|no|puddle|30-33|40%|40%|40%|-|type1=water|type2=ground}}
@@ -14199,7 +14199,8 @@ the "rates" below are the chances for that pokã©mon to be selected to appear i
 {{catch/entry7|725|litten|yes|yes|starter|5|all=one|type1=fire|alliesna=n/a}}
 {{catch/entry7|728|popplio|yes|yes|starter|5|all=one|type1=water|alliesna=n/a}}
 
-~Ilex Forest!ration ii===
+~Ilex Forest!©mon==
+===generation ii===
 {{catch/header|forest}}
 {{catch/entry2|010|caterpie|yes|no|no|grass|5-6|50%|60%|0%|type1=bug}}
 {{catch/entry2|010|caterpie|no|no|yes|grass|5|30%|30%|0%|type1=bug}}
@@ -14305,7 +14306,8 @@ the "rates" below are the chances for that pokã©mon to be selected to appear i
 {{catch/entry1|118|goldeen|yes|yes|yes|fish good|10|50%|type1=water}}
 {{catch/entry1|060|poliwag|yes|yes|yes|fish good|10|50%|type1=water}}
 
-~Iron Island!or===
+~Iron Island!on==
+===exterior===
 {{catch/header|cave|4}}
 {{catch/div|water|surfing}}
 {{catch/entry4|072|tentacool|yes|yes|no|surf|20-30|all=60%|type1=water|type2=poison}}
@@ -14413,7 +14415,7 @@ while riley is partnered with the player, the pokã©mon located here (excluding
 {{catch/entry4|303|mawile|yes|yes|no|r|32-34|all=8%|type1=steel}}
 {{catch/entry4|303|mawile|no|no|yes|r|31-32|all=8%|type1=steel}}
 
-~Island Cave!ation iii===
+~Island Cave!
 {{catch/header|cave|no}}
 {{catch/div|cave|special}}
 {{catch/entry3|378|regice|yes|yes|yes|special|40|one|type1=ice}}
@@ -14496,7 +14498,8 @@ while riley is partnered with the player, the pokã©mon located here (excluding
 {{catch/div|ocean|exclusively from {{color2|000|qr scanner#island scan|island scan}}}}
 {{catch/entryusum|116|horsea|yes|yes|surf|18|all={{tt|one|knows water pulse}}{{dotw|we}}|type1=water|alliesna=n/a}}
 
-~Kanto Power Plant!===
+~Kanto Power Plant!n===
+====generation i====
 {{catch/header|building|no}}
 {{catch/entry1|025|pikachu|yes|yes|no|building|20, 24|25%|type1=electric}}
 {{catch/entry1|026|raichu|no|yes|no|building|33, 36|5%|type1=electric}}
@@ -14539,7 +14542,7 @@ while riley is partnered with the player, the pokã©mon located here (excluding
 {{catch/div|building|special}}
 {{catch/entryhs|082|magneton|yes|yes|trade|the same as the traded pokã©mon|all=one|tradenum=051|tradename=dugtrio|type1=electric|type2=steel}}
 
-~Kanto Safari Zone!==
+~Kanto Safari Zone!r area (hub)====
 {{catch/header|land|no}}
 {{catch/entry1|029|nidoranâ|no|yes|no|grass|22|25%|type1=poison}}
 {{catch/entry1|029|nidoranâ|no|no|yes|grass|36|15%|type1=poison}}
@@ -14845,7 +14848,9 @@ while riley is partnered with the player, the pokã©mon located here (excluding
 {{catch/div|building|{{color2|000|alola route 9#the ditto five|the ditto five}}}}
 {{catch/entryusum|132|ditto|yes|yes|special|29|all={{tt|four|have set natures}}|alliesna=n/a}}
 
-~Lake Acuity!on==
+~Lake Acuity!foot|lake}}
+
+==pokã©mon==
 {{catch/header|lake}}
 {{catch/entry4|054|psyduck|yes|yes|no|grass|34-36|30%|30%|20%|type1=water}}
 {{catch/entry4|054|psyduck|no|no|yes|grass|38|all=5%|type1=water}}
@@ -14920,8 +14925,7 @@ while riley is partnered with the player, the pokã©mon located here (excluding
 {{catch/header|cave|4}}
 {{catch/entry4|482|azelf|yes|yes|yes|special|50|all=one|type1=psychic}}
 
-~Lake Verity!on==
-{{catch/header|lake|yes}}
+~Lake Verity!{{catch/header|lake|yes}}
 {{catch/entry4|396|starly|yes|yes|no|grass|2-4|50%|50%|40%|type2=flying}}
 {{catch/entry4|396|starly|no|no|yes|grass|2-4|all=50%|type2=flying}}
 {{catch/entry4|399|bidoof|yes|yes|no|grass|2-4|50%|50%|60%}}
@@ -14948,7 +14952,8 @@ while riley is partnered with the player, the pokã©mon located here (excluding
 {{catch/entry4|397|staravia|yes|yes|no|frlge|4|all=4%|type2=flying}}
 {{catch/entry4|400|bibarel|yes|yes|no|frlge|4|all=4%|type2=water}}
 
-~Lake of Rage!tion ii===
+~Lake of Rage!n==
+===generation ii===
 {{catch/header|lake|4}}
 {{catch/div|lake|surfing}}
 {{catch/entry2|129|magikarp|yes|yes|yes|surf|10â19|all=90%|type1=water}}
@@ -15025,7 +15030,7 @@ while riley is partnered with the player, the pokã©mon located here (excluding
 {{catch/div|lake|special}}
 {{catch/entryusum|789|cosmog|yes|no|gift|5|all=one|type1=psychic|alliesna=n/a}}
 
-~Lavaridge Town!iii===
+~Lavaridge Town!===generation iii===
 {{catch/header|volcano|no}}
 {{catch/div|volcano|gift pokã©mon}}
 {{catch/entry3|360|wynaut|yes|yes|yes|egg|5|one|type1=psychic}}
@@ -15050,7 +15055,7 @@ while riley is partnered with the player, the pokã©mon located here (excluding
 {{catch/entry6|550|basculin|yes|no|fish super|35|all=35%|type1=water}}
 {{catch/entry6|550b|basculin|no|yes|fish super|35|all=35%|type1=water}}
 
-~Liberty Garden!nd white===
+~Liberty Garden!
 {{catch/header|building|4}}
 {{catch/div|building|special}}
 {{catch/entry5|494|victini|yes|yes|no|liberty|15|all=one|type1=psychic|type2=fire}}
@@ -15135,7 +15140,7 @@ while riley is partnered with the player, the pokã©mon located here (excluding
 {{catch/entry6|479l|rotom|yes|yes|shaking trash cans|38|all=very rare|type1=electric|type2=grass}}
 {{catch/entry6|479w|rotom|yes|yes|shaking trash cans|38|all=very rare|type1=electric|type2=water}}
 
-~Lost Tower!kã©mon==
+~Lost Tower!==
 {{catch/header|building}}
 {{catch/div|building|1f}}
 {{catch/entry4|041|zubat|yes|yes|no|1f|16-18|50%|50%|40%|type1=poison|type2=flying}}
@@ -15283,7 +15288,7 @@ while riley is partnered with the player, the pokã©mon located here (excluding
 {{catch/entry5-2|415|combee|yes|yes|grotto|20-25|all={{tt|15%|has its hidden ability}}|type1=bug|type2=flying}}
 {{catch/entry5-2|542|leavanny|yes|yes|grotto|20-25|all={{tt|4%|has its hidden ability}}|type1=bug|type2=grass}}
 
-~Lumiose City!alues|ivs]].
+~Lumiose City!lues|ivs]].
 {{catch/header|building|2}}
 {{catch/div|building|gift pokã©mon}}
 {{catch/entry6|001|bulbasaur|yes|yes|gift|10|all={{tt|one|can only choose one of the three}}|type1=grass|type2=poison}}
@@ -15291,7 +15296,9 @@ while riley is partnered with the player, the pokã©mon located here (excluding
 {{catch/entry6|007|squirtle|yes|yes|gift|10|all={{tt|one|can only choose one of the three}}|type1=water}}
 {{catch/entry6|280|ralts|yes|yes|trade|5|all={{tt|one|always is female and has modest nature}}|type1=psychic|type2=fairy}}
 
-~Lush Jungle!l area====
+~Lush Jungle!s.
+
+====central area====
 {{catch/header/dn|forest}}
 {{catch/entry7|010|caterpie|yes|yes|grass|18-21|all=10%|type1=bug|allies={{ms|010}} {{pcolor|caterpie|000}}&lt;br>{{ms|012}} {{pcolor|butterfree|000}}}}
 {{catch/entry7|011|metapod|yes|yes|grass|18-21|all=10%|type1=bug|allies={{ms|010}} {{pcolor|caterpie|000}}&lt;br>{{ms|012}} {{pcolor|butterfree|000}}}}
@@ -15409,7 +15416,7 @@ while riley is partnered with the player, the pokã©mon located here (excluding
 {{catch/entryusum|636|larvesta|yes|yes|cave|41-44|all=1%|type1=bug|type2=fire|allies={{ms|636}} {{pcolor|larvesta|000}}&lt;br>{{ms|637}} {{pcolor|volcarona|000}}}}
 {{catch/entryusum|757|salandit|yes|yes|cave|41-44|all=30%|type1=poison|type2=fire|allies={{ms|757}} {{pcolor|salandit|000}}&lt;br>{{ms|758}} {{pcolor|salazzle|000}}}}
 
-~Mahalo Trail!oon===
+~Mahalo Trail!un and ultra moon===
 {{catch/header/dn|mountain}}
 {{catch/div|mountain|{{tt|while rescuing nebby|cannot be caught, due to having no pokã© balls}}}}
 {{catch/entryusum|021|spearow|yes|yes|special|4|all=one|type1=normal|type2=flying|alliesna=n/a}}
@@ -15439,35 +15446,7 @@ while riley is partnered with the player, the pokã©mon located here (excluding
 {{catch/entryusum|568|trubbish|yes|yes|grass|25-28|all=30%|type1=poison|}}
 {{catch/entryusum|572|minccino|yes|yes|grass|25-28|all=20%|type1=normal}}
 
-~Malie Garden!} stages.
-
-{{catch/header/dn|land}}
-{{catch/entry7|052a|meowth|yes|yes|grass|24-27|all=20%|type1=dark}}
-{{catch/entry7|054|psyduck|yes|yes|grass|24-27|all=10%|type1=water}}
-{{catch/entry7|060|poliwag|yes|yes|grass|24-27|all=20%|type1=water}}
-{{catch/entry7|166|ledian|yes|yes|grass|24-27|20%|-|type1=bug|type2=flying}}
-{{catch/entry7|168|ariados|yes|yes|grass|24-27|-|20%|type1=bug|type2=poison}}
-{{catch/entry7|284|masquerain|yes|yes|grass|24-27|-|20%|type1=bug|type2=flying}}
-{{catch/entry7|546|cottonee|yes|no|grass|24-27|all=10%|type1=grass|type2=fairy}}
-{{catch/entry7|548|petilil|no|yes|grass|24-27|all=10%|type1=grass}}
-{{catch/entry7|752|araquanid|yes|yes|grass|24-27|20%|-|type1=water|type2=bug}}
-{{catch/div|land|{{color2|000|sos battle#weather-dependent allies|special allies in weather}}}}
-{{catch/entry7|000|any|yes|yes|grass|24-27|all=10%|allies=&lt;small>in {{color2|000|rain}}:&lt;/small>&lt;br>{{ms|061}} {{pcolor|poliwhirl|000}}|type1=???}}
-{{catch/entry7|000|any|yes|yes|grass|24-27|1%|-|allies=&lt;small>in {{color2|000|rain}}:&lt;/small>&lt;br>{{ms|062}} {{pcolor|poliwrath|000}}|type1=???}}
-{{catch/entry7|000|any|yes|yes|grass|24-27|-|1%|allies=&lt;small>in {{color2|000|rain}}:&lt;/small>&lt;br>{{ms|186}} {{pcolor|politoed|000}}|type1=???}}
-{{catch/entry7|000|any|yes|yes|grass|24-27|all=11%|allies=&lt;small>{{color2|000|hail (weather condition)|hail}} or {{color2|000|sandstorm (weather condition)|sandstorm}}:&lt;/small>&lt;br>{{ms|351}} {{pcolor|castform|000}}|type1=???}}
-{{catch/div|water|fishing}}
-{{catch/entry7|118|goldeen|yes|yes|fish|10-27|all=60%|type1=water|allies={{ms|118}} {{pcolor|goldeen|000}}&lt;br>{{ms|119}} {{pcolor|seaking|000}}}}
-{{catch/entry7|129|magikarp|yes|yes|fish|10-27|all=40%|type1=water|allies={{ms|129}} {{pcolor|magikarp|000}}&lt;br>{{ms|130}} {{pcolor|gyarados|000}}}}
-{{catch/div|water|fishing at the bubbling spot}}
-{{catch/entry7|118|goldeen|yes|yes|fish|10-27|all=50%|type1=water|allies={{ms|118}} {{pcolor|goldeen|000}}&lt;br>{{ms|119}} {{pcolor|seaking|000}}}}
-{{catch/entry7|129|magikarp|yes|yes|fish|10-27|all=50%|type1=water|allies={{ms|129}} {{pcolor|magikarp|000}}&lt;br>{{ms|130}} {{pcolor|gyarados|000}}}}
-{{catch/div|land|special}}
-{{catch/entry7|797|celesteela|no|yes|grass|65|all=two|type1=steel|type2=flying|alliesna=n/a}}
-{{catch/entry7|798|kartana|yes|no|grass|60|all=four|type1=grass|type2=steel|alliesna=n/a}}
-{{catch/footer|land}}
-
-===pokã©mon ultra sun and ultra moon===
+~Malie Garden!on===
 {{catch/header/dn|land}}
 {{catch/entryusum|052a|meowth|yes|yes|grass|25-28|all=20%|type1=dark|allies={{ms|052a}} {{pcolor|meowth|000}}&lt;br>{{ms|053a}} {{pcolor|persian|000}}}}
 {{catch/entryusum|054|psyduck|yes|yes|grass|25-28|all=10%|type1=water}}
@@ -15496,7 +15475,9 @@ while riley is partnered with the player, the pokã©mon located here (excluding
 {{catch/entryusum|550|basculin|yes|no|fish|10-33|all=15%|type1=water}}
 {{catch/entryusum|550b|basculin|no|yes|fish|10-33|all=15%|type1=water}}
 
-~Maniac Tunnel!on==
+~Maniac Tunnel!cave}}
+
+==pokã©mon==
 {{catch/header|cave|4}}
 {{catch/div|cave|fewer than 10 {{pcolor|unown|000}}}}
 {{catch/entry4|074|geodude|yes|yes|yes|cave|21-23|all=95%|type1=rock|type2=ground}}
@@ -15528,28 +15509,7 @@ while riley is partnered with the player, the pokã©mon located here (excluding
 {{catch/div|road|special}}
 {{catch/entry5-2|488|cresselia|yes|yes|special|68|all={{tt|one|appears after obtaining the lunar wing}}|type1=psychic}}
 
-~Megalo Tower!
-
-{{catch/header/7|space}}
-{{catch/div|space|special pokã©mon&lt;br>&lt;small>cannot be caught&lt;/small>}}
-{{catch/entryusum|800u|necrozma|yes|yes|special|60|all=one|type1=psychic|type2=dragon|alliesna=n/a}}
-{{catch/div|space|gift pokã©mon}}
-{{catch/entryusum|803|poipole|yes|yes|gift|40|all=one|type1=poison|alliesna=n/a}}
-
-~Melemele Meadow!} stages.
-{{catch/header/7|forest}}
-{{catch/entry7|010|caterpie|yes|yes|yellow flowers|9-12|all=10%|type1=bug|allies={{ms|010}} {{pcolor|caterpie|000}}&lt;br>{{ms|012}} {{pcolor|butterfree|000}}}}
-{{catch/entry7|011|metapod|yes|yes|yellow flowers|9-12|all=9%|type1=bug|allies={{ms|010}} {{pcolor|caterpie|000}}&lt;br>{{ms|012}} {{pcolor|butterfree|000}}}}
-{{catch/entry7|012|butterfree|yes|yes|yellow flowers|9-12|all=1%|type1=bug|type2=flying|alliesna=n/a}}
-{{catch/entry7|546|cottonee|yes|no|yellow flowers|9-12|all=30%|type1=grass|type2=fairy}}
-{{catch/entry7|548|petilil|no|yes|yellow flowers|9-12|all=30%|type1=grass}}
-{{catch/entry7|741po|oricorio|yes|yes|yellow flowers|9-12|all=20%|type1=electric|type2=flying}}
-{{catch/entry7|742|cutiefly|yes|yes|yellow flowers|9-12|all=30%|type1=bug|type2=fairy}}
-{{catch/div|forest|special}}
-{{catch/entry7|794|buzzwole|yes|no|yellow flowers|65|all=two|type1=bug|type2=fighting|alliesna=n/a}}
-{{catch/footer|forest}}
-
-===pokã©mon ultra sun and ultra moon===
+~Melemele Meadow!moon===
 {{catch/header/7|forest}}
 {{catch/entryusum|010|caterpie|yes|no|yellow flowers|9-12|all=10%|type1=bug|allies={{ms|010}} {{pcolor|caterpie|000}}&lt;br>{{ms|012}} {{pcolor|butterfree|000}}}}
 {{catch/entryusum|010|caterpie|no|yes|yellow flowers|10-12|all=10%|type1=bug|allies={{ms|010}} {{pcolor|caterpie|000}}&lt;br>{{ms|012}} {{pcolor|butterfree|000}}}}
@@ -15652,7 +15612,8 @@ while riley is partnered with the player, the pokã©mon located here (excluding
 {{catch/entryfl|054|psyduck|yes|no|fish super|25-35|1%|type1=water}}
 {{catch/entryfl|079|slowpoke|no|yes|fish super|25-35|1%|type1=water|type2=psychic}}
 
-~Meteor Falls!===
+~Meteor Falls!=
+=====1f 1r=====
 {{catch/header|cave|no}}
 {{catch/entry3|041|zubat|yes|yes|yes|cave|14-20|80%|type1=poison|type2=flying}}
 {{catch/entry3|337|lunatone|no|yes|no|cave|14, 16, 18|20%|type1=rock|type2=psychic}}
@@ -16540,7 +16501,7 @@ while riley is partnered with the player, the pokã©mon located here (excluding
 {{catch/div|cave|dust clouds}}
 {{catch/entry5-2|529|drilbur|yes|yes|dust|27-30|all=100%|type1=ground}}
 
-~Moor of Icirrus! white===
+~Moor of Icirrus!te===
 {{catch/header|{{#switch: {{#time: f}}|april|august|december=snow|marsh}}|seasons=yes}}
 {{catch/entry5|536|palpitoad|yes|yes|yes|puddle|30-33|40%|40%|40%|--|type1=water|type2=ground}}
 {{catch/entry5|616|shelmet|yes|yes|yes|puddle|30-33|40%|40%|40%|--|type1=bug}}
@@ -16583,7 +16544,8 @@ while riley is partnered with the player, the pokã©mon located here (excluding
 {{catch/entry5-2|340|whiscash|yes|yes|rippling|60|all=10%|type1=water|type2=ground}}
 {{catch/entry5-2|618|stunfisk|yes|yes|rippling|45-60|all=30%|type1=ground|type2=electric}}
 
-~Mossdeep City!ation iii===
+~Mossdeep City!mon==
+===generation iii===
 {{catch/header|city|no}}
 {{catch/div|water|surfing}}
 {{catch/entry3|072|tentacool|yes|yes|yes|surf|5-35|60%|type1=water|type2=poison}}
@@ -16622,7 +16584,7 @@ while riley is partnered with the player, the pokã©mon located here (excluding
 ~Mossdeep Space Center!
 {{catch/header|building|no}}
 {{catch/div|building|special}}
-{{catch/entryoras|352|kecleon|yes|yes|special|45|{{tt|one|requires devon scope; has its hidden ability}}|type1=normal}}
+{{catch/entryoras|352|kecleon|yes|yes|special|45|{{tt|one|requires devon scope, behind the spaceman figure and has its hidden ability, protean}}|type1=normal}}
 
 ~Mount Hokulani! moon===
 {{catch/header/dn|mountain}}
@@ -16656,7 +16618,8 @@ while riley is partnered with the player, the pokã©mon located here (excluding
 {{catch/div|mountain|exclusively from {{color2|000|qr scanner#island scan|island scan}}}}
 {{catch/entryusum|610|axew|yes|yes|brown grass|29|all={{tt|one|knows counter}}{{dotw|sa}}|type1=dragon|alliesna=n/a}}
 
-~Mount Lanakila! reaches====
+~Mount Lanakila!n===
+====upper reaches====
 {{catch/header/7|snow}}
 {{catch/div|snow|southern field of grass near base and field near the peak}}
 {{catch/entry7|027a|sandshrew|no|yes|brown grass|42-45|all=30%|type1=ice|type2=steel}}
@@ -16779,7 +16742,8 @@ while riley is partnered with the player, the pokã©mon located here (excluding
 {{catch/entryusum|000|any|yes|yes|brown grass|48-51|all=1%|allies=&lt;small>in {{color2|000|hail (weather condition)|hail}}:&lt;/small>&lt;br>{{ms|584}} {{pcolor|vanilluxe|000}}|type1=???}}
 {{catch/entryusum|000|any|yes|yes|brown grass|48-51|all=11%|allies=&lt;small>{{color2|000|rain}} or {{color2|000|sandstorm (weather condition)|sandstorm}}:&lt;/small>&lt;br>{{ms|351}} {{pcolor|castform|000}}|type1=???}}
 
-~Mt. Coronet! 1===
+~Mt. Coronet!kã©mon==
+===1f 1===
 {{catch/header|mountain}}
 {{catch/entry4|035|clefairy|no|no|yes|cave|17|10%|0%|10%|type1=normal}}
 {{catch/entry4|041|zubat|yes|yes|no|cave|15|10%|0%|0%|type1=poison|type2=flying}}
@@ -17293,7 +17257,8 @@ while riley is partnered with the player, the pokã©mon located here (excluding
 {{catch/entryhs|060|poliwag|yes|yes|fish super|40|all=60%|type1=water}}
 {{catch/entryhs|129|magikarp|yes|yes|fish super|40|all=40%|type1=water}}
 
-~Mt. Mortar!nce)====
+~Mt. Mortar!
+====1f (entrance)====
 {{catch/header|mountain}}
 {{catch/entry2|019|rattata|yes|yes|no|cave|14-16|all=14%|type1=normal}}
 {{catch/entry2|019|rattata|no|no|yes|cave|14|all=30%|type1=normal}}
@@ -17485,7 +17450,8 @@ while riley is partnered with the player, the pokã©mon located here (excluding
 {{catch/div|mountain|gift pokã©mon}}
 {{catch/entryhs|236|tyrogue|yes|yes|gift|10|all={{tt|one|gift from kiyo after defeating him}}|type1=fighting}}
 
-~Mt. Pyre!====
+~Mt. Pyre!=
+====interior====
 {{catch/header|mountain|no}}
 {{catch/div|mountain|1f-3f}}
 {{catch/entry3|353|shuppet|no|yes|yes|1f-3f|22-29|100%|type1=ghost}}
@@ -17889,7 +17855,7 @@ while riley is partnered with the player, the pokã©mon located here (excluding
 {{catch/entryoras|481|mesprit|yes|yes|special|50|{{tt|one|at 4:00 am - 7:59 pm}}|type1=psychic}}
 {{catch/entryoras|482|azelf|yes|yes|special|50|{{tt|one|at 9:00 pm - 3:59 am}}|type1=psychic}}
 
-~National Park!ii===
+~National Park!===generation ii===
 {{catch/header|land|yes}}
 {{catch/entry2|010|caterpie|yes|no|no|grass|10-12|50%|0%|0%|type1=bug}}
 {{catch/entry2|010|caterpie|yes|no|no|grass|10|0%|30%|0%|type1=bug}}
@@ -18054,7 +18020,8 @@ while riley is partnered with the player, the pokã©mon located here (excluding
 {{catch/entry3a|249|lugia|yes|yes|yes|mystic|70|one|type1=psychic|type2=flying}}
 {{catch/entry3a|250|ho-oh|yes|yes|yes|mystic|70|one|type1=fire|type2=flying}}
 
-~New Bark Town!tion ii===
+~New Bark Town!on==
+===generation ii===
 {{catch/header|road|4}}
 {{catch/div|water|surfing}}
 {{catch/entry2|072|tentacool|yes|yes|yes|surf|20-24|all=60%|type1=water|type2=poison}}
@@ -18107,7 +18074,8 @@ while riley is partnered with the player, the pokã©mon located here (excluding
 {{catch/entryhs|155|cyndaquil|yes|yes|starter|5|all=one|type1=fire}}
 {{catch/entryhs|158|totodile|yes|yes|starter|5|all=one|type1=water}}
 
-~New Mauville!=
+~New Mauville!
+===generation iii===
 {{catch/header|building|no}}
 {{catch/div|building|entrance}}
 {{catch/entry3|081|magnemite|yes|yes|yes|entrance|22-26|50%|type1=electric|type2=steel}}
@@ -18132,12 +18100,14 @@ while riley is partnered with the player, the pokã©mon located here (excluding
 {{catch/entryoras|100|voltorb|yes|yes|fake|25|four|type1=electric}}
 
 ~Newmoon Island!
+
+==pokã©mon==
 {{catch/header|land|4}}
 {{catch/div|land|special}}
 {{catch/entry4|491|darkrai|yes|yes|no|member|40|all=one|type1=dark}}
 {{catch/entry4|491|darkrai|no|no|yes|member|50|all=one|type1=dark}}
 
-~Nimbasa City!n.
+~Nimbasa City! all over again.
 
 {{catch/header|road|4}}
 {{catch/div|road|if the player's gender is male}}
@@ -18188,7 +18158,8 @@ while riley is partnered with the player, the pokã©mon located here (excluding
 {{catch/entry4|479|rotom|yes|yes|no|special|15|-|-|one|type1=electric|type2=ghost}}
 {{catch/entry4|479|rotom|no|no|yes|special|20|-|-|one|type1=electric|type2=ghost}}
 
-~Olivine City!tion ii===
+~Olivine City!on==
+===generation ii===
 {{catch/header|city|yes}}
 {{catch/div|water|surfing}}
 {{catch/entry2|072|tentacool|yes|yes|yes|surf|15-24|all=90%|type1=water|type2=poison}}
@@ -18265,7 +18236,9 @@ while riley is partnered with the player, the pokã©mon located here (excluding
 {{catch/entryfl|054|psyduck|yes|no|fish super|25-35|1%|type1=water}}
 {{catch/entryfl|079|slowpoke|no|yes|fish super|25-35|1%|type1=water|type2=psychic}}
 
-~Oreburgh City!on==
+~Oreburgh City!foot|road}}
+
+==pokã©mon==
 {{catch/header|city|4}}
 {{catch/div|road|gift pokã©mon}}
 {{catch/entry4|138|omanyte|yes|yes|yes|helix|20|all=fossil|type1=rock|type2=water}}
@@ -18278,7 +18251,7 @@ while riley is partnered with the player, the pokã©mon located here (excluding
 {{catch/div|road|special}}
 {{catch/entry4|063|abra|yes|yes|yes|trade|the same as the traded pokã©mon|all=one|tradenum=066|tradename=machop|type1=psychic}}
 
-~Oreburgh Gate!on==
+~Oreburgh Gate!
 {{catch/header|cave|4}}
 {{catch/div|cave|1f}}
 {{catch/entry4|041|zubat|yes|yes|no|cave|5-8|all=20%|type1=poison|type2=flying}}
@@ -18397,7 +18370,8 @@ while riley is partnered with the player, the pokã©mon located here (excluding
 {{catch/entry5-2|230|kingdra|yes|yes|rippling|45-70|all=5%|type1=water|type2=dragon}}
 {{catch/entry5-2|457|lumineon|yes|yes|rippling|35-70|all=5%|type1=water}}
 
-~Pacifidlog Town!ation iii===
+~Pacifidlog Town!mon==
+===generation iii===
 {{catch/header|ocean|no}}
 {{catch/div|ocean|surfing}}
 {{catch/entry3|072|tentacool|yes|yes|yes|surf|5-35|60%|type1=water|type2=poison}}
@@ -18432,7 +18406,8 @@ while riley is partnered with the player, the pokã©mon located here (excluding
 {{catch/div|ocean|special}}
 {{catch/entryoras|222|corsola|yes|yes|trade|tradenum=182|tradename=bellossom|50|one|type1=water|type2=rock}}
 
-~Pallet Town!tion i===
+~Pallet Town!on==
+===generation i===
 {{catch/header|road|no}}
 {{catch/div|water|fishing}}
 {{catch/entry1|129|magikarp|yes|yes|yes|fish old|5|100%|type1=water}}
@@ -18523,6 +18498,27 @@ while riley is partnered with the player, the pokã©mon located here (excluding
 {{catch/entryhs|004|charmander|yes|yes|gift|5|all={{tt|one|obtainable after defeating red}}|type1=fire}}
 {{catch/entryhs|007|squirtle|yes|yes|gift|5|all={{tt|one|obtainable after defeating red}}|type1=water}}
 
+~Paniola Ranch!p|eevee}}.
+{{catch/header/7|land}}
+{{catch/entry7|128|tauros|yes|yes|brown grass|12-15|all=5%|type1=normal|allies={{ms|128}} {{pcolor|tauros|000}}&lt;br>{{ms|241}} {{pcolor|miltank|000}}}}
+{{catch/entry7|241|miltank|yes|yes|brown grass|12-15|all=5%|type1=normal|allies={{ms|241}} {{pcolor|miltank|000}}&lt;br>{{ms|128}} {{pcolor|tauros|000}}}}
+{{catch/entry7|506|lillipup|yes|yes|brown grass|12-15|all=40%|type1=normal}}
+{{catch/entry7|749|mudbray|yes|yes|brown grass|12-15|all=50%|type1=ground}}
+{{catch/div|land|gift pokã©mon}}
+{{catch/entry7|133|eevee|yes|yes|egg|1|all=one|type1=normal|alliesna=n/a}}
+{{catch/footer|land}}
+
+===pokã©mon ultra sun and ultra moon===
+the pokã©mon nursery lady will give the player an {{pkmn|egg}} containing an {{p|eevee}}.
+{{catch/header/7|land}}
+{{catch/entryusum|128|tauros|yes|yes|brown grass|12-15|all=5%|type1=normal|allies={{ms|128}} {{pcolor|tauros|000}}&lt;br>{{ms|241}} {{pcolor|miltank|000}}}}
+{{catch/entryusum|179|mareep|yes|yes|brown grass|12-15|all=30%|type1=electric}}
+{{catch/entryusum|241|miltank|yes|yes|brown grass|12-15|all=5%|type1=normal|allies={{ms|241}} {{pcolor|miltank|000}}&lt;br>{{ms|128}} {{pcolor|tauros|000}}}}
+{{catch/entryusum|506|lillipup|yes|yes|brown grass|12-15|all=20%|type1=normal}}
+{{catch/entryusum|749|mudbray|yes|yes|brown grass|12-15|all=40%|type1=ground}}
+{{catch/div|land|gift pokã©mon}}
+{{catch/entryusum|133|eevee|yes|yes|egg|1|all=one|type1=normal|alliesna=n/a}}
+
 ~Paniola Town!{{catch/header/7|land|no}}
 {{catch/div|water|fishing}}
 {{catch/entry7|129|magikarp|yes|yes|fish|10-18|all=99%|type1=water|allies={{ms|129}} {{pcolor|magikarp|000}}&lt;br>{{ms|130}} {{pcolor|gyarados|000}}}}
@@ -18541,7 +18537,7 @@ while riley is partnered with the player, the pokã©mon located here (excluding
 {{catch/entryusum|129|magikarp|yes|yes|fish|10-22|all=40%|type1=water|allies={{ms|129}} {{pcolor|magikarp|000}}&lt;br>{{ms|130}} {{pcolor|gyarados|000}}}}
 {{catch/entryusum|339|barboach|yes|yes|fish|10-22|all=60%|type1=water|type2=ground|allies={{ms|339}} {{pcolor|barboach|000}}&lt;br>{{ms|340}} {{pcolor|whiscash|000}}}}
 
-~Parfum Palace!kã©mon==
+~Parfum Palace!
 {{catch/header|building|2}}
 {{catch/div|water|fishing}}
 {{catch/entry6|129|magikarp|yes|yes|fish old|15|all=100%|type1=water}}
@@ -18578,6 +18574,8 @@ while riley is partnered with the player, the pokã©mon located here (excluding
 {{catch/entryoras|640|virizion|yes|yes|special|50|one{{dotw|mo}}{{dotw|th}}|type1=grass|type2=fighting}}
 
 ~Pattern Bush!
+
+==pokã©mon==
 {{catch/header|forest|no}}
 {{catch/entryfl|010|caterpie|yes|yes|grass|6|10%|type1=bug}}
 {{catch/entryfl|011|metapod|yes|no|grass|9|5%|type1=bug}}
@@ -18591,7 +18589,8 @@ while riley is partnered with the player, the pokã©mon located here (excluding
 {{catch/entryfl|167|spinarak|no|yes|grass|9, 14|5%|type1=bug|type2=poison}}
 {{catch/entryfl|214|heracross|yes|yes|grass|15, 20, 25, 30|20%|type1=bug|type2=fighting}}
 
-~Petalburg City!tion iii===
+~Petalburg City!on==
+===generation iii===
 {{catch/header|land|no}}
 {{catch/div|water|surfing}}
 {{catch/entry3|183|marill|yes|yes|yes|surf|5-35|100%|type1=water}}
@@ -18619,7 +18618,7 @@ while riley is partnered with the player, the pokã©mon located here (excluding
 {{catch/entryoras|341|corphish|yes|yes|fish good|25|5%|type1=water}}
 {{catch/entryoras|341|corphish|yes|yes|fish super|30, 35, 40|100%|type1=water}}
 
-~Petalburg Woods!===
+~Petalburg Woods!generation iii====
 {{catch/header|forest|no}}
 {{catch/entry3|261|poochyena|no|no|yes|grass|5-6|30%|type1=dark}}
 {{catch/entry3|263|zigzagoon|yes|yes|no|grass|5-6|30%|type1=normal}}
@@ -18649,7 +18648,8 @@ while riley is partnered with the player, the pokã©mon located here (excluding
 {{catch/entryoras|546|cottonee|yes|yes|grass|6|??%|type1=grass|type2=fairy}}
 {{catch/entryoras|708|phantump|yes|yes|grass|6|??%|type1=ghost|type2=grass}}
 
-~Pewter City!tion ii===
+~Pewter City!on==
+===generation ii===
 {{catch/header|road|4}}
 {{catch/div|road|special}}
 {{catch/entry2|078|rapidash|yes|yes|no|trade|tradenum=044|tradename=gloom|the same as the traded pokã©mon|all=one|type1=fire}}
@@ -18836,7 +18836,7 @@ cheren will partner with the player for the first time the player traverses the 
 {{catch/entry5-2|286|breloom|yes|yes|grotto|55-60|all={{tt|3.75%|has its hidden ability}}|type1=grass|type2=fighting}}
 {{catch/entry5-2|591|amoonguss|yes|yes|grotto|55-60|all={{tt|11.25%|has its hidden ability}}|type1=grass|type2=poison}}
 
-~Pok~mon Communication Center! below.
+~Pok~mon Communication Center!pokã©mon shown below.
 
 {{catch/header|building|yes}}
 {{catch/entry2|172|pichu|no|no|yes|egg|5|all=one|type1=electric}}
@@ -18866,7 +18866,8 @@ cheren will partner with the player for the first time the player traverses the 
 {{catch/entry4|224|octillery|no|no|yes|fish super|30-55|all=35%|type1=water}}
 {{catch/entry4|370|luvdisc|yes|yes|yes|fish super|20-30|all=5%|type1=water}}
 
-~Pok~mon Mansion (Kanto)!ation i===
+~Pok~mon Mansion (Kanto)!mon==
+===generation i===
 {{catch/header|ruins|no}}
 {{catch/div|ruins|1f}}
 {{catch/entry1|019|rattata|no|no|yes|1f|34, 37|35%|type1=normal}}
@@ -19386,7 +19387,7 @@ in [[pokã©mon ultra sun and ultra moon|pokã©mon ultra moon]], two {{p|stakat
 {{catch/div|land|exclusively from {{color2|000|qr scanner#island scan|island scan}}}}
 {{catch/entryusum|658|greninja|yes|yes|grass|44|all={{tt|one|knows bestow}}{{dotw|fr}}|type1=water|type2=dark|alliesna=n/a}}
 
-~Ravaged Path!on==
+~Ravaged Path!
 {{catch/header|cave|4}}
 {{catch/entry4|041|zubat|yes|yes|no|cave|3-6|all=78%|type1=poison|type2=flying}}
 {{catch/entry4|041|zubat|no|no|yes|cave|3-6|all=65%|type1=poison|type2=flying}}
@@ -19425,7 +19426,7 @@ in [[pokã©mon ultra sun and ultra moon|pokã©mon ultra moon]], two {{p|stakat
 {{catch/entry6|527|woobat|yes|yes|ceiling|21-23|all=~80%|type1=psychic|type2=flying}}
 {{catch/entry6|597|ferroseed|yes|yes|ceiling|21-23|all=~20%|type1=grass|type2=steel}}
 
-~Relic Castle!white===
+~Relic Castle!kã©mon black and white===
 {{catch/header|ruins|4}}
 {{catch/div|ruins|1f-b1f}}
 {{catch/entry5|551|sandile|yes|yes|no|1f-b1f|19-22|all=50%|type1=ground|type2=dark}}
@@ -19505,7 +19506,8 @@ in [[pokã©mon ultra sun and ultra moon|pokã©mon ultra moon]], two {{p|stakat
 {{catch/entry5-2|550b|basculin|yes|no|rippling|40-60|all=30%|type1=water}}
 {{catch/entry5-2|550|basculin|no|yes|rippling|40-60|all=30%|type1=water}}
 
-~Resolution Cave!ior====
+~Resolution Cave!n===
+====exterior====
 {{catch/header/7|cave}}
 {{catch/entry7|042|golbat|yes|yes|cave|54-57|all=70%|type1=poison|type2=flying|allies={{ms|042}} {{pcolor|golbat|000}}&lt;br>{{ms|169}} {{pcolor|crobat|000}}}}
 {{catch/entry7|051a|dugtrio|yes|yes|cave|54-57|all=30%|type1=ground|type2=steel}}
@@ -19577,7 +19579,8 @@ a {{p|guzzlord}} can appear here during the fifth [[ultra beast]] mission, initi
 {{catch/entryfl|054|psyduck|yes|no|fish super|25-35|1%|type1=water}}
 {{catch/entryfl|079|slowpoke|no|yes|fish super|25-35|1%|type1=water|type2=psychic}}
 
-~Reversal Mountain!side===
+~Reversal Mountain!ã©mon==
+===outside===
 {{catch/header|volcano|2}}
 {{catch/entry5-2|227|skarmory|yes|yes|grass|34|all=5%|type1=steel|type2=flying}}
 {{catch/entry5-2|322|numel|no|yes|grass|31|all=20%|type1=fire|type2=ground}}
@@ -19813,11 +19816,6 @@ as the bird will automatically flee upon encounter, it cannot be caught until af
 {{catch/entryhs|433|chingling|yes|yes|sinnoh|16|all=20%|type1=psychic}}
 {{catch/entryhs|436|bronzor|yes|yes|sinnoh|12|all=20%|type1=steel|type2=psychic}}
 
-~Royal Avenue!named babo.
-{{catch/header/7|building}}
-{{catch/div|building|special pokã©mon}}
-{{catch/entryusum|339|barboach|yes|yes|trade|21|all=one|tradenum=072|tradename=tentacool|type1=water|type2=ground|alliesna=n/a}}
-
 ~Ruin Valley!mon==
 {{catch/header|ruins|no}}
 {{catch/entryfl|021|spearow|yes|yes|grass|44|20%|type1=normal|type2=flying}}
@@ -19960,7 +19958,8 @@ as the bird will automatically flee upon encounter, it cannot be caught until af
 {{catch/div|ruins|special}}
 {{catch/entryusum|786|tapu lele|yes|yes|special|60|all=one|type1=psychic|type2=fairy|alliesna=n/a}}
 
-~Rustboro City!tion iii===
+~Rustboro City!on==
+===generation iii===
 {{catch/header|road|no}}
 {{catch/div|road|gift pokã©mon}}
 {{catch/entry3|345|lileep|yes|yes|yes|root|20|one|type1=rock|type2=grass}}
@@ -19987,7 +19986,8 @@ as the bird will automatically flee upon encounter, it cannot be caught until af
 {{catch/div|road|special}}
 {{catch/entryoras|296|makuhita|yes|yes|trade|9|one|tradenum=287|tradename=slakoth|type1=fighting}}
 
-~Rusturf Tunnel!tion iii===
+~Rusturf Tunnel!on==
+===generation iii===
 {{catch/header|cave|no}}
 {{catch/entry3|293|whismur|yes|yes|yes|cave|5-8|100%|type1=normal}}
 {{catch/footer|cave}}
@@ -20008,7 +20008,8 @@ as the bird will automatically flee upon encounter, it cannot be caught until af
 {{catch/entryhs|167|spinarak|yes|no|headbutt|15-18|all=30%|type1=bug|type2=poison|10=j}}
 {{catch/entryhs|204|pineco|yes|yes|headbutt|15-16|all=30%|type1=bug|10=j}}
 
-~Saffron City!tion i===
+~Saffron City!on==
+===generation i===
 {{catch/header|road|no}}
 {{catch/div|road|gift pokã©mon}}
 {{catch/entry1|106|hitmonlee|yes|yes|yes|gift|30|{{tt|one|only one of the two can be picked}}|type1=fighting}}
@@ -20027,13 +20028,18 @@ as the bird will automatically flee upon encounter, it cannot be caught until af
 {{catch/div|road|gift pokã©mon}}
 {{catch/entryhs|025|pikachu|yes|yes|trade|tradenum=025|tradename=pikachu|the same as the traded pokã©mon|all={{tt|one|pikachu is of a different language origin}}|type1=electric}}
 
-~Sandy Cave!on==
+~Sandy Cave!
 {{catch/header/dn|cave}}
 {{catch/entryusum|041|zubat|yes|yes|cave|6-9|all=70%|type1=poison|type2=flying}}
 {{catch/entryusum|054|psyduck|yes|yes|cave|6-9|all=30%|type1=water}}
 {{catch/div|cave|surfing}}
 {{catch/entryusum|041|zubat|yes|yes|surf|6-9|all=70%|type1=poison|type2=flying}}
 {{catch/entryusum|054|psyduck|yes|yes|surf|6-9|all=30%|type1=water}}
+
+~Santalune City! a perfect speed {{iv}}.
+{{catch/header|city|no}}
+{{catch/div|city|special pokã©mon}}
+{{catch/entry6|083|farfetch'd|yes|yes|trade|10|all=one|tradenum=659|tradename=bunnelby|type1=normal|type2=flying}}
 
 ~Santalune Forest!©mon==
 {{catch/header|forest|2}}
@@ -20097,7 +20103,8 @@ as the bird will automatically flee upon encounter, it cannot be caught until af
 {{catch/div|cave|special}}
 {{catch/entryoras|485|heatran|yes|yes|special|50|one|type1=fire|type2=steel}}
 
-~Sea Mauville!de===
+~Sea Mauville!mon==
+===outside===
 {{catch/header|ocean|no}}
 {{catch/div|ocean|surfing}}
 {{catch/entryoras|072|tentacool|yes|yes|surf|15, 20|65%|type1=water|type2=poison}}
@@ -20129,7 +20136,7 @@ as the bird will automatically flee upon encounter, it cannot be caught until af
 {{catch/entryoras|442|spiritomb|yes|yes|special|50|{{tt|one|hidden in the first room on the southern (left-hand) side of the northern (right-hand) dry corridor}}|type1=ghost|type2=dark}}
 {{catch/entryoras|249|lugia|no|yes|special|50|{{tt|one|requires tidal bell}}|type1=psychic|type2=flying}}
 
-~Sea Spirit's Den!le.
+~Sea Spirit's Den!es}} will be available.
 
 {{catch/header|cave|2}}
 {{catch/div|cave|special}}
@@ -20137,24 +20144,7 @@ as the bird will automatically flee upon encounter, it cannot be caught until af
 {{catch/entry6|145|zapdos|yes|yes|special|70|all={{tt|one|if the player chose fennekin}}|type1=electric|type2=flying}}
 {{catch/entry6|146|moltres|yes|yes|special|70|all={{tt|one|if the player chose froakie}}|type1=fire|type2=flying}}
 
-~Seafloor Cavern!{{catch/header|underwater|no}}
-{{catch/entry3|041|zubat|yes|yes|yes|cave|28-35|90%|type1=poison|type2=flying}}
-{{catch/entry3|042|golbat|yes|yes|yes|cave|33-36|10%|type1=poison|type2=flying}}
-{{catch/div|underwater|surfing}}
-{{catch/entry3|041|zubat|yes|yes|yes|surf|5-35|35%|type1=poison|type2=flying}}
-{{catch/entry3|042|golbat|yes|yes|yes|surf|30-35|5%|type1=poison|type2=flying}}
-{{catch/entry3|072|tentacool|yes|yes|yes|surf|5-35|60%|type1=water|type2=poison}}
-{{catch/div|underwater|fishing}}
-{{catch/entry3|072|tentacool|yes|yes|yes|fish old|5-10|30%|type1=water|type2=poison}}
-{{catch/entry3|129|magikarp|yes|yes|yes|fish old|5-10|70%|type1=water}}
-{{catch/entry3|072|tentacool|yes|yes|yes|fish good|10-30|20%|type1=water|type2=poison}}
-{{catch/entry3|129|magikarp|yes|yes|yes|fish good|10-30|60%|type1=water}}
-{{catch/entry3|320|wailmer|yes|yes|yes|fish good|10-30|20%|type1=water}}
-{{catch/entry3|320|wailmer|yes|yes|yes|fish super|20-45|100%|type1=water}}
-{{catch/footer|underwater|3}}
-
-===generation vi===
-====entrance====
+~Seafloor Cavern!trance====
 {{catch/header|underwater|no}}
 {{catch/div|underwater|surfing}}
 {{catch/entryoras|042|golbat|yes|yes|surf|25, 30, 35|55%|type1=poison|type2=flying}}
@@ -20523,39 +20513,8 @@ as the bird will automatically flee upon encounter, it cannot be caught until af
 {{catch/entryhs|433|chingling|yes|yes|sinnoh|38|all=20%|type1=psychic}}
 {{catch/entryhs|436|bronzor|yes|yes|sinnoh|34|all=20%|type1=steel|type2=psychic}}
 
-~Seafolk Village!amed stena.
-{{catch/header/7|ocean}}
-{{catch/div|ocean|fishing}}
-{{catch/entry7|129|magikarp|yes|yes|fish|10-43|all=79%|type1=water|allies={{ms|129}} {{pcolor|magikarp|000}}&lt;br>{{ms|130}} {{pcolor|gyarados|000}}}}
-{{catch/entry7|320|wailmer|yes|yes|fish|10-43|all=20%|type1=water|allies={{ms|320}} {{pcolor|wailmer|000}}&lt;br>{{ms|321}} {{pcolor|wailord|000}}}}
-{{catch/entry7|781|dhelmise|yes|yes|fish|10-43|all=1%|type1=ghost|type2=grass}}
-{{catch/div|ocean|fishing at the bubbling spot}}
-{{catch/entry7|129|magikarp|yes|yes|fish|10-43|all=50%|type1=water|allies={{ms|129}} {{pcolor|magikarp|000}}&lt;br>{{ms|130}} {{pcolor|gyarados|000}}}}
-{{catch/entry7|320|wailmer|yes|yes|fish|10-43|all=40%|type1=water|allies={{ms|320}} {{pcolor|wailmer|000}}&lt;br>{{ms|321}} {{pcolor|wailord|000}}}}
-{{catch/entry7|781|dhelmise|yes|yes|fish|10-43|all=10%|type1=ghost|type2=grass}}
-{{catch/div|ocean|gift pokã©mon}}
-{{catch/entry7|142|aerodactyl|yes|yes|gift|40|all=one|type1=rock|type2=flying|alliesna=n/a}}
-{{catch/div|ocean|special}}
-{{catch/entry7|762|steenee|yes|yes|trade|43|all=one|tradenum=210|tradename=granbull|type1=grass|alliesna=n/a}}
-{{catch/footer|ocean}}
-
-===pokã©mon ultra sun and ultra moon===
-an {{tc|ace trainer}} on the {{p|huntail}} ship in the southwest will give the player an {{p|aerodactyl}}, while a female {{tc|veteran}} northeast part next to pokã©mon center in the village will offer to trade the player a west sea {{p|shellos}} named solle.
-{{catch/header/7|ocean}}
-{{catch/div|ocean|fishing}}
-{{catch/entryusum|129|magikarp|yes|yes|fish|10-44|all=55%|type1=water|allies={{ms|129}} {{pcolor|magikarp|000}}&lt;br>{{ms|130}} {{pcolor|gyarados|000}}}}
-{{catch/entryusum|320|wailmer|yes|yes|fish|10-44|all=40%|type1=water|allies={{ms|320}} {{pcolor|wailmer|000}}&lt;br>{{ms|321}} {{pcolor|wailord|000}}}}
-{{catch/entryusum|781|dhelmise|yes|yes|fish|10-44|all=5%|type1=ghost|type2=grass}}
-{{catch/div|ocean|fishing at the bubbling spot}}
-{{catch/entryusum|129|magikarp|yes|yes|fish|10-49|all=40%|type1=water|allies={{ms|129}} {{pcolor|magikarp|000}}&lt;br>{{ms|130}} {{pcolor|gyarados|000}}}}
-{{catch/entryusum|320|wailmer|yes|yes|fish|10-49|all=25%|type1=water|allies={{ms|320}} {{pcolor|wailmer|000}}&lt;br>{{ms|321}} {{pcolor|wailord|000}}}}
-{{catch/entryusum|781|dhelmise|yes|yes|fish|10-49|all=35%|type1=ghost|type2=grass}}
-{{catch/div|ocean|gift pokã©mon}}
-{{catch/entryusum|142|aerodactyl|yes|yes|gift|40|all=one|type1=rock|type2=flying|alliesna=n/a}}
-{{catch/div|ocean|special}}
-{{catch/entryusum|422|shellos|yes|yes|trade|44|all=one|tradenum=210|tradename=granbull|type1=water|alliesna=n/a}}
-
-~Sealed Chamber!ation vi===
+~Sealed Chamber!mon==
+===generation vi===
 {{catch/header|underwater|no}}
 {{catch/div|underwater|surfing}}
 {{catch/entryoras|041|zubat|yes|yes|surf|20|30%|type1=poison|type2=flying}}
@@ -20644,7 +20603,9 @@ an {{tc|ace trainer}} on the {{p|huntail}} ship in the southwest will give the p
 {{catch/div|cave|exclusively from {{color2|000|qr scanner#island scan|island scan}}}}
 {{catch/entryusum|007|squirtle|yes|yes|cave|12|all={{tt|one|knows aqua jet}}{{dotw|mo}}|type1=water|alliesna=n/a}}
 
-~Sendoff Spring!=pokã©mon==
+~Sendoff Spring!eous orb]].
+
+==pokã©mon==
 {{catch/header|lake}}
 {{catch/entry4|042|golbat|no|no|yes|grass|38|0%|0%|10%|type1=poison|type2=flying}}
 {{catch/entry4|055|golduck|yes|yes|no|grass|53-54|all=20%|type1=water}}
@@ -20704,7 +20665,7 @@ an {{tc|ace trainer}} on the {{p|huntail}} ship in the southwest will give the p
 {{catch/entry6|224|octillery|yes|yes|fish super|35|all=35%|type1=water}}
 {{catch/entry6|594|alomomola|yes|yes|fish super|35|all=60%|type1=water}}
 
-~Shoal Cave!=
+~Shoal Cave!==main cave====
 {{catch/header|{{#switch: {{#time: g}}|9|10|11|12|1|2=water|cave}}|no}}
 {{catch/entry3|041|zubat|yes|yes|yes|cave|26, 28, 30, 32|45%|type1=poison|type2=flying}}
 {{catch/entry3|042|golbat|yes|yes|yes|cave|32|5%|type1=poison|type2=flying}}
@@ -20811,7 +20772,7 @@ an {{tc|ace trainer}} on the {{p|huntail}} ship in the southwest will give the p
 {{catch/entryhs|484|palkia|yes|yes|special|1|all=one|type1=water|type2=dragon}}
 {{catch/entryhs|487o|giratina|yes|yes|special|1|all=one|type1=ghost|type2=dragon}}
 
-~Sky Pillar!ation iii===
+~Sky Pillar!neration iii===
 {{catch/header|ruins|no}}
 {{catch/div|ruins|1f}}
 {{catch/entry3|042|golbat|yes|yes|no|1f|48, 50|30%|type1=poison|type2=flying}}
@@ -20905,7 +20866,7 @@ an {{tc|ace trainer}} on the {{p|huntail}} ship in the southwest will give the p
 {{catch/entryoras|025ro|form=pikachu rock star|pikachu|yes|yes|gift|20|{{tt|one|after competing in a contest spectacular for the first time, if the player character is male. can be received at any contest hall.}}|type1=electric}}
 {{catch/entryoras|025po|form=pikachu pop star|pikachu|yes|yes|gift|20|{{tt|one|after competing in a contest spectacular for the first time, if the player character is female. can be received at any contest hall.}}|type1=electric}}
 
-~Slowpoke Well!=b1f====
+~Slowpoke Well!===
 {{catch/header|cave|4}}
 {{catch/entry2|041|zubat|yes|yes|yes|cave|5-8|all=85%|type1=poison|type2=flying}}
 {{catch/entry2|079|slowpoke|yes|yes|yes|cave|6-8|all=15%|type1=water|type2=psychic}}
@@ -20983,7 +20944,7 @@ an {{tc|ace trainer}} on the {{p|huntail}} ship in the southwest will give the p
 {{catch/entryhs|433|chingling|yes|yes|sinnoh|19|all=20%|type1=psychic}}
 {{catch/entryhs|436|bronzor|yes|yes|sinnoh|21-23|all=20%|type1=steel|type2=psychic}}
 
-~Snowbelle City!
+~Snowbelle City!l values|iv]].
 {{catch/header|city|no}}
 {{catch/div|city|special pokã©mon}}
 {{catch/entry6|625|bisharp|yes|yes|trade|50|all=one|tradenum=039|tradename=jigglypuff|type1=dark|type2=steel}}
@@ -20993,7 +20954,7 @@ an {{tc|ace trainer}} on the {{p|huntail}} ship in the southwest will give the p
 {{catch/div|snow|special}}
 {{catch/entry4|093|haunter|yes|yes|yes|trade|the same as the traded pokã©mon|tradenum=308|tradename=medicham|all=one|type1=ghost|type2=poison}}
 
-~Snowpoint Temple!on==
+~Snowpoint Temple!=
 {{catch/header|snow|4}}
 {{catch/div|snow|1f}}
 {{catch/entry4|042|golbat|yes|yes|no|cave|50-52|all=35%|type1=poison|type2=flying}}
@@ -21043,8 +21004,7 @@ an {{tc|ace trainer}} on the {{p|huntail}} ship in the southwest will give the p
 {{catch/entryoras|642|thundurus|no|yes|special|50|{{tt|one|if castform is in the player's party}}|type1=electric|type2=flying}}
 {{catch/entryoras|645|landorus|yes|yes|special|50|{{tt|one|if both tornadus and thundurus are in the player's party}}|type1=ground|type2=flying}}
 
-~Solaceon Ruins!mon==
-{{catch/header|ruins|4}}
+~Solaceon Ruins!{{catch/header|ruins|4}}
 {{catch/div|ruins|second big room}}
 {{catch/entry4|201f|unown|yes|yes|yes|cave|14-30|all=100%|type1=psychic}}
 {{catch/div|ruins|third big room}}
@@ -21082,7 +21042,7 @@ an {{tc|ace trainer}} on the {{p|huntail}} ship in the southwest will give the p
 {{catch/entry4|201qu|unown|yes|yes|yes|cave|14-30|all=50%|type1=psychic}}
 {{catch/entry4|201ex|unown|yes|yes|yes|cave|14-30|all=50%|type1=psychic}}
 
-~Sootopolis City!up/3|e}}.
+~Sootopolis City!}{{sup/3|e}}.
 {{catch/header|water|no}}
 {{catch/div|water|surfing}}
 {{catch/entry3|129|magikarp|yes|yes|yes|surf|5-35|100%|type1=water}}
@@ -21129,7 +21089,7 @@ an {{tc|ace trainer}} on the {{p|huntail}} ship in the southwest will give the p
 {{catch/entry4|483|dialga|no|no|yes|special|70|all={{tt|one|player must have the adamant orb and have spoken to cynthia's grandmother since entering the hall of fame}}|type1=steel|type2=dragon}}
 {{catch/entry4|484|palkia|no|no|yes|special|70|all={{tt|one|player must have the lustrous orb and have spoken to cynthia's grandmother since entering the hall of fame}}|type1=water|type2=dragon}}
 
-~Sprout Tower!
+~Sprout Tower!==generation ii===
 {{catch/header|building|yes}}
 {{catch/div|building|1f-3f}}
 {{catch/entry2|019|rattata|yes|yes|yes|1f-3f|3-6|100%|100%|0%}}
@@ -21149,7 +21109,8 @@ an {{tc|ace trainer}} on the {{p|huntail}} ship in the southwest will give the p
 {{catch/entryhs|327|spinda|yes|yes|hoenn|5|all=20%}}
 {{catch/entryhs|441|chatot|yes|yes|sinnoh|3-4|all=20%|type2=flying}}
 
-~Stark Mountain!erior===
+~Stark Mountain!ã©mon==
+===exterior===
 {{catch/header|volcano}}
 {{catch/entry4|022|fearow|yes|yes|no|grass|54-55|20%|20%|0%|type1=normal|type2=flying}}
 {{catch/entry4|022|fearow|yes|yes|no|grass|55|0%|0%|10%|type1=normal|type2=flying}}
@@ -21280,7 +21241,7 @@ these pokã©mon (excluding swarm, pokã© radar, and dual-slot pokã©mon) will
 {{catch/entry5-2|550b|basculin|yes|no|rippling|40-60|all=30%|type1=water}}
 {{catch/entry5-2|550|basculin|no|yes|rippling|40-60|all=30%|type1=water}}
 
-~Sunyshore City!on==
+~Sunyshore City!n==
 {{catch/header|city|4}}
 {{catch/div|water|surfing}}
 {{catch/entry4|073|tentacruel|yes|yes|no|surf|35-45|all=60%|type1=water|type2=poison}}
@@ -21398,7 +21359,7 @@ these pokã©mon (excluding swarm, pokã© radar, and dual-slot pokã©mon) will
 {{catch/div|ruins|exclusively from {{color2|000|qr scanner#island scan|island scan}}}}
 {{catch/entryusum|220|swinub|yes|yes|grass|33|all={{tt|one|knows icicle spear}}{{dotw|mo}}|type1=ice|type2=ground|alliesna=n/a}}
 
-~Team Aqua Hideout!iii===
+~Team Aqua Hideout!===generation iii===
 {{catch/header|water|no}}
 {{catch/div|water|special}}
 {{catch/entry3|101|electrode|no|yes|yes|fake|30|two|type1=electric}}
@@ -21425,7 +21386,7 @@ these pokã©mon (excluding swarm, pokã© radar, and dual-slot pokã©mon) will
 {{catch/entry6|716|xerneas|yes|no|special|50|all={{tt|one|will respawn immediately if defeated or fled from}}|type1=fairy}}
 {{catch/entry6|717|yveltal|no|yes|special|50|all={{tt|one|will respawn immediately if defeated or fled from}}|type1=dark|type2=flying}}
 
-~Team Magma Hideout!iii===
+~Team Magma Hideout!===generation iii===
 {{catch/header|volcano|no}}
 {{catch/entry3|074|geodude|no|no|yes|cave|27-30|55%|type1=rock|type2=ground}}
 {{catch/entry3|075|graveler|no|no|yes|cave|30-33|15%|type1=rock|type2=ground}}
@@ -21449,7 +21410,7 @@ these pokã©mon (excluding swarm, pokã© radar, and dual-slot pokã©mon) will
 {{catch/div|volcano|special}}
 {{catch/entryoras|101|electrode|yes|no|fake|40|two|type1=electric}}
 
-~Team Rocket HQ!ration]].
+~Team Rocket HQ!in this [[generation]].
 
 {{catch/header|building|4}}
 {{catch/entry2|074|geodude|yes|yes|yes|trap floor|21|all=seven|type1=rock|type2=ground}}
@@ -21512,7 +21473,7 @@ these pokã©mon (excluding swarm, pokã© radar, and dual-slot pokã©mon) will
 {{catch/entryhs|101|electrode|yes|yes|transmitter room|23|all=three|type1=electric}}
 {{catch/entryhs|109|koffing|yes|yes|trap floor|21|all=five|type1=poison}}
 
-~Team Rocket's Castle!kã©mon==
+~Team Rocket's Castle!==
 {{catch/header/7|building}}
 {{catch/div|building|special}}
 {{catch/entryusum|101|electrode|yes|yes|fake|60|type1=electric|all=three|alliesna=n/a}}
@@ -21616,7 +21577,7 @@ these pokã©mon (excluding swarm, pokã© radar, and dual-slot pokã©mon) will
 {{catch/header|sand|no}}
 {{catch/entryfl|206|dunsparce|yes|yes|grass|5, 10, 15, 20, 25, 30, 35|100%|type1=normal}}
 
-~Thrifty Megamart (Abandoned Site)!on===
+~Thrifty Megamart (Abandoned Site)!n===
 {{catch/header/7|ruins}}
 {{catch/entry7|042|golbat|yes|yes|walking|29-32|all=40%|type1=poison|type2=flying}}
 {{catch/entry7|093|haunter|yes|yes|walking|29-32|all=40%|type1=ghost|type2=poison|allies={{ms|093}} {{pcolor|haunter|000}}&lt;br>{{ms|094}} {{pcolor|gengar|000}}}}
@@ -21678,12 +21639,14 @@ these pokã©mon (excluding swarm, pokã© radar, and dual-slot pokã©mon) will
 {{catch/entryhs|433|chingling|yes|yes|sinnoh|22|all=20%|type1=psychic}}
 {{catch/entryhs|436|bronzor|yes|yes|sinnoh|22|all=20%|type1=steel|type2=psychic}}
 
-~Tower of Mastery!kã©mon==
+~Tower of Mastery!ã©mon==
 {{catch/header|building|2}}
 {{catch/div|building|gift pokã©mon}}
 {{catch/entry6|448|lucario|yes|yes|gift|32|all=one|type1=fighting|type2=steel}}
 
-~Trackless Forest!ã©mon==
+~Trackless Forest!|}
+
+==pokã©mon==
 {{catch/header|forest|6}}
 {{catch/div|forest|special}}
 {{catch/entryoras|243|raikou|yes|yes|special|50|one|type1=electric}}
@@ -21790,7 +21753,7 @@ these pokã©mon (excluding swarm, pokã© radar, and dual-slot pokã©mon) will
 {{catch/entry4|439|mime jr.|yes|yes|yes|backlot|16, 18|all=5%|type1=psychic}}
 {{catch/entry4|440|happiny|yes|yes|yes|backlot|16, 18, 22|all=5%|type1=normal}}
 
-~Turnback Cave!r===
+~Turnback Cave!tering a pillar===
 {{catch/header|cave}}
 {{catch/entry4|042|golbat|yes|yes|no|cave|45-46|all=30%|type1=poison|type2=flying}}
 {{catch/entry4|042|golbat|no|no|yes|cave|17-18|all=25%|type1=poison|type2=flying}}
@@ -21953,7 +21916,7 @@ these pokã©mon (excluding swarm, pokã© radar, and dual-slot pokã©mon) will
 {{catch/entry4|119|seaking|yes|yes|no|fish super|20-50|all=35%|type1=water}}
 {{catch/entry4|119|seaking|no|no|yes|fish super|30-55|all=35%|type1=water}}
 
-~Twist Mountain!and white===
+~Twist Mountain!white===
 {{catch/header|mountain|seasons=yes}}
 {{catch/div|mountain|b1f-3f}}
 {{catch/entry5|525|boldore|yes|yes|n/a|cave|28-31|49%|45%|49%|-|type1=rock}}
@@ -22060,17 +22023,21 @@ these pokã©mon (excluding swarm, pokã© radar, and dual-slot pokã©mon) will
 {{catch/entryusum|388|grotle|yes|yes|long grass|36|all={{tt|one|knows heavy slam}}{{dotw|we}}|type1=grass|alliesna=n/a}}
 {{catch/entryusum|388|grotle|yes|yes|red flowers|36|all={{tt|one|knows heavy slam}}{{dotw|we}}|type1=grass|alliesna=n/a}}
 
-~Ultra Crater!mon==
+~Ultra Crater!sers.
+
+==pokã©mon==
 {{catch/header/7|space}}
 {{catch/div|space|special}}
 {{catch/entryusum|797|celesteela|no|yes|special|60|all=once per visit|type1=steel|type2=flying|alliesna=n/a}}
 
-~Ultra Deep Sea!oon===
+~Ultra Deep Sea!un and ultra moon===
 {{catch/header/7|space}}
 {{catch/div|space|special}}
 {{catch/entryusum|793|nihilego|yes|yes|special|60|all=once per visit|type1=rock|type2=poison|alliesna=n/a}}
 
-~Ultra Desert!==pokã©mon==
+~Ultra Desert!cky terrain.
+
+==pokã©mon==
 {{catch/header/7|space}}
 {{catch/div|space|special}}
 {{catch/entryusum|795|pheromosa|no|yes|special|60|all=once per visit|type1=bug|type2=fighting|alliesna=n/a}}
@@ -22085,7 +22052,9 @@ these pokã©mon (excluding swarm, pokã© radar, and dual-slot pokã©mon) will
 {{catch/div|space|special}}
 {{catch/entryusum|794|buzzwole|yes|no|special|60|all=once per visit|type1=bug|type2=fighting|alliesna=n/a}}
 
-~Ultra Megalopolis!ã©mon==
+~Ultra Megalopolis!player.
+
+==pokã©mon==
 {{catch/header/dn|space}}
 {{catch/div|space|gift pokã©mon&lt;br>&lt;small>if refused at {{color2|fff|megalo tower}}&lt;/small>}}
 {{catch/entryusum|803|poipole|yes|yes|gift|40|all=one|type1=poison|alliesna=n/a}}
@@ -22333,7 +22302,8 @@ sometimes, after a pokã©mon from a dirt cloud is defeated or caught, it will d
 {{catch/entry5-2|091|cloyster|yes|yes|rippling|50-70|all=5%|type1=water|type2=ice}}
 {{catch/entry5-2|370|luvdisc|yes|yes|rippling|40-60|all=30%|type1=water}}
 
-~Underground Path (Kanto Routes 5-6)!tion i===
+~Underground Path (Kanto Routes 5-6)!on==
+===generation i===
 {{catch/header|building|no}}
 {{catch/div|building|gift pokã©mon}}
 {{catch/entry1|029|nidoranâ|yes|yes|no|trade|tradenum=032|tradename=nidoranâ|the same as the traded pokã©mon|one|type1=poison}}
@@ -22346,7 +22316,9 @@ sometimes, after a pokã©mon from a dirt cloud is defeated or caught, it will d
 {{catch/entryfl|029|nidoranâ|yes|no|trade|tradenum=032|tradename=nidoranâ|the same as the traded pokã©mon|one|type1=poison}}
 {{catch/entryfl|032|nidoranâ|no|yes|trade|tradenum=029|tradename=nidoranâ|the same as the traded pokã©mon|one|type1=poison}}
 
-~Underground Ruins!okã©mon==
+~Underground Ruins!steel."''
+
+==pokã©mon==
 {{catch/header|cave|2}}
 {{catch/entry5-2|095|onix|yes|yes|cave|57|all=5%|type1=rock|type2=ground}}
 {{catch/entry5-2|299|nosepass|yes|yes|cave|55, 57|all=15%|type1=rock}}
@@ -22363,7 +22335,7 @@ sometimes, after a pokã©mon from a dirt cloud is defeated or caught, it will d
 {{catch/entry5-2|378|regice|yes|yes|special|65|all={{tt|one|requires the iceberg key}}|type1=ice}}
 {{catch/entry5-2|379|registeel|yes|yes|special|65|all={{tt|one|requires the iron key}}|type1=steel}}
 
-~Underwater!}}====
+~Underwater!26|hoenn}}====
 {{catch/header|underwater|no}}
 {{catch/entry3|170|chinchou|yes|yes|yes|dive|20-30|30%|type1=water|type2=electric}}
 {{catch/entry3|366|clamperl|yes|yes|yes|dive|20-35|65%|type1=water}}
@@ -22560,7 +22532,7 @@ sometimes, after a pokã©mon from a dirt cloud is defeated or caught, it will d
 {{catch/div|cave|special}}
 {{catch/entry6|150|mewtwo|yes|yes|special|70|all=one|type1=psychic}}
 
-~Valley Windworks!kã©mon==
+~Valley Windworks!=
 {{catch/header|building|4}}
 {{catch/entry4|399|bidoof|yes|yes|no|grass|8|all=10%|type1=normal}}
 {{catch/entry4|403|shinx|no|no|yes|grass|10|all=20%|type1=electric}}
@@ -22624,7 +22596,8 @@ sometimes, after a pokã©mon from a dirt cloud is defeated or caught, it will d
 {{catch/entry6|653|fennekin|yes|yes|trade|5|all={{tt|one|after entering in the hall of fame, if the player started with froakie}}|tradenum=000|type1=fire}}
 {{catch/entry6|656|froakie|yes|yes|trade|5|all={{tt|one|after entering in the hall of fame, if the player started with chespin}}|tradenum=000|type1=water}}
 
-~Vast Poni Canyon!anyon====
+~Vast Poni Canyon! moon===
+====canyon====
 {{catch/header/dn|land}}
 {{catch/entry7|067|machoke|yes|yes|brown grass|41-44|all=30%|type1=fighting}}
 {{catch/entry7|198|murkrow|yes|yes|brown grass|41-44|all=10%|type1=dark|type2=flying}}
@@ -22699,19 +22672,7 @@ sometimes, after a pokã©mon from a dirt cloud is defeated or caught, it will d
 {{catch/div|city|gift pokã©mon}}
 {{catch/entry4|137|porygon|no|no|yes|gift|25|all=one}}
 
-~Verdant Cavern!stages.
-
-{{catch/header/7|cave}}
-{{catch/entry7|041|zubat|yes|yes|cave|8-11|all=70%|type1=poison|type2=flying}}
-{{catch/entry7|050a|diglett|yes|yes|cave|8-11|all=30%|type1=ground|type2=steel}}
-{{catch/div|cave|ambush encounters}}
-{{catch/entry7|019a|rattata|no|yes|dirt cloud|11|all=100%|type1=dark|type2=normal}}
-{{catch/entry7|734|yungoos|yes|no|dirt cloud|11|all=100%|type1=normal}}
-{{catch/div|cave|special pokã©mon}}
-{{catch/entry7|795|pheromosa|no|yes|cave|60|all=four|type1=bug|type2=fighting|alliesna=n/a}}
-{{catch/footer|cave}}
-
-===pokã©mon ultra sun and ultra moon===
+~Verdant Cavern!on===
 ====trial site====
 {{catch/header/7|cave}}
 {{catch/entryusum|041|zubat|yes|yes|cave|8-11|all=35%|type1=poison|type2=flying}}
@@ -22727,7 +22688,8 @@ sometimes, after a pokã©mon from a dirt cloud is defeated or caught, it will d
 {{catch/entryoras|025ro|form=pikachu rock star|pikachu|yes|yes|gift|20|{{tt|one|after competing in a contest spectacular for the first time, if the player character is male. can be received at any contest hall.}}|type1=electric}}
 {{catch/entryoras|025po|form=pikachu pop star|pikachu|yes|yes|gift|20|{{tt|one|after competing in a contest spectacular for the first time, if the player character is female. can be received at any contest hall.}}|type1=electric}}
 
-~Vermilion City!tion i===
+~Vermilion City!on==
+===generation i===
 {{catch/header|sand|no}}
 {{catch/div|sand|gift pokã©mon}}
 {{catch/entry1|007|squirtle|no|no|yes|gift|10|{{tt|one|after defeating lt. surge}}|type1=water}}
@@ -22861,7 +22823,8 @@ sometimes, after a pokã©mon from a dirt cloud is defeated or caught, it will d
 {{catch/div|water|swarm}}
 {{catch/entryhs|278|wingull|yes|yes|swarm|35|all={{tt|60%|surfing}}|type1=water|type2=flying}}
 
-~Victory Road (Black and White)!e===
+~Victory Road (Black and White)!on==
+===outside===
 {{catch/header|cave|4}}
 {{catch/entry5|611|fraxure|yes|yes|no|rough|40|all=5%|type1=dragon}}
 {{catch/entry5|619|mienfoo|yes|yes|no|rough|38, 40|all=15%|type1=fighting}}
@@ -22938,7 +22901,8 @@ sometimes, after a pokã©mon from a dirt cloud is defeated or caught, it will d
 {{catch/div|cave|special}}
 {{catch/entry5|639|terrakion|yes|yes|no|special|42|all=one|type1=rock|type2=fighting}}
 
-~Victory Road (Black 2 and White 2)!=
+~Victory Road (Black 2 and White 2)!on==
+====1f====
 {{catch/header|cave|4}}
 {{catch/entry5-2|354|banette|yes|yes|cave|47-50|all=70%|type1=ghost}}
 {{catch/entry5-2|623|golurk|yes|yes|cave|48-50|all=30%|type1=ground|type2=ghost}}
@@ -23340,7 +23304,9 @@ sometimes, after a pokã©mon from a dirt cloud is defeated or caught, it will d
 {{catch/entryhs|433|chingling|yes|yes|sinnoh|33|all=20%|type1=psychic}}
 {{catch/entryhs|436|bronzor|yes|yes|sinnoh|32|all=20%|type1=steel|type2=psychic}}
 
-~Victory Road (Sinnoh)!{{catch/header|cave|4}}
+~Victory Road (Sinnoh)!on==
+===1f===
+{{catch/header|cave|4}}
 {{catch/entry4|042|golbat|yes|yes|no|cave|44-46|all=20%|type1=poison|type2=flying}}
 {{catch/entry4|042|golbat|no|no|yes|cave|43|all=5%|type1=poison|type2=flying}}
 {{catch/entry4|067|machoke|yes|yes|no|cave|44-46|all=25%|type1=fighting}}
@@ -23514,7 +23480,8 @@ these pokã©mon (excluding swarm, pokã© radar, and dual-slot pokã©mon) will
 {{catch/entry5-2|550b|basculin|yes|no|rippling|40-60|all=30%|type1=water}}
 {{catch/entry5-2|550|basculin|no|yes|rippling|40-60|all=30%|type1=water}}
 
-~Violet City!tion ii===
+~Violet City!on==
+===generation ii===
 {{catch/header|road|4}}
 {{catch/div|water|surfing}}
 {{catch/entry2|060|poliwag|yes|yes|yes|surf|20-24|all=60%|type1=water}}
@@ -23564,7 +23531,9 @@ these pokã©mon (excluding swarm, pokã© radar, and dual-slot pokã©mon) will
 {{catch/div|road|special}}
 {{catch/entryhs|095|onix|yes|yes|trade|the same as the traded pokã©mon|all=one|tradenum=069|tradename=bellsprout|type1=rock|type2=ground}}
 
-~Virbank City!on==
+~Virbank City!town}}
+
+==pokã©mon==
 {{catch/header|town|4}}
 {{catch/div|water|surfing}}
 {{catch/entry5-2|592|frillish|yes|yes|surf|5-15|all=50%|type1=water|type2=ghost}}
@@ -23582,7 +23551,8 @@ these pokã©mon (excluding swarm, pokã© radar, and dual-slot pokã©mon) will
 {{catch/entry5-2|099|kingler|yes|yes|rippling|50-70|all=10%|type1=water}}
 {{catch/entry5-2|457|lumineon|yes|yes|rippling|40-60|all=30%|type1=water}}
 
-~Virbank Complex!ce===
+~Virbank Complex!on==
+===entrance===
 {{catch/header|road|2}}
 {{catch/entry5-2|081|magnemite|yes|yes|grass|10-11|all=15%|type1=electric|type2=steel}}
 {{catch/entry5-2|239|elekid|no|yes|grass|10-12|all=15%|type1=electric}}
@@ -23626,7 +23596,8 @@ these pokã©mon (excluding swarm, pokã© radar, and dual-slot pokã©mon) will
 {{catch/div|road|rustling grass}}
 {{catch/entry5-2|531|audino|yes|yes|rustling|10-13|all=100%|type1=normal}}
 
-~Viridian City!tion i===
+~Viridian City!
+===generation i===
 {{catch/header|road|no}}
 {{catch/div|water|fishing}}
 {{catch/entry1|129|magikarp|yes|yes|yes|fish old|5|100%|type1=water}}
@@ -23688,7 +23659,7 @@ these pokã©mon (excluding swarm, pokã© radar, and dual-slot pokã©mon) will
 {{catch/entryhs|204|pineco|yes|yes|headbutt|3-4|all=30%|type1=bug|10=k}}
 {{catch/entryhs|265|wurmple|yes|yes|headbutt|3-7|all=20%|type1=bug|10=k}}
 
-~Viridian Forest!ration i===
+~Viridian Forest!===generation i===
 {{catch/header|forest|no}}
 {{catch/entry1|010|caterpie|yes|no|no|grass|3|5%|type1=bug}}
 {{catch/entry1|010|caterpie|no|yes|no|grass|3-5|50%|type1=bug}}
@@ -23750,7 +23721,9 @@ these pokã©mon (excluding swarm, pokã© radar, and dual-slot pokã©mon) will
 {{catch/entryhs|406|budew|yes|yes|sinnoh|3|all=20%|type1=grass|type2=poison}}
 {{catch/entryhs|455|carnivine|yes|yes|sinnoh|5|all=20%|type1=grass}}
 
-~Water Labyrinth!n==
+~Water Labyrinth!ip.
+
+==pokã©mon==
 {{catch/header|ocean|no}}
 {{catch/div|ocean|surfing}}
 {{catch/entryfl|072|tentacool|yes|yes|surf|5-40|65%|type1=water|type2=poison}}
@@ -23804,7 +23777,7 @@ these pokã©mon (excluding swarm, pokã© radar, and dual-slot pokã©mon) will
 {{catch/entryfl|211|qwilfish|yes|no|fish super|15-25|40%|type1=water|type2=poison}}
 {{catch/entryfl|223|remoraid|no|yes|fish super|15-25|40%|type1=water}}
 
-~Wayward Cave!a.
+~Wayward Cave! with mira.
 {{catch/header|cave|4}}
 {{catch/div|cave|main entrance}}
 {{catch/entry4|041|zubat|yes|yes|no|cave|14-16|all=45%|type1=poison|type2=flying}}
@@ -24072,7 +24045,7 @@ these pokã©mon (excluding swarm, pokã© radar, and dual-slot pokã©mon) will
 {{catch/entryhs|433|chingling|yes|yes|sinnoh|25|all=20%|type1=psychic}}
 {{catch/entryhs|436|bronzor|yes|yes|sinnoh|23-24|all=20%|type1=steel|type2=psychic}}
 
-~White Forest!ds.
+~White Forest! similar methods.
 {{catch/header|white|seasons=yes}}
 {{catch/entry5|016|pidgey|no|yes|yes|grass|5|all=leo[[file:school kid m od.png]]|type1=normal|type2=flying}}
 {{catch/entry5|029|nidoranâ|no|yes|yes|grass|5|all=jacques[[file:scientist m od.png]]|type1=poison}}
