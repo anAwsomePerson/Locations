@@ -9,9 +9,9 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Main {
+	public static final int mode = 5;
 	public static int right = 0;
 	public static int wrong = 0;
-	public static final int mode = 5;
 	public static int[] gameErrors = new int[28];
 	public static final int[] entryusum = {1, 0};
 	public static final int[] entry7 = {3, 2};
@@ -209,7 +209,7 @@ public class Main {
                 while( (bulbaInt=bulbaStream.read()) != -1 ) {
                 	catches = catches + (char)bulbaInt;
                     
-                    if((catches.indexOf("{") < catches.length() - 28) && !catches.toLowerCase().contains("{{catch/header")){
+                    if((catches.indexOf("{") < catches.length() - 15) && !catches.toLowerCase().contains("{{catch/header")){
                     	catches = "";
                     }
                 }
