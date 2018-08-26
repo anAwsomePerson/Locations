@@ -207,14 +207,15 @@ public class Main {
                 //int pageSize = 0;
         
                 while( (bulbaInt=bulbaStream.read()) != -1 ) {
-                	catches = catches + (char)bulbaInt;
+                	catches = catches + Character.toLowerCase((char)bulbaInt);
                     
-                    if((catches.indexOf("{") < catches.length() - 15) && !catches.toLowerCase().contains("{{catch/header")){
+                    if((catches.indexOf("{{c") < catches.length() - 15) && !catches.contains("{{catch/header")){
+                    	//System.out.println(catches.indexOf("{") + " " + (catches.length() - 15) + " " + catches);
                     	catches = "";
                     }
                 }
                 
-                catches = catches.toLowerCase();
+                /*catches = catches.toLowerCase();
                 /*System.out.println(catches);
                 
                 if(catches.contains("{{catch/header")) {
