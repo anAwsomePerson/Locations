@@ -88,7 +88,7 @@ public class Main {
                     bulbaLocations = bulbaLocations + (char)bulbaInt;
                     
                     //if(bulbaLocations.length() > 63) {
-                    if((bulbaLocations.indexOf("G") < bulbaLocations.length() - 14) && !bulbaLocations.contains("Game locations")){
+                    if((bulbaLocations.lastIndexOf("G") < bulbaLocations.length() - 14) && !bulbaLocations.contains("Game locations")){
                    	    bulbaLocations = "";
                     }
                     //}
@@ -136,7 +136,7 @@ public class Main {
                     dbLocations = dbLocations + (char)dbInt;
             	
             	//if(dbLocations.length() > 63) {
-                    if((dbLocations.indexOf("W") < dbLocations.length() - 14) && !dbLocations.contains("Where to find ")){
+                    if((dbLocations.lastIndexOf("W") < dbLocations.length() - 14) && !dbLocations.contains("Where to find ")){
                         dbLocations = "";
                     }
             	//}
@@ -209,8 +209,8 @@ public class Main {
                 while( (bulbaInt=bulbaStream.read()) != -1 ) {
                 	catches = catches + Character.toLowerCase((char)bulbaInt);
                     
-                    if((catches.indexOf("{{c") < catches.length() - 15) && !catches.contains("{{catch/header")){
-                    	//System.out.println(catches.indexOf("{") + " " + (catches.length() - 15) + " " + catches);
+                    if((catches.lastIndexOf("{") < catches.length() - 15) && !catches.contains("{{catch/header")){
+                    	//System.out.println(catches.indexOf("{{c") + " " + (catches.length() - 15) + " " + catches);
                     	catches = "";
                     }
                 }

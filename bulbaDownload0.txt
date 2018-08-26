@@ -3590,7 +3590,7 @@
 {{Availability/Header|type=Rock|type2=Ground}}
 {{Availability/Gen|gen=I}}
 {{Availability/Entry2|v=Red|v2=Blue|t2=fff|area={{ka|Victory Road}}}}
-{{Availability/Entry1|v=Blue|ex=(Japan)|t=fff|link=PokÃ©mon Blue Version (Japanese)|area={{ka|Victory Road}}&lt;br/>[[In-game trade#Blue (Japan)|Trade]] {{p|Kadabra}} on [[Cinnabar Island]]{{tt|*|Evolves immediately but PokÃ©dex data is entered}}}}
+{{Availability/Entry1|v=Blue|ex=(Japan)|t=fff|link=PokÃ©mon Blue Version (Japanese)|area={{ka|Victory Road}}&lt;br>[[In-game trade#Blue (Japan)|Trade]] {{p|Kadabra}} on [[Cinnabar Island]]{{tt|*|Evolves immediately but PokÃ©dex data is entered}}}}
 {{Availability/Entry1|v=Yellow|area={{ka|Victory Road}}, [[Cerulean Cave]]}}
 |}
 |}
@@ -3601,7 +3601,7 @@
 |}
 {{Availability/Gen|gen=III}}
 {{Availability/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|area={{ho|Victory Road}} ({{m|Rock Smash}})}}
-{{Availability/Entry1|v=Emerald|t=FFF|area=[[Team Magma Hideout|Magma Hideout]] (walking)&lt;br/>{{ho|Victory Road}} ({{m|Rock Smash}})}}
+{{Availability/Entry1|v=Emerald|t=FFF|area=[[Team Magma Hideout|Magma Hideout]] (walking)&lt;br>{{ho|Victory Road}} ({{m|Rock Smash}})}}
 {{Availability/Entry2|v=FireRed|v2=LeafGreen|area=[[Kindle Road]], [[Sevault Canyon]], [[Rock Tunnel]], [[Mt. Ember]], [[Cerulean Cave]] ({{m|Rock Smash}})}}
 {{Availability/Entry1/None|v=Colosseum}}
 {{Availability/Entry1/None|v=XD|link=PokÃ©mon XD: Gale of Darkness}}
@@ -3610,7 +3610,7 @@
 {{Availability/Gen|gen=IV}}
 {{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Route]]s {{rtn|211|Sinnoh}}, {{rtn|214|Sinnoh}}, {{rtn|216|Sinnoh}}, and {{rtn|227|Sinnoh}}, [[Valor Lakefront]], [[Iron Island]], [[Mt. Coronet]], {{si|Victory Road}}, [[Stark Mountain]], [[Snowpoint Temple]]}}
 {{Availability/Entry1|v=Platinum|area=[[Route]]s {{rtn|211|Sinnoh}}, {{rtn|214|Sinnoh}}, {{rtn|216|Sinnoh}}, {{rtn|225|Sinnoh}}, {{rtn|226|Sinnoh}}, and {{rtn|227|Sinnoh}}, [[Iron Island]], [[Mt. Coronet]], [[Sendoff Spring]], {{si|Victory Road}}, [[Stark Mountain]]}}
-{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area={{rt|45|Johto}}, [[Cliff Cave]], {{ka|Victory Road}}, [[Dark Cave]], [[Mt. Mortar]], [[Mt. Silver]], [[Cerulean Cave]]&lt;br/>{{safari|Johto}}{{sup/t|M}}{{sup/t|D}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area={{rt|45|Johto}}, [[Cliff Cave]], {{ka|Victory Road}}, [[Dark Cave]], [[Mt. Mortar]], [[Mt. Silver]], [[Cerulean Cave]]&lt;br>{{safari|Johto}}{{sup/t|M}}{{sup/t|D}}}}
 {{Availability/Entry1|v=Pal Park|color=D4B5A7|link=Pal Park|area={{DL|List of PokÃ©mon by Pal Park location|Mountain}}}}
 |}
 |}
@@ -3620,7 +3620,7 @@
 |}
 |}
 {{Availability/Gen|gen=VI}}
-{{Availability/Entry2|v=X|v2=Y|t=fff|area={{rt|18|Kalos}}, {{kal|Victory Road}}, [[Terminus Cave]]&lt;br/>{{rt|13|Kalos}}, {{kal|Victory Road}} ({{m|Rock Smash}})}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area={{rt|18|Kalos}}, {{kal|Victory Road}}, [[Terminus Cave]]&lt;br>{{rt|13|Kalos}}, {{kal|Victory Road}} ({{m|Rock Smash}})}}
 {{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Lilycove City]], [[Seafloor Cavern]], [[Shoal Cave]], [[Mirage Caves|Mirage Cave]] (north of Fortree City, west of Route 115, north of Route 124, southeast of Route 129), [[Mirage Forests|Mirage Forest]] (west of Route 105), [[Mirage Islands|Mirage Island]] (south of Pacifidlog Town, south of Route 134), [[Mirage Mountains|Mirage Mountain]] (north of Route 125, southeast of Route 129) ({{m|Rock Smash}})}}
 |}
 |}
@@ -3912,8 +3912,8 @@
 |}
 |}
 {{Availability/Gen|gen=VII}}
-{{Availability/Entry2|v=Sun|v2=Moon|area={{rt|1|Alola}} ({{al|Trainers' School}}), [[Hau'oli City]], [[Malie City]], [[PokÃ© Pelago]]}}
-{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area={{rt|1|Alola}} ({{al|Trainers' School}}), [[Hau'oli City]], [[Malie City]]}}
+{{Availability/Entry2|v=Sun|v2=Moon|area={{al|Trainers' School}}, [[Hau'oli City]], [[Malie City]], [[PokÃ© Pelago]]}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area={{al|Trainers' School}}, [[Hau'oli City]], [[Malie City]]}}
 |}
 |}
 {{Availability/Footer}}
@@ -4246,8 +4246,8 @@
 |}
 |}
 {{Availability/Gen|gen=VII}}
-{{Availability/Entry2|v=Sun|v2=Moon|area={{rt|1|Alola}} ({{al|Trainers' School}}), [[Hau'oli City]], [[Malie City]]}}
-{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area={{rt|1|Alola}} ({{al|Trainers' School}}), [[Hau'oli City]], [[Malie City]]}}
+{{Availability/Entry2|v=Sun|v2=Moon|area={{al|Trainers' School}}, [[Hau'oli City]], [[Malie City]]}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area={{al|Trainers' School}}, [[Hau'oli City]], [[Malie City]]}}
 |}
 |}
 {{Availability/Footer}}
@@ -4443,7 +4443,7 @@
 |}
 {{Availability/Gen|gen=VII}}
 {{Availability/Entry2|v=Sun|v2=Moon|area=[[Hau'oli Cemetery]], [[Memorial Hill]], [[PokÃ© Pelago]]}}
-{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Hau'oli Cemetery]], [[Memorial Hill]]&lt;br/>{{rt|1|Alola}} ({{al|Trainers' School}}){{Sup/t|N}} (One)}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Hau'oli Cemetery]], [[Memorial Hill]]&lt;br>{{al|Trainers' School}}{{Sup/t|N}} (One)}}
 |}
 |}
 {{Availability/Footer}}
@@ -17737,7 +17737,7 @@ In PokÃ©mon Emerald, the roaming PokÃ©mon is chosen in a sequence immediatel
 |}
 {{Availability/Gen|gen=VII}}
 {{Availability/Entry2|v=Sun|v2=Moon|area=[[Hau'oli Cemetery]]{{Sup/t|D}}}}
-{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Hau'oli Cemetery]]{{Sup/t|D}}&lt;br/>{{rt|1|Alola}} ({{al|Trainers' School}}){{Sup/t|N}} (One)}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Hau'oli Cemetery]]{{Sup/t|D}}&lt;br>{{al|Trainers' School}}{{Sup/t|N}} (One)}}
 |}
 |}
 {{Availability/Footer}}
@@ -21317,7 +21317,7 @@ Arceus was originally intended to appear in {{game2|Diamond|Pearl|Platinum}} in 
 |}
 {{Availability/Gen|gen=VII}}
 {{Availability/Entry2/None|v=Sun|v2=Moon}}
-{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area={{rt|1|Alola}} ({{al|Trainers' School}})}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area={{al|Trainers' School}}}}
 |}
 |}
 {{Availability/Footer}}
