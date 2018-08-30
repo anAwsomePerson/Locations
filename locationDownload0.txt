@@ -8758,6 +8758,30 @@ a {{tc|backpacker}} in the pokã©mon center offers to trade the player an {{p|a
 {{catch/entryusum|696|tyrunt|yes|yes|jaw|15|all=fossil|type1=rock|type2=dragon|alliesna=n/a}}
 {{catch/entryusum|698|amaura|yes|yes|sail|15|all=fossil|type1=rock|type2=ice|alliesna=n/a}}
 
+~Alola Route 9!
+{{catch/header/dn|land}}
+{{catch/div|ocean|fishing}}
+{{catch/entry7|129|magikarp|yes|yes|fish|10-23|all=15%|type1=water|allies={{ms|129}} {{pcolor|magikarp|000}}&lt;br>{{ms|130}} {{pcolor|gyarados|000}}}}
+{{catch/entry7|222|corsola|yes|yes|fish|10-23|all=5%|type1=water|type2=rock|allies={{ms|222}} {{pcolor|corsola|000}}&lt;br>{{ms|747}} {{pcolor|mareanie|000}}}}
+{{catch/entry7|370|luvdisc|yes|yes|fish|10-23|all=70%|type1=water}}
+{{catch/entry7|746|wishiwashi|yes|yes|fish|10-23|all=10%|type1=water}}
+{{catch/footer|land}}
+
+===pokã©mon ultra sun and ultra moon===
+{{catch/header/dn|land}}
+{{catch/div|ocean|fishing}}
+{{catch/entryusum|129|magikarp|yes|yes|fish|10-23|all=20%|type1=water|allies={{ms|129}} {{pcolor|magikarp|000}}&lt;br>{{ms|130}} {{pcolor|gyarados|000}}}}
+{{catch/entryusum|222|corsola|yes|yes|fish|10-23|all=15%|type1=water|type2=rock|allies={{ms|222}} {{pcolor|corsola|000}}&lt;br>{{ms|747}} {{pcolor|mareanie|000}}}}
+{{catch/entryusum|370|luvdisc|yes|yes|fish|10-23|all=50%|type1=water}}
+{{catch/entryusum|746|wishiwashi|yes|yes|fish|10-23|all=15%|type1=water}}
+{{catch/div|ocean|fishing at the bubbling spot}}
+{{catch/entryusum|129|magikarp|yes|yes|fish|10-28|all=10%|type1=water|allies={{ms|129}} {{pcolor|magikarp|000}}&lt;br>{{ms|130}} {{pcolor|gyarados|000}}}}
+{{catch/entryusum|222|corsola|yes|yes|fish|10-28|all=5%|type1=water|type2=rock|allies={{ms|222}} {{pcolor|corsola|000}}&lt;br>{{ms|747}} {{pcolor|mareanie|000}}}}
+{{catch/entryusum|370|luvdisc|yes|yes|fish|10-28|all=80%|type1=water}}
+{{catch/entryusum|746|wishiwashi|yes|yes|fish|10-28|all=5%|type1=water}}
+{{catch/div|land|special pokã©mon}}
+{{catch/entryusum|132|ditto|yes|yes|special|29|all={{tt|one|always has bold nature}}|alliesna=n/a}}
+
 ~Alola Route 10!{{catch/header/dn|land}}
 {{catch/entry7|020a|raticate|yes|yes|grass|24-27|-|30%|type1=dark|type2=normal}}
 {{catch/entry7|022|fearow|yes|yes|grass|24-27|all=30%|type1=normal|type2=flying}}

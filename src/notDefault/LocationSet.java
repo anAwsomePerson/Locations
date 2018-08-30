@@ -205,7 +205,13 @@ public class LocationSet extends IntString{
     				continue;
     			}
     			
-    			//System.out.println(locations.get(x).toLowerCase().contains("received") + " " + locations.get(x));
+    			if(locations.get(x).contains(" after ")) {
+    				locations.set(x, locations.get(x).substring(0, locations.get(x).indexOf(" after ")));
+    			}
+    			
+    			if(locations.get(x).contains(" if ")) {
+    				locations.set(x, locations.get(x).substring(0, locations.get(x).indexOf(" if ")));
+    			}
     			
     			if(locations.get(x).toLowerCase().contains("received") || locations.get(x).contains("Trade") || locations.get(x).startsWith("[[Starter") 
     					|| locations.get(x).contains("Revive") || locations.get(x).contains("Buy")){
@@ -225,14 +231,6 @@ public class LocationSet extends IntString{
     				locations.remove(x);
     				x --;
     				continue;
-    			}
-    			
-    			if(locations.get(x).contains(" after ")) {
-    				locations.set(x, locations.get(x).substring(0, locations.get(x).indexOf(" after ")));
-    			}
-    			
-    			if(locations.get(x).contains(" if ")) {
-    				locations.set(x, locations.get(x).substring(0, locations.get(x).indexOf(" if ")));
     			}
     			
     			if(locations.get(x).contains("|Gym")) {

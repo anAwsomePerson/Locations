@@ -163,6 +163,7 @@ Alola Route 5
 Alola Route 6
 Alola Route 7
 Alola Route 8
+Alola Route 9
 Alola Route 10
 Alola Route 11
 Alola Route 12
