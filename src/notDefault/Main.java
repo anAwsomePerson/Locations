@@ -346,9 +346,9 @@ public class Main {
 		Scanner locationListIn = new Scanner(new File("locations.txt"));
 		Scanner bulbaPokemonIn = new Scanner(new File("bulbaDownload0.txt"));
 		Scanner bulbaLocationIn = new Scanner(new File("locationDownload0.txt"));
-		String listLine;
+		String listLine = "";
 		String pokemonLine = bulbaPokemonIn.nextLine();
-		String locationLine = bulbaLocationIn.nextLine();
+		String locationLine = "";
 		String bulbaPokemon = "";
 		String bulbaLocation = "";
 		
@@ -385,7 +385,7 @@ public class Main {
 				return;
 			}*/
 			
-			while(bulbaLocationIn.hasNext()) {
+			while(true) {
 				if(locationLine.contains("~") && locationLine.contains("!")){
             		//System.out.println(locationLine + " " + listLine);
             		if(!locationLine.substring(locationLine.indexOf('~') + 1, locationLine.indexOf('!')).equals(listLine)) {
@@ -395,11 +395,16 @@ public class Main {
             	}
 				
 				bulbaLocation = bulbaLocation + locationLine + '\n';
-            	locationLine = bulbaLocationIn.nextLine();
+				
+				if(!bulbaLocationIn.hasNext()) {
+					break;
+				}
+				
+				locationLine = bulbaLocationIn.nextLine();
             }
 		
 			if(bulbaLocation.contains('~' + listLine + '!')) {
-				//System.out.println(listLine + " " + bulbaLocation);
+				//System.out.println("reached0 " + " " + bulbaLocation);
 				bulbaLocation = bulbaLocation.replace(" ", "").replace("\n", "").replace("[[route]]s", "").replace("Ã©", "e").trim();
 	            listLine = LocationSet.removeBraces(listLine, "(", ")").replace("~", "e");
 	            String entryLine = "";
@@ -500,7 +505,7 @@ public class Main {
 			//listLine = locationListIn.nextLine();
 		}
 		
-		//System.out.println(pokemonErrors.get(66).bulbaLocations);
+		//System.out.println("reached1" + listLine);
 		ArrayList<IntString> inheritanceSucks = new ArrayList<IntString>();
 		
 		for(int i = 1; i < pokemonErrors.size(); i ++) {

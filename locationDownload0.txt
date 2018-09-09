@@ -10755,13 +10755,6 @@ the [[frontier brain]] of the battle pike is [[pike queen lucy]]. she challenges
 {{catch/div|forest|special}}
 {{catch/entryfl|097|hypno|yes|yes|special|30|one|type1=psychic}}
 
-~Birth Island!orme.
-{{catch/header|land|no}}
-{{catch/div|land|special}}
-{{catch/entry3a|386|deoxys|yes|no|no|aurora|30|one|type1=psychic}}
-{{catch/entry3a|386|deoxys|no|yes|no|aurora|30|one|type1=psychic}}
-{{catch/entry3a|386|deoxys|no|no|yes|aurora|30|one|type1=psychic}}
-
 ~Blackthorn City!tion ii===
 {{catch/header|mountain|4}}
 {{catch/div|water|surfing}}
@@ -16159,10 +16152,6 @@ while riley is partnered with the player, the pokã©mon located here (excluding
 {{catch/entryoras|531|audino|yes|yes|grass|36-38|10%|type1=normal}}
 {{catch/entryoras|548|petilil|yes|yes|grass|36-38|30%|type1=grass}}
 
-~Mirage Island (Generation III)!page-->
-{{catch/header|land|no}}
-{{catch/entry3|360|wynaut|yes|yes|yes|grass|5, 10, 15, 20, 25, 30, 35, 40, 45, 50|100%|type1=psychic}}
-
 ~Mirage Islands!===
 {{catch/header|land|6}}
 {{catch/entryoras|049|venomoth|yes|yes|grass|36-38|30%|type1=bug|type2=poison}}
@@ -16624,11 +16613,6 @@ while riley is partnered with the player, the pokã©mon located here (excluding
 {{catch/entryoras|374|beldum|yes|yes|gift|1|one|type1=steel|type2=psychic}}
 {{catch/div|city|special}}
 {{catch/entryoras|352|kecleon|yes|yes|special|45|{{tt|one|after delta episode; has its hidden ability}}|type1=normal}}
-
-~Mossdeep Space Center!tion vi===
-{{catch/header|building|no}}
-{{catch/div|building|special}}
-{{catch/entryoras|352|kecleon|yes|yes|special|45|{{tt|one|requires devon scope, behind the spaceman figure and has its hidden ability, protean}}|type1=normal}}
 
 ~Mount Hokulani!===
 {{catch/header/dn|mountain}}

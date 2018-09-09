@@ -122,7 +122,10 @@ public class LocationSet extends IntString{
     			Main.wrong ++;
     			Main.gameErrors[x] ++;
     			Main.addString(Main.locationErrors, bulbaList.get(x).get(y));
-    			System.out.println(align(x, false, bulbaList.get(x).get(y)));
+    			
+                if(!align(x, false, bulbaList.get(x).get(y)).contains("SoulSilver     -Safari Zone") && !align(x, false, bulbaList.get(x).get(y)).contains("HeartGold      -Safari Zone")){
+                	System.out.println(align(x, false, bulbaList.get(x).get(y)));
+    			}
     		}
     		
     		for(int y = 0; y < other.get(x).size(); y ++) {

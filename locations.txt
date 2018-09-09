@@ -205,7 +205,6 @@ Berry fields (Alola)
 Berry fields (Kalos)
 Berry Forest
 Big Stadium and Small Court
-Birth Island
 Black City
 Blackthorn City
 Blush Mountain
@@ -366,7 +365,6 @@ Meteor Falls
 Miracle Cycle
 Mirage Caves
 Mirage Forests
-Mirage Island (Generation III)
 Mirage Islands
 Mirage Mountains
 Mirage Tower
@@ -375,7 +373,6 @@ Mistralton City
 Moomoo Farm
 Moor of Icirrus
 Mossdeep City
-Mossdeep Space Center
 Mount Hokulani
 Mount Lanakila
 Mt. Chimney
