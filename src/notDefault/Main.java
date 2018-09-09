@@ -179,7 +179,7 @@ public class Main {
 	
 	public static void downloadBulbaLocations() throws Exception{
 		//int number = 0;
-		//PrintWriter output = new PrintWriter(new File("locationDownload0.txt"));
+		PrintWriter output = new PrintWriter(new File("locationDownload0.txt"));
 		Scanner locationIn = new Scanner(new File("locations.txt"));
 		//ArrayList<IntString> pageSizes = new ArrayList<IntString>();
 		int progress = 0;
@@ -194,9 +194,9 @@ public class Main {
             progress ++;
             boolean willContinue = false;
             
-            if("Alola Route 10".equals(line)) {
+            /*if("Alola Route 10".equals(line)) {
             	break;
-            }
+            }*/
 
             try {
                 bulbaConnection.getContentLength();
@@ -240,7 +240,7 @@ public class Main {
             	continue;
             }
             
-            //output.println('~' + line + '!' + catches);
+            output.println('~' + line + '!' + catches);
             System.out.println('~' + line + '!' + catches);
 	            
 	            /*//break;

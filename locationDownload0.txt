@@ -5319,17 +5319,34 @@ the western part consists of the area containing the [[ancient tomb]].
 {{catch/entry4|280|ralts|yes|yes|no|pokã© radar|4-6|all=11%|type1=psychic}}
 {{catch/entry4|281|kirlia|yes|yes|no|pokã© radar|6|all=1%|type1=psychic}}
 
-~Sinnoh Route 204!counters}}
+~Sinnoh Route 204! encounters}}
 {{catch/header|land|yes}}
-{{catch/entry4|041|zubat|yes|yes|yes|grass|3-4|0%|0%|10%|type1=poison|type2=flying}}
-{{catch/entry4|265|wurmple|no|no|yes|grass|4-5|10%|10%|0%|type1=bug}}
+{{catch/div|land|southern part}}
+{{catch/entry4|041|zubat|yes|yes|no|grass|3-4|0%|0%|10%|type1=poison|type2=flying}}
+{{catch/entry4|041|zubat|no|no|yes|grass|3|0%|0%|10%|type1=poison|type2=flying}}
+{{catch/entry4|265|wurmple|no|no|yes|grass|4|10%|10%|0%|type1=bug}}
 {{catch/entry4|396|starly|yes|yes|no|grass|4-6|25%|35%|25%|type1=normal|type2=flying}}
 {{catch/entry4|396|starly|no|no|yes|grass|4-6|all=25%|type1=normal|type2=flying}}
-{{catch/entry4|399|bidoof|yes|yes|yes|grass|4-9|all=25%|type1=normal}}
-{{catch/entry4|401|kricketot|yes|yes|yes|grass|4|10%|0%|10%|type1=bug}}
-{{catch/entry4|403|shinx|yes|yes|yes|grass|4-7|all=15%|type1=electric}}
+{{catch/entry4|399|bidoof|yes|yes|no|grass|4-9|all=25%|type1=normal}}
+{{catch/entry4|399|bidoof|no|no|yes|grass|4-6|all=25%|type1=normal}}
+{{catch/entry4|401|kricketot|yes|yes|no|grass|4|10%|0%|10%|type1=bug}}
+{{catch/entry4|401|kricketot|no|no|yes|grass|3|10%|0%|0%|type1=bug}}
+{{catch/entry4|401|kricketot|no|no|yes|grass|4|0%|0%|10%|type1=bug}}
+{{catch/entry4|403|shinx|yes|yes|no|grass|4-7|all=15%|type1=electric}}
+{{catch/entry4|403|shinx|no|no|yes|grass|4-5|all=15%|type1=electric}}
 {{catch/entry4|406|budew|yes|yes|no|grass|3-6|25%|25%|15%|type1=grass|type2=poison}}
-{{catch/entry4|406|budew|no|no|yes|grass|3-6|15%|25%|15%|type1=grass|type2=poison}}
+{{catch/entry4|406|budew|no|no|yes|grass|3-5|0%|25%|0%|type1=grass|type2=poison}}
+{{catch/entry4|406|budew|no|no|yes|grass|4-5|15%|0%|15%|type1=grass|type2=poison}}
+{{catch/div|land|northern part}}
+{{catch/entry4|041|zubat|no|no|yes|grass|8|0%|0%|10%|type1=poison|type2=flying}}
+{{catch/entry4|265|wurmple|no|no|yes|grass|9|10%|10%|0%|type1=bug}}
+{{catch/entry4|396|starly|no|no|yes|grass|9-11|all=25%|type1=normal|type2=flying}}
+{{catch/entry4|399|bidoof|no|no|yes|grass|9-11|all=25%|type1=normal}}
+{{catch/entry4|401|kricketot|no|no|yes|grass|8|10%|0%|0%|type1=bug}}
+{{catch/entry4|401|kricketot|no|no|yes|grass|9|0%|0%|10%|type1=bug}}
+{{catch/entry4|403|shinx|no|no|yes|grass|9-10|all=15%|type1=electric}}
+{{catch/entry4|406|budew|no|no|yes|grass|8-10|0%|25%|0%|type1=grass|type2=poison}}
+{{catch/entry4|406|budew|no|no|yes|grass|9-10|15%|0%|15%|type1=grass|type2=poison}}
 {{catch/div|water|surfing}}
 {{catch/entry4|054|psyduck|yes|yes|no|surf|20-40|all=90%|type1=water}}
 {{catch/entry4|054|psyduck|no|no|yes|surf|20-30|all=90%|type1=water}}
@@ -5536,29 +5553,33 @@ the western part consists of the area containing the [[ancient tomb]].
 
 ~Sinnoh Route 210!ction===
 {{catch/header|land}}
-{{catch/entry4|074|geodude|yes|yes|no|grass|19|30%|30%|10%|type1=rock|type2=ground}}
+{{catch/entry4|074|geodude|yes|yes|no|grass|19|all=30%|type1=rock|type2=ground}}
 {{catch/entry4|074|geodude|no|no|yes|grass|18|all=20%|type1=rock|type2=ground}}
 {{catch/entry4|077|ponyta|yes|yes|no|grass|18-20|30%|50%|30%|type1=fire}}
-{{catch/entry4|077|ponyta|no|no|yes|grass|19-21|25%|45%|15%|type1=fire}}
-{{catch/entry4|113|chansey|yes|yes|yes|grass|18-21|all=5%|type1=normal}}
-{{catch/entry4|123|scyther|no|no|yes|grass|19-21|15%|5%|5%|type1=bug|type2=flying}}
+{{catch/entry4|077|ponyta|no|no|yes|grass|19-21|25%|35%|15%|type1=fire}}
+{{catch/entry4|113|chansey|yes|yes|no|grass|18, 20|all=5%|type1=normal}}
+{{catch/entry4|113|chansey|no|no|yes|grass|19, 21|all=5%|type1=normal}}
+{{catch/entry4|123|scyther|no|no|yes|grass|19, 21|15%|5%|5%|type1=bug|type2=flying}}
 {{catch/entry4|163|hoothoot|no|no|yes|grass|20|0%|0%|10%|type1=normal|type2=flying}}
 {{catch/entry4|164|noctowl|no|no|yes|grass|21|0%|0%|10%|type1=normal|type2=flying}}
 {{catch/entry4|315|roselia|no|no|yes|grass|20-21|all=15%|type1=grass|type2=poison}}
-{{catch/entry4|397|staravia|no|no|yes|grass|19|20%|10%|20%|type1=normal|type2=flying}}
+{{catch/entry4|397|staravia|no|no|yes|grass|19|all=20%|type1=normal|type2=flying}}
 {{catch/entry4|402|kricketune|yes|yes|no|grass|18-19|10%|10%|30%|type1=bug}}
-{{catch/entry4|438|bonsly|no|yes|no|grass|18-20|25%|5%|25%|type1=rock}}
-{{catch/entry4|439|mime jr.|yes|no|no|grass|18-20|25%|5%|25%|type1=psychic}}
+{{catch/entry4|438|bonsly|no|yes|no|grass|18, 20|25%|5%|5%|type1=rock}}
+{{catch/entry4|439|mime jr.|yes|no|no|grass|18, 20|25%|5%|5%|type1=psychic}}
 {{catch/div|land|special}}
 {{catch/entry4|128|tauros|yes|no|no|pokã© radar|19|all=20%|type1=normal}}
 {{catch/entry4|128|tauros|no|yes|no|pokã© radar|20|all=2%|type1=normal}}
-{{catch/entry4|128|tauros|no|no|yes|pokã© radar|19-20|all=6%|type1=normal}}
-{{catch/entry4|204|pineco|yes|yes|yes|e|18-21|all=8%|type1=bug}}
+{{catch/entry4|128|tauros|no|no|yes|pokã© radar|19, 21|all=11%|type1=normal}}
+{{catch/entry4|204|pineco|yes|yes|no|e|18, 20|all=8%|type1=bug}}
+{{catch/entry4|204|pineco|no|no|yes|e|19, 21|all=8%|type1=bug}}
 {{catch/entry4|241|miltank|yes|no|no|pokã© radar|20|all=2%|type1=normal}}
 {{catch/entry4|241|miltank|no|yes|no|pokã© radar|19|all=20%|type1=normal}}
-{{catch/entry4|241|miltank|no|no|yes|pokã© radar|19-20|all=6%|type1=normal}}
-{{catch/entry4|273|seedot|yes|yes|yes|r|18|all=4%|type1=grass}}
-{{catch/entry4|274|nuzleaf|yes|yes|yes|r|20|all=4%|type1=grass|type2=dark}}
+{{catch/entry4|241|miltank|no|no|yes|pokã© radar|20, 21|all=11%|type1=normal}}
+{{catch/entry4|273|seedot|yes|yes|no|r|18|all=4%|type1=grass}}
+{{catch/entry4|273|seedot|no|no|yes|r|21|all=4%|type1=grass}}
+{{catch/entry4|274|nuzleaf|yes|yes|no|r|20|all=4%|type1=grass|type2=dark}}
+{{catch/entry4|274|nuzleaf|no|no|yes|r|19|all=4%|type1=grass|type2=dark}}
 {{catch/footer|land}}
 
 ===northern (foggy) section===
@@ -5568,14 +5589,14 @@ the western part consists of the area containing the [[ancient tomb]].
 {{catch/entry4|066|machop|no|no|yes|grass|28-29|all=15%|type1=fighting}}
 {{catch/entry4|067|machoke|yes|yes|no|grass|26|all=10%|type1=fighting}}
 {{catch/entry4|067|machoke|no|no|yes|grass|29-30|all=10%|type1=fighting}}
-{{catch/entry4|123|scyther|no|no|yes|grass|29|all=5%|type1=bug|type2=flying}}
+{{catch/entry4|123|scyther|no|no|yes|grass|27, 29|15%|5%|5%|type1=bug|type2=flying}}
 {{catch/entry4|163|hoothoot|yes|yes|no|grass|24|0%|0%|10%|type1=normal|type2=flying}}
 {{catch/entry4|163|hoothoot|no|no|yes|grass|27|0%|0%|10%|type1=normal|type2=flying}}
 {{catch/entry4|164|noctowl|yes|yes|no|grass|25|0%|0%|10%|type1=normal|type2=flying}}
-{{catch/entry4|164|noctowl|no|no|yes|grass|28|0%|0%|10%|type1=normal|type2=flying}}
+{{catch/entry4|164|noctowl|no|no|yes|grass|27|0%|0%|10%|type1=normal|type2=flying}}
 {{catch/entry4|307|meditite|yes|yes|no|grass|24-26|30%|30%|20%|type1=fighting|type2=psychic}}
-{{catch/entry4|307|meditite|no|no|yes|grass|27-29|20%|20%|10%|type1=fighting|type2=psychic}}
-{{catch/entry4|333|swablu|no|no|yes|grass|27|30%|30%|20%|type1=normal|type2=flying}}
+{{catch/entry4|307|meditite|no|no|yes|grass|27, 29|20%|20%|10%|type1=fighting|type2=psychic}}
+{{catch/entry4|333|swablu|no|no|yes|grass|27|20%|30%|20%|type1=normal|type2=flying}}
 {{catch/entry4|400|bibarel|yes|yes|no|grass|24|all=20%|type1=normal|type2=water}}
 {{catch/entry4|400|bibarel|no|no|yes|grass|28|all=20%|type1=normal|type2=water}}
 {{catch/div|water|surfing}}
@@ -5583,11 +5604,15 @@ the western part consists of the area containing the [[ancient tomb]].
 {{catch/entry4|054|psyduck|no|no|yes|surf|20-30|all=90%|type1=water}}
 {{catch/entry4|055|golduck|yes|yes|yes|surf|20-40|all=10%|type1=water}}
 {{catch/div|water|fishing}}
-{{catch/entry4|129|magikarp|yes|yes|yes|fish old|3-10|all=100%|type1=water}}
-{{catch/entry4|129|magikarp|yes|yes|yes|fish good|10-25|all=65%|type1=water}}
-{{catch/entry4|339|barboach|yes|yes|yes|fish good|10-25|all=35%|type1=water|type2=ground}}
-{{catch/entry4|130|gyarados|yes|yes|yes|fish super|30-55|all=65%|type1=water|type2=flying}}
-{{catch/entry4|340|whiscash|yes|yes|yes|fish super|20-50|all=35%|type1=water|type2=ground}}
+{{catch/entry4|129|magikarp|yes|yes|no|fish old|3-10|all=100%|type1=water}}
+{{catch/entry4|129|magikarp|no|no|yes|fish old|3-15|all=100%|type1=water}}
+{{catch/entry4|129|magikarp|yes|yes|yes|fish good|10-25|all=55%|type1=water}}
+{{catch/entry4|339|barboach|yes|yes|no|fish good|10-25|all=45%|type1=water|type2=ground}}
+{{catch/entry4|339|barboach|no|no|yes|fish good|15-20|all=40%|type1=water|type2=ground}}
+{{catch/entry4|340|whiscash|no|no|yes|fish good|25-35|all=5%|type1=water|type2=ground}}
+{{catch/entry4|130|gyarados|yes|yes|yes|fish super|30-55|all=55%|type1=water|type2=flying}}
+{{catch/entry4|340|whiscash|yes|yes|no|fish super|20-50|all=45%|type1=water|type2=ground}}
+{{catch/entry4|340|whiscash|no|no|yes|fish super|30-55|all=45%|type1=water|type2=ground}}
 {{catch/div|fog|special}}
 {{catch/entry4|352|kecleon|yes|no|no|pokã© radar|25-26|all=22%|type1=normal}}
 {{catch/entry4|335|zangoose|yes|yes|no|r|26|all=8%|type1=normal}}
@@ -5595,7 +5620,7 @@ the western part consists of the area containing the [[ancient tomb]].
 {{catch/entry4|336|seviper|yes|yes|no|s|26|all=8%|type1=poison}}
 {{catch/entry4|336|seviper|no|no|yes|s|29-30|all=8%|type1=poison}}
 {{catch/entry4|371|bagon|no|yes|no|pokã© radar|25-26|all=22%|type1=dragon}}
-{{catch/entry4|371|bagon|no|no|yes|pokã© radar|28|all=22%|type1=dragon}}
+{{catch/entry4|371|bagon|no|no|yes|pokã© radar|28-30|all=22%|type1=dragon}}
 
 ~Sinnoh Route 211!n segment===
 {{catch/header|mountain}}
@@ -8940,6 +8965,8 @@ a {{tc|backpacker}} in the pokã©mon center offers to trade the player an {{p|a
 {{catch/entry7|129|magikarp|yes|yes|fish|10-33|all=50%|type1=water|allies={{ms|129}} {{pcolor|magikarp|000}}&lt;br>{{ms|130}} {{pcolor|gyarados|000}}}}
 {{catch/entry7|746|wishiwashi|yes|yes|fish|10-33|all=30%|type1=water}}
 {{catch/entry7|779|bruxish|yes|yes|fish|10-33|all=20%|type1=water|type2=psychic}}
+{{catch/div|ocean|aether house&lt;br>&lt;small>after becoming {{color2|000|pokã©mon champion|champion}}&lt;/small>}}
+{{catch/entry7|137|porygon|yes|yes|gift|30|one|type1=normal|all=one|alliesna=n/a}}
 {{catch/footer|ocean}}
 
 ===pokã©mon ultra sun and ultra moon===
@@ -8966,6 +8993,8 @@ a {{tc|backpacker}} in the pokã©mon center offers to trade the player an {{p|a
 {{catch/entryusum|779|bruxish|yes|yes|fish|10-40|all=35%|type1=water|type2=psychic}}
 {{catch/div|ocean|special}}
 {{catch/entryusum|769|sandygast|no|yes|special|30|all=one|alliesna=n/a|type1=ghost|type2=ground}}
+{{catch/div|ocean|aether house&lt;br>&lt;small>after {{color2|000|episode rr}}&lt;/small>}}
+{{catch/entryusum|137|porygon|yes|yes|gift|30|one|type1=normal|all=one|alliesna=n/a}}
 
 ~Alola Route 16!{{catch/header/dn|land}}
 {{catch/entry7|020a|raticate|yes|yes|grass|30-33|-|30%|type1=dark|type2=normal}}
@@ -10912,13 +10941,13 @@ prior to completing the trial, [[wild pokã©mon]] do not appear in the trial si
 {{catch/entryusum|129|magikarp|yes|yes|fish|10-16|all=44%|type1=water|allies={{ms|129}} {{pcolor|magikarp|000}}&lt;br>{{ms|130}} {{pcolor|gyarados|000}}}}
 {{catch/entryusum|349|feebas|yes|yes|fish|10-16|all=1%|type1=water}}
 {{catch/entryusum|550|basculin|yes|no|fish|10-16|all=25%|type1=water}}
-{{catch/entryusum|550b|basculin|no|yes|fish|10-16|all=25%|type1=water}}
+{{catch/entryusum|550b|basculin|no|yes|fish|10-16|all=25%|type1=water|alliesna=n/a|allies={{tt|n/a|coded to call blue-striped basculin as allies but has a call rate of 0.}}}}
 {{catch/div|lake|fishing at a bubbling spot}}
 {{catch/entryusum|118|goldeen|yes|yes|fish|10-21|all=25%|type1=water|allies={{ms|118}} {{pcolor|goldeen|000}}&lt;br>{{ms|119}} {{pcolor|seaking|000}}}}
 {{catch/entryusum|129|magikarp|yes|yes|fish|10-21|all=40%|type1=water|allies={{ms|129}} {{pcolor|magikarp|000}}&lt;br>{{ms|130}} {{pcolor|gyarados|000}}}}
 {{catch/entryusum|349|feebas|yes|yes|fish|10-21|all=10%|type1=water}}
 {{catch/entryusum|550|basculin|yes|no|fish|10-21|all=25%|type1=water}}
-{{catch/entryusum|550b|basculin|no|yes|fish|10-21|all=25%|type1=water}}
+{{catch/entryusum|550b|basculin|no|yes|fish|10-21|all=25%|type1=water|alliesna=n/a|allies={{tt|n/a|coded to call blue-striped basculin as allies but has a call rate of 0.}}}}
 {{catch/div|land|exclusively from {{color2|000|qr scanner#island scan|island scan}}}}
 {{catch/entryusum|259|marshtomp|yes|yes|grass|17|all={{tt|one|knows counter}}{{dotw|sa}}|type1=water|type2=ground|alliesna=n/a}}
 {{catch/footer|lake}}
@@ -11188,17 +11217,6 @@ this area can only be accessed from the [[castelia sewers]].
 {{catch/div|water|surfing}}
 {{catch/entryhs|088|grimer|yes|yes|surf|15-20|all=90%|type1=poison}}
 {{catch/entryhs|089|muk|yes|yes|surf|15|all=10%|type1=poison}}
-
-~Celadon Condominiums!tion i===
-{{catch/header|building|no}}
-{{catch/div|building|gift pokã©mon}}
-{{catch/entry1|133|eevee|yes|yes|yes|gift|25|{{tt|one|roof}}}}
-{{catch/footer|building}}
-
-===generation iii===
-{{catch/header|building|no}}
-{{catch/div|building|gift pokã©mon}}
-{{catch/entryfl|133|eevee|yes|yes|gift|25|{{tt|one|roof}}}}
 
 ~Celestial Tower!ite===
 {{catch/header|building|no}}
@@ -11643,7 +11661,7 @@ this area can only be accessed from the [[castelia sewers]].
 {{catch/div|cave|b1f}}
 {{catch/entry5-2|299|nosepass|yes|yes|cave|30|all=10%|type1=rock}}
 {{catch/entry5-2|525|boldore|yes|yes|cave|28|all=5%|type1=rock}}
-{{catch/entry5-2|595|joltik|yes|yes|cave|28-30|all=39%|type1=bug|type2=electric}}
+{{catch/entry5-2|595|joltik|yes|yes|cave|28-31|all=39%|type1=bug|type2=electric}}
 {{catch/entry5-2|597|ferroseed|yes|yes|cave|29-30|all=20%|type1=grass|type2=steel}}
 {{catch/entry5-2|599|klink|yes|yes|cave|29, 31|all=24%|type1=steel}}
 {{catch/entry5-2|602|tynamo|yes|yes|cave|31|all=2%|type1=electric}}
@@ -12143,28 +12161,6 @@ this area can only be accessed from the [[castelia sewers]].
 {{catch/entry3|132|ditto|no|no|yes|cave|38, 40-43, 45|50%|type1=normal}}
 {{catch/entry3|293|whismur|no|no|yes|cave|35-36, 38|34%|type1=normal}}
 {{catch/entry3|294|loudred|no|no|yes|cave|38, 40, 44|16%|type1=normal}}
-
-~Devon Corporation!
-{{catch/header|building|no}}
-{{catch/div|building|gift pokã©mon}}
-{{catch/entry3|345|lileep|yes|yes|yes|root|20|one|type1=rock|type2=grass}}
-{{catch/entry3|347|anorith|yes|yes|yes|claw|20|one|type1=rock|type2=bug}}
-{{catch/footer|building}}
-
-====generation vi====
-{{catch/header|building|no}}
-{{catch/div|building|gift pokã©mon}}
-{{catch/entryoras|138|omanyte|yes|yes|helix|20|fossil|type1=rock|type2=water}}
-{{catch/entryoras|140|kabuto|yes|yes|dome|20|fossil|type1=rock|type2=water}}
-{{catch/entryoras|142|aerodactyl|yes|yes|amber|20|fossil|type1=rock|type2=flying}}
-{{catch/entryoras|345|lileep|yes|yes|root|20|fossil|type1=rock|type2=grass}}
-{{catch/entryoras|347|anorith|yes|yes|claw|20|fossil|type1=rock|type2=bug}}
-{{catch/entryoras|408|cranidos|yes|yes|skull|20|fossil|type1=rock}}
-{{catch/entryoras|410|shieldon|yes|yes|armor|20|fossil|type1=rock|type2=steel}}
-{{catch/entryoras|564|tirtouga|yes|yes|cover|20|fossil|type1=water|type2=rock}}
-{{catch/entryoras|566|archen|yes|yes|plume|20|fossil|type1=rock|type2=flying}}
-{{catch/entryoras|696|tyrunt|yes|yes|jaw|20|fossil|type1=rock|type2=dragon}}
-{{catch/entryoras|698|amaura|yes|yes|sail|20|fossil|type1=rock|type2=ice}}
 
 ~Dewford Town! iii===
 {{catch/header|sand|no}}
@@ -13320,18 +13316,6 @@ in the japanese version of {{game|crystal}}, if the player has the {{key|ii|egg 
 {{catch/entryhs|133|eevee|yes|yes|gift|5|all={{tt|one|from bill in his house after meeting him in the ecruteak city pokã©mon center}}|type1=normal}}
 {{catch/div|building|special}}
 {{catch/entryhs|066|machop|yes|yes|trade|the same as the traded pokã©mon|all=one|tradenum=096|tradename=drowzee|type1=fighting}}
-
-~Goldenrod Department Store!tion ii===
-{{catch/header|building|2}}
-{{catch/div|building|special}}
-{{catch/entry2|066|machop|yes|yes|no|trade|the same as the traded pokã©mon|all=one||tradenum=096|tradename=drowzee|tradegender=|type1=fighting|type2=fighting}}
-{{catch/entry2|066|machop|no|no|yes|trade|the same as the traded pokã©mon|all=one||tradenum=063|tradename=abra|tradegender=|type1=fighting|type2=fighting}}
-{{catch/footer|building}}
-
-===generation iv===
-{{catch/header|building|4}}
-{{catch/div|building|special}}
-{{catch/entryhs|066|machop|yes|yes|trade|the same as the traded pokã©mon|all=one||tradenum=096|tradename=drowzee|tradegender=|type1=fighting|type2=fighting}}
 
 ~Granite Cave!===
 {{catch/header|cave|no}}
@@ -15512,13 +15496,13 @@ while riley is partnered with the player, the pokã©mon located here (excluding
 {{catch/entryusum|129|magikarp|yes|yes|fish|10-28|all=40%|type1=water|allies={{ms|129}} {{pcolor|magikarp|000}}&lt;br>{{ms|130}} {{pcolor|gyarados|000}}}}
 {{catch/entryusum|130|gyarados|yes|yes|fish|10-28|all=5%|type1=water|type2=flying}}
 {{catch/entryusum|550|basculin|yes|no|fish|10-28|all=25%|type1=water}}
-{{catch/entryusum|550b|basculin|no|yes|fish|10-28|all=25%|type1=water}}
+{{catch/entryusum|550b|basculin|no|yes|fish|10-28|all=25%|type1=water|alliesna=n/a|allies={{tt|n/a|coded to call blue-striped basculin as allies but has a call rate of 0.}}}}
 {{catch/div|water|fishing at the bubbling spot}}
 {{catch/entryusum|118|goldeen|yes|yes|fish|10-33|all=20%|type1=water|allies={{ms|118}} {{pcolor|goldeen|000}}&lt;br>{{ms|119}} {{pcolor|seaking|000}}}}
 {{catch/entryusum|129|magikarp|yes|yes|fish|10-33|all=30%|type1=water|allies={{ms|129}} {{pcolor|magikarp|000}}&lt;br>{{ms|130}} {{pcolor|gyarados|000}}}}
 {{catch/entryusum|130|gyarados|yes|yes|fish|10-33|all=35%|type1=water|type2=flying}}
 {{catch/entryusum|550|basculin|yes|no|fish|10-33|all=15%|type1=water}}
-{{catch/entryusum|550b|basculin|no|yes|fish|10-33|all=15%|type1=water}}
+{{catch/entryusum|550b|basculin|no|yes|fish|10-33|all=15%|type1=water|alliesna=n/a|allies={{tt|n/a|coded to call blue-striped basculin as allies but has a call rate of 0.}}}}
 
 ~Maniac Tunnel!=
 {{catch/header|cave|4}}
@@ -18070,12 +18054,6 @@ while riley is partnered with the player, the pokã©mon located here (excluding
 {{catch/div|forest|special pokã©mon}}
 {{catch/entry5-2|612|haxorus|yes|yes|shiny|60|all=one|type1=dragon}}
 
-~Navel Rock!=
-{{catch/header|cave|no}}
-{{catch/div|cave|special}}
-{{catch/entry3a|249|lugia|yes|yes|yes|mystic|70|one|type1=psychic|type2=flying}}
-{{catch/entry3a|250|ho-oh|yes|yes|yes|mystic|70|one|type1=fire|type2=flying}}
-
 ~New Bark Town! ii===
 {{catch/header|road|4}}
 {{catch/div|water|surfing}}
@@ -18266,7 +18244,6 @@ while riley is partnered with the player, the pokã©mon located here (excluding
 {{catch/entryhs|222|corsola|yes|yes|fish super|40|30%|30%|0%|type1=water|type2=rock}}
 {{catch/div|city|special}}
 {{catch/entryhs|100|voltorb|yes|yes|trade|the same as the traded pokã©mon|all=one|tradenum=098|tradename=krabby|type1=electric}}
-{{catch/entryhs|208|steelix|yes|yes|trade|the same as the traded pokã©mon|all=one|tradenum=000|type1=steel|type2=ground}}
 
 ~One Island (town)!=pokã©mon==
 {{catch/header|land|no}}
@@ -18724,16 +18701,6 @@ the pokã©mon nursery lady will give the player an {{pkmn|egg}} containing an {
 {{catch/entryhs|380|latias|no|yes|enigma|40|all=one|type1=dragon|type2=psychic}}
 {{catch/entryhs|381|latios|yes|no|enigma|40|all=one|type1=dragon|type2=psychic}}
 
-~Pewter Museum of Science!{{catch/header|building|4}}
-{{catch/div|building|gift pokã©mon}}
-{{catch/entryhs|138|omanyte|yes|yes|helix|20|all=fossil|type1=rock|type2=water}}
-{{catch/entryhs|140|kabuto|yes|yes|dome|20|all=fossil|type1=rock|type2=water}}
-{{catch/entryhs|142|aerodactyl|yes|yes|amber|20|all=fossil|type1=rock|type2=flying}}
-{{catch/entryhs|345|lileep|yes|yes|root|20|all=fossil|type1=rock|type2=grass}}
-{{catch/entryhs|347|anorith|yes|yes|claw|20|all=fossil|type1=rock|type2=bug}}
-{{catch/entryhs|408|cranidos|yes|yes|skull|20|all=fossil|type1=rock}}
-{{catch/entryhs|410|shieldon|yes|yes|armor|20|all=fossil|type1=rock|type2=steel}}
-
 ~Pinwheel Forest!area====
 {{catch/header|forest|4}}
 {{catch/entry5|519|pidove|yes|yes|n/a|grass|12-13|all=30%|type1=normal|type2=flying}}
@@ -18879,17 +18846,6 @@ cheren will partner with the player for the first time the player traverses the 
 {{catch/entry5-2|198|murkrow|yes|yes|grotto|55-60|all={{tt|1%|has its hidden ability}}|type1=dark|type2=flying}}
 {{catch/entry5-2|286|breloom|yes|yes|grotto|55-60|all={{tt|3.75%|has its hidden ability}}|type1=grass|type2=fighting}}
 {{catch/entry5-2|591|amoonguss|yes|yes|grotto|55-60|all={{tt|11.25%|has its hidden ability}}|type1=grass|type2=poison}}
-
-~Pok~mon Communication Center!own below.
-
-{{catch/header|building|yes}}
-{{catch/entry2|172|pichu|no|no|yes|egg|5|all=one|type1=electric}}
-{{catch/entry2|173|cleffa|no|no|yes|egg|5|all=one|type1=normal}}
-{{catch/entry2|174|igglybuff|no|no|yes|egg|5|all=one|type1=normal}}
-{{catch/entry2|236|tyrogue|no|no|yes|egg|5|all=one|type1=fighting}}
-{{catch/entry2|238|smoochum|no|no|yes|egg|5|all=one|type1=ice|type2=psychic}}
-{{catch/entry2|239|elekid|no|no|yes|egg|5|all=one|type1=electric}}
-{{catch/entry2|240|magby|no|no|yes|egg|5|all=one|type1=fire}}
 
 ~Pok~mon League (Sinnoh)!mon==
 {{catch/header|land|4}}
@@ -19249,7 +19205,7 @@ in [[pokã©mon ultra sun and ultra moon|pokã©mon ultra moon]], two {{p|stakat
 {{catch/entryusum|548|petilil|no|yes|grass|54-57|all=30%|type1=grass}}
 {{catch/entryusum|741se|oricorio|yes|yes|grass|54-57|all=20%|type1=ghost|type2=flying}}
 {{catch/entryusum|743|ribombee|yes|yes|grass|54-57|30%|20%|type1=bug|type2=fairy}}
-{{catch/entryusum|670b|floette|yes|yes|grass|54-57|all=20%|type1=fairy|alliesna=n/a|allies={{tt|n/a|coded to call blue, orange, and white flower floette as allies but has a call rate of 0.}}}}
+{{catch/entryusum|670b|floette|yes|yes|grass|54-57|all=20%|type1=fairy|alliesna=n/a|allies=n/a}}
 {{catch/entryusum|200|misdreavus|yes|yes|grass|54-57|-|10%|type1=ghost}}
 {{catch/div|fog|fishing}}
 {{catch/entryusum|129|magikarp|yes|yes|fish|10-57|all=59%|type1=water|allies={{ms|129}} {{pcolor|magikarp|000}}&lt;br>{{ms|130}} {{pcolor|gyarados|000}}}}
@@ -22730,13 +22686,13 @@ sometimes, after a pokã©mon from a dirt cloud is defeated or caught, it will d
 {{catch/entryusum|339|barboach|yes|yes|fish|10-46|all=25%|type1=water|type2=ground|allies={{ms|339}} {{pcolor|barboach|000}}&lt;br>{{ms|340}} {{pcolor|whiscash|000}}}}
 {{catch/entryusum|341|corphish|yes|yes|fish|10-46|all=5%|type1=water|type2=ground|allies={{ms|341}} {{pcolor|corphish|000}}&lt;br>{{ms|342}} {{pcolor|crawdaunt|000}}}}
 {{catch/entryusum|550|basculin|yes|no|fish|10-46|all=25%|type1=water}}
-{{catch/entryusum|550b|basculin|no|yes|fish|10-46|all=25%|type1=water}}
+{{catch/entryusum|550b|basculin|no|yes|fish|10-46|all=25%|type1=water|alliesna=n/a|allies=n/a}}
 {{catch/div|water|fishing at the bubbling spot}}
 {{catch/entryusum|129|magikarp|yes|yes|fish|10-51|all=25%|type1=water|allies={{ms|129}} {{pcolor|magikarp|000}}&lt;br>{{ms|130}} {{pcolor|gyarados|000}}}}
 {{catch/entryusum|339|barboach|yes|yes|fish|10-51|all=20%|type1=water|type2=ground|allies={{ms|339}} {{pcolor|barboach|000}}&lt;br>{{ms|340}} {{pcolor|whiscash|000}}}}
 {{catch/entryusum|341|corphish|yes|yes|fish|10-51|all=35%|type1=water|type2=ground|allies={{ms|341}} {{pcolor|corphish|000}}&lt;br>{{ms|342}} {{pcolor|crawdaunt|000}}}}
 {{catch/entryusum|550|basculin|yes|no|fish|10-51|all=20%|type1=water}}
-{{catch/entryusum|550b|basculin|no|yes|fish|10-51|all=20%|type1=water}}
+{{catch/entryusum|550b|basculin|no|yes|fish|10-51|all=20%|type1=water|alliesna=n/a|allies=n/a}}
 
 ~Veilstone City!=
 {{catch/header|city|4}}

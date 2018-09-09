@@ -220,7 +220,6 @@ Castelia City
 Castelia Sewers
 Cave of Origin
 Celadon City
-Celadon Condominiums
 Celadon Department Store
 Celadon Game Corner
 Celestial Tower
@@ -248,7 +247,6 @@ Dendemille Town
 Desert Resort
 Desert Ruins
 Desert Underpass
-Devon Corporation
 Dewford Town
 Diglett's Cave
 Diglett's Tunnel
@@ -292,7 +290,6 @@ Glittering Cave
 Global Terminal
 Gnarled Den
 Goldenrod City
-Goldenrod Department Store
 Goldenrod Game Corner
 Goldenrod Radio Tower
 Goldenrod Tunnel
@@ -394,7 +391,6 @@ Nacrene City
 Nameless Cavern
 National Park
 Nature Preserve
-Navel Rock
 New Bark Town
 New Mauville
 Newmoon Island
@@ -423,14 +419,12 @@ Pattern Bush
 Petalburg City
 Petalburg Woods
 Pewter City
-Pewter Museum of Science
 Pick a Peck of Colors Flower Shop
 Pinwheel Forest
 Pledge Grove
 Po Town
 Pok~ Ball Factory
 Pok~ Pelago
-Pok~mon Communication Center
 Pok~mon League (Kalos)
 Pok~mon League (Sinnoh)
 Pok~mon League (Unova)
