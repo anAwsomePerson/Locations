@@ -265,7 +265,6 @@ Ever Grande City
 Exeggutor Island
 Fabled Cave
 Fallarbor Town
-Faraway Island
 Fiery Path
 Five Island
 Five Island (town)
@@ -274,7 +273,6 @@ Floaroma Meadow
 Floaroma Town
 Floccesy Ranch
 Floccesy Town
-Flower Paradise
 Fortree City
 Four Island
 Four Island (town)
@@ -296,7 +294,6 @@ Granite Cave
 Great Marsh
 Green Path
 Haina Desert
-Hall of Origin
 Hano Beach
 Hau'oli Cemetery
 Hau'oli City
@@ -336,7 +333,6 @@ Lavaridge Town
 Lavender Town
 Laverre City
 Lentimas Town
-Liberty Garden
 Lilycove City
 Lilycove Department Store
 Lilycove Museum
@@ -390,7 +386,6 @@ National Park
 Nature Preserve
 New Bark Town
 New Mauville
-Newmoon Island
 Nimbasa City
 Nuvema Town
 Oceanic Museum

@@ -107,6 +107,10 @@ public class Main {
             
             output.println('~' + line + '!' + bulbaLocations);
             System.out.println('~' + line + '!' + bulbaLocations);
+            
+            /*if("Klink".equals(line)) {
+            	break;
+            }*/
 		}
 	}
 	
@@ -225,7 +229,7 @@ public class Main {
                 }*/
             
                 if(catches.contains("{{catch/footer")) {
-                    catches = catches.substring(0, catches.lastIndexOf("{{catch/footer"));
+                    catches = catches.substring(0, catches.lastIndexOf("{{catch/footer") + 14);
                 }else {
                 	willContinue = true;
                 }
