@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Main {
-	public static final int mode = 5;
+	public static final int mode = 4;
 	public static int right = 0;
 	public static int wrong = 0;
 	public static int[] gameErrors = new int[28];
@@ -377,6 +377,10 @@ public class Main {
                 set.fillBulbaList(bulbaPokemon);
                 bulbaPokemon = "";
             }
+            
+            /*if("Tranquill".equals(listLine)) {
+            	break;
+            }*/
 		}
 		
 		number = 0;
@@ -495,11 +499,9 @@ public class Main {
 	            	}
 	            	
 	            	for(int i = 0; i < lookingAtPokemon.size(); i ++) {
-	            		/*if(66 == lookingAtPokemon.get(i)) {
-	            			System.out.println(lookingAtGames + " " + listLine.trim());
-	            		}*/
-	            		
-	            		pokemonErrors.get(lookingAtPokemon.get(i)).add(2, lookingAtGames, listLine.trim());
+	            		if(lookingAtPokemon.get(i) < pokemonErrors.size()) {
+	            		    pokemonErrors.get(lookingAtPokemon.get(i)).add(2, lookingAtGames, listLine.trim());
+	            		}
 	            	}
 	            }
 	            

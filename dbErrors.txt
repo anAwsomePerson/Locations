@@ -1,0 +1,1771 @@
+"-" means the location is missing on Pokemon DB (false negative). "+" means the location is on Pokemon DB but should not be (false positive). 
+
+Butterfree   White 2        -Pinwheel Forest
+Beedrill     Black 2        -Pinwheel Forest
+Rattata      Sun            +Verdant Cavern
+Rattata      HeartGold      -Route 30
+Raticate     Ultra Moon     +Route 14
+Raticate     Ultra Sun      +Route 14
+Raticate     Moon           +Route 14
+Raticate     Sun            +Route 14
+Raticate     SoulSilver     -Safari Zone
+Raticate     HeartGold      -Safari Zone
+Spearow      SoulSilver     -Safari Zone
+Spearow      SoulSilver     -Celadon City
+Spearow      SoulSilver     -Route 35
+Spearow      HeartGold      -Safari Zone
+Spearow      HeartGold      -Celadon City
+Spearow      HeartGold      -Route 35
+Spearow      Silver         +Route 45
+Spearow      Gold           +Route 45
+Fearow       White 2        -Route 15
+Fearow       Black 2        -Route 15
+Fearow       SoulSilver     -Safari Zone
+Fearow       HeartGold      -Safari Zone
+Fearow       LeafGreen      -Sevault Canyon
+Fearow       LeafGreen      +Seavault Canyon
+Fearow       FireRed        -Sevault Canyon
+Fearow       FireRed        +Seavault Canyon
+Ekans        SoulSilver     -Safari Zone
+Ekans        HeartGold      -Safari Zone
+Arbok        SoulSilver     -Safari Zone
+Arbok        HeartGold      -Safari Zone
+Pikachu      Alpha Sapphire -Verdanturf Town
+Pikachu      Alpha Sapphire -Fallarbor Town
+Pikachu      Alpha Sapphire -Slateport City
+Pikachu      Alpha Sapphire -Lilycove City
+Pikachu      Omega Ruby     -Verdanturf Town
+Pikachu      Omega Ruby     -Fallarbor Town
+Pikachu      Omega Ruby     -Slateport City
+Pikachu      Omega Ruby     -Lilycove City
+Sandshrew    Ultra Moon     +Route 14
+Sandshrew    Moon           +Route 14
+Sandshrew    SoulSilver     -Safari Zone
+Sandshrew    HeartGold      -Safari Zone
+Sandshrew    Silver         +Union Cave
+Sandslash    SoulSilver     -Safari Zone
+Sandslash    HeartGold      -Safari Zone
+Nidoran0     White 2        -Route 2
+Nidoran0     Black 2        -Route 2
+Nidoran0     SoulSilver     -Safari Zone
+Nidoran0     HeartGold      -Safari Zone
+Nidoran0     FireRed        -Underground Path
+Nidoran0     FireRed        +Route 5
+Nidoran0     FireRed        +Underground Path 5-6
+Nidoran0     Blue           -Underground Path
+Nidoran0     Blue           +Route 5
+Nidoran0     Blue           +Underground Path 5-6
+Nidoran0     Red            -Underground Path
+Nidoran0     Red            +Route 5
+Nidoran0     Red            +Underground Path 5-6
+Nidorina     SoulSilver     -Safari Zone
+Nidorina     HeartGold      -Safari Zone
+Nidoran1     White 2        -Route 2
+Nidoran1     Black 2        -Route 2
+Nidoran1     SoulSilver     -Safari Zone
+Nidoran1     HeartGold      -Safari Zone
+Nidoran1     LeafGreen      -Underground Path
+Nidoran1     LeafGreen      +Route 5
+Nidoran1     LeafGreen      +Underground Path 5-6
+Nidoran1     Blue           -Underground Path
+Nidoran1     Red            -Underground Path
+Nidorino     SoulSilver     -Safari Zone
+Nidorino     HeartGold      -Safari Zone
+Clefairy     SoulSilver     -Safari Zone
+Clefairy     HeartGold      -Safari Zone
+Vulpix       Ultra Sun      +Route 14
+Vulpix       Sun            +Route 14
+Vulpix       Alpha Sapphire -Mirage Forest
+Vulpix       Alpha Sapphire +Mirage Spots
+Vulpix       Omega Ruby     -Mirage Forest
+Vulpix       Omega Ruby     +Mirage Spots
+Jigglypuff   SoulSilver     -Safari Zone
+Jigglypuff   HeartGold      -Safari Zone
+Zubat        SoulSilver     -Safari Zone
+Zubat        HeartGold      -Safari Zone
+Zubat        LeafGreen      -Altering Cave
+Zubat        FireRed        -Altering Cave
+Golbat       SoulSilver     -Safari Zone
+Golbat       HeartGold      -Safari Zone
+Golbat       Platinum       -Lost Tower
+Oddish       SoulSilver     -Safari Zone
+Oddish       HeartGold      -Safari Zone
+Paras        SoulSilver     -Safari Zone
+Paras        HeartGold      -Safari Zone
+Parasect     SoulSilver     -Safari Zone
+Parasect     HeartGold      -Safari Zone
+Parasect     Crystal        -Mt. Silver Cave
+Parasect     Crystal        +Mt. Silver
+Venonat      White 2        -Route 3
+Venonat      Black 2        -Route 3
+Venomoth     Alpha Sapphire -Mirage Islands
+Venomoth     Alpha Sapphire +Mirage Spots
+Venomoth     Omega Ruby     -Mirage Islands
+Venomoth     Omega Ruby     +Mirage Spots
+Diglett      SoulSilver     -Safari Zone
+Diglett      HeartGold      -Safari Zone
+Meowth       Ultra Moon     -Trainers' School
+Meowth       Ultra Moon     +Route 1
+Meowth       Ultra Sun      -Trainers' School
+Meowth       Ultra Sun      +Route 1
+Meowth       Moon           -Trainers' School
+Meowth       Moon           +Route 1
+Meowth       Sun            -Trainers' School
+Meowth       Sun            +Route 1
+Meowth       White 2        -Nimbasa City
+Meowth       Black 2        -Nimbasa City
+Meowth       Emerald        -Battle Frontier
+Meowth       Emerald        +Battle Tower
+Meowth       LeafGreen      -Sevault Canyon
+Meowth       LeafGreen      +Seavault Canyon
+Meowth       FireRed        -Sevault Canyon
+Meowth       FireRed        +Seavault Canyon
+Persian      Alpha Sapphire -Mirage Island
+Persian      Alpha Sapphire +Mirage Spots
+Persian      Omega Ruby     -Mirage Island
+Persian      Omega Ruby     +Mirage Spots
+Persian      LeafGreen      -Sevault Canyon
+Persian      LeafGreen      +Seavault Canyon
+Persian      FireRed        -Sevault Canyon
+Persian      FireRed        +Seavault Canyon
+Psyduck      Moon           -Ten Carat Hill
+Psyduck      Sun            -Ten Carat Hill
+Psyduck      SoulSilver     -Safari Zone
+Psyduck      HeartGold      -Safari Zone
+Psyduck      Platinum       +Route 202
+Psyduck      Pearl          -Route 212
+Psyduck      Diamond        -Route 212
+Psyduck      Blue           -Cerulean City
+Psyduck      Red            -Cerulean City
+Golduck      White 2        +Nature Sanctuary
+Golduck      Black 2        +Nature Sanctuary
+Golduck      Platinum       +Route 202
+Mankey       White 2        -Nimbasa City
+Mankey       Black 2        -Nimbasa City
+Poliwag      SoulSilver     -Safari Zone
+Poliwag      SoulSilver     -Mt. Moon Square
+Poliwag      SoulSilver     +Mt. Moon
+Poliwag      HeartGold      -Safari Zone
+Poliwag      HeartGold      -Mt. Moon Square
+Poliwag      HeartGold      +Mt. Moon
+Poliwag      Crystal        -Violet City
+Poliwag      Crystal        -Route 43
+Poliwag      Crystal        -Blackthorn City
+Poliwag      Silver         -Route 43
+Poliwag      Gold           -Route 43
+Poliwag      Yellow         -Cerulean City
+Poliwag      Yellow         -Cinnabar Island
+Poliwag      Yellow         -Indigo Plateau
+Poliwag      Blue           -Cerulean City
+Poliwag      Blue           -Cinnabar Island
+Poliwag      Blue           -Indigo Plateau
+Poliwag      Red            -Cerulean City
+Poliwag      Red            -Cinnabar Island
+Poliwag      Red            -Indigo Plateau
+Poliwhirl    White 2        -Pinwheel Forest
+Poliwhirl    Black 2        -Pinwheel Forest
+Poliwhirl    SoulSilver     -Safari Zone
+Poliwhirl    HeartGold      -Safari Zone
+Poliwhirl    Crystal        -Violet City
+Poliwhirl    Crystal        -Blackthorn City
+Abra         SoulSilver     -Safari Zone
+Abra         HeartGold      -Safari Zone
+Kadabra      Moon           +Poke Pelago
+Kadabra      Sun            +Poke Pelago
+Machop       SoulSilver     -Safari Zone
+Machop       HeartGold      -Safari Zone
+Machoke      SoulSilver     -Safari Zone
+Machoke      HeartGold      -Safari Zone
+Machoke      Yellow         -Underground Path
+Machoke      Yellow         +Route 5
+Machoke      Yellow         +Underground Path 5-6
+Machamp      Yellow         -Underground Path
+Tentacool    Ultra Moon     -Route 1
+Tentacool    Ultra Moon     -Route 8
+Tentacool    Ultra Sun      -Route 1
+Tentacool    Ultra Sun      -Route 8
+Tentacool    Moon           -Route 8
+Tentacool    Moon           -Hau'oli City
+Tentacool    Sun            -Route 8
+Tentacool    Sun            -Hau'oli City
+Tentacool    Alpha Sapphire -Team Aqua Hideout
+Tentacool    Alpha Sapphire +Team Magma/Aqua Hideout
+Tentacool    Omega Ruby     -Team Magma Hideout
+Tentacool    Omega Ruby     +Team Magma/Aqua Hideout
+Tentacool    Crystal        -Olivine City
+Tentacool    Yellow         -Cinnabar Island
+Tentacruel   Ultra Moon     +Ancient Poni Path
+Tentacruel   Ultra Sun      +Ancient Poni Path
+Tentacruel   Crystal        -Olivine City
+Geodude      SoulSilver     -Cerulean Cave
+Geodude      HeartGold      -Cerulean Cave
+Geodude      Platinum       -Ruin Maniac Cave
+Geodude      Pearl          -Ruin Maniac Cave
+Geodude      Diamond        -Ruin Maniac Cave
+Geodude      Emerald        -Magma Hideout
+Geodude      Emerald        +Team Magma/Aqua Hideout
+Geodude      LeafGreen      -Sevault Canyon
+Geodude      LeafGreen      +Seavault Canyon
+Geodude      FireRed        -Sevault Canyon
+Geodude      FireRed        +Seavault Canyon
+Graveler     Alpha Sapphire -Mirage Cave
+Graveler     Alpha Sapphire -Mirage Forest
+Graveler     Alpha Sapphire -Mirage Island
+Graveler     Alpha Sapphire -Mirage Mountain
+Graveler     Alpha Sapphire +Mirage Spots
+Graveler     Omega Ruby     -Mirage Cave
+Graveler     Omega Ruby     -Mirage Forest
+Graveler     Omega Ruby     -Mirage Island
+Graveler     Omega Ruby     -Mirage Mountain
+Graveler     Omega Ruby     +Mirage Spots
+Graveler     SoulSilver     -Cerulean Cave
+Graveler     SoulSilver     -Safari Zone
+Graveler     HeartGold      -Cerulean Cave
+Graveler     HeartGold      -Safari Zone
+Graveler     Emerald        -Magma Hideout
+Graveler     Emerald        +Team Magma/Aqua Hideout
+Graveler     LeafGreen      -Sevault Canyon
+Graveler     LeafGreen      +Seavault Canyon
+Graveler     FireRed        -Sevault Canyon
+Graveler     FireRed        +Seavault Canyon
+Graveler     Crystal        -Silver Cave
+Graveler     Crystal        +Mt. Silver
+Graveler     Silver         -Silver Cave
+Graveler     Silver         +Mt. Silver
+Graveler     Gold           -Silver Cave
+Graveler     Gold           +Mt. Silver
+Golem        Moon           -Tapu Village
+Golem        Sun            -Tapu Village
+Ponyta       SoulSilver     -Safari Zone
+Ponyta       HeartGold      -Safari Zone
+Slowpoke     Alpha Sapphire -Mirage Caves
+Slowpoke     Alpha Sapphire +Mirage Spots
+Slowpoke     Omega Ruby     -Mirage Caves
+Slowpoke     Omega Ruby     +Mirage Spots
+Slowpoke     White 2        -Abundant Shrine
+Slowpoke     Black 2        -Abundant Shrine
+Slowpoke     LeafGreen      -Tanoby Ruins
+Slowbro      SoulSilver     -Safari Zone
+Slowbro      HeartGold      -Safari Zone
+Slowbro      LeafGreen      -Cinnabar Island
+Magnemite    Ultra Moon     -Trainers' School
+Magnemite    Ultra Moon     +Route 1
+Magnemite    Ultra Sun      -Trainers' School
+Magnemite    Ultra Sun      +Route 1
+Magnemite    Moon           -Trainers' School
+Magnemite    Moon           +Route 1
+Magnemite    Sun            -Trainers' School
+Magnemite    Sun            +Route 1
+Magnemite    SoulSilver     -Safari Zone
+Magnemite    HeartGold      -Safari Zone
+Magneton     SoulSilver     -Safari Zone
+Magneton     HeartGold      -Safari Zone
+Farfetch'd   White 2        -Route 1
+Farfetch'd   Black 2        -Route 1
+Farfetch'd   SoulSilver     -Safari Zone
+Farfetch'd   HeartGold      -Safari Zone
+Doduo        White 2        -Route 12
+Doduo        Black 2        -Route 12
+Doduo        SoulSilver     -Safari Zone
+Doduo        HeartGold      -Safari Zone
+Dodrio       SoulSilver     -Safari Zone
+Dodrio       HeartGold      -Safari Zone
+Grimer       Ultra Moon     -Trainers' School
+Grimer       Ultra Moon     +Route 1
+Grimer       Ultra Sun      -Trainers' School
+Grimer       Ultra Sun      +Route 1
+Grimer       Moon           -Trainers' School
+Grimer       Moon           +Route 1
+Grimer       Sun            -Trainers' School
+Grimer       Sun            +Route 1
+Grimer       SoulSilver     -Safari Zone
+Grimer       HeartGold      -Safari Zone
+Muk          SoulSilver     -Safari Zone
+Muk          HeartGold      -Safari Zone
+Shellder     Crystal        -Route 20
+Shellder     Crystal        -Route 21
+Shellder     Crystal        -Olivine City
+Shellder     Crystal        -Cinnabar Island
+Shellder     Silver         -Route 20
+Shellder     Silver         -Route 21
+Shellder     Silver         -Cinnabar Island
+Shellder     Silver         +Union Cave
+Shellder     Gold           -Route 20
+Shellder     Gold           -Route 21
+Shellder     Gold           -Cinnabar Island
+Shellder     Gold           +Union Cave
+Shellder     Blue           -Cinnabar Island
+Shellder     Red            -Cinnabar Island
+Gastly       Ultra Moon     -Trainers' School
+Gastly       Ultra Moon     +Route 1
+Gastly       Ultra Sun      -Trainers' School
+Gastly       Ultra Sun      +Route 1
+Gastly       SoulSilver     -Safari Zone
+Gastly       HeartGold      -Safari Zone
+Haunter      SoulSilver     -Safari Zone
+Haunter      HeartGold      -Safari Zone
+Onix         Alpha Sapphire -Mirage Caves
+Onix         Alpha Sapphire +Mirage Spots
+Onix         Omega Ruby     -Mirage Caves
+Onix         Omega Ruby     +Mirage Spots
+Onix         LeafGreen      -Sevault Canyon
+Onix         LeafGreen      +Seavault Canyon
+Onix         FireRed        -Sevault Canyon
+Onix         FireRed        +Seavault Canyon
+Drowzee      SoulSilver     -Safari Zone
+Drowzee      HeartGold      -Safari Zone
+Hypno        White 2        -Dreamyard
+Hypno        Black 2        -Dreamyard
+Hypno        SoulSilver     -Safari Zone
+Hypno        HeartGold      -Safari Zone
+Krabby       SoulSilver     -Route 34
+Krabby       SoulSilver     -Route 40
+Krabby       SoulSilver     -Cherrygrove City
+Krabby       SoulSilver     -Olivine City
+Krabby       SoulSilver     -Union Cave
+Krabby       HeartGold      -Route 34
+Krabby       HeartGold      -Route 40
+Krabby       HeartGold      -Cherrygrove City
+Krabby       HeartGold      -Olivine City
+Krabby       HeartGold      -Union Cave
+Krabby       Crystal        -Olivine City
+Krabby       Crystal        -Cerulean City
+Krabby       Crystal        +Route 20
+Krabby       Crystal        +Route 21
+Krabby       Crystal        +Burned Tower
+Krabby       Crystal        +Cinnabar Island
+Krabby       Silver         -Union Cave
+Krabby       Silver         +Route 20
+Krabby       Silver         +Route 21
+Krabby       Silver         +Cinnabar Island
+Krabby       Gold           -Union Cave
+Krabby       Gold           +Route 20
+Krabby       Gold           +Route 21
+Krabby       Gold           +Cinnabar Island
+Krabby       Blue           -Cerulean City
+Krabby       Red            -Cerulean City
+Kingler      White 2        -Route 18
+Kingler      Black 2        -Route 18
+Kingler      SoulSilver     -Cherrygrove City
+Kingler      SoulSilver     -Olivine City
+Kingler      SoulSilver     -Cianwood City
+Kingler      SoulSilver     -Union Cave
+Kingler      SoulSilver     -Route 34
+Kingler      SoulSilver     -Route 40
+Kingler      HeartGold      -Cherrygrove City
+Kingler      HeartGold      -Olivine City
+Kingler      HeartGold      -Cianwood City
+Kingler      HeartGold      -Union Cave
+Kingler      HeartGold      -Route 34
+Kingler      HeartGold      -Route 40
+Kingler      LeafGreen      -Route 19
+Kingler      LeafGreen      -Route 20
+Kingler      LeafGreen      -Route 21
+Kingler      LeafGreen      +Cinnabar Island
+Kingler      Crystal        -Olivine City
+Kingler      Crystal        -Cerulean City
+Kingler      Crystal        +Route 20
+Kingler      Crystal        +Route 21
+Kingler      Crystal        +Cinnabar Island
+Kingler      Silver         -Cerulean City
+Kingler      Silver         -Union Cave
+Kingler      Silver         +Route 20
+Kingler      Silver         +Route 21
+Kingler      Silver         +Cinnabar Island
+Kingler      Gold           -Union Cave
+Kingler      Gold           +Route 20
+Kingler      Gold           +Route 21
+Kingler      Gold           +Cinnabar Island
+Electrode    Alpha Sapphire -Team Aqua Hideout
+Electrode    Alpha Sapphire +Team Magma/Aqua Hideout
+Electrode    Omega Ruby     -Team Magma Hideout
+Electrode    Omega Ruby     +Team Magma/Aqua Hideout
+Electrode    Emerald        -Team Aqua Hideout
+Electrode    Emerald        +Team Magma/Aqua Hideout
+Electrode    LeafGreen      -Power Plant
+Electrode    FireRed        -Power Plant
+Electrode    Sapphire       -Team Aqua Hideout
+Electrode    Sapphire       +Team Magma/Aqua Hideout
+Electrode    Ruby           -Team Magma Hideout
+Electrode    Ruby           +Team Magma/Aqua Hideout
+Electrode    Yellow         -Power Plant
+Electrode    Blue           -Power Plant
+Electrode    Red            -Power Plant
+Cubone       SoulSilver     -Safari Zone
+Cubone       HeartGold      -Safari Zone
+Cubone       LeafGreen      -Sevault Canyon
+Cubone       LeafGreen      +Seavault Canyon
+Cubone       FireRed        -Sevault Canyon
+Cubone       FireRed        +Seavault Canyon
+Marowak      SoulSilver     -Safari Zone
+Marowak      HeartGold      -Safari Zone
+Marowak      LeafGreen      -Sevault Canyon
+Marowak      LeafGreen      +Seavault Canyon
+Marowak      FireRed        -Sevault Canyon
+Marowak      FireRed        +Seavault Canyon
+Lickitung    SoulSilver     -Safari Zone
+Lickitung    HeartGold      -Safari Zone
+Weezing      SoulSilver     -Safari Zone
+Weezing      HeartGold      -Safari Zone
+Rhyhorn      White 2        -Nimbasa City
+Rhyhorn      Black 2        -Nimbasa City
+Rhyhorn      SoulSilver     -Safari Zone
+Rhyhorn      HeartGold      -Safari Zone
+Rhydon       SoulSilver     -Safari Zone
+Rhydon       HeartGold      -Safari Zone
+Chansey      SoulSilver     -Safari Zone
+Chansey      HeartGold      -Safari Zone
+Tangela      Alpha Sapphire -Mirage Forest
+Tangela      Alpha Sapphire -Mirage Island
+Tangela      Alpha Sapphire -Mirage Mountain
+Tangela      Alpha Sapphire +Mirage Spots
+Tangela      Omega Ruby     -Mirage Forest
+Tangela      Omega Ruby     -Mirage Island
+Tangela      Omega Ruby     -Mirage Mountain
+Tangela      Omega Ruby     +Mirage Spots
+Tangela      SoulSilver     -Route 12
+Tangela      SoulSilver     -Route 13
+Tangela      SoulSilver     -Route 14
+Tangela      SoulSilver     -Route 15
+Tangela      SoulSilver     -Route 18
+Tangela      SoulSilver     -Fuchsia City
+Tangela      HeartGold      -Route 12
+Tangela      HeartGold      -Route 13
+Tangela      HeartGold      -Route 14
+Tangela      HeartGold      -Route 15
+Tangela      HeartGold      -Route 18
+Tangela      HeartGold      -Fuchsia City
+Kangaskhan   SoulSilver     -Safari Zone
+Kangaskhan   HeartGold      -Safari Zone
+Horsea       Blue           -Cinnabar Island
+Horsea       Red            -Cinnabar Island
+Seadra       White          -Route 17
+Seadra       White          -Route 18
+Seadra       Black          -Route 17
+Seadra       Black          -Route 18
+Seadra       FireRed        -Route 19
+Seadra       FireRed        -Route 20
+Seadra       FireRed        -Route 21
+Goldeen      SoulSilver     -Route 4
+Goldeen      SoulSilver     -Safari Zone
+Goldeen      HeartGold      -Route 4
+Goldeen      HeartGold      -Safari Zone
+Goldeen      Platinum       +Route 202
+Goldeen      Emerald        +Route 118
+Goldeen      Emerald        +Route 119
+Goldeen      Sapphire       +Route 118
+Goldeen      Sapphire       +Route 119
+Goldeen      Ruby           +Route 118
+Goldeen      Ruby           +Route 119
+Goldeen      Crystal        -Cerulean City
+Goldeen      Yellow         -Cerulean City
+Goldeen      Yellow         -Cinnabar Island
+Goldeen      Yellow         -Indigo Plateau
+Goldeen      Blue           -Cerulean City
+Goldeen      Blue           -Cinnabar Island
+Goldeen      Blue           -Indigo Plateau
+Goldeen      Red            -Cerulean City
+Goldeen      Red            -Cinnabar Island
+Goldeen      Red            -Indigo Plateau
+Seaking      SoulSilver     -Route 4
+Seaking      SoulSilver     -Safari Zone
+Seaking      HeartGold      -Route 4
+Seaking      HeartGold      -Safari Zone
+Seaking      Platinum       +Route 202
+Seaking      Crystal        -Cerulean City
+Seaking      Yellow         -Cerulean City
+Staryu       Alpha Sapphire -Team Aqua Hideout
+Staryu       Alpha Sapphire +Team Magma/Aqua Hideout
+Staryu       Omega Ruby     -Team Magma Hideout
+Staryu       Omega Ruby     +Team Magma/Aqua Hideout
+Staryu       SoulSilver     -Route 19
+Staryu       SoulSilver     -Route 34
+Staryu       SoulSilver     -Route 40
+Staryu       SoulSilver     -Cherrygrove City
+Staryu       SoulSilver     -Cianwood City
+Staryu       SoulSilver     -Union Cave
+Staryu       SoulSilver     -Olivine City
+Staryu       HeartGold      -Route 19
+Staryu       HeartGold      -Route 34
+Staryu       HeartGold      -Route 40
+Staryu       HeartGold      -Cherrygrove City
+Staryu       HeartGold      -Cianwood City
+Staryu       HeartGold      -Union Cave
+Staryu       HeartGold      -Olivine City
+Staryu       Platinum       -Sunyshore City
+Staryu       Crystal        -Olivine City
+Staryu       Crystal        -Cerulean City
+Staryu       Crystal        +Route 20
+Staryu       Crystal        +Route 21
+Staryu       Silver         -Cerulean City
+Staryu       Silver         -Union Cave
+Staryu       Silver         +Route 20
+Staryu       Silver         +Route 21
+Staryu       Gold           -Cerulean City
+Staryu       Gold           -Union Cave
+Staryu       Gold           +Route 20
+Staryu       Gold           +Route 21
+Staryu       Yellow         -Cinnabar Island
+Staryu       Blue           -Cinnabar Island
+Staryu       Red            -Cinnabar Island
+Mr. Mime     White 2        -Route 20
+Mr. Mime     SoulSilver     -Safari Zone
+Mr. Mime     HeartGold      -Safari Zone
+Electabuzz   SoulSilver     -Safari Zone
+Electabuzz   HeartGold      -Safari Zone
+Magmar       SoulSilver     -Safari Zone
+Magmar       HeartGold      -Safari Zone
+Pinsir       Black 2        -Lostlorn Forest
+Tauros       SoulSilver     -Safari Zone
+Tauros       HeartGold      -Safari Zone
+Magikarp     Ultra Moon     +Hau'oli City
+Magikarp     Ultra Moon     +Tapu Village
+Magikarp     Ultra Moon     +Ancient Poni Path
+Magikarp     Ultra Sun      +Hau'oli City
+Magikarp     Ultra Sun      +Tapu Village
+Magikarp     Ultra Sun      +Ancient Poni Path
+Magikarp     Moon           -Akala Outskirts
+Magikarp     Moon           +Tapu Village
+Magikarp     Sun            -Akala Outskirts
+Magikarp     Sun            +Tapu Village
+Magikarp     Alpha Sapphire -Team Aqua Hideout
+Magikarp     Alpha Sapphire +Team Magma/Aqua Hideout
+Magikarp     Omega Ruby     -Team Magma Hideout
+Magikarp     Omega Ruby     +Team Magma/Aqua Hideout
+Magikarp     White 2        -Marvelous Bridge
+Magikarp     White 2        +Nature Sanctuary
+Magikarp     Black 2        -Marvelous Bridge
+Magikarp     Black 2        +Nature Sanctuary
+Magikarp     SoulSilver     -Route 19
+Magikarp     SoulSilver     -Route 34
+Magikarp     SoulSilver     -Route 40
+Magikarp     SoulSilver     -Cherrygrove City
+Magikarp     SoulSilver     -Olivine City
+Magikarp     SoulSilver     -Cianwood City
+Magikarp     SoulSilver     -Route 4
+Magikarp     SoulSilver     -Mt. Moon Square
+Magikarp     SoulSilver     +Mt. Moon
+Magikarp     HeartGold      -Route 19
+Magikarp     HeartGold      -Route 34
+Magikarp     HeartGold      -Route 40
+Magikarp     HeartGold      -Cherrygrove City
+Magikarp     HeartGold      -Olivine City
+Magikarp     HeartGold      -Cianwood City
+Magikarp     HeartGold      -Route 4
+Magikarp     HeartGold      -Mt. Moon Square
+Magikarp     HeartGold      +Mt. Moon
+Magikarp     Platinum       +Route 202
+Magikarp     Crystal        -Violet City
+Magikarp     Crystal        -Olivine City
+Magikarp     Crystal        -Cerulean City
+Magikarp     Crystal        -Tohjo Falls
+Magikarp     Crystal        -Blackthorn City
+Magikarp     Silver         -Tohjo Falls
+Magikarp     Gold           -Tohjo Falls
+Magikarp     Yellow         -Cerulean City
+Magikarp     Yellow         -Cinnabar Island
+Magikarp     Yellow         -Indigo Plateau
+Magikarp     Blue           -Cerulean City
+Magikarp     Blue           -Cinnabar Island
+Magikarp     Blue           -Indigo Plateau
+Magikarp     Red            -Cerulean City
+Magikarp     Red            -Cinnabar Island
+Magikarp     Red            -Indigo Plateau
+Gyarados     Ultra Moon     +Hau'oli City
+Gyarados     Ultra Moon     +Tapu Village
+Gyarados     Ultra Moon     +Ancient Poni Path
+Gyarados     Ultra Sun      +Hau'oli City
+Gyarados     Ultra Sun      +Tapu Village
+Gyarados     Ultra Sun      +Ancient Poni Path
+Gyarados     Moon           -Akala Outskirts
+Gyarados     Moon           +Tapu Village
+Gyarados     Sun            -Akala Outskirts
+Gyarados     Sun            +Tapu Village
+Gyarados     White 2        +Nature Sanctuary
+Gyarados     Black 2        +Nature Sanctuary
+Gyarados     Platinum       +Route 202
+Lapras       Ultra Moon     +Ancient Poni Path
+Lapras       Ultra Sun      +Ancient Poni Path
+Lapras       SoulSilver     -Safari Zone
+Lapras       HeartGold      -Safari Zone
+Lapras       LeafGreen      -Silph Co.
+Lapras       LeafGreen      +Silph Co
+Lapras       FireRed        -Silph Co.
+Lapras       FireRed        +Silph Co
+Lapras       Yellow         -Silph Co.
+Lapras       Yellow         +Silph Co
+Lapras       Blue           -Silph Co.
+Lapras       Blue           +Silph Co
+Lapras       Red            -Silph Co.
+Lapras       Red            +Silph Co
+Ditto        Alpha Sapphire -Mirage Cave
+Ditto        Alpha Sapphire -Mirage Island
+Ditto        Alpha Sapphire +Mirage Spots
+Ditto        Omega Ruby     -Mirage Cave
+Ditto        Omega Ruby     -Mirage Island
+Ditto        Omega Ruby     +Mirage Spots
+Ditto        SoulSilver     -Safari Zone
+Ditto        HeartGold      -Safari Zone
+Eevee        Platinum       -Hearthome City
+Eevee        Pearl          -Hearthome City
+Eevee        Diamond        -Hearthome City
+Eevee        LeafGreen      -Celadon Mansion
+Eevee        LeafGreen      +Celadon City
+Eevee        FireRed        -Celadon Mansion
+Eevee        FireRed        +Celadon City
+Eevee        Yellow         -Celadon Mansion
+Eevee        Yellow         +Celadon City
+Eevee        Blue           -Celadon Mansion
+Eevee        Blue           +Celadon City
+Eevee        Red            -Celadon Mansion
+Eevee        Red            +Celadon City
+Porygon      Alpha Sapphire -Mirage Island
+Porygon      Alpha Sapphire -Mirage Mountain
+Porygon      Alpha Sapphire +Mirage Spots
+Porygon      Omega Ruby     -Mirage Island
+Porygon      Omega Ruby     -Mirage Mountain
+Porygon      Omega Ruby     +Mirage Spots
+Omanyte      Omega Ruby     +Rustboro City
+Omanyte      X              +Ambrette Town
+Omanyte      SoulSilver     +Pewter City
+Kabuto       Alpha Sapphire +Rustboro City
+Kabuto       X              +Ambrette Town
+Kabuto       HeartGold      +Pewter City
+Snorlax      Ultra Moon     -Route 1
+Snorlax      Ultra Sun      -Route 1
+Snorlax      White 2        -Nimbasa City
+Snorlax      Black 2        -Nimbasa City
+Snorlax      SoulSilver     -Route 12
+Snorlax      HeartGold      -Route 12
+Articuno     Platinum       -Roaming Pokemon
+Zapdos       Platinum       -Roaming Pokemon
+Moltres      Platinum       -Roaming Pokemon
+Dratini      White 2        -Floccesy Town
+Dratini      SoulSilver     -Safari Zone
+Dratini      HeartGold      -Safari Zone
+Dragonite    White 2        -Route 18
+Dragonite    Black 2        -Route 18
+Mew          Emerald        +Faraway Island
+Sentret      SoulSilver     -Safari Zone
+Sentret      HeartGold      -Safari Zone
+Furret       White 2        -Route 7
+Furret       Black 2        -Route 7
+Hoothoot     SoulSilver     -Route 4
+Hoothoot     SoulSilver     -Ecruteak City
+Hoothoot     HeartGold      -Route 4
+Hoothoot     HeartGold      -Ecruteak City
+Hoothoot     Platinum       -Route 211
+Noctowl      White 2        +Nature Sanctuary
+Noctowl      Black 2        +Nature Sanctuary
+Noctowl      Crystal        +Route 35
+Noctowl      Silver         +Route 35
+Noctowl      Gold           +Route 35
+Ledyba       Y              -Berry fields
+Ledyba       Y              +Route 7
+Ledyba       X              -Berry fields
+Ledyba       X              +Route 7
+Ledian       White 2        -Route 22
+Ariados      Black 2        -Route 22
+Chinchou     Moon           -Akala Outskirts
+Chinchou     Sun            -Akala Outskirts
+Chinchou     Emerald        -Underwater
+Chinchou     Sapphire       -Underwater
+Chinchou     Ruby           -Underwater
+Chinchou     Crystal        -Route 20
+Chinchou     Crystal        -Route 21
+Chinchou     Crystal        -Olivine City
+Chinchou     Crystal        -Cinnabar Island
+Chinchou     Silver         -Route 20
+Chinchou     Silver         -Route 21
+Chinchou     Silver         -Cinnabar Island
+Chinchou     Silver         +Union Cave
+Chinchou     Gold           -Route 20
+Chinchou     Gold           -Route 21
+Chinchou     Gold           -Cinnabar Island
+Chinchou     Gold           +Union Cave
+Lanturn      Ultra Moon     +Route 8
+Lanturn      Ultra Sun      +Route 8
+Lanturn      Crystal        -Route 20
+Lanturn      Crystal        -Route 21
+Lanturn      Crystal        -Olivine City
+Lanturn      Crystal        -Cinnabar Island
+Lanturn      Silver         -Route 20
+Lanturn      Silver         -Route 21
+Lanturn      Silver         -Cinnabar Island
+Lanturn      Silver         +Union Cave
+Lanturn      Gold           -Route 20
+Lanturn      Gold           -Route 21
+Lanturn      Gold           -Cinnabar Island
+Lanturn      Gold           +Union Cave
+Pichu        SoulSilver     +Ilex Forest
+Pichu        HeartGold      +Ilex Forest
+Togepi       Alpha Sapphire -Lavaridge Town
+Togepi       Omega Ruby     -Lavaridge Town
+Togepi       White 2        -Nimbasa City
+Togepi       Black 2        -Nimbasa City
+Togepi       SoulSilver     -Violet City
+Togepi       HeartGold      -Violet City
+Togepi       Crystal        -Violet City
+Natu         White 2        -Route 5
+Natu         Black 2        -Route 5
+Xatu         Alpha Sapphire -Mirage Islands
+Xatu         Alpha Sapphire -Mirage Mountain
+Xatu         Alpha Sapphire +Mirage Spots
+Xatu         Omega Ruby     -Mirage Islands
+Xatu         Omega Ruby     -Mirage Mountain
+Xatu         Omega Ruby     +Mirage Spots
+Mareep       SoulSilver     -Violet City
+Mareep       HeartGold      -Violet City
+Mareep       Emerald        +Altering Cave
+Flaaffy      Ultra Moon     +Poke Pelago
+Flaaffy      Ultra Sun      +Poke Pelago
+Marill       SoulSilver     -Safari Zone
+Marill       HeartGold      -Safari Zone
+Marill       FireRed        +Icefall Cave
+Marill       Crystal        +Route 30
+Sudowoodo    Ultra Moon     -Route 1
+Sudowoodo    Ultra Moon     -Route 5
+Sudowoodo    Ultra Sun      -Route 1
+Sudowoodo    Ultra Sun      -Route 5
+Sudowoodo    Moon           -Route 5
+Sudowoodo    Sun            -Route 5
+Sudowoodo    Black 2        -Route 20
+Sudowoodo    Emerald        -Battle Frontier
+Hoppip       White 2        -Route 18
+Hoppip       Black 2        -Route 18
+Skiploom     SoulSilver     -Safari Zone
+Skiploom     HeartGold      -Safari Zone
+Jumpluff     SoulSilver     -Safari Zone
+Jumpluff     HeartGold      -Safari Zone
+Aipom        SoulSilver     -Route 33
+Aipom        Emerald        +Altering Cave
+Aipom        Silver         +Route 45
+Aipom        Silver         +Route 46
+Aipom        Gold           +Route 45
+Aipom        Gold           +Route 46
+Sunkern      Alpha Sapphire -Mirage Forests
+Sunkern      Alpha Sapphire +Mirage Spots
+Sunkern      Omega Ruby     -Mirage Forests
+Sunkern      Omega Ruby     +Mirage Spots
+Wooper       SoulSilver     -Violet City
+Wooper       SoulSilver     -Safari Zone
+Wooper       HeartGold      -Violet City
+Wooper       HeartGold      -Safari Zone
+Wooper       FireRed        -Icefall Cave
+Quagsire     White 2        -Route 8
+Quagsire     Black 2        -Route 8
+Quagsire     SoulSilver     -Route 26
+Quagsire     SoulSilver     -Safari Zone
+Quagsire     HeartGold      -Safari Zone
+Murkrow      Alpha Sapphire -Soaring in the sky
+Murkrow      Omega Ruby     -Soaring in the sky
+Murkrow      White 2        -Pinwheel Forest
+Murkrow      Black 2        -Pinwheel Forest
+Murkrow      SoulSilver     -Safari Zone
+Murkrow      HeartGold      -Safari Zone
+Misdreavus   SoulSilver     -Safari Zone
+Misdreavus   HeartGold      -Safari Zone
+Unown        Alpha Sapphire -Mirage Cave
+Unown        Alpha Sapphire +Mirage Spots
+Unown        Omega Ruby     -Mirage Cave
+Unown        Omega Ruby     +Mirage Spots
+Unown        LeafGreen      -Tanoby Chambers
+Unown        LeafGreen      +Tanoby Ruins
+Unown        FireRed        -Tanoby Chambers
+Unown        FireRed        +Tanoby Ruins
+Wobbuffet    White 2        -Nimbasa City
+Wobbuffet    Black 2        -Nimbasa City
+Wobbuffet    SoulSilver     -Safari Zone
+Wobbuffet    HeartGold      -Safari Zone
+Girafarig    Alpha Sapphire -Mirage Mountain
+Girafarig    Alpha Sapphire +Mirage Spots
+Girafarig    Omega Ruby     -Mirage Mountain
+Girafarig    Omega Ruby     +Mirage Spots
+Girafarig    White 2        +Nature Sanctuary
+Girafarig    Black 2        +Nature Sanctuary
+Girafarig    SoulSilver     -Safari Zone
+Girafarig    HeartGold      -Safari Zone
+Pineco       White 2        -Route 16
+Pineco       Black 2        -Route 16
+Pineco       SoulSilver     -Route 4
+Pineco       SoulSilver     -Route 25
+Pineco       HeartGold      -Route 4
+Pineco       HeartGold      -Route 25
+Pineco       Emerald        +Altering Cave
+Forretress   Alpha Sapphire -Mirage Forest
+Forretress   Alpha Sapphire -Mirage Mountains
+Forretress   Alpha Sapphire +Mirage Spots
+Forretress   Omega Ruby     -Mirage Forest
+Forretress   Omega Ruby     -Mirage Mountains
+Forretress   Omega Ruby     +Mirage Spots
+Dunsparce    White 2        +Nature Sanctuary
+Dunsparce    Black 2        +Nature Sanctuary
+Snubbull     Ultra Moon     +Poke Pelago
+Snubbull     Ultra Sun      +Poke Pelago
+Snubbull     SoulSilver     +Route 39
+Snubbull     Crystal        -Route 5
+Granbull     White 2        -Route 2
+Granbull     Black 2        -Route 2
+Granbull     Crystal        +Route 5
+Qwilfish     White          -Route 17
+Qwilfish     White          -Route 18
+Qwilfish     Black          -Route 17
+Qwilfish     Black          -Route 18
+Shuckle      Emerald        +Altering Cave
+Shuckle      Crystal        +Burned Tower
+Heracross    White 2        -Lostlorn Forest
+Heracross    SoulSilver     -Route 33
+Heracross    Silver         +Route 45
+Heracross    Silver         +Route 46
+Heracross    Gold           +Route 45
+Heracross    Gold           +Route 46
+Teddiursa    White 2        -Nimbasa City
+Teddiursa    Black 2        -Nimbasa City
+Teddiursa    Emerald        +Altering Cave
+Slugma       SoulSilver     -Violet City
+Slugma       HeartGold      -Violet City
+Piloswine    LeafGreen      +Icefall Cave
+Piloswine    FireRed        +Icefall Cave
+Corsola      Ultra Moon     +Hau'oli City
+Corsola      Ultra Sun      +Hau'oli City
+Corsola      SoulSilver     -Route 19
+Corsola      SoulSilver     -Route 34
+Corsola      SoulSilver     -Route 40
+Corsola      SoulSilver     -Cherrygrove City
+Corsola      SoulSilver     -Olivine City
+Corsola      SoulSilver     -Cianwood City
+Corsola      SoulSilver     -Union Cave
+Corsola      HeartGold      -Route 19
+Corsola      HeartGold      -Route 34
+Corsola      HeartGold      -Route 40
+Corsola      HeartGold      -Cherrygrove City
+Corsola      HeartGold      -Olivine City
+Corsola      HeartGold      -Cianwood City
+Corsola      HeartGold      -Union Cave
+Corsola      Crystal        -Olivine City
+Corsola      Crystal        -Cerulean City
+Corsola      Crystal        +Route 20
+Corsola      Crystal        +Route 21
+Corsola      Silver         -Cerulean City
+Corsola      Silver         -Union Cave
+Corsola      Silver         +Route 20
+Corsola      Silver         +Route 21
+Corsola      Gold           -Cerulean City
+Corsola      Gold           -Union Cave
+Corsola      Gold           +Route 20
+Corsola      Gold           +Route 21
+Remoraid     Ultra Moon     -Route 1
+Remoraid     Ultra Sun      -Route 1
+Octillery    Ultra Moon     +Hau'oli City
+Octillery    Ultra Sun      +Hau'oli City
+Mantine      LeafGreen      -Trainer Tower
+Skarmory     FireRed        -Sevault Canyon
+Skarmory     FireRed        +Seavault Canyon
+Houndour     SoulSilver     -Safari Zone
+Houndour     HeartGold      -Safari Zone
+Houndour     Emerald        +Altering Cave
+Houndoom     SoulSilver     -Safari Zone
+Houndoom     HeartGold      -Safari Zone
+Kingdra      White          -Route 17
+Kingdra      White          -Route 18
+Kingdra      Black          -Route 17
+Kingdra      Black          -Route 18
+Phanpy       White 2        -Nimbasa City
+Phanpy       Black 2        -Nimbasa City
+Phanpy       LeafGreen      -Sevault Canyon
+Phanpy       LeafGreen      +Seavault Canyon
+Phanpy       FireRed        -Sevault Canyon
+Phanpy       FireRed        +Seavault Canyon
+Donphan      Alpha Sapphire -Mirage Mountains
+Donphan      Alpha Sapphire +Mirage Spots
+Donphan      Omega Ruby     -Mirage Mountains
+Donphan      Omega Ruby     +Mirage Spots
+Stantler     Alpha Sapphire -Mirage Mountain
+Stantler     Alpha Sapphire +Mirage Spots
+Stantler     Omega Ruby     -Mirage Mountain
+Stantler     Omega Ruby     +Mirage Spots
+Stantler     SoulSilver     -Safari Zone
+Stantler     HeartGold      -Safari Zone
+Stantler     Emerald        +Altering Cave
+Smeargle     SoulSilver     -Safari Zone
+Smeargle     HeartGold      -Safari Zone
+Smeargle     Emerald        +Altering Cave
+Elekid       Alpha Sapphire -Mirage Mountain
+Elekid       Alpha Sapphire +Mirage Spots
+Elekid       Omega Ruby     -Mirage Mountain
+Elekid       Omega Ruby     +Mirage Spots
+Magby        Alpha Sapphire -Mirage Mountain
+Magby        Alpha Sapphire +Mirage Spots
+Magby        Omega Ruby     -Mirage Mountain
+Magby        Omega Ruby     +Mirage Spots
+Raikou       Alpha Sapphire -Trackless Forest
+Raikou       Omega Ruby     -Trackless Forest
+Raikou       SoulSilver     -Roaming Pokemon
+Raikou       HeartGold      -Roaming Pokemon
+Raikou       LeafGreen      -Roaming Pokemon
+Raikou       FireRed        -Roaming Pokemon
+Raikou       Crystal        -Roaming Pokemon
+Raikou       Silver         -Roaming Pokemon
+Raikou       Gold           -Roaming Pokemon
+Entei        Alpha Sapphire -Trackless Forest
+Entei        Omega Ruby     -Trackless Forest
+Entei        SoulSilver     -Roaming Pokemon
+Entei        HeartGold      -Roaming Pokemon
+Entei        LeafGreen      -Roaming Pokemon
+Entei        FireRed        -Roaming Pokemon
+Entei        Crystal        -Roaming Pokemon
+Entei        Silver         -Roaming Pokemon
+Entei        Gold           -Roaming Pokemon
+Suicune      Alpha Sapphire -Trackless Forest
+Suicune      Omega Ruby     -Trackless Forest
+Suicune      SoulSilver     -Burned Tower
+Suicune      HeartGold      -Burned Tower
+Suicune      LeafGreen      -Roaming Pokemon
+Suicune      FireRed        -Roaming Pokemon
+Suicune      Silver         -Roaming Pokemon
+Suicune      Gold           -Roaming Pokemon
+Larvitar     SoulSilver     -Safari Zone
+Larvitar     HeartGold      -Safari Zone
+Larvitar     LeafGreen      -Sevault Canyon
+Larvitar     LeafGreen      +Seavault Canyon
+Larvitar     FireRed        -Sevault Canyon
+Larvitar     FireRed        +Seavault Canyon
+Pupitar      Crystal        -Silver Cave
+Pupitar      Crystal        +Mt. Silver
+Lugia        Emerald        +Navel Rock
+Lugia        LeafGreen      +Navel Rock
+Lugia        FireRed        +Navel Rock
+Ho-Oh        Emerald        +Navel Rock
+Ho-Oh        LeafGreen      +Navel Rock
+Ho-Oh        FireRed        +Navel Rock
+Treecko      SoulSilver     -Silph Co.
+Treecko      SoulSilver     +Silph Co
+Treecko      HeartGold      -Silph Co.
+Treecko      HeartGold      +Silph Co
+Torchic      SoulSilver     -Silph Co.
+Torchic      SoulSilver     +Silph Co
+Torchic      HeartGold      -Silph Co.
+Torchic      HeartGold      +Silph Co
+Mudkip       SoulSilver     -Silph Co.
+Mudkip       SoulSilver     +Silph Co
+Mudkip       HeartGold      -Silph Co.
+Mudkip       HeartGold      +Silph Co
+Zigzagoon    SoulSilver     -Safari Zone
+Zigzagoon    HeartGold      -Safari Zone
+Linoone      SoulSilver     -Safari Zone
+Linoone      HeartGold      -Safari Zone
+Wurmple      SoulSilver     -Route 4
+Wurmple      HeartGold      -Route 4
+Lotad        SoulSilver     -Safari Zone
+Lotad        HeartGold      -Safari Zone
+Lombre       White 2        -Route 3
+Lombre       Black 2        -Route 3
+Lombre       SoulSilver     -Safari Zone
+Lombre       HeartGold      -Safari Zone
+Seedot       SoulSilver     -Safari Zone
+Seedot       HeartGold      -Safari Zone
+Nuzleaf      White 2        +Nature Sanctuary
+Nuzleaf      Black 2        +Nature Sanctuary
+Nuzleaf      SoulSilver     -Safari Zone
+Nuzleaf      HeartGold      -Safari Zone
+Shiftry      White 2        +Nature Sanctuary
+Shiftry      Black 2        +Nature Sanctuary
+Taillow      Alpha Sapphire -Soaring in the sky
+Taillow      Omega Ruby     -Soaring in the sky
+Swellow      White 2        -Route 13
+Swellow      Black 2        -Route 13
+Wingull      Ultra Moon     -Route 8
+Wingull      Ultra Sun      -Route 8
+Wingull      Moon           -Route 8
+Wingull      Sun            -Route 8
+Wingull      Alpha Sapphire -Soaring in the sky
+Wingull      Omega Ruby     -Soaring in the sky
+Wingull      Emerald        -Dewford Town
+Wingull      Sapphire       -Dewford Town
+Wingull      Ruby           -Dewford Town
+Pelipper     Alpha Sapphire -Soaring in the sky
+Pelipper     Omega Ruby     -Soaring in the sky
+Pelipper     Emerald        -Dewford Town
+Pelipper     Sapphire       -Dewford Town
+Pelipper     Ruby           -Dewford Town
+Ralts        White 2        -Nimbasa City
+Ralts        Black 2        -Nimbasa City
+Ralts        Platinum       -Route 212
+Surskit      SoulSilver     -Safari Zone
+Surskit      HeartGold      -Safari Zone
+Surskit      Emerald        -Route 102
+Surskit      Emerald        -Route 114
+Surskit      Emerald        -Route 117
+Surskit      Emerald        -Route 119
+Masquerain   White 2        -Route 11
+Masquerain   Black 2        -Route 11
+Masquerain   SoulSilver     -Safari Zone
+Masquerain   HeartGold      -Safari Zone
+Shroomish    SoulSilver     -Safari Zone
+Shroomish    HeartGold      -Safari Zone
+Breloom      White 2        -Pinwheel Forest
+Breloom      Black 2        -Pinwheel Forest
+Breloom      SoulSilver     -Safari Zone
+Breloom      HeartGold      -Safari Zone
+Vigoroth     SoulSilver     -Safari Zone
+Vigoroth     HeartGold      -Safari Zone
+Hariyama     White 2        -Pinwheel Forest
+Hariyama     Black 2        -Pinwheel Forest
+Azurill      SoulSilver     -Safari Zone
+Azurill      HeartGold      -Safari Zone
+Nosepass     White 2        -Route 6
+Nosepass     Black 2        -Route 6
+Nosepass     SoulSilver     -Safari Zone
+Nosepass     HeartGold      -Safari Zone
+Sableye      White 2        -Nimbasa City
+Sableye      Black 2        -Nimbasa City
+Mawile       White 2        -Nimbasa City
+Mawile       Black 2        -Nimbasa City
+Aron         SoulSilver     -Safari Zone
+Aron         HeartGold      -Safari Zone
+Lairon       SoulSilver     -Safari Zone
+Lairon       HeartGold      -Safari Zone
+Meditite     SoulSilver     -Safari Zone
+Meditite     HeartGold      -Safari Zone
+Medicham     White 2        -Pinwheel Forest
+Medicham     Black 2        -Pinwheel Forest
+Electrike    SoulSilver     -Safari Zone
+Electrike    HeartGold      -Safari Zone
+Manectric    White 2        -Route 3
+Manectric    Black 2        -Route 3
+Manectric    SoulSilver     -Safari Zone
+Manectric    HeartGold      -Safari Zone
+Plusle       Black 2        -Route 6
+Plusle       Emerald        -Fortree City
+Plusle       Sapphire       +Fortree City
+Plusle       Ruby           +Fortree City
+Minun        White 2        -Route 6
+Volbeat      Y              -Berry fields
+Volbeat      X              -Berry fields
+Volbeat      Black 2        -Route 3
+Volbeat      SoulSilver     -Safari Zone
+Volbeat      HeartGold      -Safari Zone
+Illumise     Y              -Berry fields
+Illumise     X              -Berry fields
+Illumise     White 2        -Route 3
+Illumise     SoulSilver     -Safari Zone
+Illumise     HeartGold      -Safari Zone
+Roselia      SoulSilver     -Safari Zone
+Roselia      HeartGold      -Safari Zone
+Roselia      Platinum       +Great Marsh
+Swalot       White 2        -Route 9
+Swalot       Black 2        -Route 9
+Carvanha     Ultra Moon     +Ancient Poni Path
+Carvanha     Ultra Sun      +Ancient Poni Path
+Sharpedo     Ultra Moon     +Ancient Poni Path
+Sharpedo     Ultra Sun      +Ancient Poni Path
+Sharpedo     Alpha Sapphire -Battle Resort
+Sharpedo     Omega Ruby     -Battle Resort
+Wailmer      Ultra Moon     +Ancient Poni Path
+Wailmer      Ultra Sun      +Ancient Poni Path
+Wailmer      Alpha Sapphire -Team Aqua Hideout
+Wailmer      Alpha Sapphire +Team Magma/Aqua Hideout
+Wailmer      Omega Ruby     -Team Magma Hideout
+Wailmer      Omega Ruby     +Team Magma/Aqua Hideout
+Wailmer      Platinum       -Route 223
+Wailord      Ultra Moon     +Ancient Poni Path
+Wailord      Ultra Sun      +Ancient Poni Path
+Wailord      Platinum       -Route 223
+Camerupt     Alpha Sapphire -Battle Resort
+Camerupt     Omega Ruby     -Battle Resort
+Torkoal      SoulSilver     -Safari Zone
+Torkoal      HeartGold      -Safari Zone
+Torkoal      Emerald        -Magma Hideout
+Torkoal      Emerald        +Team Magma/Aqua Hideout
+Spinda       White 2        -Nimbasa City
+Spinda       Black 2        -Nimbasa City
+Spinda       SoulSilver     -Safari Zone
+Spinda       HeartGold      -Safari Zone
+Trapinch     SoulSilver     -Safari Zone
+Trapinch     HeartGold      -Safari Zone
+Vibrava      SoulSilver     -Safari Zone
+Vibrava      HeartGold      -Safari Zone
+Cacnea       SoulSilver     -Safari Zone
+Cacnea       HeartGold      -Safari Zone
+Cacturne     White 2        -Reversal Mountain
+Cacturne     Black 2        -Reversal Mountain
+Cacturne     SoulSilver     -Safari Zone
+Cacturne     HeartGold      -Safari Zone
+Swablu       Alpha Sapphire -Soaring in the sky
+Swablu       Omega Ruby     -Soaring in the sky
+Altaria      White 2        +Nature Sanctuary
+Altaria      Black 2        +Nature Sanctuary
+Zangoose     White 2        -Route 23
+Zangoose     Black 2        -Route 23
+Zangoose     SoulSilver     -Safari Zone
+Zangoose     HeartGold      -Safari Zone
+Seviper      White 2        -Route 23
+Seviper      Black 2        -Route 23
+Seviper      SoulSilver     -Safari Zone
+Seviper      HeartGold      -Safari Zone
+Lunatone     SoulSilver     -Safari Zone
+Lunatone     HeartGold      -Safari Zone
+Solrock      SoulSilver     -Safari Zone
+Solrock      HeartGold      -Safari Zone
+Barboach     SoulSilver     -Safari Zone
+Barboach     HeartGold      -Safari Zone
+Corphish     SoulSilver     -Safari Zone
+Corphish     HeartGold      -Safari Zone
+Lileep       Y              +Ambrette Town
+Lileep       HeartGold      +Pewter City
+Anorith      Y              +Ambrette Town
+Anorith      SoulSilver     +Pewter City
+Castform     Alpha Sapphire -Weather Institute
+Castform     Alpha Sapphire +Route 119
+Castform     Omega Ruby     -Weather Institute
+Castform     Omega Ruby     +Route 119
+Castform     Emerald        -Weather Institute
+Castform     Emerald        +Route 119
+Castform     Sapphire       -Weather Institute
+Castform     Sapphire       +Route 119
+Castform     Ruby           -Weather Institute
+Castform     Ruby           +Route 119
+Kecleon      Alpha Sapphire -Lavaridge Town
+Kecleon      Omega Ruby     -Lavaridge Town
+Kecleon      White 2        +Nature Sanctuary
+Kecleon      Black 2        +Nature Sanctuary
+Shuppet      SoulSilver     -Safari Zone
+Shuppet      HeartGold      -Safari Zone
+Banette      Ultra Moon     +Poke Pelago
+Banette      Ultra Sun      +Poke Pelago
+Banette      SoulSilver     -Safari Zone
+Banette      HeartGold      -Safari Zone
+Duskull      SoulSilver     -Safari Zone
+Duskull      HeartGold      -Safari Zone
+Dusclops     SoulSilver     -Safari Zone
+Dusclops     HeartGold      -Safari Zone
+Chimecho     SoulSilver     -Safari Zone
+Chimecho     HeartGold      -Safari Zone
+Absol        Ultra Moon     +Route 14
+Absol        Ultra Sun      +Route 14
+Absol        Moon           +Route 14
+Absol        Sun            +Route 14
+Absol        White 2        -Route 23
+Absol        Black 2        -Route 23
+Wynaut       Alpha Sapphire -Lavaridge Town
+Wynaut       Omega Ruby     -Lavaridge Town
+Wynaut       Emerald        -Lavaridge Town
+Wynaut       Emerald        -Route 130
+Wynaut       Emerald        +Mirage Island
+Wynaut       Sapphire       -Lavaridge Town
+Wynaut       Sapphire       -Route 130
+Wynaut       Sapphire       +Mirage Island
+Wynaut       Ruby           -Lavaridge Town
+Wynaut       Ruby           -Route 130
+Wynaut       Ruby           +Mirage Island
+Snorunt      Ultra Moon     +Route 14
+Snorunt      Ultra Sun      +Route 14
+Snorunt      Moon           +Route 14
+Snorunt      Sun            +Route 14
+Spheal       White 2        -Route 13
+Spheal       Black 2        -Route 13
+Spheal       SoulSilver     -Safari Zone
+Spheal       HeartGold      -Safari Zone
+Sealeo       SoulSilver     -Safari Zone
+Sealeo       HeartGold      -Safari Zone
+Clamperl     Ultra Moon     +Hau'oli City
+Clamperl     Ultra Sun      +Hau'oli City
+Clamperl     Emerald        -Underwater
+Clamperl     Sapphire       -Underwater
+Clamperl     Ruby           -Underwater
+Huntail      Ultra Moon     +Hau'oli City
+Huntail      Ultra Sun      +Hau'oli City
+Gorebyss     Ultra Moon     +Hau'oli City
+Gorebyss     Ultra Sun      +Hau'oli City
+Relicanth    Ultra Moon     +Ancient Poni Path
+Relicanth    Ultra Sun      +Ancient Poni Path
+Relicanth    Emerald        -Underwater
+Relicanth    Sapphire       -Underwater
+Relicanth    Ruby           -Underwater
+Luvdisc      Ultra Moon     +Hau'oli City
+Luvdisc      Ultra Sun      +Hau'oli City
+Bagon        White 2        -Pinwheel Forest
+Bagon        Black 2        -Pinwheel Forest
+Bagon        SoulSilver     -Safari Zone
+Bagon        HeartGold      -Safari Zone
+Shelgon      SoulSilver     -Safari Zone
+Shelgon      HeartGold      -Safari Zone
+Beldum       SoulSilver     -Silph Co.
+Beldum       SoulSilver     -Safari Zone
+Beldum       SoulSilver     +Silph Co
+Beldum       HeartGold      -Silph Co.
+Beldum       HeartGold      -Safari Zone
+Beldum       HeartGold      +Silph Co
+Metang       Moon           +Poke Pelago
+Metang       Sun            +Poke Pelago
+Metang       SoulSilver     -Safari Zone
+Metang       HeartGold      -Safari Zone
+Regirock     Alpha Sapphire -Desert Ruins
+Regirock     Alpha Sapphire +Route 111
+Regirock     Omega Ruby     -Desert Ruins
+Regirock     Omega Ruby     +Route 111
+Regirock     Platinum       +Route 228
+Regirock     Emerald        -Desert Ruins
+Regirock     Emerald        +Route 111
+Regirock     Sapphire       -Desert Ruins
+Regirock     Sapphire       +Route 111
+Regirock     Ruby           -Desert Ruins
+Regirock     Ruby           +Route 111
+Regice       Alpha Sapphire -Island Cave
+Regice       Alpha Sapphire +Route 105
+Regice       Omega Ruby     -Island Cave
+Regice       Omega Ruby     +Route 105
+Regice       Black 2        +Underground Ruins
+Regice       Platinum       +Mt. Coronet
+Regice       Emerald        -Island Cave
+Regice       Emerald        +Route 105
+Regice       Sapphire       -Island Cave
+Regice       Sapphire       +Route 105
+Regice       Ruby           -Island Cave
+Regice       Ruby           +Route 105
+Registeel    Alpha Sapphire -Ancient Tomb
+Registeel    Alpha Sapphire +Route 120
+Registeel    Omega Ruby     -Ancient Tomb
+Registeel    Omega Ruby     +Route 120
+Registeel    White 2        +Underground Ruins
+Registeel    Platinum       +Iron Island
+Registeel    Emerald        -Ancient Tomb
+Registeel    Emerald        +Route 120
+Registeel    Sapphire       -Ancient Tomb
+Registeel    Sapphire       +Route 120
+Registeel    Ruby           -Ancient Tomb
+Registeel    Ruby           +Route 120
+Latias       Omega Ruby     +Southern Island
+Latias       SoulSilver     +Pewter City
+Latias       HeartGold      -Roaming Pokemon
+Latias       Emerald        -Roaming Pokemon
+Latias       Sapphire       -Roaming Pokemon
+Latias       Ruby           +Southern Island
+Latios       Alpha Sapphire +Southern Island
+Latios       SoulSilver     -Roaming Pokemon
+Latios       HeartGold      +Pewter City
+Latios       Emerald        -Roaming Pokemon
+Latios       Sapphire       +Southern Island
+Latios       Ruby           -Roaming Pokemon
+doesn't contain '[[' or '{{': Sky Pillar
+Deoxys       Emerald        +Birth Island
+Staravia     Platinum       +Great Marsh
+Bidoof       SoulSilver     -Safari Zone
+Bidoof       HeartGold      -Safari Zone
+Bibarel      White 2        -Route 3
+Bibarel      Black 2        -Route 3
+Kricketune   Alpha Sapphire -Mirage Forest
+Kricketune   Alpha Sapphire -Mirage Mountains
+Kricketune   Alpha Sapphire +Mirage Spots
+Kricketune   Omega Ruby     -Mirage Forest
+Kricketune   Omega Ruby     -Mirage Mountains
+Kricketune   Omega Ruby     +Mirage Spots
+Shinx        SoulSilver     -Safari Zone
+Shinx        HeartGold      -Safari Zone
+Luxio        SoulSilver     -Safari Zone
+Luxio        HeartGold      -Safari Zone
+Budew        SoulSilver     -Safari Zone
+Budew        HeartGold      -Safari Zone
+Cranidos     Moon           +Route 8
+Cranidos     Omega Ruby     +Rustboro City
+Cranidos     White 2        -Nimbasa City
+Cranidos     Black 2        -Nimbasa City
+Cranidos     SoulSilver     +Pewter City
+Cranidos     HeartGold      +Pewter City
+Cranidos     Pearl          +Oreburgh City
+Shieldon     Sun            +Route 8
+Shieldon     Alpha Sapphire +Rustboro City
+Shieldon     White 2        -Nimbasa City
+Shieldon     Black 2        -Nimbasa City
+Shieldon     SoulSilver     +Pewter City
+Shieldon     HeartGold      +Pewter City
+Shieldon     Diamond        +Oreburgh City
+Burmy        Y              -Berry fields
+Burmy        Y              +Route 7
+Burmy        X              -Berry fields
+Burmy        X              +Route 7
+Combee       Y              -Berry fields
+Combee       Y              +Route 7
+Combee       X              -Berry fields
+Combee       X              +Route 7
+Pachirisu    White 2        -Route 3
+Pachirisu    Black 2        -Route 3
+Pachirisu    SoulSilver     -Safari Zone
+Pachirisu    HeartGold      -Safari Zone
+Buizel       White 2        +Nature Sanctuary
+Buizel       Black 2        +Nature Sanctuary
+Buizel       SoulSilver     -Safari Zone
+Buizel       HeartGold      -Safari Zone
+Floatzel     White 2        +Nature Sanctuary
+Floatzel     Black 2        +Nature Sanctuary
+Floatzel     SoulSilver     -Safari Zone
+Floatzel     HeartGold      -Safari Zone
+Cherrim      Alpha Sapphire -Mirage Forest
+Cherrim      Alpha Sapphire +Mirage Spots
+Cherrim      Omega Ruby     -Mirage Forest
+Cherrim      Omega Ruby     +Mirage Spots
+Shellos      White 2        -Nimbasa City
+Shellos      Black 2        -Nimbasa City
+Drifloon     Ultra Moon     -Trainers' School
+Drifloon     Ultra Moon     +Route 1
+Drifloon     Ultra Sun      -Trainers' School
+Drifloon     Ultra Sun      +Route 1
+Drifloon     Alpha Sapphire -Soaring in the sky
+Drifloon     Omega Ruby     -Soaring in the sky
+Drifloon     White 2        -Route 13
+Drifloon     Black 2        -Route 13
+Drifblim     Moon           +Poke Pelago
+Drifblim     Sun            +Poke Pelago
+Mismagius    Moon           +Poke Pelago
+Mismagius    Sun            +Poke Pelago
+Honchkrow    Ultra Moon     +Poke Pelago
+Honchkrow    Ultra Sun      +Poke Pelago
+Glameow      Alpha Sapphire -Mirage Forest
+Glameow      Alpha Sapphire +Mirage Spots
+Glameow      Omega Ruby     -Mirage Forest
+Glameow      Omega Ruby     +Mirage Spots
+Purugly      Alpha Sapphire -Mirage Forests
+Purugly      Alpha Sapphire -Mirage Island
+Purugly      Alpha Sapphire +Mirage Spots
+Purugly      Omega Ruby     -Mirage Forests
+Purugly      Omega Ruby     -Mirage Island
+Purugly      Omega Ruby     +Mirage Spots
+Chingling    SoulSilver     -Safari Zone
+Chingling    HeartGold      -Safari Zone
+Bronzor      SoulSilver     -Safari Zone
+Bronzor      HeartGold      -Safari Zone
+Bronzong     SoulSilver     -Safari Zone
+Bronzong     HeartGold      -Safari Zone
+Bonsly       Ultra Moon     -Route 1
+Bonsly       Ultra Moon     -Route 5
+Bonsly       Ultra Sun      -Route 1
+Bonsly       Ultra Sun      -Route 5
+Bonsly       Moon           -Route 5
+Bonsly       Sun            -Route 5
+Happiny      Ultra Moon     -Route 5
+Happiny      Ultra Sun      -Route 5
+Happiny      Moon           -Route 5
+Happiny      Sun            -Route 5
+Happiny      Alpha Sapphire -Mirage Forest
+Happiny      Alpha Sapphire -Mirage Mountain
+Happiny      Alpha Sapphire +Mirage Spots
+Happiny      Omega Ruby     -Mirage Forest
+Happiny      Omega Ruby     -Mirage Mountain
+Happiny      Omega Ruby     +Mirage Spots
+Happiny      White 2        -Nacrene City
+Happiny      Black 2        -Nacrene City
+Happiny      Pearl          -Hearthome City
+Happiny      Diamond        -Hearthome City
+Chatot       White 2        -Route 18
+Chatot       Black 2        -Route 18
+Spiritomb    White 2        -Nimbasa City
+Spiritomb    Black 2        -Nimbasa City
+Gible        Black 2        -Floccesy Town
+Gible        SoulSilver     -Safari Zone
+Gible        HeartGold      -Safari Zone
+Munchlax     Ultra Moon     -Route 1
+Munchlax     Ultra Sun      -Route 1
+Riolu        SoulSilver     -Safari Zone
+Riolu        HeartGold      -Safari Zone
+Hippopotas   SoulSilver     -Safari Zone
+Hippopotas   HeartGold      -Safari Zone
+Hippowdon    White 2        -Desert Resort
+Hippowdon    Black 2        -Desert Resort
+Skorupi      White 2        -Route 13
+Skorupi      Black 2        -Route 13
+Skorupi      SoulSilver     -Safari Zone
+Skorupi      HeartGold      -Safari Zone
+Croagunk     SoulSilver     -Safari Zone
+Croagunk     HeartGold      -Safari Zone
+Carnivine    SoulSilver     -Safari Zone
+Carnivine    HeartGold      -Safari Zone
+Finneon      Ultra Moon     -Route 1
+Finneon      Ultra Moon     -Route 8
+Finneon      Ultra Sun      -Route 1
+Finneon      Ultra Sun      -Route 8
+Finneon      Moon           -Route 8
+Finneon      Moon           -Hau'oli City
+Finneon      Sun            -Route 8
+Finneon      Sun            -Hau'oli City
+Lumineon     Ultra Moon     +Ancient Poni Path
+Lumineon     Ultra Sun      +Ancient Poni Path
+Lumineon     White          -Route 17
+Lumineon     White          -Route 18
+Lumineon     Black          -Route 17
+Lumineon     Black          -Route 18
+Mantyke      Ultra Moon     -Route 1
+Mantyke      Ultra Moon     -Route 8
+Mantyke      Ultra Sun      -Route 1
+Mantyke      Ultra Sun      -Route 8
+Uxie         Alpha Sapphire -Nameless Cavern
+Uxie         Omega Ruby     -Nameless Cavern
+Uxie         Platinum       -Acuity Cavern
+Uxie         Platinum       +Lake Acuity
+Uxie         Pearl          -Acuity Cavern
+Uxie         Pearl          +Lake Acuity
+Uxie         Diamond        -Acuity Cavern
+Uxie         Diamond        +Lake Acuity
+Mesprit      Alpha Sapphire -Nameless Cavern
+Mesprit      Omega Ruby     -Nameless Cavern
+Mesprit      Platinum       -Roaming Pokemon
+Mesprit      Pearl          -Roaming Pokemon
+Mesprit      Diamond        -Roaming Pokemon
+Azelf        Alpha Sapphire -Nameless Cavern
+Azelf        Omega Ruby     -Nameless Cavern
+Azelf        Platinum       -Valor Cavern
+Azelf        Platinum       +Lake Valor
+Azelf        Pearl          -Valor Cavern
+Azelf        Pearl          +Lake Valor
+Azelf        Diamond        -Valor Cavern
+Azelf        Diamond        +Lake Valor
+Dialga       Alpha Sapphire -Soaring in the sky
+Palkia       Omega Ruby     -Soaring in the sky
+Regigigas    Alpha Sapphire -Island Cave
+Regigigas    Alpha Sapphire +Route 105
+Regigigas    Omega Ruby     -Island Cave
+Regigigas    Omega Ruby     +Route 105
+Giratina     Alpha Sapphire -Soaring in the sky
+Giratina     Omega Ruby     -Soaring in the sky
+Cresselia    Alpha Sapphire -Crescent Isle
+Cresselia    Alpha Sapphire +Mirage Spots
+Cresselia    Omega Ruby     -Crescent Isle
+Cresselia    Omega Ruby     +Mirage Spots
+Cresselia    Platinum       -Roaming Pokemon
+Cresselia    Pearl          -Roaming Pokemon
+Cresselia    Diamond        -Roaming Pokemon
+Darkrai      Platinum       +Newmoon Island
+Darkrai      Pearl          +Newmoon Island
+Darkrai      Diamond        +Newmoon Island
+Shaymin      Platinum       +Flower Paradise
+Shaymin      Pearl          +Flower Paradise
+Shaymin      Diamond        +Flower Paradise
+Arceus       Platinum       +Hall of Origin
+Arceus       Pearl          +Hall of Origin
+Arceus       Diamond        +Hall of Origin
+Victini      White          +Liberty Island
+Victini      Black          +Liberty Island
+Herdier      White 2        -Floccesy Ranch
+Herdier      Black 2        -Floccesy Ranch
+Stoutland    White          -P2 Laboratory
+Stoutland    Black          -P2 Laboratory
+Purrloin     White 2        -Route 2
+Purrloin     Black 2        -Route 2
+Munna        Alpha Sapphire -Mirage Island
+Munna        Alpha Sapphire -Mirage Mountain
+Munna        Alpha Sapphire +Mirage Spots
+Munna        Omega Ruby     -Mirage Island
+Munna        Omega Ruby     -Mirage Mountain
+Munna        Omega Ruby     +Mirage Spots
+Pidove       White 2        -Pinwheel Forest
+Pidove       Black 2        -Pinwheel Forest
+Zebstrika    Alpha Sapphire -Mirage Islands
+Zebstrika    Alpha Sapphire -Mirage Mountain
+Zebstrika    Alpha Sapphire +Mirage Spots
+Zebstrika    Omega Ruby     -Mirage Islands
+Zebstrika    Omega Ruby     -Mirage Mountain
+Zebstrika    Omega Ruby     +Mirage Spots
+Boldore      Alpha Sapphire -Mirage Caves
+Boldore      Alpha Sapphire +Mirage Spots
+Boldore      Omega Ruby     -Mirage Caves
+Boldore      Omega Ruby     +Mirage Spots
+Woobat       White 2        -Route 6
+Woobat       Black 2        -Route 6
+Excadrill    Alpha Sapphire -Mirage Caves
+Excadrill    Alpha Sapphire +Mirage Spots
+Excadrill    Omega Ruby     -Mirage Caves
+Excadrill    Omega Ruby     +Mirage Spots
+Audino       Alpha Sapphire -Mirage Forests
+Audino       Alpha Sapphire -Mirage Island
+Audino       Alpha Sapphire -Mirage Mountain
+Audino       Alpha Sapphire +Mirage Spots
+Audino       Omega Ruby     -Mirage Forests
+Audino       Omega Ruby     -Mirage Island
+Audino       Omega Ruby     -Mirage Mountain
+Audino       Omega Ruby     +Mirage Spots
+Audino       White 2        +Nature Sanctuary
+Audino       Black 2        +Nature Sanctuary
+Audino       White          -P2 Laboratory
+Audino       Black          -P2 Laboratory
+Timburr      White 2        -Pinwheel Forest
+Timburr      Black 2        -Pinwheel Forest
+Tympole      White 2        -Pinwheel Forest
+Tympole      Black 2        -Pinwheel Forest
+Petilil      Alpha Sapphire -Mirage Forests
+Petilil      Alpha Sapphire +Mirage Spots
+Petilil      Omega Ruby     -Mirage Forests
+Petilil      Omega Ruby     +Mirage Spots
+Basculin     White 2        +Nature Sanctuary
+Basculin     Black 2        +Nature Sanctuary
+Darmanitan   Alpha Sapphire -Mirage Islands
+Darmanitan   Alpha Sapphire -Mirage Mountain
+Darmanitan   Alpha Sapphire +Mirage Spots
+Darmanitan   Omega Ruby     -Mirage Islands
+Darmanitan   Omega Ruby     -Mirage Mountain
+Darmanitan   Omega Ruby     +Mirage Spots
+Darmanitan   White 2        -Desert Resort
+Darmanitan   Black 2        -Desert Resort
+Maractus     Alpha Sapphire -Mirage Island
+Maractus     Alpha Sapphire +Mirage Spots
+Maractus     Omega Ruby     -Mirage Island
+Maractus     Omega Ruby     +Mirage Spots
+Crustle      Alpha Sapphire -Mirage Mountains
+Crustle      Alpha Sapphire +Mirage Spots
+Crustle      Omega Ruby     -Mirage Mountains
+Crustle      Omega Ruby     +Mirage Spots
+Crustle      White 2        -Seaside Cave
+Crustle      Black 2        -Seaside Cave
+Cofagrigus   Alpha Sapphire -Mirage Caves
+Cofagrigus   Alpha Sapphire +Mirage Spots
+Cofagrigus   Omega Ruby     -Mirage Caves
+Cofagrigus   Omega Ruby     +Mirage Spots
+Tirtouga     Moon           +Route 8
+Tirtouga     Omega Ruby     +Rustboro City
+Archen       Sun            +Route 8
+Archen       Alpha Sapphire +Rustboro City
+Zorua        Ultra Moon     -Trainers' School
+Zorua        Ultra Moon     +Route 1
+Zorua        Ultra Sun      -Trainers' School
+Zorua        Ultra Sun      +Route 1
+Zorua        White 2        -Driftveil City
+Zorua        Black 2        -Driftveil City
+Minccino     Alpha Sapphire -Mirage Forest
+Minccino     Alpha Sapphire +Mirage Spots
+Minccino     Omega Ruby     -Mirage Forest
+Minccino     Omega Ruby     +Mirage Spots
+Vanillite    Ultra Moon     +Mount Lanakila
+Vanillite    Ultra Sun      +Mount Lanakila
+Emolga       White          -Route 13
+Emolga       White          -Route 14
+Emolga       White          -Giant Chasm
+Emolga       Black          -Route 13
+Emolga       Black          -Route 14
+Emolga       Black          -Giant Chasm
+Foongus      White 2        -Route 5
+Foongus      White 2        -Route 13
+Foongus      Black 2        -Route 5
+Foongus      Black 2        -Route 13
+Amoonguss    White 2        -Abundant Shrine
+Amoonguss    White 2        -Pinwheel Forest
+Amoonguss    Black 2        -Abundant Shrine
+Amoonguss    Black 2        -Pinwheel Forest
+Klink        Alpha Sapphire -Mirage Caves
+Klink        Alpha Sapphire +Mirage Spots
+Klink        Omega Ruby     -Mirage Caves
+Klink        Omega Ruby     +Mirage Spots
+Tynamo       Alpha Sapphire -Mirage Caves
+Tynamo       Alpha Sapphire +Mirage Spots
+Tynamo       Omega Ruby     -Mirage Caves
+Tynamo       Omega Ruby     +Mirage Spots
+Fraxure      White 2        +Nature Sanctuary
+Fraxure      Black 2        +Nature Sanctuary
+Bouffalant   White 2        -Route 9
+Bouffalant   Black 2        -Route 9
+Rufflet      Alpha Sapphire -Mirage Mountain
+Rufflet      Alpha Sapphire +Mirage Spots
+Rufflet      Omega Ruby     -Mirage Mountain
+Rufflet      Omega Ruby     +Mirage Spots
+Braviary     Alpha Sapphire -Soaring in the sky
+Braviary     Omega Ruby     -Soaring in the sky
+Vullaby      Alpha Sapphire -Mirage Mountain
+Vullaby      Alpha Sapphire +Mirage Spots
+Vullaby      Omega Ruby     -Mirage Mountain
+Vullaby      Omega Ruby     +Mirage Spots
+Larvesta     Alpha Sapphire -Mirage Forest
+Larvesta     Alpha Sapphire -Mirage Island
+Larvesta     Alpha Sapphire +Mirage Spots
+Larvesta     Omega Ruby     -Mirage Forest
+Larvesta     Omega Ruby     -Mirage Island
+Larvesta     Omega Ruby     +Mirage Spots
+Cobalion     Alpha Sapphire -Pathless Plain
+Cobalion     Alpha Sapphire +Mirage Spots
+Cobalion     Omega Ruby     -Pathless Plain
+Cobalion     Omega Ruby     +Mirage Spots
+Terrakion    Alpha Sapphire -Pathless Plain
+Terrakion    Alpha Sapphire +Mirage Spots
+Terrakion    Omega Ruby     -Pathless Plain
+Terrakion    Omega Ruby     +Mirage Spots
+Virizion     Alpha Sapphire -Pathless Plain
+Virizion     Alpha Sapphire +Mirage Spots
+Virizion     Omega Ruby     -Pathless Plain
+Virizion     Omega Ruby     +Mirage Spots
+Tornadus     Omega Ruby     -Soaring in the sky
+Tornadus     Black          -Roaming Pokemon
+Thundurus    Alpha Sapphire -Soaring in the sky
+Thundurus    White          -Roaming Pokemon
+Reshiram     Omega Ruby     -Fabled Cave
+Zekrom       Alpha Sapphire -Fabled Cave
+Landorus     Alpha Sapphire -Soaring in the sky
+Landorus     Omega Ruby     -Soaring in the sky
+Kyurem       Alpha Sapphire -Gnarled Den
+Kyurem       Omega Ruby     -Gnarled Den
+Spewpa       Y              -Berry fields
+Spewpa       Y              +Route 7
+Spewpa       X              -Berry fields
+Spewpa       X              +Route 7
+Binacle      Alpha Sapphire -Mirage Islands
+Binacle      Alpha Sapphire +Mirage Spots
+Binacle      Omega Ruby     -Mirage Islands
+Binacle      Omega Ruby     +Mirage Spots
+Tyrunt       Alpha Sapphire +Rustboro City
+Tyrunt       Omega Ruby     +Rustboro City
+Amaura       Alpha Sapphire +Rustboro City
+Amaura       Omega Ruby     +Rustboro City
+Trevenant    Ultra Moon     -Tapu Village
+Trevenant    Ultra Sun      -Tapu Village
+Xerneas      X              -Team Flare Secret HQ
+Xerneas      X              +Team Flare HQ
+Yveltal      Y              -Team Flare Secret HQ
+Yveltal      Y              +Team Flare HQ
+Zygarde      Ultra Moon     -Resolution Cave
+Zygarde      Ultra Sun      -Resolution Cave
+Pikipek      Ultra Moon     +Poke Pelago
+Pikipek      Ultra Sun      +Poke Pelago
+Trumbeak     Ultra Moon     -Route 5
+Trumbeak     Ultra Sun      -Route 5
+Trumbeak     Moon           -Route 5
+Trumbeak     Sun            -Route 5
+Yungoos      Sun            -Verdant Cavern
+Gumshoos     Ultra Moon     +Route 14
+Gumshoos     Ultra Sun      +Route 14
+Gumshoos     Moon           +Route 14
+Gumshoos     Sun            +Route 14
+Crabrawler   Ultra Moon     +Berry Fields
+Crabrawler   Ultra Sun      +Berry Fields
+Crabrawler   Moon           -Secluded Shore
+Crabrawler   Moon           +Route 12
+Crabrawler   Moon           +Route 15
+Crabrawler   Moon           +Berry Fields
+Crabrawler   Sun            -Secluded Shore
+Crabrawler   Sun            +Route 12
+Crabrawler   Sun            +Route 15
+Crabrawler   Sun            +Berry Fields
+Rockruff     Ultra Moon     -Route 1
+Rockruff     Ultra Sun      -Route 1
+Wishiwashi   Ultra Moon     +Hau'oli City
+Wishiwashi   Ultra Moon     +Tapu Village
+Wishiwashi   Ultra Sun      +Hau'oli City
+Wishiwashi   Ultra Sun      +Tapu Village
+Wishiwashi   Moon           -Akala Outskirts
+Wishiwashi   Moon           +Tapu Village
+Wishiwashi   Sun            -Akala Outskirts
+Wishiwashi   Sun            +Tapu Village
+Mareanie     Ultra Moon     +Hau'oli City
+Mareanie     Ultra Sun      +Hau'oli City
+Bruxish      Ultra Moon     +Tapu Village
+Bruxish      Ultra Sun      +Tapu Village
+Bruxish      Moon           +Tapu Village
+Bruxish      Sun            +Tapu Village
+Nihilego     Ultra Moon     -Ultra Deep Sea
+Nihilego     Ultra Moon     +Ultra Space
+Nihilego     Ultra Sun      -Ultra Deep Sea
+Nihilego     Ultra Sun      +Ultra Space
+Buzzwole     Ultra Sun      -Ultra Jungle
+Buzzwole     Ultra Sun      +Ultra Space
+Pheromosa    Ultra Moon     -Ultra Desert
+Pheromosa    Ultra Moon     +Ultra Space
+Xurkitree    Ultra Moon     -Ultra Plant
+Xurkitree    Ultra Moon     +Ultra Space
+Xurkitree    Ultra Sun      -Ultra Plant
+Xurkitree    Ultra Sun      +Ultra Space
+Celesteela   Ultra Moon     -Ultra Crater
+Celesteela   Ultra Moon     +Ultra Space
+Kartana      Ultra Sun      -Ultra Forest
+Kartana      Ultra Sun      +Ultra Space
+Guzzlord     Ultra Moon     -Ultra Ruin
+Guzzlord     Ultra Moon     +Ultra Space
+Guzzlord     Ultra Sun      -Ultra Ruin
+Guzzlord     Ultra Sun      +Ultra Space
+Poipole      Ultra Moon     -Megalo Tower
+Poipole      Ultra Sun      -Megalo Tower
+
+Stats
+Right: 17318
+Wrong: 1676
+Accuracy: 0.9117616089291355
+Top 28 most problematic Pokemon: 
+Magikarp                      53
+Staryu                        34
+Kingler                       32
+Corsola                       28
+Krabby                        26
+Graveler                      26
+Goldeen                       21
+Tangela                       20
+Poliwag                       20
+Chinchou                      17
+Meowth                        16
+Electrode                     15
+Happiny                       14
+Lapras                        14
+Shellder                      14
+Tentacool                     14
+Lanturn                       14
+Nidoran0                      13
+Eevee                         13
+Gyarados                      13
+Audino                        12
+Regice                        12
+Registeel                     12
+Wynaut                        11
+Geodude                       11
+Regirock                      11
+Magnemite                     10
+Grimer                        10
+Top 28 most problematic games: 
+SoulSilver     211
+HeartGold      208
+Alpha Sapphire 160
+Omega Ruby     160
+White 2        94
+Black 2        94
+Ultra Moon     79
+Ultra Sun      79
+Crystal        59
+Emerald        48
+LeafGreen      44
+FireRed        44
+Silver         43
+Sun            42
+Gold           41
+Moon           40
+Platinum       31
+Sapphire       23
+Ruby           23
+Blue           23
+Red            23
+Yellow         21
+White          15
+Black          15
+Y              14
+X              14
+Pearl          14
+Diamond        14
+Top 28 most problematic locations: 
+Safari Zone                  262
+Mirage Spots                  88
+Route 1                       38
+Roaming Pokemon               35
+Cinnabar Island               34
+Nimbasa City                  32
+Mirage Mountain               30
+Nature Sanctuary              30
+Route 5                       27
+Cerulean City                 26
+Route 20                      25
+Route 14                      24
+Hau'oli City                  24
+Route 21                      23
+Union Cave                    23
+Mirage Island                 23
+Pinwheel Forest               22
+Route 8                       22
+Soaring in the sky            22
+Sevault Canyon                21
+Seavault Canyon               21
+Tapu Village                  20
+Olivine City                  20
+Ancient Poni Path             20
+Mirage Forest                 20
+Poke Pelago                   18
+Route 18                      18
+Trainers' School              18

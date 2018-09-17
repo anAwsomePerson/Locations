@@ -122,10 +122,9 @@ public class LocationSet extends IntString{
     			Main.wrong ++;
     			Main.gameErrors[x] ++;
     			Main.addString(Main.locationErrors, bulbaList.get(x).get(y));
-    			
-                if(!align(x, false, bulbaList.get(x).get(y)).contains("SoulSilver     -Safari Zone") && !align(x, false, bulbaList.get(x).get(y)).contains("HeartGold      -Safari Zone")){
-                	System.out.println(align(x, false, bulbaList.get(x).get(y)));
-    			}
+                //if(!align(x, false, bulbaList.get(x).get(y)).contains("SoulSilver     -Safari Zone") && !align(x, false, bulbaList.get(x).get(y)).contains("HeartGold      -Safari Zone")){
+                System.out.println(align(x, false, bulbaList.get(x).get(y)));
+    			//}
     		}
     		
     		for(int y = 0; y < other.get(x).size(); y ++) {
@@ -150,12 +149,9 @@ public class LocationSet extends IntString{
     	//System.out.println(string);*/
     	string = removeBraces(removeBraces(removeBraces(removeBraces(removeBraces(removeBraces(removeBraces(string, 
     			"&lt;!--", "-->"), "{{Sup", "}}"), "&lt;small>", "&lt;/small>"), "{{tt", "}}"), "{{dotw", "}}"), "(", ")"), "{{sup", "}}")
-    			.replace("\n", "").replace("[[Route]]s", "").replace("é", "e").trim();
+    			.replace("\n", "").replace("[[Route]]s", "").replace("é", "e")./*replace("2 and White", "2 White").*/trim();
     	
-    	/*if(name.equals("Poliwag")){
-    		System.out.println(string);
-    		//return;
-    	}*/
+    	//System.out.println(this.toString().toString());
     	
     	while(string.contains("{{Availability/Entry1") || string.contains("{{Availability/Entry2")){
     		ArrayList<Integer> lookingAtGames = new ArrayList<Integer>();
@@ -197,11 +193,12 @@ public class LocationSet extends IntString{
     		System.out.println(string.substring(5, positiveMin(string.indexOf("}}{{Availability/Entry"), string.indexOf("}}|}|}{{Availability/Footer"))));*/
 			ArrayList<String> locations = toBulbaList(string.substring(5, positiveMin(positiveMin(string.indexOf("}}{{Availability/Entry"), string.indexOf("}}|}|}{{Availability/Footer")), 
 					string.indexOf("}}|}|}{{Availability/Gen"))));
-			/*/System.out.println(lookingAtGames.get(0) + " " + locations);
+
+			/*for(int i = 0; i < locations.size(); i ++) {
+				System.out.print(locations.get(i) + '~');
+			}
 			
-			/*if("Poliwag".equals(name)) {
-    			System.out.println(locations.toString());
-    		}*/
+			System.out.println();*/
     		
     		for(int x = 0; x < locations.size(); x ++) {
     			if(locations.get(x).equals("[[Trade]]") || locations.get(x).contains("[[Event]]")) {
@@ -442,8 +439,8 @@ public class LocationSet extends IntString{
 			    }
 			//System.out.println("reached0");
 			    if(numberContained(lines.get(x), firstDivider) > numberContained(removeBraces(lines.get(x), "{{", "}}"), firstDivider)){
-			    	//System.out.println(lines.get(x) + " " + firstDivider);
-			        lines.set(x, lines.get(x).substring(0, lines.get(x).indexOf("{{")) + cutTo(lines.get(x), "{{").replaceFirst(firstDivider, ""));
+			    	//System.out.println(lines.get(x) + '!' + removeBraces(lines.get(x), "{{", "}}"));
+			        lines.set(x, dividerInBrace(lines.get(x), "{{", "}}", firstDivider));
 			        continue;
 			    }
 			
@@ -479,6 +476,33 @@ public class LocationSet extends IntString{
 		
 		return(out);
 	}
+    
+    public static String dividerInBrace(String string, String start, String end, String divider) {
+    	ArrayList<String> betweenBraces = new ArrayList<String>();
+    	
+    	while(!string.isEmpty()) {
+    		if(string.startsWith(start)) {
+    			betweenBraces.add(string.substring(0, string.indexOf(end) + end.length()));
+    			string = string.substring(string.indexOf(end) + end.length());
+    		}else {
+    			betweenBraces.add(string.substring(0, positiveMin(string.length(), string.indexOf(start))));
+    			string = string.substring(positiveMin(string.length(), string.indexOf(start)));
+    		}
+    	}
+    	
+    	for(int i = 0; i < betweenBraces.size(); i ++) {
+    		if(betweenBraces.get(i).startsWith(start) && betweenBraces.get(i).endsWith(end)) {
+    			string = string + betweenBraces.get(i).replace(divider, "");
+    		}else if(!betweenBraces.get(i).contains(start) && !betweenBraces.get(i).contains(end)) {
+    			string = string + betweenBraces.get(i);
+    		}else {
+    			System.out.println("A brace in " + betweenBraces.get(i) + " was in the wrong position!");
+    			string = string + betweenBraces.get(i);
+    		}
+    	}
+    	
+    	return(string);
+    }
     
     public static ArrayList<String> toDbList(String string){
 		ArrayList<String> out = new ArrayList<String>();

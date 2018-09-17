@@ -6375,9 +6375,9 @@
 ~Eevee!Game locations===
 {{Availability/Header|type=normal}}
 {{Availability/Gen|gen=I}}
-{{Availability/Entry2|v=Red|v2=Blue|t2=fff|area=[[List of in-game event PokÃ©mon in Generation I#Eevee|Received]] from a person in [[Celadon Condominiums]]}}
-{{Availability/Entry1|v=Blue|ex=(Japan)|t=fff|link=PokÃ©mon Blue Version (Japanese)|area=[[List of in-game event PokÃ©mon in Generation I#Eevee|Received]] from a person in [[Celadon Condominiums]]}}
-{{Availability/Entry1|v=Yellow|area=[[List of in-game event PokÃ©mon in Generation I#Eevee 2|Received]] from a person in [[Celadon Condominiums]]}}
+{{Availability/Entry2|v=Red|v2=Blue|t2=fff|area=[[List of in-game event PokÃ©mon in Generation I#Eevee|Received]] from a person in [[Celadon Condominiums|Celadon Mansion]]}}
+{{Availability/Entry1|v=Blue|ex=(Japan)|t=fff|link=PokÃ©mon Blue Version (Japanese)|area=[[List of in-game event PokÃ©mon in Generation I#Eevee|Received]] from a person in [[Celadon Condominiums|Celadon Mansion]]}}
+{{Availability/Entry1|v=Yellow|area=[[List of in-game event PokÃ©mon in Generation I#Eevee 2|Received]] from a person in [[Celadon Condominiums|Celadon Mansion]]}}
 |}
 |}
 {{Availability/Gen|gen=II}}
@@ -6388,7 +6388,7 @@
 {{Availability/Gen|gen=III}}
 {{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
 {{Availability/Entry1/None|v=Emerald}}
-{{Availability/Entry2|v=FireRed|v2=LeafGreen|area=[[List of in-game event PokÃ©mon in Generation III#Eevee|Received]] from a person in [[Celadon Condominiums]]}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area=[[List of in-game event PokÃ©mon in Generation III#Eevee|Received]] from a person in [[Celadon Condominiums|Celadon Mansion]]}}
 {{Availability/Entry1/None|v=Colosseum}}
 {{Availability/Entry1|v=XD|t=FFF|link=PokÃ©mon XD: Gale of Darkness|area=[[Starter PokÃ©mon]]}}
 |}
@@ -9869,8 +9869,8 @@
 {{Availability/Header|type=Bug|type2=Rock}}
 {{Availability/NA|gen=II}}
 {{Availability/Gen|gen=II}}
-{{Availability/Entry2|v=Gold|v2=Silver|area=Received from a {{tc|PokÃ©Maniac}} in [[Cianwood City]]&lt;br>{{rt|40|Johto}}, [[Cianwood City]], [[Burned Tower]], [[Dark Cave]] ({{m|Rock Smash}})}}
-{{Availability/Entry1|v=Crystal|area=Received from a {{tc|PokÃ©Maniac}} in [[Cianwood City]]&lt;br>{{rt|40|Johto}}, [[Cianwood City]], [[Dark Cave]] ({{m|Rock Smash}})}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=Received from a {{tc|PokÃ© Maniac|PokÃ©Maniac}} in [[Cianwood City]]&lt;br>{{rt|40|Johto}}, [[Cianwood City]], [[Burned Tower]], [[Dark Cave]] ({{m|Rock Smash}})}}
+{{Availability/Entry1|v=Crystal|area=Received from a {{tc|PokÃ© Maniac|PokÃ©Maniac}} in [[Cianwood City]]&lt;br>{{rt|40|Johto}}, [[Cianwood City]], [[Dark Cave]] ({{m|Rock Smash}})}}
 |}
 |}
 {{Availability/Gen|gen=III}}
@@ -9884,7 +9884,7 @@
 {{Availability/Gen|gen=IV}}
 {{Availability/Entry2|v=Diamond|v2=Pearl|area={{rt|224|Sinnoh}} {{color2|{{emerald color dark}}|Dual-slot mode|(Emerald)}}}}
 {{Availability/Entry1|v=Platinum|area={{rt|224|Sinnoh}} {{color2|{{emerald color dark}}|Dual-slot mode|(Emerald)}}}}
-{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=Received from a {{tc|PokÃ©Maniac}} in [[Cianwood City]]&lt;br>[[Cianwood City]], [[Vermilion City]] ({{m|Rock Smash}})}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=Received from a {{tc|PokÃ© Maniac|PokÃ©Maniac}} in [[Cianwood City]]&lt;br>[[Cianwood City]], [[Vermilion City]] ({{m|Rock Smash}})}}
 {{Availability/Entry1|v=Pal Park|color={{locationcolor/light|ocean}}|link=Pal Park|area={{DL|List of PokÃ©mon by Pal Park location|Sea}}}}
 |}
 |}
@@ -18182,8 +18182,8 @@ In PokÃ©mon Emerald, the roaming PokÃ©mon is chosen in a sequence immediatel
 {{Availability/Header|type=Normal|type2=Flying}}
 {{Availability/NA|gen=IV}}
 {{Availability/Gen|gen=IV}}
-{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Route]]s {{rtn|222|Sinnoh}} and {{rtn|224|Sinnoh}}{{Sup/t|M}}{{Sup/t|D}}&lt;br>[[In-game trade#Diamond and Pearl|Trade]] {{p|Buizel}} in [[Eterna City]]}}
-{{Availability/Entry1|v=Platinum|area=[[Route]]s {{rtn|213|Sinnoh}}, {{rtn|218|Sinnoh}}, {{rtn|222|Sinnoh}}{{Sup/t|Morning}}{{Sup/t|Day}}&lt;br>[[In-game trade#Diamond and Pearl|Trade]] {{p|Buizel}} in [[Eterna City]]}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Route]]s {{rtn|222|Sinnoh}} and {{rtn|224|Sinnoh}}{{Sup/t|M}}{{Sup/t|D}}&lt;br>[[In-game trade#Diamond and Pearl|Trade]] {{p|Buizel}} at [[Eterna Condominiums]]}}
+{{Availability/Entry1|v=Platinum|area=[[Route]]s {{rtn|213|Sinnoh}}, {{rtn|218|Sinnoh}}, {{rtn|222|Sinnoh}}{{Sup/t|Morning}}{{Sup/t|Day}}&lt;br>[[In-game trade#Diamond and Pearl|Trade]] {{p|Buizel}} at [[Eterna Condominiums]]}}
 {{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Sprout Tower]], [[Bell Tower]], [[Burned Tower]] {{color2|{{sinnoh color dark}}|Sinnoh Sound|(Sinnoh Sound)}}}}
 {{Availability/Entry1|v=PokÃ©walker|color=F33|link=PokÃ©walker|area={{pw|Rally}}}}
 |}
@@ -21586,7 +21586,7 @@ Arceus was originally intended to appear in {{game2|Diamond|Pearl|Platinum}} in 
 |}
 {{Availability/Gen|gen=VII}}
 {{Availability/Entry2|v=Sun|v2=Moon|area=[[Tapu Village]] ([[SOS Battle]] while {{OBP|hail|weather condition}}ing)}}
-{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Tapu Village]], [[Mount Lanakila]] ([[SOS Battle]] while {{OBP|hail|weather condition}}ing)}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Tapu Village]] ([[SOS Battle]] while {{OBP|hail|weather condition}}ing)}}
 |}
 |}
 {{Availability/Footer}}
@@ -24326,7 +24326,7 @@ Arceus was originally intended to appear in {{game2|Diamond|Pearl|Platinum}} in 
 {{Availability/Header|type=Normal|type2=Flying}}
 {{Availability/NA|gen=VII}}
 {{Availability/Gen|gen=VII}}
-{{Availability/Entry2|v=Sun|v2=Moon|area=[[Route]]s {{rtn|1|Alola}}, {{rtn|4|Alola}}, {{rtn|5|Alola}}, {{rtn|6|Alola}}, [[PokÃ© Pelago]]&lt;br>[[Route]]s {{rtn|5|Alola}}, {{rtn|8|Alola}}, {{rtn|11|Alola}}, [[Lush Jungle]], [[Poni Grove]], [[Poni Plains]] ([[SOS Battle]])}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Route]]s {{rtn|1|Alola}}, {{rtn|4|Alola}}, {{rtn|5|Alola}}, {{rtn|6|Alola}}, [[PokÃ© Pelago]]&lt;br>[[Route]]s {{rtn|5|Alola}}, {{rtn|8|Alola}} ([[SOS Battle]])}}
 {{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Route]]s {{rtn|1|Alola}}, {{rtn|4|Alola}}, {{rtn|5|Alola}}, {{rtn|6|Alola}}}}
 |}
 |}
